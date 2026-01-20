@@ -1,5 +1,3 @@
-# AI-ML-Based-Personalized-Diet-Plan-Generator-from-Medical-Reports
-
 \# AI-Based Personalized Diet Planner
 
 
@@ -55,4 +53,6 @@ and generates a personalized diet recommendation using AI.
 \## Live App
 
 👉 https://ai-diet-planner-lxrpwlthvvd2qiqdlnb3qq.streamlit.app/
+
+
 
