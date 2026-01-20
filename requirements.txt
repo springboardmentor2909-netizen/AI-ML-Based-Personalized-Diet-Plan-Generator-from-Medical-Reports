@@ -1,3 +1,5 @@
 streamlit
-fpdf
-google-generativeai
+pandas
+pdfplumber
+pillow
+reportlab

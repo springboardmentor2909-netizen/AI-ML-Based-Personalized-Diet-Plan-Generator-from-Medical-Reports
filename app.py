@@ -1,190 +1,234 @@
-# ==============================
-# Imports
-# ==============================
 import streamlit as st
-from fpdf import FPDF
-from ai_diet_generator import generate_diet
+import pandas as pd
+import pdfplumber
 import re
+from io import BytesIO
+from reportlab.lib.pagesizes import A4
+from reportlab.pdfgen import canvas
 
-# ==============================
-# Custom CSS
-# ==============================
-st.markdown("""
-<style>
-body {
-    background: linear-gradient(to right, #0f1e1c, #192924);
-    color: #e0ffe0;
-    font-family: 'Segoe UI', sans-serif;
-}
-.stApp h1 {
-    color: #00ff7f;
-    text-align: center;
-    font-size: 42px;
-}
-div.stButton > button {
-    background: linear-gradient(90deg, #10b981, #34d399);
-    color: white;
-    font-size: 18px;
-    padding: 10px 25px;
-    border-radius: 12px;
-    border: none;
-}
-.stTextInput input {
-    border-radius: 12px;
-    padding: 10px;
-    border: 2px solid #10b981;
-    background-color: #0f1e1c;
-    color: #e0ffe0;
-}
-.diet-card {
-    background-color: #1f3d28;
-    color: #e0ffe0;
-    padding: 18px;
-    border-radius: 15px;
-    margin-bottom: 15px;
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.3);
-    font-size: 16px;
-    line-height: 1.6;
-}
-footer {visibility: hidden;}
-</style>
-""", unsafe_allow_html=True)
-
-# ==============================
-# Remove emojis for PDF
-# ==============================
-def remove_emojis(text):
-    emoji_pattern = re.compile(
-        "[" 
-        "\U0001F600-\U0001F64F"
-        "\U0001F300-\U0001F5FF"
-        "\U0001F680-\U0001F6FF"
-        "\U0001F1E0-\U0001F1FF"
-        "\U0001F900-\U0001F9FF"
-        "\U0001FA70-\U0001FAFF"
-        "]+", flags=re.UNICODE)
-    return emoji_pattern.sub(r'', text)
-
-# ==============================
-# PDF Generator
-# ==============================
-def create_pdf(patient_id, diet_text):
-    pdf = FPDF()
-    pdf.add_page()
-    pdf.set_font("Arial", "B", 16)
-    pdf.cell(0, 10, "AI Diet Plan", ln=True)
-    pdf.ln(5)
-    pdf.set_font("Arial", "", 11)
-
-    clean_text = remove_emojis(diet_text)
-    for line in clean_text.split("\n"):
-        pdf.multi_cell(0, 8, line)
-
-    file_name = f"diet_plan_{patient_id}.pdf"
-    pdf.output(file_name)
-    return file_name
-
-# ==============================
-# Title
-# ==============================
-st.title("🥗 AI Diet Planner 🍎")
-st.image(
-    "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
-    use_container_width=True
-
+# --------------------------------------------------
+# PAGE CONFIG
+# --------------------------------------------------
+st.set_page_config(
+    page_title="AI-NutritionalCare",
+    page_icon="🥗",
+    layout="centered"
 )
 
-# ==============================
-# Layout
-# ==============================
-col1, col2 = st.columns([2, 1])
+st.title("🥗 AI-NutritionalCare")
+st.caption("AI-driven Personalized Diet Recommendation System")
+st.divider()
 
-with col1:
-    patient_id = st.text_input("Enter Patient ID", placeholder="e.g. 101")
+# --------------------------------------------------
+# UTILITIES
+# --------------------------------------------------
+def extract_text(file):
+    ext = file.name.split(".")[-1].lower()
+    text = ""
 
-    if st.button("Generate Diet Plan"):
-        if patient_id.isdigit():
+    if ext == "pdf":
+        with pdfplumber.open(file) as pdf:
+            for page in pdf.pages:
+                t = page.extract_text()
+                if t:
+                    text += t + "\n"
 
-            with st.spinner("Generating diet plan..."):
-                diet_text = generate_diet(patient_id)
+    elif ext == "csv":
+        df = pd.read_csv(file)
+        text = " ".join(df.astype(str).iloc[0].values)
 
-            if diet_text:
-                st.success("✅ Diet Generated Successfully!")
+    elif ext == "txt":
+        text = file.read().decode("utf-8")
 
-                meals = {
-                    "Breakfast 🥣": "",
-                    "Lunch 🥗": "",
-                    "Snacks 🍎": "",
-                    "Dinner 🍛": ""
-                }
+    return text.strip()
 
-                current_meal = None
 
-                for raw_line in diet_text.split("\n"):
-                    line = raw_line.strip()
-                    lower = line.lower()
+def extract_patient_name(text):
+    patterns = [
+        r"patient\s*name\s*[:\-]\s*([A-Za-z ]+)",
+        r"patient\s*[:\-]\s*([A-Za-z ]+)"
+    ]
+    for p in patterns:
+        m = re.search(p, text, re.IGNORECASE)
+        if m:
+            return m.group(1).strip()
+    return "Unknown Patient"
 
-                    if lower.startswith("breakfast"):
-                        current_meal = "Breakfast 🥣"
-                        continue
-                    if lower.startswith("lunch"):
-                        current_meal = "Lunch 🥗"
-                        continue
-                    if lower.startswith("snack"):
-                        current_meal = "Snacks 🍎"
-                        continue
-                    if lower.startswith("dinner"):
-                        current_meal = "Dinner 🍛"
-                        continue
 
-                    if current_meal and line:
-                        meals[current_meal] += f"- {line}<br>"
+def extract_conditions(text):
+    t = text.lower()
+    conditions = []
+    if "diabetes" in t:
+        conditions.append("Diabetes")
+    if "cholesterol" in t:
+        conditions.append("High Cholesterol")
+    if "hypertension" in t or "blood pressure" in t:
+        conditions.append("Hypertension")
+    return conditions if conditions else ["General Health"]
 
-                st.subheader("Your Diet Plan 🥗")
+# --------------------------------------------------
+# MEAL DATA (BREAKFAST / LUNCH / DINNER)
+# --------------------------------------------------
+VEG_DAYS = [
+    {"breakfast": "Oats Porridge", "lunch": "Veg Pulao", "dinner": "Chapati & Mixed Veg"},
+    {"breakfast": "Idli & Sambar", "lunch": "Rajma Rice", "dinner": "Curd Rice"},
+    {"breakfast": "Vegetable Poha", "lunch": "Veg Khichdi", "dinner": "Tomato Soup"},
+    {"breakfast": "Masala Oats", "lunch": "Dal & Chapati", "dinner": "Paneer Bhurji"},
+    {"breakfast": "Ragi Porridge", "lunch": "Veg Fried Rice", "dinner": "Cabbage Fry"},
+    {"breakfast": "Sprouts Salad", "lunch": "Veg Biryani", "dinner": "Curd Bowl"},
+    {"breakfast": "Fruit Bowl", "lunch": "Stuffed Paratha", "dinner": "Veg Soup"},
+    {"breakfast": "Upma", "lunch": "Vegetable Dalia", "dinner": "Paneer Salad"},
+    {"breakfast": "Besan Omelette", "lunch": "Bottle Gourd Khichdi", "dinner": "Veg Cutlet"},
+    {"breakfast": "Curd & Fruits", "lunch": "Veg Sandwich", "dinner": "Lemon Rice"},
+    {"breakfast": "Vegetable Toast", "lunch": "Veg Pulao", "dinner": "Dal Soup"},
+    {"breakfast": "Oats Idli", "lunch": "Veg Fried Rice", "dinner": "Chapati & Sabzi"},
+    {"breakfast": "Smoothie Bowl", "lunch": "Rajma Rice", "dinner": "Tomato Soup"},
+    {"breakfast": "Poha", "lunch": "Veg Khichdi", "dinner": "Curd Rice"},
+    {"breakfast": "Ragi Dosa", "lunch": "Dal & Chapati", "dinner": "Veg Soup"},
+    {"breakfast": "Idli", "lunch": "Veg Biryani", "dinner": "Paneer Bhurji"},
+    {"breakfast": "Oats Porridge", "lunch": "Veg Sandwich", "dinner": "Cabbage Fry"},
+    {"breakfast": "Sprouts Bowl", "lunch": "Veg Pulao", "dinner": "Curd Bowl"},
+    {"breakfast": "Fruit Salad", "lunch": "Stuffed Paratha", "dinner": "Tomato Soup"},
+    {"breakfast": "Masala Oats", "lunch": "Veg Fried Rice", "dinner": "Paneer Salad"},
+    {"breakfast": "Vegetable Upma", "lunch": "Veg Khichdi", "dinner": "Veg Soup"},
+    {"breakfast": "Ragi Porridge", "lunch": "Dal & Chapati", "dinner": "Curd Rice"},
+    {"breakfast": "Poha", "lunch": "Veg Biryani", "dinner": "Tomato Soup"},
+    {"breakfast": "Oats Smoothie", "lunch": "Veg Sandwich", "dinner": "Paneer Bhurji"},
+    {"breakfast": "Idli", "lunch": "Rajma Rice", "dinner": "Veg Soup"},
+    {"breakfast": "Fruit Bowl", "lunch": "Veg Pulao", "dinner": "Curd Bowl"},
+    {"breakfast": "Besan Toast", "lunch": "Veg Khichdi", "dinner": "Dal Soup"},
+    {"breakfast": "Vegetable Poha", "lunch": "Veg Fried Rice", "dinner": "Paneer Salad"}
+]
 
-                for meal, content in meals.items():
-                    if content:
-                        st.markdown(f"""
-                            <div class="diet-card">
-                                <b>{meal}</b><br><br>
-                                {content}
-                            </div>
-                        """, unsafe_allow_html=True)
+NONVEG_DAYS = [
+    {"breakfast": "Boiled Eggs & Toast", "lunch": "Grilled Chicken & Rice", "dinner": "Fish Curry"},
+    {"breakfast": "Egg Omelette", "lunch": "Chicken Pulao", "dinner": "Chicken Soup"},
+    {"breakfast": "Egg Toast", "lunch": "Fish Rice Bowl", "dinner": "Chicken Stir Fry"},
+    {"breakfast": "Scrambled Eggs", "lunch": "Chicken Curry", "dinner": "Egg Salad"},
+    {"breakfast": "Boiled Eggs", "lunch": "Grilled Fish", "dinner": "Chicken Wrap"},
+    {"breakfast": "Egg Bhurji", "lunch": "Chicken Biryani", "dinner": "Fish Soup"},
+    {"breakfast": "Protein Toast", "lunch": "Chicken Fried Rice", "dinner": "Egg Curry"},
+    {"breakfast": "Egg Sandwich", "lunch": "Chicken Pulao", "dinner": "Fish Fry"},
+    {"breakfast": "Egg Omelette", "lunch": "Grilled Chicken", "dinner": "Chicken Soup"},
+    {"breakfast": "Boiled Eggs", "lunch": "Fish Curry", "dinner": "Chicken Salad"},
+    {"breakfast": "Egg Toast", "lunch": "Chicken Rice", "dinner": "Egg Bhurji"},
+    {"breakfast": "Egg Wrap", "lunch": "Fish Rice Bowl", "dinner": "Chicken Stir Fry"},
+    {"breakfast": "Scrambled Eggs", "lunch": "Chicken Curry", "dinner": "Fish Soup"},
+    {"breakfast": "Egg Omelette", "lunch": "Chicken Pulao", "dinner": "Egg Salad"},
+    {"breakfast": "Boiled Eggs", "lunch": "Grilled Fish", "dinner": "Chicken Wrap"},
+    {"breakfast": "Egg Toast", "lunch": "Chicken Fried Rice", "dinner": "Fish Curry"},
+    {"breakfast": "Egg Bhurji", "lunch": "Chicken Biryani", "dinner": "Chicken Soup"},
+    {"breakfast": "Protein Bowl", "lunch": "Fish Rice Bowl", "dinner": "Egg Curry"},
+    {"breakfast": "Egg Sandwich", "lunch": "Chicken Pulao", "dinner": "Fish Fry"},
+    {"breakfast": "Boiled Eggs", "lunch": "Grilled Chicken", "dinner": "Chicken Salad"},
+    {"breakfast": "Egg Omelette", "lunch": "Fish Curry", "dinner": "Egg Bhurji"},
+    {"breakfast": "Egg Toast", "lunch": "Chicken Rice", "dinner": "Fish Soup"},
+    {"breakfast": "Scrambled Eggs", "lunch": "Chicken Curry", "dinner": "Egg Salad"},
+    {"breakfast": "Egg Wrap", "lunch": "Fish Rice Bowl", "dinner": "Chicken Stir Fry"},
+    {"breakfast": "Boiled Eggs", "lunch": "Chicken Pulao", "dinner": "Fish Curry"},
+    {"breakfast": "Egg Sandwich", "lunch": "Grilled Fish", "dinner": "Chicken Soup"},
+    {"breakfast": "Egg Bhurji", "lunch": "Chicken Fried Rice", "dinner": "Egg Curry"},
+    {"breakfast": "Protein Toast", "lunch": "Chicken Biryani", "dinner": "Fish Soup"}
+]
 
-                pdf = create_pdf(patient_id, diet_text)
-                with open(pdf, "rb") as f:
-                    st.download_button(
-                        "📄 Download PDF",
-                        f,
-                        file_name=pdf,
-                        mime="application/pdf"
-                    )
+def generate_month_plan(pref):
+    return VEG_DAYS if pref == "Vegetarian" else NONVEG_DAYS
 
-            else:
-                st.error("❌ Diet generation failed")
+# --------------------------------------------------
+# PDF GENERATOR
+# --------------------------------------------------
+def generate_pdf(patient, conditions, plan):
+    buffer = BytesIO()
+    c = canvas.Canvas(buffer, pagesize=A4)
+    y = 800
 
-        else:
-            st.warning("⚠️ Enter numeric ID only")
+    c.setFont("Helvetica-Bold", 14)
+    c.drawString(40, y, "AI-NutritionalCare Diet Report")
+    y -= 30
 
-with col2:
-    st.image(
-        "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-        use_container_width=True
+    c.setFont("Helvetica", 11)
+    c.drawString(40, y, f"Patient: {patient}")
+    y -= 20
+    c.drawString(40, y, f"Medical Conditions: {', '.join(conditions)}")
+    y -= 30
 
+    for i, day in enumerate(plan, 1):
+        if y < 120:
+            c.showPage()
+            y = 800
+
+        c.setFont("Helvetica-Bold", 11)
+        c.drawString(40, y, f"Day {i}")
+        y -= 15
+
+        c.setFont("Helvetica", 10)
+        c.drawString(50, y, f"Breakfast: {day['breakfast']}")
+        y -= 12
+        c.drawString(50, y, f"Lunch: {day['lunch']}")
+        y -= 12
+        c.drawString(50, y, f"Dinner: {day['dinner']}")
+        y -= 20
+
+    c.save()
+    buffer.seek(0)
+    return buffer
+
+# --------------------------------------------------
+# INPUT UI
+# --------------------------------------------------
+uploaded = st.file_uploader("📄 Upload Medical Report (PDF / CSV / TXT)", type=["pdf", "csv", "txt"])
+preference = st.radio("🥦 Food Preference", ["Vegetarian", "Non-Vegetarian"])
+run = st.button("✨ Generate Diet Recommendation")
+
+# --------------------------------------------------
+# OUTPUT
+# --------------------------------------------------
+if run:
+    if not uploaded:
+        st.warning("Please upload a file.")
+        st.stop()
+
+    raw_text = extract_text(uploaded)
+    patient = extract_patient_name(raw_text)
+    conditions = extract_conditions(raw_text)
+    month_plan = generate_month_plan(preference)
+
+    st.subheader("📄 Output")
+    st.markdown(f"""
+**Patient:** {patient}  
+**Medical Condition:** {', '.join(conditions)}  
+**Listing 1:** Sample Diet Plan from AI-NutritionalCare
+""")
+
+    st.subheader("📅 1-Month Diet Plan (Breakfast • Lunch • Dinner)")
+    tabs = st.tabs(["Week 1", "Week 2", "Week 3", "Week 4"])
+
+    day_idx = 0
+    for tab in tabs:
+        with tab:
+            for _ in range(7):
+                day = month_plan[day_idx]
+                with st.expander(f"🍽️ Day {day_idx + 1}"):
+                    st.write(f"**Breakfast:** {day['breakfast']}")
+                    st.write(f"**Lunch:** {day['lunch']}")
+                    st.write(f"**Dinner:** {day['dinner']}")
+                day_idx += 1
+
+    st.download_button(
+        "⬇️ Download JSON",
+        data=pd.Series({
+            "patient": patient,
+            "conditions": conditions,
+            "diet_plan": month_plan
+        }).to_json(),
+        file_name="diet_plan.json",
+        mime="application/json"
     )
-    st.caption("Healthy Eating = Healthy Life 🥗")
 
-# ==============================
-# Footer
-# ==============================
-st.markdown("""
-<div style="text-align:center; font-size:14px; margin-top:20px; color:#00ff7f;">
-💡 Tip: Drink water & walk 30 minutes daily
-</div>
-""", unsafe_allow_html=True)
-
-
-
-
-https://ai-diet-planner-vjmgltvwuegdxoudqq9kvx.streamlit.app/#your-diet-plan
-https://share.streamlit.io/
+    pdf_file = generate_pdf(patient, conditions, month_plan)
+    st.download_button(
+        "⬇️ Download PDF",
+        data=pdf_file,
+        file_name=f"{patient.replace(' ', '_')}_DietPlan.pdf",
+        mime="application/pdf"
+    )
