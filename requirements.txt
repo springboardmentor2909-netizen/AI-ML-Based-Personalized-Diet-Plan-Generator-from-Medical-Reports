@@ -1,3 +1,9 @@
 streamlit
-fpdf
-google-generativeai
+pdfplumber
+pytesseract
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+openai
+Pillow

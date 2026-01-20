@@ -1,190 +1,217 @@
-# ==============================
-# Imports
-# ==============================
 import streamlit as st
-from fpdf import FPDF
-from ai_diet_generator import generate_diet
-import re
+import pdfplumber
+import pytesseract
+import cv2
+import numpy as np
+import pandas as pd
+import pickle
+import json
+from openai import OpenAI
 
-# ==============================
-# Custom CSS
-# ==============================
-st.markdown("""
-<style>
-body {
-    background: linear-gradient(to right, #0f1e1c, #192924);
-    color: #e0ffe0;
-    font-family: 'Segoe UI', sans-serif;
-}
-.stApp h1 {
-    color: #00ff7f;
-    text-align: center;
-    font-size: 42px;
-}
-div.stButton > button {
-    background: linear-gradient(90deg, #10b981, #34d399);
-    color: white;
-    font-size: 18px;
-    padding: 10px 25px;
-    border-radius: 12px;
-    border: none;
-}
-.stTextInput input {
-    border-radius: 12px;
-    padding: 10px;
-    border: 2px solid #10b981;
-    background-color: #0f1e1c;
-    color: #e0ffe0;
-}
-.diet-card {
-    background-color: #1f3d28;
-    color: #e0ffe0;
-    padding: 18px;
-    border-radius: 15px;
-    margin-bottom: 15px;
-    box-shadow: 2px 2px 8px rgba(0,0,0,0.3);
-    font-size: 16px;
-    line-height: 1.6;
-}
-footer {visibility: hidden;}
-</style>
-""", unsafe_allow_html=True)
+# =====================================================
+# CONFIG
+# =====================================================
+import os
+if os.name == "nt":
+    import pytesseract
+st.set_page_config(page_title="AI Personalized Diet Planner", layout="wide")
 
-# ==============================
-# Remove emojis for PDF
-# ==============================
-def remove_emojis(text):
-    emoji_pattern = re.compile(
-        "[" 
-        "\U0001F600-\U0001F64F"
-        "\U0001F300-\U0001F5FF"
-        "\U0001F680-\U0001F6FF"
-        "\U0001F1E0-\U0001F1FF"
-        "\U0001F900-\U0001F9FF"
-        "\U0001FA70-\U0001FAFF"
-        "]+", flags=re.UNICODE)
-    return emoji_pattern.sub(r'', text)
+import os
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# =====================================================
+# LOAD ML MODEL
+# =====================================================
+with open("combined_numerical_model.bkl", "rb") as f:
+    model = pickle.load(f)
 
-# ==============================
-# PDF Generator
-# ==============================
-def create_pdf(patient_id, diet_text):
-    pdf = FPDF()
-    pdf.add_page()
-    pdf.set_font("Arial", "B", 16)
-    pdf.cell(0, 10, "AI Diet Plan", ln=True)
-    pdf.ln(5)
-    pdf.set_font("Arial", "", 11)
+with open("combined_numerical_features.bkl", "rb") as f:
+    feature_names = pickle.load(f)
 
-    clean_text = remove_emojis(diet_text)
-    for line in clean_text.split("\n"):
-        pdf.multi_cell(0, 8, line)
+# =====================================================
+# FILE TEXT EXTRACTION (RAW ONLY)
+# =====================================================
+def extract_pdf_text(file):
+    text = ""
+    with pdfplumber.open(file) as pdf:
+        for page in pdf.pages:
+            text += page.extract_text() or ""
+    return text
 
-    file_name = f"diet_plan_{patient_id}.pdf"
-    pdf.output(file_name)
-    return file_name
+def extract_image_text(file):
+    img = cv2.imdecode(np.frombuffer(file.read(), np.uint8), 1)
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    return pytesseract.image_to_string(gray)
 
-# ==============================
-# Title
-# ==============================
-st.title("🥗 AI Diet Planner 🍎")
-st.image(
-    "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
-    use_container_width=True
+# =====================================================
+# GPT MEDICAL EXTRACTION (CORE LOGIC)
+# =====================================================
+def gpt_extract_medical_values(report_text):
+    prompt = f"""
+You are a medical data extraction AI.
 
-)
+The following text is from a medical report.
+The text may be noisy, scanned, incomplete, or unstructured.
 
-# ==============================
-# Layout
-# ==============================
-col1, col2 = st.columns([2, 1])
+Your task:
+Extract ONLY these values if present:
+- HbA1c (%)
+- Blood glucose (mg/dL)
+- BMI
+- Total cholesterol (mg/dL)
+- Blood pressure (systolic/diastolic)
+- Hypertension (1 if BP >=140/90 else 0)
+- Heart disease (1 if mentioned else 0)
 
-with col1:
-    patient_id = st.text_input("Enter Patient ID", placeholder="e.g. 101")
+Rules:
+- If value is missing, use null
+- Do NOT guess
+- Return ONLY valid JSON
+- No explanation text
 
-    if st.button("Generate Diet Plan"):
-        if patient_id.isdigit():
+JSON format:
+{{
+  "hba1c_level": null,
+  "blood_glucose_level": null,
+  "bmi": null,
+  "cholesterol": null,
+  "systolic_bp": null,
+  "diastolic_bp": null,
+  "hypertension": 0,
+  "heart_disease": 0
+}}
 
-            with st.spinner("Generating diet plan..."):
-                diet_text = generate_diet(patient_id)
+Report Text:
+\"\"\"{report_text}\"\"\"
+"""
 
-            if diet_text:
-                st.success("✅ Diet Generated Successfully!")
-
-                meals = {
-                    "Breakfast 🥣": "",
-                    "Lunch 🥗": "",
-                    "Snacks 🍎": "",
-                    "Dinner 🍛": ""
-                }
-
-                current_meal = None
-
-                for raw_line in diet_text.split("\n"):
-                    line = raw_line.strip()
-                    lower = line.lower()
-
-                    if lower.startswith("breakfast"):
-                        current_meal = "Breakfast 🥣"
-                        continue
-                    if lower.startswith("lunch"):
-                        current_meal = "Lunch 🥗"
-                        continue
-                    if lower.startswith("snack"):
-                        current_meal = "Snacks 🍎"
-                        continue
-                    if lower.startswith("dinner"):
-                        current_meal = "Dinner 🍛"
-                        continue
-
-                    if current_meal and line:
-                        meals[current_meal] += f"- {line}<br>"
-
-                st.subheader("Your Diet Plan 🥗")
-
-                for meal, content in meals.items():
-                    if content:
-                        st.markdown(f"""
-                            <div class="diet-card">
-                                <b>{meal}</b><br><br>
-                                {content}
-                            </div>
-                        """, unsafe_allow_html=True)
-
-                pdf = create_pdf(patient_id, diet_text)
-                with open(pdf, "rb") as f:
-                    st.download_button(
-                        "📄 Download PDF",
-                        f,
-                        file_name=pdf,
-                        mime="application/pdf"
-                    )
-
-            else:
-                st.error("❌ Diet generation failed")
-
-        else:
-            st.warning("⚠️ Enter numeric ID only")
-
-with col2:
-    st.image(
-        "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-        use_container_width=True
-
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0
     )
-    st.caption("Healthy Eating = Healthy Life 🥗")
 
-# ==============================
-# Footer
-# ==============================
-st.markdown("""
-<div style="text-align:center; font-size:14px; margin-top:20px; color:#00ff7f;">
-💡 Tip: Drink water & walk 30 minutes daily
-</div>
-""", unsafe_allow_html=True)
+    content = response.choices[0].message.content
 
+    try:
+        return json.loads(content[content.find("{"):content.rfind("}") + 1])
+    except:
+        return {
+            "hba1c_level": None,
+            "blood_glucose_level": None,
+            "bmi": None,
+            "cholesterol": None,
+            "systolic_bp": None,
+            "diastolic_bp": None,
+            "hypertension": 0,
+            "heart_disease": 0
+        }
 
+# =====================================================
+# GPT DIET PLAN
+# =====================================================
+def generate_diet_plan(status, preferences):
+    prompt = f"""
+You are a certified Indian clinical dietitian.
 
+Generate a personalized 3-day Indian diet plan.
 
-https://ai-diet-planner-vjmgltvwuegdxoudqq9kvx.streamlit.app/#your-diet-plan
-https://share.streamlit.io/
+Health Status:
+{status}
+
+Diet Preferences:
+{preferences}
+
+Rules:
+- Indian food only
+- No sugar if diabetic
+- Simple home meals
+- Return ONLY JSON
+
+{{
+  "Day 1": {{"Breakfast": "", "Lunch": "", "Dinner": ""}},
+  "Day 2": {{"Breakfast": "", "Lunch": "", "Dinner": ""}},
+  "Day 3": {{"Breakfast": "", "Lunch": "", "Dinner": ""}}
+}}
+"""
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3
+    )
+
+    text = response.choices[0].message.content
+    try:
+        return json.loads(text[text.find("{"):text.rfind("}") + 1])
+    except:
+        return {}
+
+# =====================================================
+# STREAMLIT UI
+# =====================================================
+st.title("🩺 AI-Based Personalized Diet Plan System")
+
+uploaded = st.file_uploader("Upload Medical Report (PDF / Image)", type=["pdf", "png", "jpg", "jpeg"])
+preferences = st.text_input("Diet Preferences (optional)")
+
+if uploaded:
+    if uploaded.type == "application/pdf":
+        raw_text = extract_pdf_text(uploaded)
+    else:
+        raw_text = extract_image_text(uploaded)
+
+    st.subheader("Raw Extracted Text")
+    st.text_area("", raw_text, height=300)
+
+    # GPT extraction
+    extracted = gpt_extract_medical_values(raw_text)
+
+    st.subheader("Extracted Medical Values (GPT)")
+    st.json(extracted)
+
+    # Prepare ML input
+    ml_input = {
+        "hba1c_level": extracted["hba1c_level"] or 0,
+        "blood_glucose_level": extracted["blood_glucose_level"] or 0,
+        "bmi": extracted["bmi"] or 0,
+        "cholesterol": extracted["cholesterol"] or 0,
+        "hypertension": extracted["hypertension"],
+        "heart_disease": extracted["heart_disease"]
+    }
+
+    X = pd.DataFrame([ml_input]).reindex(columns=feature_names, fill_value=0)
+    ml_pred = model.predict(X)[0]
+
+    # Final health status (hybrid rule)
+    if extracted["hba1c_level"] and extracted["hba1c_level"] >= 6.5:
+        status = "Diabetic (HbA1c clinical rule)"
+    elif extracted["blood_glucose_level"] and extracted["blood_glucose_level"] >= 200:
+        status = "Diabetic (Glucose clinical rule)"
+    else:
+        status = "Diabetic" if ml_pred == 1 else "Non-Diabetic"
+
+    st.subheader("Health Status")
+    if "Non" in status:
+        st.success(status)
+    else:
+        st.error(status)
+
+    # Diet plan
+    st.subheader("🍱 3-Day Personalized Diet Plan")
+    diet = generate_diet_plan(status, preferences)
+
+    for day, meals in diet.items():
+        st.markdown(f"### {day}")
+        for meal, food in meals.items():
+            st.write(f"**{meal}:** {food}")
+
+    st.download_button(
+        "Download JSON",
+        json.dumps({
+            "health_status": status,
+            "extracted_values": extracted,
+            "diet_plan": diet
+        }, indent=2),
+        file_name="diet_plan.json",
+        mime="application/json"
+    )
