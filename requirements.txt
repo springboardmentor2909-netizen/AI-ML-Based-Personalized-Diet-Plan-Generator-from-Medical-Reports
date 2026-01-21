@@ -1,3 +1,25 @@
-streamlit
-fpdf
-google-generativeai
+# Core packages
+numpy==1.26.4
+pandas==2.1.0
+scikit-learn==1.6.1
+joblib==1.5.3
+
+# Web & app
+streamlit==1.26.1
+fastapi==0.124.4
+uvicorn==0.35.0
+python-dotenv==1.1.1
+pydantic==2.11.7
+
+# ML / NLP
+tensorflow==2.15.0
+keras==2.15.0
+lightgbm==4.4.0
+transformers==4.44.0
+sentence-transformers==5.1.1
+opencv-python==4.8.1.78
+matplotlib==3.7.2
+seaborn==0.13.0
+
+# Generative AI
+google-ai-generativelanguage==0.6.18
