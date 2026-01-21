@@ -1,0 +1,10 @@
+import re
+
+def clean_text(text: str) -> str:
+    text = text.lower()
+    text = re.sub(r"\n+", " ", text)
+    text = re.sub(r"[^a-z0-9.,:/\- ]", "", text)
+    return text.strip()
+
+def segment_text(text: str):
+    return text.split(".")
