@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ==============================
 # Imports
 # ==============================
@@ -188,3 +189,172 @@ st.markdown("""
 
 https://ai-diet-planner-vjmgltvwuegdxoudqq9kvx.streamlit.app/#your-diet-plan
 https://share.streamlit.io/
+=======
+
+import streamlit as st
+import json
+import pandas as pd
+
+from nlp.text_cleaning import TextCleaner
+from nlp.intent_parser import IntentParser
+from nlp.ner_model import MedicalNER
+
+from ml.feature_extractor import FeatureExtractor, FEATURE_COLUMNS
+from ml.predictor import Predictor
+
+from llm.rule_generator import LocalLlama
+from llm.json_normalizer import JSONNormalizer
+
+from utils.pdf_utils import extract_text_from_pdf
+from utils.ocr_utils import extract_text_from_image
+from reports.pdf_generator import generate_pdf
+
+
+# --------------------------
+# Initialize components
+# --------------------------
+text_cleaner = TextCleaner()
+ner_model = MedicalNER()
+intent_parser = IntentParser()
+feature_extractor = FeatureExtractor()
+
+predictor = Predictor(
+    model_path="models/lightgbm_patient_model.pkl",
+    feature_path="models/lightgbm_features.pkl"
+)
+
+rule_generator = LocalLlama(model="llama3.1:8b")
+json_normalizer = JSONNormalizer()
+
+
+# --------------------------
+# Streamlit UI
+# --------------------------
+st.set_page_config(
+    page_title="AI Medical Diet Assistant",
+    page_icon="🏥",
+    layout="wide"
+)
+
+st.title("🏥 AI Medical Diet Assistant")
+st.write(
+    "Upload lab reports, doctor notes, or medical prescriptions "
+    "to get personalized diet guidelines."
+)
+
+
+# --------------------------
+# File upload
+# --------------------------
+uploaded_file = st.file_uploader(
+    "Upload PDF, Image, or Text file",
+    type=["pdf", "png", "jpg", "jpeg", "txt"]
+)
+
+if uploaded_file:
+    st.info(f"Processing **{uploaded_file.name}**...")
+
+    file_ext = uploaded_file.name.split(".")[-1].lower()
+
+    # --------------------------
+    # Text extraction
+    # --------------------------
+    if file_ext == "pdf":
+        raw_text = extract_text_from_pdf(uploaded_file)
+    elif file_ext in ["png", "jpg", "jpeg"]:
+        raw_text = extract_text_from_image(uploaded_file)
+    else:
+        raw_text = uploaded_file.read().decode("utf-8")
+
+    cleaned_text = text_cleaner.clean_text(raw_text)
+
+    # --------------------------
+    # NLP
+    # --------------------------
+    entities = ner_model.extract_entities(cleaned_text)
+    medical_intent = intent_parser.parse_intent(cleaned_text, entities)
+
+    # --------------------------
+    # Feature extraction
+    # --------------------------
+    features = feature_extractor.extract_features_from_texts([cleaned_text])
+
+    # --------------------------
+    # Auto-fill missing features (NO user input)
+    # --------------------------
+    default_values = {
+        "age": 30,
+        "bmi": 22.0,
+        "blood_sugar": 90.0,
+        "cholesterol": 180.0,
+        "hemoglobin": 13.5,
+        "blood_pressure": 120.0,
+        "heart_rate": 72.0,
+        "weight": 70.0
+    }
+
+    for col in FEATURE_COLUMNS:
+        if pd.isna(features.at[0, col]) or features.at[0, col] == 0:
+            features.at[0, col] = default_values[col]
+
+    features = features.astype(float)
+
+    # --------------------------
+    # Show extracted features
+    # --------------------------
+    st.subheader("🔍 Extracted Clinical Features")
+    for col in FEATURE_COLUMNS:
+        st.success(f"{col}: {features.at[0, col]}")
+
+    # --------------------------
+    # ML Prediction (ONLY ONCE)
+    # --------------------------
+    patient_status, model_diet_plan = predictor.predict(
+        features.iloc[0].to_dict()
+    )
+
+    st.info(f"🩺 Patient Status: **{patient_status}**")
+
+    # --------------------------
+    # LLM Diet Generation
+    # --------------------------
+    patient_data = {
+        "patient_status": patient_status,
+        "medical_intent": medical_intent,
+        "entities": entities,
+        "model_diet_hints": model_diet_plan
+    }
+
+    diet_rules = rule_generator.generate_diet(patient_data)
+    diet_json = json_normalizer.normalize(diet_rules)
+
+    # --------------------------
+    # Output
+    # --------------------------
+    st.subheader("✅ Personalized Diet Guidelines")
+    st.json(diet_json)
+
+    format_choice = st.radio("Select output format:", ["PDF", "JSON", "Both"])
+
+    if format_choice in ["JSON", "Both"]:
+        st.download_button(
+            "Download JSON",
+            data=json.dumps(diet_json, indent=2),
+            file_name="diet_guidelines.json",
+            mime="application/json"
+        )
+
+    if format_choice in ["PDF", "Both"]:
+        pdf_path = generate_pdf(
+            patient_id=uploaded_file.name.split(".")[0],
+            medical_intent=medical_intent,
+            diet_json=diet_json
+        )
+        with open(pdf_path, "rb") as f:
+            st.download_button(
+                "Download PDF",
+                data=f.read(),
+                file_name="diet_guidelines.pdf",
+                mime="application/pdf"
+            )
+>>>>>>> 213f33e (Initial commit: full project code)
