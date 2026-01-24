@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Circle -->
+  <circle cx="100" cy="100" r="90" fill="#0D47A1"/>
+
+  <!-- Heartbeat Line -->
+  <polyline 
+    points="30,100 55,100 70,80 85,120 100,70 115,120 130,100 170,100"
+    fill="none"
+    stroke="white"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Leaf (Nutrition) -->
+  <path
+    d="M100 135 C120 120, 145 115, 150 95
+       C130 90, 115 105, 100 115 Z"
+    fill="#43A047"
+  />
+</svg>
