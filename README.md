@@ -1,1 +1,2 @@
-# AI-ML-Based-Personalized-Diet-Plan-Generator-from-Medical-Reports FROM LAB REPORT
+# AI-ML-Based-Personalized-Diet-Plan-Generator-from-Medical-Reports 
+SUBMITTED BY DEEKSHA MISHRA
