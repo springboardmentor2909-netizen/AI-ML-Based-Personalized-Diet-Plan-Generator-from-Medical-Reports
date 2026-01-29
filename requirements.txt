@@ -1,3 +1,15 @@
 streamlit
-fpdf
-google-generativeai
+transformers
+torch
+pandas
+numpy
+joblib
+Pillow
+pdfplumber
+pytesseract
+openai
+python-dotenv
+spacy
+lightgbm
+scikit-learn
+reportLab
