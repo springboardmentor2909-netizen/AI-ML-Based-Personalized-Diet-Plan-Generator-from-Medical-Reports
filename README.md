@@ -1,6 +1,6 @@
 # 🥗 AI Personalized Diet Planner
 
-An AI-powered health assistant that analyzes **medical reports (PDF / Images / CSV)** and automatically generates a **personalized weekly diet plan** using OCR, BERT, Machine Learning, and LLMs.
+An AI-powered health assistant that analyzes medical reports (PDF / Images / CSV) and automatically generates a personalized weekly diet plan using OCR, BERT, Machine Learning, and LLMs.
 
 Built with ❤️ using Python + Streamlit.
 
@@ -8,8 +8,7 @@ Built with ❤️ using Python + Streamlit.
 
 ## 🚀 Live Demo
 
-👉 Add your deployed Streamlit link here (optional)
-Example: [https://ai-diet-planner.streamlit.app](https://ai-diet-planner.streamlit.app)
+https://ai-ml-based-personalised-diet-planer.streamlit.app/
 
 ---
 
