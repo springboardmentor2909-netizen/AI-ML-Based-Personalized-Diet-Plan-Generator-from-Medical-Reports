@@ -1,0 +1,44 @@
+
+NovaPath Medical Center
+Address: 90 Evergreen Lane, Silverpoint - 447041
+Phone: +91-93021-94435
+Email: info@novapath21.org
+Website: www.novapath383.org
+Accreditation Code: NO-36830
+
+Report ID: RPT-3B9B9A95
+Sample ID: SMP-21459
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7890
+
+Patient Name: G***
+Patient ID: UH-001125
+Age: 49 years
+Gender: Other
+
+Height: 152.1 cm
+Weight: 47.2 kg
+
+Blood Pressure: 109/94 mmHg
+Pulse: 94 bpm
+Blood Glucose: 105 mg/dL
+
+Cholesterol Panel:
+  Total: 180 mg/dL
+  LDL: 112 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.4 g/dL
+Creatinine: 1.18 mg/dL
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: 62 mL/min
+
+
+Summary:
+Encouraged daily walking.

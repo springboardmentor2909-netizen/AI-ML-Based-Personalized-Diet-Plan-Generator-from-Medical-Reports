@@ -1,0 +1,40 @@
+
+PrimeCare Medical Center
+Address: 56 Horizon Road, Northbay - 490789
+Phone: +91-73466-31748
+Email: info@primecare19.org
+Website: www.primecare587.org
+Accreditation Code: PR-14660
+
+Report ID: RPT-555182E8
+Sample ID: SMP-52112
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3708
+
+Patient Name: M***
+Patient ID: UH-001150
+Age: 34 years
+Gender: Female
+
+Height: 178.5 cm
+Weight: 48.1 kg
+
+Blood Pressure: -
+Pulse (bpm): 71 bpm
+Blood Glucose: 132 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 33 mg/dL
+  Triglycerides: 174 mg/dL
+
+Hemoglobin: 14.4 g/dL
+Creatinine: 1.45 mg/dL
+BMI: 30.4
+
+
+Summary:
+Sugar values acceptable.

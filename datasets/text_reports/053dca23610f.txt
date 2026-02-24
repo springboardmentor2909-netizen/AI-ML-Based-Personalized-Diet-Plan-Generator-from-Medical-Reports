@@ -1,0 +1,39 @@
+
+SolacePoint Hospital
+Address: 76 Evergreen Lane, Hillcrest - 465847
+Phone: +91-94522-84853
+Email: info@solacepoint92.org
+Website: www.solacepoint393.org
+Accreditation Code: SO-96844
+
+Report ID: RPT-43DE289B
+Sample ID: SMP-71653
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6414
+
+Patient Name: F***
+Patient ID: UH-001457
+Age: 60
+Gender: Male
+
+Blood Pressure: 149/77 mmHg
+Pulse Rate: 66 bpm
+Blood Sugar (Random): 118 mg/dL
+Height: 172.5 cm
+Weight: 75.2 kg
+Cholesterol Total: 194 mg/dL
+LDL: 104 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 116 mg/dL
+Hemoglobin: 13.3 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 34.1
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 66 mL/min
+
+Recommendation:
+Hydration recommended.

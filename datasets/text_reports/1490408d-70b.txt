@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 11 Sunrise Boulevard, Meadowridge - 427299
+Phone: +91-78441-72650
+Email: info@bluevalley23.org
+Website: www.bluevalley741.org
+Accreditation Code: BL-27990
+
+Report ID: RPT-378C5DC8
+Sample ID: SMP-11139
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5984
+
+Patient Name: B***
+Patient ID: UH-000676
+Age: 25 years
+Gender: Female
+
+Height: 154.2 cm
+Weight: 74.1 kg
+
+Blood Pressure: 111/86 mmHg
+Pulse Rate: 78 bpm
+Blood Glucose: 124 mg/dL
+
+Cholesterol Panel:
+  Total: 223 mg/dL
+  LDL: 94 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 120 mg/dL
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 0.77 mg/dL
+BMI: 29.5
+
+
+Clinical Notes:
+Lipid profile requires monitoring.

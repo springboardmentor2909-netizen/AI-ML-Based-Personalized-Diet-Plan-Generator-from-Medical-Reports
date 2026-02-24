@@ -1,0 +1,49 @@
+
+Northlake Hospital
+Address: 31 Alpine Street, Clearwater - 467472
+Phone: +91-72980-88626
+Email: info@northlake85.org
+Website: www.northlake777.org
+Accreditation Code: NO-27875
+
+Report ID: RPT-AE10528B
+Sample ID: SMP-66405
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7740
+
+Patient Name: D***
+Patient ID: UH-000609
+Age: 18 years
+Gender: Female
+
+Height: -
+Weight: 63.6 kg
+
+Blood Pressure: 144/71 mmHg
+Pulse Rate: -
+Blood Sugar (Random): 151 mg/dL
+
+Cholesterol Panel:
+  Total: 209 mg/dL
+  LDL: 123 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 114 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.75 mg/dL
+BMI: 30.4
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 97 mL/min
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

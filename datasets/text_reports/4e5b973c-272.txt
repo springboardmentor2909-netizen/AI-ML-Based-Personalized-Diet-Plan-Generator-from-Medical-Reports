@@ -1,0 +1,40 @@
+
+Riverdale Pathology Lab
+Address: 7 Evergreen Lane, Northbay - 450777
+Phone: +91-92687-54165
+Email: info@riverdale78.org
+Website: www.riverdale475.org
+Accreditation Code: RI-77536
+
+Report ID: RPT-EB3ED894
+Sample ID: SMP-58354
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8797
+
+Patient Name: X***
+Patient ID: UH-000856
+Age: 44 years
+Gender: Female
+
+Height: 177.7 cm
+Weight: 57.9 kg
+
+Blood Pressure: -
+Pulse (bpm): 95 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 154 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.86 mg/dL
+BMI: 27.7
+
+
+Impression:
+Adequate control maintained.

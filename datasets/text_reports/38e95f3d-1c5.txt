@@ -1,0 +1,44 @@
+
+Northlake Clinical Institute
+Address: 37 Sunrise Boulevard, Westlake - 458542
+Phone: +91-90614-72645
+Email: info@northlake18.org
+Website: www.northlake394.org
+Accreditation Code: NO-40045
+
+Report ID: RPT-AAB3536F
+Sample ID: SMP-70840
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1797
+
+Patient Name: I***
+Patient ID: UH-000530
+Age: 26 years
+Gender: Female
+
+Height: 166.9 cm
+Weight: 77.6 kg
+
+Blood Pressure: -
+Blood Glucose: 145 mg/dL
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: 115 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.07 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 45 U/L
+  Bilirubin Total: 1.3 mg/dL
+
+
+Remark:
+Blood pressure within acceptable range.

@@ -1,0 +1,40 @@
+
+Northlake Diagnostics
+Address: 54 Sunrise Boulevard, Eastwood - 479877
+Phone: +91-74024-27899
+Email: info@northlake73.org
+Website: www.northlake972.org
+Accreditation Code: NO-75521
+
+Report ID: RPT-6C5380A8
+Sample ID: SMP-89863
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7249
+
+Patient Name: P***
+Patient ID: UH-001136
+Age: 58 years
+Gender: Male
+
+Height: 175.0 cm
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 61 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: 120 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 143 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 27.7
+
+
+Doctor's Comments:
+Medication adherence discussed.

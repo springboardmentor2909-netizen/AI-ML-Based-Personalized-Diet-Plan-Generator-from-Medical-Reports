@@ -1,0 +1,40 @@
+
+NovaPath Diagnostics
+Address: 84 Alpine Street, Northbay - 451556
+Phone: +91-72959-75561
+Email: info@novapath60.org
+Website: www.novapath316.org
+Accreditation Code: NO-84400
+
+Report ID: RPT-560ED04C
+Sample ID: SMP-14392
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2468
+
+Patient Name: V***
+Patient ID: UH-001167
+Age: 53 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Sugar: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 233 mg/dL
+  LDL: -
+  HDL: 39 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.1 mg/dL
+BMI: 27.8
+
+
+Recommendations:
+Follow-up in 1–2 weeks recommended.

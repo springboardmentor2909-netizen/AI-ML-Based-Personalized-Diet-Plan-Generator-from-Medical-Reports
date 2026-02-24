@@ -1,0 +1,44 @@
+
+ClearRiver Pathology Lab
+Address: 69 Maple Drive, Westlake - 443768
+Phone: +91-74725-40735
+Email: info@clearriver10.org
+Website: www.clearriver410.org
+Accreditation Code: CL-31364
+
+Report ID: RPT-42467D02
+Sample ID: SMP-62245
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6789
+
+Patient Name: J***
+Patient ID: UH-000983
+Age: 63 years
+Gender: Other
+
+Height: 145.4 cm
+Weight: -
+
+Blood Pressure: 115/77 mmHg
+Pulse Rate: 91 bpm
+Blood Sugar: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 219 mg/dL
+  LDL: -
+  HDL: 30 mg/dL
+  Triglycerides: 157 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 1.16 mg/dL
+BMI: 29.9
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 85 mL/min
+
+
+Advice:
+Reassurance provided.

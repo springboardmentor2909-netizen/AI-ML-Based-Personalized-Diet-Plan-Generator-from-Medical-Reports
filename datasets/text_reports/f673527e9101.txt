@@ -1,0 +1,27 @@
+
+ClearRiver Hospital
+Address: 33 Riverbend Ave, Hillcrest - 405146
+Phone: +91-80957-41642
+Email: info@clearriver98.org
+Website: www.clearriver291.org
+Accreditation Code: CL-70424
+
+Report ID: RPT-0677B192
+Sample ID: SMP-84704
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6991
+
+Patient Name: G***
+Patient ID: UH-001465
+Age: 19
+Gender: Female
+
+Pulse (bpm): 79 bpm
+HDL: 55 mg/dL
+Hemoglobin: 13.8 g/dL
+BMI: 31.3
+
+Impression:
+Mild elevation in glucose.

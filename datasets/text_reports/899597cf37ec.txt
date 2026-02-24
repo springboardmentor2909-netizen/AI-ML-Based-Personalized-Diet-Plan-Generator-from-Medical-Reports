@@ -1,0 +1,45 @@
+
+Silver Oak Diagnostics
+Address: 58 Riverbend Ave, Northbay - 449079
+Phone: +91-90826-14343
+Email: info@silver oak78.org
+Website: www.silver oak803.org
+Accreditation Code: SI-61299
+
+Report ID: RPT-8B4CDF1B
+Sample ID: SMP-11524
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7498
+
+Patient Name: R***
+Patient ID: UH-001222
+Age: 29 years
+Gender: Other
+
+Height: 148.9 cm
+Weight: -
+
+Blood Pressure: 106/64 mmHg
+Pulse Rate: -
+Blood Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: -
+  HDL: 43 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 16.0 g/dL
+Creatinine: 1.57 mg/dL
+BMI: 31.3
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 38 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+
+Advice:
+No indication of bacterial infection.

@@ -1,0 +1,41 @@
+
+NovaPath Hospital
+Address: 36 Riverbend Ave, Marigold City - 470711
+Phone: +91-97281-53556
+Email: info@novapath49.org
+Website: www.novapath272.org
+Accreditation Code: NO-44310
+
+Report ID: RPT-EC4EFC7D
+Sample ID: SMP-99615
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8338
+
+Patient Name: W***
+Patient ID: UH-000443
+Age: 77 years
+Gender: Other
+
+Blood Pressure: 154/88 mmHg
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 137 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 205 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 0.72 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 15 U/L
+  Bilirubin Total: -
+
+
+Doctor's Comments:
+Glucose levels mildly elevated; lifestyle changes advised.

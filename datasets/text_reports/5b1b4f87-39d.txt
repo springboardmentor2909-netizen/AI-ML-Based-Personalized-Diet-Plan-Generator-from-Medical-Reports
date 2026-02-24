@@ -1,0 +1,40 @@
+
+Greencrest Medical Center
+Address: 30 Evergreen Lane, Eastwood - 402453
+Phone: +91-75569-94962
+Email: info@greencrest33.org
+Website: www.greencrest470.org
+Accreditation Code: GR-24148
+
+Report ID: RPT-3E30249F
+Sample ID: SMP-16546
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5356
+
+Patient Name: Y***
+Patient ID: UH-000895
+Age: 34 years
+Gender: Male
+
+Height: 151.3 cm
+Weight: 45.7 kg
+
+Blood Pressure: 156/83 mmHg
+Pulse: 108 bpm
+Blood Glucose: 127 mg/dL
+
+Cholesterol Panel:
+  Total: 169 mg/dL
+  LDL: 86 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 123 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 18.4
+
+
+Doctor's Comments:
+Possible dehydration; fluids advised.

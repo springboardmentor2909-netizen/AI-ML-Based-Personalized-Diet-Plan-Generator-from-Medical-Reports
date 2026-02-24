@@ -1,0 +1,40 @@
+
+SolacePoint Diagnostics
+Address: 81 Riverbend Ave, Eastwood - 450883
+Phone: +91-90393-20745
+Email: info@solacepoint67.org
+Website: www.solacepoint277.org
+Accreditation Code: SO-68895
+
+Report ID: RPT-890F44C7
+Sample ID: SMP-66624
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2304
+
+Patient Name: B***
+Patient ID: UH-001022
+Age: 28 years
+Gender: Other
+
+Height: 158.4 cm
+Weight: -
+
+Blood Pressure: 153/79 mmHg
+Pulse: -
+Glucose: 141 mg/dL
+
+Cholesterol Panel:
+  Total: 228 mg/dL
+  LDL: 144 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 26.1
+
+
+Recommendation:
+Discussed with patient. Understood.

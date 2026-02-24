@@ -1,0 +1,36 @@
+
+Northlake Hospital
+Address: 10 Horizon Road, Northbay - 455591
+Phone: +91-82724-46475
+Email: info@northlake76.org
+Website: www.northlake803.org
+Accreditation Code: NO-37977
+
+Report ID: RPT-ED2D6F35
+Sample ID: SMP-10145
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3466
+
+Patient Name: E***
+Patient ID: UH-000484
+Age: 64 years
+Gender: Male
+
+Blood Pressure: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 184 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 177 mg/dL
+
+Hemoglobin: 13.3 g/dL
+Creatinine: -
+BMI: -
+
+
+Clinical Notes:
+Follow-up recommended after 2 weeks.

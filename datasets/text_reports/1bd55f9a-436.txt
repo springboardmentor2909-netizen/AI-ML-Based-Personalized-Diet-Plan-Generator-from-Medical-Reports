@@ -1,0 +1,40 @@
+
+SolacePoint Hospital
+Address: 79 Riverbend Ave, Eastwood - 421502
+Phone: +91-99625-24753
+Email: info@solacepoint52.org
+Website: www.solacepoint118.org
+Accreditation Code: SO-89195
+
+Report ID: RPT-1089A87B
+Sample ID: SMP-54973
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5501
+
+Patient Name: C***
+Patient ID: UH-001144
+Age: 84 years
+Gender: Other
+
+Height: -
+Weight: 83.5 kg
+
+Blood Pressure: 164/82 mmHg
+Pulse: 72 bpm
+Blood Sugar (Random): 115 mg/dL
+
+Cholesterol Panel:
+  Total: 219 mg/dL
+  LDL: 139 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 244 mg/dL
+
+Hemoglobin: 10.8 g/dL
+Creatinine: -
+BMI: 26.8
+
+
+Doctor's Comments:
+Encouraged improved hydration.

@@ -1,0 +1,49 @@
+
+SolacePoint Medical Center
+Address: 77 Horizon Road, Westlake - 494210
+Phone: +91-89499-53399
+Email: info@solacepoint62.org
+Website: www.solacepoint825.org
+Accreditation Code: SO-88838
+
+Report ID: RPT-EB1B96CC
+Sample ID: SMP-86445
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2084
+
+Patient Name: V***
+Patient ID: UH-001050
+Age: 58 years
+Gender: Female
+
+Height: 167.1 cm
+Weight: 93.0 kg
+
+Blood Pressure: 119/89 mmHg
+Pulse Rate: 70 bpm
+Blood Glucose: 100 mg/dL
+
+Cholesterol Panel:
+  Total: 212 mg/dL
+  LDL: 120 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 201 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 21.0
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 70 mL/min
+
+
+Summary:
+Increase physical activity.

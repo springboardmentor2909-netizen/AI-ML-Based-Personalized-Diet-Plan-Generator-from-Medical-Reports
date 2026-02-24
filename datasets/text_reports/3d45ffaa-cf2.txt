@@ -1,0 +1,49 @@
+
+Riverdale Diagnostics
+Address: 87 Evergreen Lane, Silverpoint - 406320
+Phone: +91-97522-14658
+Email: info@riverdale86.org
+Website: www.riverdale729.org
+Accreditation Code: RI-19599
+
+Report ID: RPT-0A7E1EC3
+Sample ID: SMP-44157
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2146
+
+Patient Name: F***
+Patient ID: UH-001118
+Age: 53 years
+Gender: Male
+
+Height: 161.6 cm
+Weight: 59.3 kg
+
+Blood Pressure: 154/97 mmHg
+Pulse: 97 bpm
+Blood Glucose: 133 mg/dL
+
+Cholesterol Panel:
+  Total: 224 mg/dL
+  LDL: 137 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.5 mg/dL
+BMI: 18.8
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 115 mL/min
+
+
+Remarks:
+Follow-up in 1–2 weeks recommended.

@@ -1,0 +1,33 @@
+
+NovaPath Hospital
+Address: 66 Sunrise Boulevard, Meadowridge - 432530
+Phone: +91-91198-72834
+Email: info@novapath42.org
+Website: www.novapath961.org
+Accreditation Code: NO-20638
+
+Report ID: RPT-35563007
+Sample ID: SMP-30146
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1624
+
+Patient Name: H***
+Patient ID: UH-001466
+Age: 24
+Gender: Male
+
+Height: 171.8 cm
+Weight: 69.5 kg
+Cholesterol Total: 202 mg/dL
+HDL: 31 mg/dL
+Triglycerides: 106 mg/dL
+Hemoglobin: 15.7 g/dL
+Creatinine: 0.76 mg/dL
+
+KFT:
+  Urea: 43 mg/dL
+
+Remark:
+Monitor BP regularly.

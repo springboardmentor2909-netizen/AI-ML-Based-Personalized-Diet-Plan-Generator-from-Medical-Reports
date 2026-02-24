@@ -1,0 +1,44 @@
+
+Greencrest Hospital
+Address: 19 Horizon Road, Hillcrest - 476960
+Phone: +91-97491-71974
+Email: info@greencrest11.org
+Website: www.greencrest376.org
+Accreditation Code: GR-83389
+
+Report ID: RPT-496A2B75
+Sample ID: SMP-45077
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2741
+
+Patient Name: O***
+Patient ID: UH-000946
+Age: 22 years
+Gender: Other
+
+Height: 154.0 cm
+Weight: -
+
+Blood Pressure: 151/69 mmHg
+Pulse Rate: 81 bpm
+Blood Sugar: 108 mg/dL
+
+Cholesterol Panel:
+  Total: 185 mg/dL
+  LDL: 114 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 102 mg/dL
+
+Hemoglobin: 12.9 g/dL
+Creatinine: 1.26 mg/dL
+BMI: 23.5
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 107 mL/min
+
+
+Recommendations:
+Increase physical activity.

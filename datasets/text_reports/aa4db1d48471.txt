@@ -1,0 +1,40 @@
+
+Medisphere Pathology Lab
+Address: 27 Alpine Street, Westlake - 402092
+Phone: +91-86066-88899
+Email: info@medisphere98.org
+Website: www.medisphere485.org
+Accreditation Code: ME-14588
+
+Report ID: RPT-DC9655F9
+Sample ID: SMP-89825
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7725
+
+Patient Name: D***
+Patient ID: UH-001241
+Age: 73 years
+Gender: Male
+
+Height: 167.0 cm
+Weight: -
+
+Blood Pressure: -
+Pulse: 110 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 160 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.14 mg/dL
+BMI: -
+
+
+Remarks:
+Vitals stable. Continue medications.

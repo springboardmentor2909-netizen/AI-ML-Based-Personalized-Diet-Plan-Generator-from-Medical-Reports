@@ -1,0 +1,40 @@
+
+Greencrest Diagnostics
+Address: 49 Horizon Road, Marigold City - 419437
+Phone: +91-83487-87031
+Email: info@greencrest14.org
+Website: www.greencrest876.org
+Accreditation Code: GR-14219
+
+Report ID: RPT-A290729C
+Sample ID: SMP-34929
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5815
+
+Patient Name: K***
+Patient ID: UH-001085
+Age: 47 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: 75 bpm
+Blood Sugar: 167 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 53 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 31.5
+
+
+Remarks:
+Pt stable. Continue routine follow-up.

@@ -1,0 +1,49 @@
+
+SolacePoint Pathology Lab
+Address: 45 Sunrise Boulevard, Westlake - 423628
+Phone: +91-87696-67688
+Email: info@solacepoint62.org
+Website: www.solacepoint254.org
+Accreditation Code: SO-56279
+
+Report ID: RPT-235DB71A
+Sample ID: SMP-36736
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5849
+
+Patient Name: S***
+Patient ID: UH-000974
+Age: 37 years
+Gender: Female
+
+Height: -
+Weight: 49.2 kg
+
+Blood Pressure: 109/81 mmHg
+Pulse Rate: 108 bpm
+Glucose: 85 mg/dL
+
+Cholesterol Panel:
+  Total: 217 mg/dL
+  LDL: 102 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 139 mg/dL
+
+Hemoglobin: 12.0 g/dL
+Creatinine: -
+BMI: 31.8
+
+LFT:
+  AST/SGOT: 27 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: -
+
+
+Doctor's Comments:
+Follow-up recommended after 2 weeks.

@@ -1,0 +1,44 @@
+
+SolacePoint Pathology Lab
+Address: 54 Maple Drive, Westlake - 479909
+Phone: +91-95305-82801
+Email: info@solacepoint96.org
+Website: www.solacepoint294.org
+Accreditation Code: SO-26855
+
+Report ID: RPT-BEAD56B2
+Sample ID: SMP-98630
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1545
+
+Patient Name: C***
+Patient ID: UH-001303
+Age: 51
+Gender: Male
+
+Blood Pressure: 122/65 mmHg
+Pulse Rate: 74 bpm
+Glucose: 106 mg/dL
+Height: 176.2 cm
+Weight: 95.3 kg
+Cholesterol Total: 200 mg/dL
+LDL: 107 mg/dL
+HDL: 59 mg/dL
+Triglycerides: 273 mg/dL
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 32.9
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 108 mL/min
+
+Recommendation:
+Therapy response is satisfactory.

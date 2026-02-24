@@ -1,0 +1,49 @@
+
+Starhaven Medical Center
+Address: 29 Horizon Road, Eastwood - 430124
+Phone: +91-78782-95567
+Email: info@starhaven34.org
+Website: www.starhaven192.org
+Accreditation Code: ST-67124
+
+Report ID: RPT-C256D592
+Sample ID: SMP-44153
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8795
+
+Patient Name: Q***
+Patient ID: UH-001244
+Age: 28 years
+Gender: Female
+
+Height: 177.7 cm
+Weight: 72.3 kg
+
+Blood Pressure: 151/71 mmHg
+Pulse (bpm): 95 bpm
+Blood Sugar: 174 mg/dL
+
+Cholesterol Panel:
+  Total: 171 mg/dL
+  LDL: 85 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 128 mg/dL
+
+Hemoglobin: 10.1 g/dL
+Creatinine: 1.55 mg/dL
+BMI: 33.3
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 41 mg/dL
+  eGFR: 62 mL/min
+
+
+Impression:
+Improvement compared to previous visit.

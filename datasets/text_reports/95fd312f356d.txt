@@ -1,0 +1,39 @@
+
+SolacePoint Diagnostics
+Address: 98 Evergreen Lane, Marigold City - 455777
+Phone: +91-75682-49834
+Email: info@solacepoint72.org
+Website: www.solacepoint495.org
+Accreditation Code: SO-29510
+
+Report ID: RPT-F224A302
+Sample ID: SMP-64635
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2157
+
+Patient Name: T***
+Patient ID: UH-001407
+Age: 78
+Gender: Male
+
+Blood Pressure: 105/78 mmHg
+Pulse (bpm): 77 bpm
+Blood Sugar (Random): 176 mg/dL
+Height: 152.8 cm
+Weight: 93.5 kg
+Cholesterol Total: 198 mg/dL
+LDL: 124 mg/dL
+HDL: 61 mg/dL
+Triglycerides: 108 mg/dL
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.17 mg/dL
+BMI: 19.5
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 81 mL/min
+
+Clinical Notes:
+Mild elevation in glucose.

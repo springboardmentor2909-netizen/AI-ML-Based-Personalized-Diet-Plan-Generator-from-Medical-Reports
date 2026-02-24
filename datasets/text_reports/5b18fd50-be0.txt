@@ -1,0 +1,49 @@
+
+Northlake Pathology Lab
+Address: 76 Sunrise Boulevard, Marigold City - 463556
+Phone: +91-87791-71084
+Email: info@northlake63.org
+Website: www.northlake419.org
+Accreditation Code: NO-10657
+
+Report ID: RPT-5A0A668C
+Sample ID: SMP-77552
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1362
+
+Patient Name: X***
+Patient ID: UH-001177
+Age: 59 years
+Gender: Male
+
+Height: 182.4 cm
+Weight: 51.1 kg
+
+Blood Pressure: 123/72 mmHg
+Pulse (bpm): 88 bpm
+Glucose: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 195 mg/dL
+  LDL: 120 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 126 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: 0.95 mg/dL
+BMI: 27.4
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 45 mg/dL
+  eGFR: 104 mL/min
+
+
+Remark:
+Therapy maintaining adequate control.

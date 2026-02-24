@@ -1,0 +1,41 @@
+
+PrimeCare Hospital
+Address: 82 Sunrise Boulevard, Westlake - 496204
+Phone: +91-85225-72164
+Email: info@primecare28.org
+Website: www.primecare940.org
+Accreditation Code: PR-49506
+
+Report ID: RPT-2BDAF245
+Sample ID: SMP-75093
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4674
+
+Patient Name: I***
+Patient ID: UH-000464
+Age: 38 years
+Gender: Other
+
+Blood Pressure: 155/83 mmHg
+Blood Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: 229 mg/dL
+  LDL: 155 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 163 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: 1.13 mg/dL
+BMI: 21.9
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: 37 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Remark:
+Lipid levels require monitoring.

@@ -1,0 +1,39 @@
+
+Medisphere Hospital
+Address: 84 Alpine Street, Northbay - 450961
+Phone: +91-74317-18574
+Email: info@medisphere29.org
+Website: www.medisphere109.org
+Accreditation Code: ME-93280
+
+Report ID: RPT-FFC84DFC
+Sample ID: SMP-42261
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6575
+
+Patient Name: M***
+Patient ID: UH-000528
+Age: 75 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Glucose: 88 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: 210 mg/dL
+
+Hemoglobin: 12.4 g/dL
+Creatinine: 0.73 mg/dL
+BMI: 20.0
+
+
+Doctor's Comments:
+Blood pressure within acceptable range.

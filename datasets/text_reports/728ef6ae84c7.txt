@@ -1,0 +1,35 @@
+
+Everlight Medical Center
+Address: 75 Evergreen Lane, Clearwater - 430661
+Phone: +91-82782-83453
+Email: info@everlight82.org
+Website: www.everlight901.org
+Accreditation Code: EV-41786
+
+Report ID: RPT-A3C26997
+Sample ID: SMP-36358
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7219
+
+Patient Name: W***
+Patient ID: UH-001322
+Age: 74
+Gender: Male
+
+Blood Pressure: 169/91 mmHg
+Pulse (bpm): 105 bpm
+Blood Sugar: 99 mg/dL
+Weight: 59.7 kg
+Cholesterol Total: 155 mg/dL
+LDL: 136 mg/dL
+Triglycerides: 96 mg/dL
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.35 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+
+Impression:
+Increase daily walking.

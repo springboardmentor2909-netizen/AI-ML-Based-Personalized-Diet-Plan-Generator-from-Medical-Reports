@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 7 Maple Drive, Marigold City - 406002
+Phone: +91-73789-12602
+Email: info@bluevalley82.org
+Website: www.bluevalley148.org
+Accreditation Code: BL-15363
+
+Report ID: RPT-FCBA9435
+Sample ID: SMP-11723
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8727
+
+Patient Name: X***
+Patient ID: UH-000683
+Age: 50 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 143/76 mmHg
+Pulse (bpm): -
+Glucose: 102 mg/dL
+
+Cholesterol Panel:
+  Total: 213 mg/dL
+  LDL: -
+  HDL: 36 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.88 mg/dL
+BMI: -
+
+
+Summary:
+Glucose levels mildly elevated; lifestyle changes advised.

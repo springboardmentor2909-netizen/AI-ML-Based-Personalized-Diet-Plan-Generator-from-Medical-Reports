@@ -1,0 +1,49 @@
+
+Riverdale Diagnostics
+Address: 52 Maple Drive, Hillcrest - 455473
+Phone: +91-86432-44291
+Email: info@riverdale25.org
+Website: www.riverdale257.org
+Accreditation Code: RI-64927
+
+Report ID: RPT-529E0FB4
+Sample ID: SMP-92281
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7794
+
+Patient Name: J***
+Patient ID: UH-001260
+Age: 52 years
+Gender: Male
+
+Height: 188.8 cm
+Weight: -
+
+Blood Pressure: 143/86 mmHg
+Pulse: -
+Glucose: 123 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 153 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 101 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: -
+BMI: 18.1
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 29 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Recommendations:
+Maintain current therapy plan.

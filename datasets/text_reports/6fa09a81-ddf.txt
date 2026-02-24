@@ -1,0 +1,45 @@
+
+Starhaven Diagnostics
+Address: 69 Maple Drive, Marigold City - 445220
+Phone: +91-86114-31489
+Email: info@starhaven18.org
+Website: www.starhaven881.org
+Accreditation Code: ST-36275
+
+Report ID: RPT-2418E718
+Sample ID: SMP-27940
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3063
+
+Patient Name: V***
+Patient ID: UH-001088
+Age: 35 years
+Gender: Other
+
+Height: 151.1 cm
+Weight: 58.4 kg
+
+Blood Pressure: 132/107 mmHg
+Pulse: -
+Blood Sugar (Random): 133 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 111 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 123 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 0.72 mg/dL
+BMI: 31.7
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Impression:
+Reassurance provided.

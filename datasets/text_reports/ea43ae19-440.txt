@@ -1,0 +1,36 @@
+
+NovaPath Diagnostics
+Address: 38 Alpine Street, Marigold City - 429435
+Phone: +91-84683-98964
+Email: info@novapath69.org
+Website: www.novapath731.org
+Accreditation Code: NO-83270
+
+Report ID: RPT-BDECA17E
+Sample ID: SMP-56702
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3038
+
+Patient Name: Q***
+Patient ID: UH-000469
+Age: 26 years
+Gender: Male
+
+Blood Pressure: -
+Blood Glucose: 145 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 154 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Recommendation:
+Blood pressure stable today.

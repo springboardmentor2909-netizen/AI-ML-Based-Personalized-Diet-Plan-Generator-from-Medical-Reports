@@ -1,0 +1,45 @@
+
+SolacePoint Clinical Institute
+Address: 55 Evergreen Lane, Silverpoint - 445560
+Phone: +91-93724-22898
+Email: info@solacepoint27.org
+Website: www.solacepoint690.org
+Accreditation Code: SO-25855
+
+Report ID: RPT-FFB33055
+Sample ID: SMP-41618
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6454
+
+Patient Name: G***
+Patient ID: UH-000887
+Age: 74 years
+Gender: Female
+
+Height: 183.0 cm
+Weight: -
+
+Blood Pressure: 102/84 mmHg
+Pulse Rate: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 173 mg/dL
+  LDL: 85 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 1.44 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Remark:
+Recommend rechecking lipids after 3 months.

@@ -1,0 +1,36 @@
+
+Everlight Clinical Institute
+Address: 89 Alpine Street, Silverpoint - 421095
+Phone: +91-99991-51423
+Email: info@everlight24.org
+Website: www.everlight215.org
+Accreditation Code: EV-16574
+
+Report ID: RPT-60BDF3A1
+Sample ID: SMP-61281
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7392
+
+Patient Name: E***
+Patient ID: UH-000412
+Age: 84 years
+Gender: Other
+
+Blood Pressure: 168/105 mmHg
+Blood Sugar (Random): 145 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 121 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.2 g/dL
+Creatinine: -
+BMI: 31.3
+
+
+Clinical Notes:
+Follow-up recommended after 2 weeks.

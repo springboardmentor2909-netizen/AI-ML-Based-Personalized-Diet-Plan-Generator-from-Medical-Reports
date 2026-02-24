@@ -1,0 +1,44 @@
+
+ClearRiver Pathology Lab
+Address: 88 Riverbend Ave, Meadowridge - 410991
+Phone: +91-80838-93010
+Email: info@clearriver63.org
+Website: www.clearriver871.org
+Accreditation Code: CL-13450
+
+Report ID: RPT-B2CCA990
+Sample ID: SMP-87325
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6574
+
+Patient Name: I***
+Patient ID: UH-001458
+Age: 61
+Gender: Other
+
+Blood Pressure: 103/88 mmHg
+Pulse Rate: 103 bpm
+Blood Sugar (Random): 149 mg/dL
+Height: 153.4 cm
+Weight: 46.6 kg
+Cholesterol Total: 233 mg/dL
+LDL: 147 mg/dL
+HDL: 61 mg/dL
+Triglycerides: 279 mg/dL
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 28.1
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: 22 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 87 mL/min
+
+Impression:
+Mild elevation in glucose.

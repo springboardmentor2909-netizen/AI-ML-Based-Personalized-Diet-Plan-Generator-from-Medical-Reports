@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 60 Maple Drive, Silverpoint - 417910
+Phone: +91-84040-82046
+Email: info@starhaven79.org
+Website: www.starhaven273.org
+Accreditation Code: ST-72637
+
+Report ID: RPT-18F4EE88
+Sample ID: SMP-46038
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9245
+
+Patient Name: G***
+Patient ID: UH-001093
+Age: 73 years
+Gender: Female
+
+Height: 170.7 cm
+Weight: -
+
+Blood Pressure: 133/65 mmHg
+Pulse: -
+Blood Sugar: 120 mg/dL
+
+Cholesterol Panel:
+  Total: 247 mg/dL
+  LDL: 85 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 193 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: -
+BMI: 27.6
+
+
+Remarks:
+No clinical signs of deterioration.

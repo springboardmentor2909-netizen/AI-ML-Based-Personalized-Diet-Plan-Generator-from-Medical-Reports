@@ -1,0 +1,43 @@
+
+Greencrest Hospital
+Address: 45 Maple Drive, Meadowridge - 401447
+Phone: +91-88675-56083
+Email: info@greencrest32.org
+Website: www.greencrest444.org
+Accreditation Code: GR-38140
+
+Report ID: RPT-313712EE
+Sample ID: SMP-55152
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7285
+
+Patient Name: V***
+Patient ID: UH-000564
+Age: 34 years
+Gender: Male
+
+Height: 145.0 cm
+Weight: 56.9 kg
+
+Blood Pressure: 115/108 mmHg
+Glucose: 99 mg/dL
+
+Cholesterol Panel:
+  Total: 249 mg/dL
+  LDL: 135 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 240 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: 0.85 mg/dL
+BMI: 26.0
+
+KFT:
+  Urea: 29 mg/dL
+  eGFR: 101 mL/min
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

@@ -1,0 +1,38 @@
+
+SolacePoint Clinical Institute
+Address: 23 Sunrise Boulevard, Meadowridge - 441529
+Phone: +91-87357-12400
+Email: info@solacepoint26.org
+Website: www.solacepoint549.org
+Accreditation Code: SO-78460
+
+Report ID: RPT-8A14C3E6
+Sample ID: SMP-38084
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8473
+
+Patient Name: H***
+Patient ID: UH-001419
+Age: 51
+Gender: Other
+
+Blood Pressure: 148/104 mmHg
+Pulse: 109 bpm
+Blood Sugar: 96 mg/dL
+Height: 166.3 cm
+Weight: 62.3 kg
+LDL: 104 mg/dL
+HDL: 56 mg/dL
+Triglycerides: 95 mg/dL
+Hemoglobin: 10.8 g/dL
+Creatinine: 0.64 mg/dL
+BMI: 29.5
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 86 mL/min
+
+Clinical Notes:
+Mild elevation in glucose.

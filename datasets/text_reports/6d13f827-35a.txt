@@ -1,0 +1,44 @@
+
+PrimeCare Medical Center
+Address: 79 Horizon Road, Hillcrest - 466102
+Phone: +91-87332-33897
+Email: info@primecare94.org
+Website: www.primecare927.org
+Accreditation Code: PR-27581
+
+Report ID: RPT-9C46584F
+Sample ID: SMP-11035
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2513
+
+Patient Name: M***
+Patient ID: UH-001100
+Age: 78 years
+Gender: Male
+
+Height: 172.6 cm
+Weight: 73.3 kg
+
+Blood Pressure: -
+Pulse (bpm): 110 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 252 mg/dL
+  LDL: 95 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 29.3
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 96 mL/min
+
+
+Advice:
+Follow-up recommended after 2 weeks.

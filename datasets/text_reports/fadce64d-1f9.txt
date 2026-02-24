@@ -1,0 +1,43 @@
+
+ClearRiver Clinical Institute
+Address: 90 Maple Drive, Silverpoint - 402636
+Phone: +91-89232-82030
+Email: info@clearriver45.org
+Website: www.clearriver569.org
+Accreditation Code: CL-93989
+
+Report ID: RPT-B41E8C3E
+Sample ID: SMP-83879
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7918
+
+Patient Name: H***
+Patient ID: UH-000591
+Age: 83 years
+Gender: Female
+
+Height: 177.8 cm
+Weight: -
+
+Blood Pressure: 135/73 mmHg
+Blood Sugar: 114 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 109 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: 123 mg/dL
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.47 mg/dL
+BMI: -
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 85 mL/min
+
+
+Recommendation:
+Continue present medications.

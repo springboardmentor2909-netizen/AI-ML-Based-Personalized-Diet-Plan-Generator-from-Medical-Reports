@@ -1,0 +1,49 @@
+
+Silver Oak Clinical Institute
+Address: 4 Horizon Road, Eastwood - 426009
+Phone: +91-80574-85592
+Email: info@silver oak96.org
+Website: www.silver oak655.org
+Accreditation Code: SI-97251
+
+Report ID: RPT-242F74F0
+Sample ID: SMP-69320
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1456
+
+Patient Name: W***
+Patient ID: UH-000978
+Age: 48 years
+Gender: Male
+
+Height: 169.3 cm
+Weight: 86.3 kg
+
+Blood Pressure: 167/95 mmHg
+Pulse Rate: 65 bpm
+Blood Sugar (Random): 141 mg/dL
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: 139 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 158 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 0.94 mg/dL
+BMI: 31.7
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 38 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 62 mL/min
+
+
+Remark:
+Possible dehydration; fluids advised.

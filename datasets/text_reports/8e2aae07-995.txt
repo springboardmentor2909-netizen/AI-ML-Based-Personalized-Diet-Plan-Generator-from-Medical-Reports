@@ -1,0 +1,40 @@
+
+Northlake Hospital
+Address: 97 Horizon Road, Westlake - 492785
+Phone: +91-99524-45590
+Email: info@northlake38.org
+Website: www.northlake622.org
+Accreditation Code: NO-86541
+
+Report ID: RPT-B7D49355
+Sample ID: SMP-62706
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 10:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3095
+
+Patient Name: C***
+Patient ID: UH-000918
+Age: 85 years
+Gender: Other
+
+Height: 176.8 cm
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Sugar (Random): 133 mg/dL
+
+Cholesterol Panel:
+  Total: 167 mg/dL
+  LDL: -
+  HDL: 34 mg/dL
+  Triglycerides: 213 mg/dL
+
+Hemoglobin: 11.1 g/dL
+Creatinine: 0.92 mg/dL
+BMI: 27.3
+
+
+Clinical Notes:
+Infection markers normal. No antibiotics needed.

@@ -1,0 +1,40 @@
+
+PrimeCare Medical Center
+Address: 46 Alpine Street, Westlake - 433420
+Phone: +91-86411-97351
+Email: info@primecare71.org
+Website: www.primecare607.org
+Accreditation Code: PR-62754
+
+Report ID: RPT-ABD1E4AB
+Sample ID: SMP-45496
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4259
+
+Patient Name: T***
+Patient ID: UH-001304
+Age: 43
+Gender: Female
+
+Blood Pressure: 114/108 mmHg
+Pulse Rate: 75 bpm
+Blood Glucose: 149 mg/dL
+Height: 157.6 cm
+Weight: 84.9 kg
+Cholesterol Total: 215 mg/dL
+LDL: 112 mg/dL
+HDL: 42 mg/dL
+Triglycerides: 160 mg/dL
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.53 mg/dL
+BMI: 26.4
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+Recommendations:
+Glucose mildly elevated; diet improvement advised.

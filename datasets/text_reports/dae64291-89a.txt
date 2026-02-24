@@ -1,0 +1,36 @@
+
+Riverdale Medical Center
+Address: 40 Alpine Street, Westlake - 472565
+Phone: +91-88399-75310
+Email: info@riverdale32.org
+Website: www.riverdale163.org
+Accreditation Code: RI-61815
+
+Report ID: RPT-093EBE52
+Sample ID: SMP-92317
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2460
+
+Patient Name: V***
+Patient ID: UH-000417
+Age: 62 years
+Gender: Female
+
+Blood Pressure: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 220 mg/dL
+  LDL: -
+  HDL: 32 mg/dL
+  Triglycerides: 122 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.24 mg/dL
+BMI: -
+
+
+Clinical Notes:
+Lipid levels require monitoring.

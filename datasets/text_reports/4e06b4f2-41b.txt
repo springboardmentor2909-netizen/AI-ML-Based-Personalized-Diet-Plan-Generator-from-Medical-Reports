@@ -1,0 +1,39 @@
+
+Northlake Diagnostics
+Address: 72 Horizon Road, Eastwood - 463541
+Phone: +91-84686-62960
+Email: info@northlake49.org
+Website: www.northlake115.org
+Accreditation Code: NO-46358
+
+Report ID: RPT-1E315BC9
+Sample ID: SMP-69808
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8871
+
+Patient Name: A***
+Patient ID: UH-000536
+Age: 33 years
+Gender: Male
+
+Height: 161.2 cm
+Weight: 58.8 kg
+
+Blood Pressure: 167/86 mmHg
+Blood Sugar (Random): 125 mg/dL
+
+Cholesterol Panel:
+  Total: 233 mg/dL
+  LDL: 120 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 172 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 27.1
+
+
+Remark:
+Blood pressure within acceptable range.

@@ -1,0 +1,44 @@
+
+NovaPath Hospital
+Address: 24 Riverbend Ave, Meadowridge - 403092
+Phone: +91-97551-17288
+Email: info@novapath78.org
+Website: www.novapath919.org
+Accreditation Code: NO-14201
+
+Report ID: RPT-B3996C61
+Sample ID: SMP-23373
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3891
+
+Patient Name: V***
+Patient ID: UH-001175
+Age: 74 years
+Gender: Female
+
+Height: 161.5 cm
+Weight: 87.6 kg
+
+Blood Pressure: -
+Pulse: 72 bpm
+Blood Glucose: 84 mg/dL
+
+Cholesterol Panel:
+  Total: 206 mg/dL
+  LDL: 80 mg/dL
+  HDL: -
+  Triglycerides: 169 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.07 mg/dL
+BMI: 32.0
+
+KFT:
+  Urea: 38 mg/dL
+  eGFR: 103 mL/min
+
+
+Clinical Notes:
+Stable condition. OPD review later.

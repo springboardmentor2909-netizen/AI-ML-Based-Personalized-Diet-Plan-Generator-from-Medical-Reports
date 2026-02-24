@@ -1,0 +1,35 @@
+
+NovaPath Medical Center
+Address: 27 Horizon Road, Silverpoint - 443135
+Phone: +91-85469-27207
+Email: info@novapath66.org
+Website: www.novapath605.org
+Accreditation Code: NO-93309
+
+Report ID: RPT-1804F8C7
+Sample ID: SMP-51482
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2653
+
+Patient Name: S***
+Patient ID: UH-001513
+Age: 70
+Gender: Other
+
+Blood Pressure: 151/69 mmHg
+Pulse Rate: 89 bpm
+Blood Glucose: 124 mg/dL
+Height: 181.1 cm
+Weight: 60.8 kg
+Cholesterol Total: 227 mg/dL
+LDL: 143 mg/dL
+HDL: 50 mg/dL
+Triglycerides: 203 mg/dL
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.57 mg/dL
+BMI: 22.6
+
+Summary:
+Increase physical activity.

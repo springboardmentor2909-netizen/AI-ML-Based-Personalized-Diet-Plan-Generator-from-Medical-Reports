@@ -1,0 +1,44 @@
+
+Starhaven Clinical Institute
+Address: 65 Alpine Street, Westlake - 499335
+Phone: +91-94294-32799
+Email: info@starhaven56.org
+Website: www.starhaven762.org
+Accreditation Code: ST-32087
+
+Report ID: RPT-D3E9D69B
+Sample ID: SMP-80824
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7044
+
+Patient Name: M***
+Patient ID: UH-000899
+Age: 85 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 112/105 mmHg
+Pulse: 73 bpm
+Blood Glucose: 167 mg/dL
+
+Cholesterol Panel:
+  Total: 221 mg/dL
+  LDL: 90 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 228 mg/dL
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 33.3
+
+KFT:
+  Urea: 45 mg/dL
+  eGFR: 96 mL/min
+
+
+Impression:
+Blood pressure requires monitoring.

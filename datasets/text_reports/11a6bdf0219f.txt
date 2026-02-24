@@ -1,0 +1,30 @@
+
+SolacePoint Diagnostics
+Address: 39 Evergreen Lane, Eastwood - 446386
+Phone: +91-78864-27372
+Email: info@solacepoint99.org
+Website: www.solacepoint955.org
+Accreditation Code: SO-90439
+
+Report ID: RPT-D3926E50
+Sample ID: SMP-80288
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7899
+
+Patient Name: O***
+Patient ID: UH-001537
+Age: 26
+Gender: Other
+
+Blood Pressure: 139/73 mmHg
+Pulse (bpm): 62 bpm
+Cholesterol Total: 185 mg/dL
+HDL: 52 mg/dL
+Triglycerides: 154 mg/dL
+Hemoglobin: 9.6 g/dL
+Creatinine: 1.4 mg/dL
+
+Recommendation:
+Reduce salt intake.

@@ -1,0 +1,44 @@
+
+ClearRiver Clinical Institute
+Address: 38 Maple Drive, Marigold City - 453556
+Phone: +91-78218-67564
+Email: info@clearriver33.org
+Website: www.clearriver921.org
+Accreditation Code: CL-51873
+
+Report ID: RPT-9B6DB71D
+Sample ID: SMP-27125
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4549
+
+Patient Name: Z***
+Patient ID: UH-001561
+Age: 23
+Gender: Female
+
+Blood Pressure: 145/102 mmHg
+Pulse Rate: 66 bpm
+Blood Sugar (Random): 148 mg/dL
+Height: 148.5 cm
+Weight: 63.2 kg
+Cholesterol Total: 179 mg/dL
+LDL: 143 mg/dL
+HDL: 34 mg/dL
+Triglycerides: 169 mg/dL
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.25 mg/dL
+BMI: 20.8
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 40 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 124 mL/min
+
+Summary:
+Increase physical activity.

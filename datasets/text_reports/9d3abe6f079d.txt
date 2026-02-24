@@ -1,0 +1,38 @@
+
+Silver Oak Clinical Institute
+Address: 6 Sunrise Boulevard, Meadowridge - 472091
+Phone: +91-81608-36301
+Email: info@silver oak72.org
+Website: www.silver oak602.org
+Accreditation Code: SI-28002
+
+Report ID: RPT-8607349F
+Sample ID: SMP-74166
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4305
+
+Patient Name: S***
+Patient ID: UH-001510
+Age: 18
+Gender: Male
+
+Blood Pressure: 104/103 mmHg
+Pulse: 96 bpm
+Blood Sugar: 161 mg/dL
+Height: 169.1 cm
+Weight: 95.7 kg
+Cholesterol Total: 173 mg/dL
+LDL: 142 mg/dL
+Triglycerides: 124 mg/dL
+Hemoglobin: 9.9 g/dL
+Creatinine: 1.37 mg/dL
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 25 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+Remark:
+Values improving.

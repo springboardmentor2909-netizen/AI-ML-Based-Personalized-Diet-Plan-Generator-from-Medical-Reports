@@ -1,0 +1,49 @@
+
+NovaPath Pathology Lab
+Address: 11 Maple Drive, Westlake - 453058
+Phone: +91-95950-95519
+Email: info@novapath70.org
+Website: www.novapath834.org
+Accreditation Code: NO-87977
+
+Report ID: RPT-F59F8803
+Sample ID: SMP-86807
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7559
+
+Patient Name: X***
+Patient ID: UH-000980
+Age: 38 years
+Gender: Other
+
+Height: 183.6 cm
+Weight: 73.2 kg
+
+Blood Pressure: 152/91 mmHg
+Pulse Rate: 80 bpm
+Blood Sugar (Random): 100 mg/dL
+
+Cholesterol Panel:
+  Total: 182 mg/dL
+  LDL: 95 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 119 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 25.9
+
+LFT:
+  AST/SGOT: 33 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 28 mg/dL
+  eGFR: 97 mL/min
+
+
+Advice:
+Continue present medications.

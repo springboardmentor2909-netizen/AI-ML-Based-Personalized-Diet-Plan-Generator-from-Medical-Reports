@@ -1,0 +1,45 @@
+
+Starhaven Diagnostics
+Address: 85 Sunrise Boulevard, Westlake - 410012
+Phone: +91-83048-44108
+Email: info@starhaven70.org
+Website: www.starhaven591.org
+Accreditation Code: ST-96129
+
+Report ID: RPT-2C0C092C
+Sample ID: SMP-11953
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9438
+
+Patient Name: W***
+Patient ID: UH-001183
+Age: 71 years
+Gender: Male
+
+Height: 171.3 cm
+Weight: 94.4 kg
+
+Blood Pressure: 146/97 mmHg
+Pulse (bpm): 67 bpm
+Blood Sugar (Random): 142 mg/dL
+
+Cholesterol Panel:
+  Total: 196 mg/dL
+  LDL: 106 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 189 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 1.36 mg/dL
+BMI: 25.6
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 45 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+
+Advice:
+No signs of active infection.

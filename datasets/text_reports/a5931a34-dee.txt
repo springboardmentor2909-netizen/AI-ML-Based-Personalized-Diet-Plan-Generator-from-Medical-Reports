@@ -1,0 +1,43 @@
+
+Riverdale Medical Center
+Address: 64 Maple Drive, Eastwood - 481003
+Phone: +91-79134-96081
+Email: info@riverdale97.org
+Website: www.riverdale547.org
+Accreditation Code: RI-76942
+
+Report ID: RPT-3A0DC759
+Sample ID: SMP-86846
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6659
+
+Patient Name: I***
+Patient ID: UH-000569
+Age: 70 years
+Gender: Male
+
+Height: 156.2 cm
+Weight: -
+
+Blood Pressure: 137/100 mmHg
+Blood Sugar (Random): 88 mg/dL
+
+Cholesterol Panel:
+  Total: 197 mg/dL
+  LDL: 94 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: 176 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 0.92 mg/dL
+BMI: 18.4
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 98 mL/min
+
+
+Remarks:
+Continue present medications.

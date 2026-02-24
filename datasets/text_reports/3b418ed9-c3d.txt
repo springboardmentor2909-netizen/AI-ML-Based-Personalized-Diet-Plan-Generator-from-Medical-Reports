@@ -1,0 +1,40 @@
+
+ClearRiver Diagnostics
+Address: 83 Alpine Street, Clearwater - 494311
+Phone: +91-79051-97519
+Email: info@clearriver14.org
+Website: www.clearriver246.org
+Accreditation Code: CL-72730
+
+Report ID: RPT-65A31D4F
+Sample ID: SMP-55288
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2768
+
+Patient Name: Z***
+Patient ID: UH-000429
+Age: 48 years
+Gender: Male
+
+Blood Pressure: 161/98 mmHg
+Blood Sugar: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 174 mg/dL
+  LDL: 152 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 13.8 g/dL
+Creatinine: 1.16 mg/dL
+BMI: 28.1
+
+KFT:
+  Urea: 38 mg/dL
+  eGFR: 80 mL/min
+
+
+Impression:
+Glucose levels mildly elevated; lifestyle changes advised.

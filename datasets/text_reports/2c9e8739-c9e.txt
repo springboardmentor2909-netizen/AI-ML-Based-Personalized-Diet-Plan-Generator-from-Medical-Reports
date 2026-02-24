@@ -1,0 +1,40 @@
+
+ClearRiver Medical Center
+Address: 78 Alpine Street, Silverpoint - 472878
+Phone: +91-79735-42863
+Email: info@clearriver19.org
+Website: www.clearriver507.org
+Accreditation Code: CL-53086
+
+Report ID: RPT-FFCD3FB5
+Sample ID: SMP-12156
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7069
+
+Patient Name: O***
+Patient ID: UH-000888
+Age: 46 years
+Gender: Other
+
+Height: -
+Weight: 59.9 kg
+
+Blood Pressure: 105/101 mmHg
+Pulse (bpm): -
+Blood Sugar (Random): 131 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 149 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.43 mg/dL
+BMI: -
+
+
+Remarks:
+Reassurance provided.

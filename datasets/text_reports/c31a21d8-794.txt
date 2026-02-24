@@ -1,0 +1,40 @@
+
+PrimeCare Clinical Institute
+Address: 26 Sunrise Boulevard, Northbay - 439751
+Phone: +91-88621-65807
+Email: info@primecare65.org
+Website: www.primecare758.org
+Accreditation Code: PR-27830
+
+Report ID: RPT-4ADA4E15
+Sample ID: SMP-57839
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9116
+
+Patient Name: T***
+Patient ID: UH-000900
+Age: 76 years
+Gender: Male
+
+Height: 177.2 cm
+Weight: 80.3 kg
+
+Blood Pressure: 144/110 mmHg
+Pulse: 72 bpm
+Blood Glucose: 80 mg/dL
+
+Cholesterol Panel:
+  Total: 175 mg/dL
+  LDL: 153 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 118 mg/dL
+
+Hemoglobin: 12.8 g/dL
+Creatinine: 1.27 mg/dL
+BMI: 25.1
+
+
+Doctor's Comments:
+Lifestyle counseling advised.

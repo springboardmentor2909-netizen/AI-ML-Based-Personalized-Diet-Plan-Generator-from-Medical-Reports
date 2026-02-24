@@ -1,0 +1,36 @@
+
+Riverdale Hospital
+Address: 37 Alpine Street, Marigold City - 417694
+Phone: +91-94803-31541
+Email: info@riverdale47.org
+Website: www.riverdale355.org
+Accreditation Code: RI-17963
+
+Report ID: RPT-DBC31F57
+Sample ID: SMP-49211
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4209
+
+Patient Name: T***
+Patient ID: UH-000495
+Age: 53 years
+Gender: Other
+
+Blood Pressure: 143/101 mmHg
+Blood Sugar: 85 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 130 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 119 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 28.2
+
+
+Impression:
+Blood pressure stable today.

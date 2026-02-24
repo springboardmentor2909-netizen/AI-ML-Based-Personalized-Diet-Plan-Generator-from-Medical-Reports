@@ -1,0 +1,49 @@
+
+ClearRiver Diagnostics
+Address: 80 Sunrise Boulevard, Hillcrest - 415728
+Phone: +91-77287-27937
+Email: info@clearriver64.org
+Website: www.clearriver161.org
+Accreditation Code: CL-89610
+
+Report ID: RPT-5103F34D
+Sample ID: SMP-36521
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7524
+
+Patient Name: B***
+Patient ID: UH-000614
+Age: 66 years
+Gender: Female
+
+Height: 167.4 cm
+Weight: -
+
+Blood Pressure: 148/69 mmHg
+Pulse: 96 bpm
+Blood Sugar: 115 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 151 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 227 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 0.9 mg/dL
+BMI: 20.9
+
+LFT:
+  AST/SGOT: 40 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 29 mg/dL
+  eGFR: -
+
+
+Clinical Notes:
+Follow-up recommended after 2 weeks.

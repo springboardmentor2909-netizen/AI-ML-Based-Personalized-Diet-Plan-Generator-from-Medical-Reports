@@ -1,0 +1,45 @@
+
+SolacePoint Diagnostics
+Address: 34 Sunrise Boulevard, Marigold City - 492155
+Phone: +91-92347-13951
+Email: info@solacepoint94.org
+Website: www.solacepoint457.org
+Accreditation Code: SO-80904
+
+Report ID: RPT-9C97E580
+Sample ID: SMP-77055
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1417
+
+Patient Name: M***
+Patient ID: UH-000996
+Age: 68 years
+Gender: Female
+
+Height: 159.3 cm
+Weight: 63.9 kg
+
+Blood Pressure: 126/84 mmHg
+Pulse: 85 bpm
+Blood Sugar: 84 mg/dL
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: 139 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 238 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: 1.25 mg/dL
+BMI: 26.5
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Remarks:
+Infection markers normal. No antibiotics needed.

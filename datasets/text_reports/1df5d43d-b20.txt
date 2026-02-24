@@ -1,0 +1,49 @@
+
+Greencrest Hospital
+Address: 17 Maple Drive, Silverpoint - 489950
+Phone: +91-98079-60640
+Email: info@greencrest82.org
+Website: www.greencrest604.org
+Accreditation Code: GR-65621
+
+Report ID: RPT-FF6C831F
+Sample ID: SMP-47649
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2265
+
+Patient Name: D***
+Patient ID: UH-001032
+Age: 58 years
+Gender: Male
+
+Height: 187.2 cm
+Weight: 62.5 kg
+
+Blood Pressure: 163/102 mmHg
+Pulse: 66 bpm
+Glucose: 164 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 135 mg/dL
+  HDL: -
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 1.16 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 30 mg/dL
+  eGFR: 114 mL/min
+
+
+Clinical Notes:
+Discussed with patient. Understood.

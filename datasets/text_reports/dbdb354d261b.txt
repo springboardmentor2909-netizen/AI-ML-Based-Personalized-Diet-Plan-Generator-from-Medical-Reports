@@ -1,0 +1,31 @@
+
+BlueValley Hospital
+Address: 97 Sunrise Boulevard, Clearwater - 482654
+Phone: +91-70784-77862
+Email: info@bluevalley71.org
+Website: www.bluevalley720.org
+Accreditation Code: BL-66645
+
+Report ID: RPT-74BEDDD9
+Sample ID: SMP-27299
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2654
+
+Patient Name: X***
+Patient ID: UH-001402
+Age: 77
+Gender: Male
+
+Blood Pressure: 141/73 mmHg
+Blood Glucose: 108 mg/dL
+Weight: 61.3 kg
+Cholesterol Total: 246 mg/dL
+LDL: 109 mg/dL
+Triglycerides: 221 mg/dL
+Hemoglobin: 14.4 g/dL
+BMI: 26.8
+
+Clinical Notes:
+Follow-up advised.

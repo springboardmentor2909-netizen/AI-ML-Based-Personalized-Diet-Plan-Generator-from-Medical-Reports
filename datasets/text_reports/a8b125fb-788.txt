@@ -1,0 +1,40 @@
+
+Riverdale Hospital
+Address: 61 Horizon Road, Marigold City - 476706
+Phone: +91-95263-32926
+Email: info@riverdale55.org
+Website: www.riverdale451.org
+Accreditation Code: RI-77838
+
+Report ID: RPT-48032E5B
+Sample ID: SMP-92566
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7488
+
+Patient Name: A***
+Patient ID: UH-000976
+Age: 18 years
+Gender: Female
+
+Height: -
+Weight: 71.1 kg
+
+Blood Pressure: -
+Pulse (bpm): 85 bpm
+Blood Sugar (Random): 164 mg/dL
+
+Cholesterol Panel:
+  Total: 191 mg/dL
+  LDL: 85 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 180 mg/dL
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 0.82 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Reassurance provided.

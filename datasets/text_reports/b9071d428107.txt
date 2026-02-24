@@ -1,0 +1,29 @@
+
+PrimeCare Hospital
+Address: 70 Maple Drive, Hillcrest - 416604
+Phone: +91-77483-55373
+Email: info@primecare83.org
+Website: www.primecare964.org
+Accreditation Code: PR-30156
+
+Report ID: RPT-0E61A163
+Sample ID: SMP-39342
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9762
+
+Patient Name: H***
+Patient ID: UH-001540
+Age: 28
+Gender: Other
+
+Blood Pressure: 135/84 mmHg
+Height: 150.6 cm
+Cholesterol Total: 237 mg/dL
+LDL: 123 mg/dL
+Hemoglobin: 15.4 g/dL
+Creatinine: 0.65 mg/dL
+
+Impression:
+Follow-up advised.

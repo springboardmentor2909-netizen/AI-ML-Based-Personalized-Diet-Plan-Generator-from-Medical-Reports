@@ -1,0 +1,40 @@
+
+Riverdale Medical Center
+Address: 88 Alpine Street, Silverpoint - 477724
+Phone: +91-73715-59395
+Email: info@riverdale64.org
+Website: www.riverdale576.org
+Accreditation Code: RI-45771
+
+Report ID: RPT-E46D0575
+Sample ID: SMP-37899
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2462
+
+Patient Name: S***
+Patient ID: UH-001162
+Age: 73 years
+Gender: Male
+
+Height: -
+Weight: 54.7 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 192 mg/dL
+  LDL: 152 mg/dL
+  HDL: 36 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.09 mg/dL
+BMI: -
+
+
+Recommendation:
+Increase moderate activity.

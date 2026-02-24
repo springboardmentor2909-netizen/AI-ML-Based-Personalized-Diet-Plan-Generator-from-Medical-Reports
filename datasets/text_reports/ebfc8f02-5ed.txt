@@ -1,0 +1,40 @@
+
+SolacePoint Clinical Institute
+Address: 55 Evergreen Lane, Silverpoint - 445560
+Phone: +91-93724-22898
+Email: info@solacepoint27.org
+Website: www.solacepoint690.org
+Accreditation Code: SO-25855
+
+Report ID: RPT-5AB353BA
+Sample ID: SMP-71355
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4819
+
+Patient Name: A***
+Patient ID: UH-000868
+Age: 71 years
+Gender: Other
+
+Height: 147.9 cm
+Weight: 46.3 kg
+
+Blood Pressure: 160/66 mmHg
+Pulse (bpm): 85 bpm
+Blood Glucose: 131 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 120 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 112 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 18.2
+
+
+Recommendations:
+Monitor BP at home regularly.

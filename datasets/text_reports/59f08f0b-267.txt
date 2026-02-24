@@ -1,0 +1,40 @@
+
+NovaPath Clinical Institute
+Address: 17 Alpine Street, Hillcrest - 414048
+Phone: +91-86293-66869
+Email: info@novapath94.org
+Website: www.novapath341.org
+Accreditation Code: NO-28296
+
+Report ID: RPT-C32BFA02
+Sample ID: SMP-38458
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4170
+
+Patient Name: Z***
+Patient ID: UH-000806
+Age: 77 years
+Gender: Male
+
+Height: -
+Weight: 92.9 kg
+
+Blood Pressure: 155/99 mmHg
+Pulse: -
+Blood Sugar (Random): 148 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 94 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 234 mg/dL
+
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.04 mg/dL
+BMI: 24.3
+
+
+Doctor's Notes:
+Needs follow-up in OPD.

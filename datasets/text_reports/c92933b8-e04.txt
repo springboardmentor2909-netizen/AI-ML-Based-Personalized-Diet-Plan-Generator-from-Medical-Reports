@@ -1,0 +1,40 @@
+
+Greencrest Diagnostics
+Address: 71 Maple Drive, Clearwater - 498978
+Phone: +91-97165-55211
+Email: info@greencrest94.org
+Website: www.greencrest331.org
+Accreditation Code: GR-27832
+
+Report ID: RPT-C264A01B
+Sample ID: SMP-42567
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2330
+
+Patient Name: T***
+Patient ID: UH-001007
+Age: 33 years
+Gender: Female
+
+Height: 159.0 cm
+Weight: 50.6 kg
+
+Blood Pressure: 107/99 mmHg
+Pulse Rate: -
+Blood Sugar (Random): 118 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 46 mg/dL
+  Triglycerides: 135 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: -
+BMI: 25.1
+
+
+Remark:
+Medication adherence reviewed.

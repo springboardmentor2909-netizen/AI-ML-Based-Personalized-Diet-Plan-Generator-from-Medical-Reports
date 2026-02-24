@@ -1,0 +1,45 @@
+
+Starhaven Medical Center
+Address: 17 Riverbend Ave, Marigold City - 454431
+Phone: +91-82831-87079
+Email: info@starhaven19.org
+Website: www.starhaven475.org
+Accreditation Code: ST-52375
+
+Report ID: RPT-29B6E893
+Sample ID: SMP-13172
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4931
+
+Patient Name: C***
+Patient ID: UH-001116
+Age: 28 years
+Gender: Other
+
+Height: 159.4 cm
+Weight: 86.8 kg
+
+Blood Pressure: 152/73 mmHg
+Pulse Rate: 97 bpm
+Blood Glucose: 108 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: 113 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.2 g/dL
+Creatinine: -
+BMI: 22.9
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+
+Summary:
+Encouraged daily walking.

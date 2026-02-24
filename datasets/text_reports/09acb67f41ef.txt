@@ -1,0 +1,34 @@
+
+Riverdale Clinical Institute
+Address: 2 Riverbend Ave, Marigold City - 409177
+Phone: +91-93512-66918
+Email: info@riverdale96.org
+Website: www.riverdale691.org
+Accreditation Code: RI-40725
+
+Report ID: RPT-9CA413D5
+Sample ID: SMP-99188
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3567
+
+Patient Name: L***
+Patient ID: UH-001336
+Age: 32
+Gender: Female
+
+Blood Pressure: 136/91 mmHg
+Blood Glucose: 89 mg/dL
+Weight: 99.5 kg
+Cholesterol Total: 241 mg/dL
+LDL: 159 mg/dL
+Triglycerides: 269 mg/dL
+Creatinine: 0.95 mg/dL
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 80 mL/min
+
+Doctor's Notes:
+Monitor BP regularly at home.

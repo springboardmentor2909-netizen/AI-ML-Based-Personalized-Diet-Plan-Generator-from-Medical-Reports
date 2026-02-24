@@ -1,0 +1,44 @@
+
+SolacePoint Medical Center
+Address: 35 Maple Drive, Marigold City - 408445
+Phone: +91-99216-72391
+Email: info@solacepoint73.org
+Website: www.solacepoint301.org
+Accreditation Code: SO-65611
+
+Report ID: RPT-F2D0377D
+Sample ID: SMP-15758
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9608
+
+Patient Name: K***
+Patient ID: UH-000920
+Age: 64 years
+Gender: Male
+
+Height: 187.0 cm
+Weight: 61.7 kg
+
+Blood Pressure: 166/78 mmHg
+Pulse: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 174 mg/dL
+  LDL: 113 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: 198 mg/dL
+
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.02 mg/dL
+BMI: 22.6
+
+KFT:
+  Urea: 28 mg/dL
+  eGFR: -
+
+
+Summary:
+Hb slightly low; iron-rich diet suggested.

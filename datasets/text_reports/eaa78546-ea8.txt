@@ -1,0 +1,44 @@
+
+PrimeCare Clinical Institute
+Address: 8 Evergreen Lane, Northbay - 418433
+Phone: +91-92498-21074
+Email: info@primecare11.org
+Website: www.primecare563.org
+Accreditation Code: PR-13945
+
+Report ID: RPT-0F743C64
+Sample ID: SMP-50805
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2533
+
+Patient Name: T***
+Patient ID: UH-001025
+Age: 43 years
+Gender: Female
+
+Height: -
+Weight: 45.3 kg
+
+Blood Pressure: 122/106 mmHg
+Pulse: 72 bpm
+Blood Sugar: 167 mg/dL
+
+Cholesterol Panel:
+  Total: 246 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 142 mg/dL
+
+Hemoglobin: 13.8 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 20.2
+
+KFT:
+  Urea: 25 mg/dL
+  eGFR: 73 mL/min
+
+
+Impression:
+Adequate control maintained.

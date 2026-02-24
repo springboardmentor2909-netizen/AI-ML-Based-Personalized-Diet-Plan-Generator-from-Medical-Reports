@@ -1,0 +1,49 @@
+
+NovaPath Pathology Lab
+Address: 51 Sunrise Boulevard, Meadowridge - 452714
+Phone: +91-94180-73014
+Email: info@novapath30.org
+Website: www.novapath104.org
+Accreditation Code: NO-69820
+
+Report ID: RPT-A89D2BB1
+Sample ID: SMP-44505
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4648
+
+Patient Name: O***
+Patient ID: UH-000881
+Age: 23 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 104/108 mmHg
+Pulse Rate: -
+Blood Sugar: 165 mg/dL
+
+Cholesterol Panel:
+  Total: 215 mg/dL
+  LDL: -
+  HDL: 47 mg/dL
+  Triglycerides: 123 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 27.9
+
+LFT:
+  AST/SGOT: 13 U/L
+  ALT/SGPT: 18 U/L
+  Bilirubin Total: 1.3 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 98 mL/min
+
+
+Recommendations:
+Vitals stable. No acute concerns.

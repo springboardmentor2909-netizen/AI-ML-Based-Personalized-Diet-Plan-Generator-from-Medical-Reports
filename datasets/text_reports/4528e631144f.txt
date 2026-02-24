@@ -1,0 +1,49 @@
+
+Silver Oak Pathology Lab
+Address: 43 Maple Drive, Silverpoint - 488737
+Phone: +91-83534-97982
+Email: info@silver oak70.org
+Website: www.silver oak409.org
+Accreditation Code: SI-77122
+
+Report ID: RPT-242D1F24
+Sample ID: SMP-78547
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3362
+
+Patient Name: H***
+Patient ID: UH-001276
+Age: 27 years
+Gender: Other
+
+Height: 152.3 cm
+Weight: 84.3 kg
+
+Blood Pressure: 132/98 mmHg
+Pulse: 97 bpm
+Glucose: 80 mg/dL
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 158 mg/dL
+  HDL: 28 mg/dL
+  Triglycerides: 154 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 19.1
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: 32 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 37 mg/dL
+  eGFR: 116 mL/min
+
+
+Clinical Notes:
+Discussed results clearly. Patient understood.

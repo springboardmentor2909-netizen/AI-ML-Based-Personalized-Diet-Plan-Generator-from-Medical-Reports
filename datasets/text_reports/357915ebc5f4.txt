@@ -1,0 +1,36 @@
+
+Northlake Hospital
+Address: 86 Maple Drive, Silverpoint - 480963
+Phone: +91-82612-12616
+Email: info@northlake95.org
+Website: www.northlake821.org
+Accreditation Code: NO-77835
+
+Report ID: RPT-549B4717
+Sample ID: SMP-76624
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 08:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3469
+
+Patient Name: K***
+Patient ID: UH-001538
+Age: 25
+Gender: Female
+
+Blood Pressure: 166/60 mmHg
+Glucose: 141 mg/dL
+Weight: 62.3 kg
+Cholesterol Total: 205 mg/dL
+LDL: 71 mg/dL
+HDL: 52 mg/dL
+Hemoglobin: 15.5 g/dL
+Creatinine: 0.68 mg/dL
+BMI: 25.3
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 61 mL/min
+
+Summary:
+Continue medications.

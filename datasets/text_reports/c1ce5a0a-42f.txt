@@ -1,0 +1,40 @@
+
+Riverdale Clinical Institute
+Address: 4 Riverbend Ave, Silverpoint - 498583
+Phone: +91-72371-71840
+Email: info@riverdale89.org
+Website: www.riverdale424.org
+Accreditation Code: RI-73797
+
+Report ID: RPT-46C10AFC
+Sample ID: SMP-15691
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4925
+
+Patient Name: T***
+Patient ID: UH-000649
+Age: 66 years
+Gender: Female
+
+Height: 180.1 cm
+Weight: 61.8 kg
+
+Blood Pressure: 168/75 mmHg
+Pulse (bpm): 72 bpm
+Blood Sugar (Random): 140 mg/dL
+
+Cholesterol Panel:
+  Total: 256 mg/dL
+  LDL: 148 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 233 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 19.5
+
+
+Recommendations:
+Continue present medications.

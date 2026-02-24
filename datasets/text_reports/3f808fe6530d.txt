@@ -1,0 +1,36 @@
+
+Starhaven Pathology Lab
+Address: 45 Sunrise Boulevard, Meadowridge - 468516
+Phone: +91-90871-65767
+Email: info@starhaven77.org
+Website: www.starhaven467.org
+Accreditation Code: ST-66458
+
+Report ID: RPT-7C5E9B3F
+Sample ID: SMP-74584
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8389
+
+Patient Name: H***
+Patient ID: UH-001482
+Age: 25
+Gender: Female
+
+Blood Sugar (Random): 131 mg/dL
+Height: 156.1 cm
+Weight: 95.1 kg
+Cholesterol Total: 173 mg/dL
+HDL: 34 mg/dL
+Triglycerides: 113 mg/dL
+Hemoglobin: 15.8 g/dL
+Creatinine: 0.79 mg/dL
+BMI: 22.8
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 75 mL/min
+
+Clinical Notes:
+Continue medications.

@@ -1,0 +1,49 @@
+
+PrimeCare Medical Center
+Address: 74 Sunrise Boulevard, Eastwood - 410269
+Phone: +91-98151-35751
+Email: info@primecare59.org
+Website: www.primecare495.org
+Accreditation Code: PR-16021
+
+Report ID: RPT-02478DF5
+Sample ID: SMP-29238
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9679
+
+Patient Name: X***
+Patient ID: UH-001178
+Age: 66 years
+Gender: Female
+
+Height: 174.9 cm
+Weight: 66.0 kg
+
+Blood Pressure: 156/65 mmHg
+Pulse: 67 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 221 mg/dL
+  LDL: -
+  HDL: 34 mg/dL
+  Triglycerides: 214 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: -
+BMI: 33.2
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 105 mL/min
+
+
+Advice:
+Further evaluation if symptoms persist.

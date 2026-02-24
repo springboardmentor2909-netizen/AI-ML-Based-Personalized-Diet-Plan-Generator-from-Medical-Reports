@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 66 Riverbend Ave, Hillcrest - 463898
+Phone: +91-95644-79234
+Email: info@greencrest49.org
+Website: www.greencrest830.org
+Accreditation Code: GR-33295
+
+Report ID: RPT-E2E278F3
+Sample ID: SMP-58150
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6247
+
+Patient Name: U***
+Patient ID: UH-000960
+Age: 33 years
+Gender: Male
+
+Height: 169.9 cm
+Weight: 89.2 kg
+
+Blood Pressure: 100/67 mmHg
+Pulse: 98 bpm
+Blood Glucose: 156 mg/dL
+
+Cholesterol Panel:
+  Total: 191 mg/dL
+  LDL: 157 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.37 mg/dL
+BMI: 32.0
+
+
+Summary:
+Diet modification essential.

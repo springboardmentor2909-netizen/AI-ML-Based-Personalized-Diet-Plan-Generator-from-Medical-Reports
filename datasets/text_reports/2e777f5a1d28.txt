@@ -1,0 +1,45 @@
+
+Greencrest Pathology Lab
+Address: 48 Sunrise Boulevard, Marigold City - 453564
+Phone: +91-78611-13303
+Email: info@greencrest12.org
+Website: www.greencrest503.org
+Accreditation Code: GR-36238
+
+Report ID: RPT-444F32E1
+Sample ID: SMP-47157
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9508
+
+Patient Name: N***
+Patient ID: UH-001239
+Age: 28 years
+Gender: Other
+
+Height: 187.5 cm
+Weight: 87.9 kg
+
+Blood Pressure: -
+Pulse (bpm): 71 bpm
+Blood Sugar: 111 mg/dL
+
+Cholesterol Panel:
+  Total: 156 mg/dL
+  LDL: -
+  HDL: 65 mg/dL
+  Triglycerides: 211 mg/dL
+
+Hemoglobin: 9.9 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 31.2
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 22 U/L
+  Bilirubin Total: -
+
+
+Advice:
+Good therapy response.

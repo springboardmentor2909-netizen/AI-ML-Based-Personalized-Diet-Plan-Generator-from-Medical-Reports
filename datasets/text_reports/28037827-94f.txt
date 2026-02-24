@@ -1,0 +1,40 @@
+
+PrimeCare Hospital
+Address: 70 Maple Drive, Northbay - 470700
+Phone: +91-93528-71413
+Email: info@primecare29.org
+Website: www.primecare599.org
+Accreditation Code: PR-14607
+
+Report ID: RPT-891F3650
+Sample ID: SMP-82202
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3676
+
+Patient Name: J***
+Patient ID: UH-001160
+Age: 48 years
+Gender: Female
+
+Height: 162.9 cm
+Weight: 54.8 kg
+
+Blood Pressure: 156/104 mmHg
+Pulse (bpm): 89 bpm
+Blood Sugar (Random): 145 mg/dL
+
+Cholesterol Panel:
+  Total: 170 mg/dL
+  LDL: 106 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 163 mg/dL
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.41 mg/dL
+BMI: 20.5
+
+
+Clinical Notes:
+Encouraged daily walking.

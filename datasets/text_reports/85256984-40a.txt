@@ -1,0 +1,45 @@
+
+BlueValley Clinical Institute
+Address: 40 Alpine Street, Hillcrest - 410038
+Phone: +91-73922-47020
+Email: info@bluevalley58.org
+Website: www.bluevalley320.org
+Accreditation Code: BL-27025
+
+Report ID: RPT-FD8505C9
+Sample ID: SMP-35072
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2592
+
+Patient Name: B***
+Patient ID: UH-000935
+Age: 33 years
+Gender: Male
+
+Height: 176.5 cm
+Weight: 54.6 kg
+
+Blood Pressure: 170/81 mmHg
+Pulse Rate: 66 bpm
+Blood Sugar (Random): 109 mg/dL
+
+Cholesterol Panel:
+  Total: 203 mg/dL
+  LDL: 160 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 247 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.17 mg/dL
+BMI: 28.8
+
+LFT:
+  AST/SGOT: 15 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Remarks:
+Glucose slightly elevated; review diet and exercise.

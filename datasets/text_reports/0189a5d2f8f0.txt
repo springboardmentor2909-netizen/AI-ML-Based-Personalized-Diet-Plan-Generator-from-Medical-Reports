@@ -1,0 +1,40 @@
+
+Starhaven Hospital
+Address: 84 Alpine Street, Silverpoint - 453514
+Phone: +91-83167-30024
+Email: info@starhaven42.org
+Website: www.starhaven905.org
+Accreditation Code: ST-33374
+
+Report ID: RPT-DA9B05DC
+Sample ID: SMP-94654
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3721
+
+Patient Name: H***
+Patient ID: UH-001327
+Age: 75
+Gender: Other
+
+Blood Pressure: 121/110 mmHg
+Pulse Rate: 100 bpm
+Blood Sugar (Random): 125 mg/dL
+Height: 177.1 cm
+Weight: 53.6 kg
+Cholesterol Total: 194 mg/dL
+LDL: 160 mg/dL
+HDL: 63 mg/dL
+Triglycerides: 211 mg/dL
+Hemoglobin: 11.4 g/dL
+Creatinine: 1.35 mg/dL
+BMI: 21.5
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 45 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+Remarks:
+No signs of infection detected.

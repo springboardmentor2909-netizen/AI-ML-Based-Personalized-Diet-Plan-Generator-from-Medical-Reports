@@ -1,0 +1,49 @@
+
+Starhaven Medical Center
+Address: 29 Horizon Road, Eastwood - 430124
+Phone: +91-78782-95567
+Email: info@starhaven34.org
+Website: www.starhaven192.org
+Accreditation Code: ST-67124
+
+Report ID: RPT-D10BD133
+Sample ID: SMP-28654
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-1823
+
+Patient Name: S***
+Patient ID: UH-001243
+Age: 43 years
+Gender: Other
+
+Height: 180.2 cm
+Weight: 51.5 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: 154 mg/dL
+
+Cholesterol Panel:
+  Total: 230 mg/dL
+  LDL: -
+  HDL: 34 mg/dL
+  Triglycerides: 112 mg/dL
+
+Hemoglobin: 9.6 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 28.5
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 21 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 107 mL/min
+
+
+Doctor's Comments:
+Further evaluation if symptoms worsen.

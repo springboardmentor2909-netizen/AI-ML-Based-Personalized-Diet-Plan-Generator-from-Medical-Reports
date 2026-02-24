@@ -1,0 +1,40 @@
+
+Everlight Medical Center
+Address: 54 Sunrise Boulevard, Clearwater - 450724
+Phone: +91-75992-83476
+Email: info@everlight53.org
+Website: www.everlight687.org
+Accreditation Code: EV-47572
+
+Report ID: RPT-626696F9
+Sample ID: SMP-88053
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2911
+
+Patient Name: H***
+Patient ID: UH-001338
+Age: 49
+Gender: Other
+
+Blood Pressure: 155/63 mmHg
+Pulse Rate: 98 bpm
+Blood Glucose: 169 mg/dL
+Height: 148.4 cm
+Weight: 68.6 kg
+Cholesterol Total: 239 mg/dL
+LDL: 132 mg/dL
+HDL: 53 mg/dL
+Triglycerides: 225 mg/dL
+Hemoglobin: 12.3 g/dL
+Creatinine: 1.53 mg/dL
+BMI: 25.3
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+Doctor's Comments:
+Explained results clearly; patient agreed.

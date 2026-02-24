@@ -1,0 +1,33 @@
+
+PrimeCare Hospital
+Address: 56 Alpine Street, Clearwater - 472313
+Phone: +91-90778-22271
+Email: info@primecare28.org
+Website: www.primecare672.org
+Accreditation Code: PR-51089
+
+Report ID: RPT-8F5461C5
+Sample ID: SMP-39299
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6507
+
+Patient Name: F***
+Patient ID: UH-001349
+Age: 19
+Gender: Female
+
+Blood Pressure: 119/79 mmHg
+Pulse (bpm): 62 bpm
+Blood Glucose: 162 mg/dL
+Weight: 91.0 kg
+Cholesterol Total: 226 mg/dL
+LDL: 121 mg/dL
+HDL: 45 mg/dL
+Triglycerides: 259 mg/dL
+Hemoglobin: 10.5 g/dL
+BMI: 24.8
+
+Recommendations:
+Reduce salt intake strictly.

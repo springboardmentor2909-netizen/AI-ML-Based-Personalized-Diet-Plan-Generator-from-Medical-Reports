@@ -1,0 +1,45 @@
+
+Starhaven Pathology Lab
+Address: 30 Alpine Street, Hillcrest - 461686
+Phone: +91-82137-86356
+Email: info@starhaven77.org
+Website: www.starhaven428.org
+Accreditation Code: ST-78585
+
+Report ID: RPT-F1E98AF6
+Sample ID: SMP-94900
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1804
+
+Patient Name: B***
+Patient ID: UH-000992
+Age: 60 years
+Gender: Male
+
+Height: 182.2 cm
+Weight: -
+
+Blood Pressure: 136/81 mmHg
+Pulse (bpm): 70 bpm
+Blood Sugar: 134 mg/dL
+
+Cholesterol Panel:
+  Total: 229 mg/dL
+  LDL: 115 mg/dL
+  HDL: -
+  Triglycerides: 219 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.43 mg/dL
+BMI: 24.3
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: 32 U/L
+  Bilirubin Total: -
+
+
+Advice:
+Vitals stable. No acute concerns.

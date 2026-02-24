@@ -1,0 +1,44 @@
+
+Northlake Hospital
+Address: 12 Horizon Road, Northbay - 473594
+Phone: +91-87975-47712
+Email: info@northlake99.org
+Website: www.northlake950.org
+Accreditation Code: NO-63073
+
+Report ID: RPT-EA55E1B1
+Sample ID: SMP-75594
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6060
+
+Patient Name: U***
+Patient ID: UH-001010
+Age: 41 years
+Gender: Male
+
+Height: 170.5 cm
+Weight: 92.7 kg
+
+Blood Pressure: 135/75 mmHg
+Pulse: 69 bpm
+Blood Glucose: 117 mg/dL
+
+Cholesterol Panel:
+  Total: 235 mg/dL
+  LDL: -
+  HDL: 59 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 28.5
+
+KFT:
+  Urea: 16 mg/dL
+  eGFR: 71 mL/min
+
+
+Clinical Notes:
+Improvement noted. Keep current regimen.

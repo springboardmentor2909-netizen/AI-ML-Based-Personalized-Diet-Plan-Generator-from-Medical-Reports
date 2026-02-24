@@ -1,0 +1,44 @@
+
+BlueValley Medical Center
+Address: 96 Alpine Street, Marigold City - 459532
+Phone: +91-82071-57471
+Email: info@bluevalley35.org
+Website: www.bluevalley103.org
+Accreditation Code: BL-74400
+
+Report ID: RPT-3E6B9A63
+Sample ID: SMP-28281
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4347
+
+Patient Name: W***
+Patient ID: UH-000849
+Age: 72 years
+Gender: Male
+
+Height: 155.7 cm
+Weight: 61.6 kg
+
+Blood Pressure: 165/92 mmHg
+Pulse Rate: 87 bpm
+Blood Glucose: 98 mg/dL
+
+Cholesterol Panel:
+  Total: 222 mg/dL
+  LDL: 124 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 181 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 0.76 mg/dL
+BMI: 18.7
+
+KFT:
+  Urea: 17 mg/dL
+  eGFR: 72 mL/min
+
+
+Doctor's Notes:
+Pt stable. Continue routine follow-up.

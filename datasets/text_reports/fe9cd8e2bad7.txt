@@ -1,0 +1,29 @@
+
+Northlake Hospital
+Address: 11 Riverbend Ave, Silverpoint - 429274
+Phone: +91-85188-28189
+Email: info@northlake69.org
+Website: www.northlake742.org
+Accreditation Code: NO-84112
+
+Report ID: RPT-32F618CE
+Sample ID: SMP-64584
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4636
+
+Patient Name: P***
+Patient ID: UH-001388
+Age: 73
+Gender: Male
+
+Pulse Rate: 103 bpm
+Weight: 79.5 kg
+LDL: 138 mg/dL
+HDL: 52 mg/dL
+Triglycerides: 235 mg/dL
+Hemoglobin: 13.6 g/dL
+
+Doctor's Notes:
+OPD visit recommended.

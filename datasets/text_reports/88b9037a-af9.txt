@@ -1,0 +1,49 @@
+
+Starhaven Medical Center
+Address: 77 Maple Drive, Northbay - 480415
+Phone: +91-77992-29673
+Email: info@starhaven15.org
+Website: www.starhaven742.org
+Accreditation Code: ST-20567
+
+Report ID: RPT-2E378817
+Sample ID: SMP-33825
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7124
+
+Patient Name: U***
+Patient ID: UH-001138
+Age: 64 years
+Gender: Female
+
+Height: 170.1 cm
+Weight: 80.8 kg
+
+Blood Pressure: 110/94 mmHg
+Pulse (bpm): 109 bpm
+Glucose: 168 mg/dL
+
+Cholesterol Panel:
+  Total: 240 mg/dL
+  LDL: 134 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 135 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 1.03 mg/dL
+BMI: 29.3
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 34 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 16 mg/dL
+  eGFR: 111 mL/min
+
+
+Impression:
+No clinical deterioration.

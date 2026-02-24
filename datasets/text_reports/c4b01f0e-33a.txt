@@ -1,0 +1,40 @@
+
+Medisphere Pathology Lab
+Address: 7 Horizon Road, Hillcrest - 484174
+Phone: +91-84685-88259
+Email: info@medisphere16.org
+Website: www.medisphere538.org
+Accreditation Code: ME-22296
+
+Report ID: RPT-EB5D9D00
+Sample ID: SMP-53348
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3933
+
+Patient Name: T***
+Patient ID: UH-000854
+Age: 56 years
+Gender: Other
+
+Height: -
+Weight: 68.4 kg
+
+Blood Pressure: -
+Pulse (bpm): 88 bpm
+Glucose: 123 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 140 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: 200 mg/dL
+
+Hemoglobin: 15.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendation:
+Consider ECG if palpitations recur.

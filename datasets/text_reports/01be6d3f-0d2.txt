@@ -1,0 +1,44 @@
+
+SolacePoint Hospital
+Address: 63 Sunrise Boulevard, Clearwater - 496126
+Phone: +91-90340-70588
+Email: info@solacepoint77.org
+Website: www.solacepoint553.org
+Accreditation Code: SO-34876
+
+Report ID: RPT-5AD127C9
+Sample ID: SMP-26186
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9308
+
+Patient Name: Z***
+Patient ID: UH-001193
+Age: 82 years
+Gender: Male
+
+Height: 187.1 cm
+Weight: 63.4 kg
+
+Blood Pressure: 100/62 mmHg
+Pulse (bpm): 93 bpm
+Blood Sugar: 119 mg/dL
+
+Cholesterol Panel:
+  Total: 197 mg/dL
+  LDL: 141 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 157 mg/dL
+
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.41 mg/dL
+BMI: 32.1
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: 93 mL/min
+
+
+Doctor's Notes:
+Encouraged daily walking.

@@ -1,0 +1,39 @@
+
+BlueValley Pathology Lab
+Address: 43 Alpine Street, Hillcrest - 412715
+Phone: +91-81160-42458
+Email: info@bluevalley69.org
+Website: www.bluevalley766.org
+Accreditation Code: BL-49827
+
+Report ID: RPT-921BA3B2
+Sample ID: SMP-93597
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5849
+
+Patient Name: T***
+Patient ID: UH-000541
+Age: 20 years
+Gender: Male
+
+Height: -
+Weight: 81.1 kg
+
+Blood Pressure: 105/63 mmHg
+Blood Sugar (Random): 151 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 87 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 180 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 23.8
+
+
+Doctor's Notes:
+Blood pressure within acceptable range.

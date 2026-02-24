@@ -1,0 +1,44 @@
+
+Medisphere Hospital
+Address: 10 Horizon Road, Clearwater - 424803
+Phone: +91-84746-71727
+Email: info@medisphere71.org
+Website: www.medisphere333.org
+Accreditation Code: ME-94263
+
+Report ID: RPT-4609884F
+Sample ID: SMP-13283
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1303
+
+Patient Name: G***
+Patient ID: UH-001080
+Age: 47 years
+Gender: Female
+
+Height: 147.6 cm
+Weight: 64.0 kg
+
+Blood Pressure: 118/110 mmHg
+Pulse Rate: 67 bpm
+Blood Sugar (Random): 132 mg/dL
+
+Cholesterol Panel:
+  Total: 178 mg/dL
+  LDL: 132 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 191 mg/dL
+
+Hemoglobin: 11.0 g/dL
+Creatinine: 1.3 mg/dL
+BMI: 21.8
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 69 mL/min
+
+
+Remark:
+Medication adherence reviewed.

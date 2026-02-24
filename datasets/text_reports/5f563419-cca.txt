@@ -1,0 +1,43 @@
+
+Riverdale Pathology Lab
+Address: 82 Evergreen Lane, Hillcrest - 432532
+Phone: +91-72583-60407
+Email: info@riverdale56.org
+Website: www.riverdale653.org
+Accreditation Code: RI-83350
+
+Report ID: RPT-7D3F16F9
+Sample ID: SMP-60983
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4332
+
+Patient Name: Q***
+Patient ID: UH-000570
+Age: 76 years
+Gender: Other
+
+Height: 159.9 cm
+Weight: 46.2 kg
+
+Blood Pressure: 133/66 mmHg
+Glucose: 153 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 136 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 237 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 64 mL/min
+
+
+Recommendations:
+Glucose levels mildly elevated; lifestyle changes advised.

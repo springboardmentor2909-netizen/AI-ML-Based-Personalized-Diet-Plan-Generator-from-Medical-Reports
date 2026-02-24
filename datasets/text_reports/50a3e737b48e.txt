@@ -1,0 +1,29 @@
+
+PrimeCare Medical Center
+Address: 46 Horizon Road, Eastwood - 463079
+Phone: +91-80324-50029
+Email: info@primecare43.org
+Website: www.primecare932.org
+Accreditation Code: PR-10054
+
+Report ID: RPT-4C9CA1E9
+Sample ID: SMP-86881
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2957
+
+Patient Name: U***
+Patient ID: UH-001358
+Age: 81
+Gender: Male
+
+Blood Pressure: 120/86 mmHg
+Glucose: 118 mg/dL
+Weight: 54.5 kg
+LDL: 105 mg/dL
+HDL: 39 mg/dL
+Creatinine: 1.26 mg/dL
+
+Impression:
+No concerning findings.

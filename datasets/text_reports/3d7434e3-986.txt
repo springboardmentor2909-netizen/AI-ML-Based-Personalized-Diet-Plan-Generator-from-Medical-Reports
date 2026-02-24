@@ -1,0 +1,44 @@
+
+SolacePoint Hospital
+Address: 64 Riverbend Ave, Silverpoint - 417675
+Phone: +91-91591-25392
+Email: info@solacepoint22.org
+Website: www.solacepoint364.org
+Accreditation Code: SO-60365
+
+Report ID: RPT-EB119B12
+Sample ID: SMP-62968
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5274
+
+Patient Name: K***
+Patient ID: UH-000586
+Age: 65 years
+Gender: Male
+
+Height: 189.3 cm
+Weight: 81.5 kg
+
+Blood Pressure: 128/104 mmHg
+Blood Sugar: 114 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 159 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 11.0 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 29.4
+
+LFT:
+  AST/SGOT: 14 U/L
+  ALT/SGPT: 25 U/L
+  Bilirubin Total: -
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

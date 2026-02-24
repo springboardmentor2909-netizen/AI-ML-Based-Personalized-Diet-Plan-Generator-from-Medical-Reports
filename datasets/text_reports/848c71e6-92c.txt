@@ -1,0 +1,45 @@
+
+Silver Oak Diagnostics
+Address: 60 Horizon Road, Silverpoint - 429384
+Phone: +91-72901-15008
+Email: info@silver oak39.org
+Website: www.silver oak147.org
+Accreditation Code: SI-42833
+
+Report ID: RPT-DFC02AD9
+Sample ID: SMP-34759
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9493
+
+Patient Name: U***
+Patient ID: UH-000679
+Age: 39 years
+Gender: Female
+
+Height: 166.2 cm
+Weight: -
+
+Blood Pressure: 101/67 mmHg
+Pulse (bpm): 84 bpm
+Blood Sugar: 153 mg/dL
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: 89 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 201 mg/dL
+
+Hemoglobin: 13.3 g/dL
+Creatinine: 0.76 mg/dL
+BMI: 20.2
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: -
+
+
+Summary:
+Glucose levels mildly elevated; lifestyle changes advised.

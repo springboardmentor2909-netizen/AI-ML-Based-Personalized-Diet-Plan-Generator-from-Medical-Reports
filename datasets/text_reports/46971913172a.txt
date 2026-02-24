@@ -1,0 +1,32 @@
+
+Greencrest Pathology Lab
+Address: 40 Horizon Road, Eastwood - 437965
+Phone: +91-99236-96885
+Email: info@greencrest79.org
+Website: www.greencrest486.org
+Accreditation Code: GR-19825
+
+Report ID: RPT-460BCCF9
+Sample ID: SMP-57161
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5983
+
+Patient Name: L***
+Patient ID: UH-001536
+Age: 50
+Gender: Other
+
+Pulse Rate: 106 bpm
+Height: 173.2 cm
+Weight: 91.9 kg
+LDL: 95 mg/dL
+HDL: 51 mg/dL
+Triglycerides: 101 mg/dL
+Hemoglobin: 12.2 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 17.1
+
+Remarks:
+Hydration recommended.

@@ -1,0 +1,39 @@
+
+Riverdale Medical Center
+Address: 64 Maple Drive, Eastwood - 481003
+Phone: +91-79134-96081
+Email: info@riverdale97.org
+Website: www.riverdale547.org
+Accreditation Code: RI-76942
+
+Report ID: RPT-52EABFF0
+Sample ID: SMP-51241
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8684
+
+Patient Name: L***
+Patient ID: UH-000600
+Age: 44 years
+Gender: Other
+
+Height: 146.1 cm
+Weight: -
+
+Blood Pressure: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 251 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.05 mg/dL
+BMI: 19.5
+
+
+Remarks:
+Lipid profile requires monitoring.

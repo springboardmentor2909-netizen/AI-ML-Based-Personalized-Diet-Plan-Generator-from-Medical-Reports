@@ -1,0 +1,45 @@
+
+Northlake Diagnostics
+Address: 66 Evergreen Lane, Westlake - 488489
+Phone: +91-83182-12548
+Email: info@northlake57.org
+Website: www.northlake410.org
+Accreditation Code: NO-11401
+
+Report ID: RPT-D04B07C0
+Sample ID: SMP-43574
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6667
+
+Patient Name: B***
+Patient ID: UH-000457
+Age: 23 years
+Gender: Female
+
+Blood Pressure: 148/66 mmHg
+Blood Sugar (Random): 106 mg/dL
+
+Cholesterol Panel:
+  Total: 258 mg/dL
+  LDL: 89 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 171 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: 1.07 mg/dL
+BMI: 29.6
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 89 mL/min
+
+
+Impression:
+Blood pressure stable today.

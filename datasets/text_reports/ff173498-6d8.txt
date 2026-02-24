@@ -1,0 +1,40 @@
+
+Medisphere Pathology Lab
+Address: 25 Alpine Street, Hillcrest - 488483
+Phone: +91-70197-28142
+Email: info@medisphere45.org
+Website: www.medisphere410.org
+Accreditation Code: ME-48451
+
+Report ID: RPT-38503EC2
+Sample ID: SMP-27995
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7306
+
+Patient Name: Y***
+Patient ID: UH-001109
+Age: 39 years
+Gender: Other
+
+Height: 174.1 cm
+Weight: -
+
+Blood Pressure: 117/77 mmHg
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 185 mg/dL
+  LDL: 136 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.1 g/dL
+Creatinine: 0.72 mg/dL
+BMI: -
+
+
+Recommendations:
+Follow-up in 1–2 weeks recommended.

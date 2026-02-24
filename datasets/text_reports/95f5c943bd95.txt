@@ -1,0 +1,49 @@
+
+Silver Oak Clinical Institute
+Address: 44 Horizon Road, Westlake - 420722
+Phone: +91-94213-50977
+Email: info@silver oak18.org
+Website: www.silver oak689.org
+Accreditation Code: SI-87353
+
+Report ID: RPT-D75A5903
+Sample ID: SMP-39413
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5966
+
+Patient Name: J***
+Patient ID: UH-001213
+Age: 73 years
+Gender: Male
+
+Height: 149.7 cm
+Weight: 92.3 kg
+
+Blood Pressure: 116/84 mmHg
+Pulse Rate: 60 bpm
+Glucose: 75 mg/dL
+
+Cholesterol Panel:
+  Total: 214 mg/dL
+  LDL: 124 mg/dL
+  HDL: 28 mg/dL
+  Triglycerides: 114 mg/dL
+
+Hemoglobin: 15.9 g/dL
+Creatinine: 1.24 mg/dL
+BMI: 33.3
+
+LFT:
+  AST/SGOT: 42 U/L
+  ALT/SGPT: 12 U/L
+  Bilirubin Total: 0.3 mg/dL
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 114 mL/min
+
+
+Doctor's Notes:
+Reassured patient.

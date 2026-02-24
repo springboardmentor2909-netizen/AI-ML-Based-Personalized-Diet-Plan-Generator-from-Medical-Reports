@@ -1,0 +1,49 @@
+
+PrimeCare Hospital
+Address: 64 Riverbend Ave, Marigold City - 432511
+Phone: +91-78884-23831
+Email: info@primecare76.org
+Website: www.primecare211.org
+Accreditation Code: PR-19228
+
+Report ID: RPT-110CAEB2
+Sample ID: SMP-71369
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5100
+
+Patient Name: W***
+Patient ID: UH-001295
+Age: 80 years
+Gender: Male
+
+Height: 157.1 cm
+Weight: 85.9 kg
+
+Blood Pressure: 148/101 mmHg
+Pulse (bpm): 99 bpm
+Blood Sugar (Random): 134 mg/dL
+
+Cholesterol Panel:
+  Total: 228 mg/dL
+  LDL: 89 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 131 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: 0.85 mg/dL
+BMI: 23.8
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 31 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 12 mg/dL
+  eGFR: 87 mL/min
+
+
+Remark:
+No concerning signs.

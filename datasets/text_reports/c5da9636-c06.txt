@@ -1,0 +1,48 @@
+
+Everlight Medical Center
+Address: 2 Alpine Street, Northbay - 478663
+Phone: +91-84180-61204
+Email: info@everlight40.org
+Website: www.everlight137.org
+Accreditation Code: EV-76716
+
+Report ID: RPT-FE022984
+Sample ID: SMP-30451
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7015
+
+Patient Name: H***
+Patient ID: UH-000516
+Age: 44 years
+Gender: Male
+
+Height: 180.6 cm
+Weight: 53.1 kg
+
+Blood Pressure: 150/95 mmHg
+Blood Sugar (Random): 136 mg/dL
+
+Cholesterol Panel:
+  Total: 250 mg/dL
+  LDL: 87 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 173 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 0.76 mg/dL
+BMI: 23.3
+
+LFT:
+  AST/SGOT: 33 U/L
+  ALT/SGPT: 31 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 29 mg/dL
+  eGFR: 94 mL/min
+
+
+Advice:
+Continue present medications.

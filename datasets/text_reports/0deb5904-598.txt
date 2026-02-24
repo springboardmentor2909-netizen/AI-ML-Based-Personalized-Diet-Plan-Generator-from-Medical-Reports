@@ -1,0 +1,49 @@
+
+Silver Oak Clinical Institute
+Address: 91 Riverbend Ave, Westlake - 482861
+Phone: +91-76859-60032
+Email: info@silver oak13.org
+Website: www.silver oak177.org
+Accreditation Code: SI-50864
+
+Report ID: RPT-D4E26502
+Sample ID: SMP-70541
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8275
+
+Patient Name: X***
+Patient ID: UH-000631
+Age: 21 years
+Gender: Female
+
+Height: 170.2 cm
+Weight: -
+
+Blood Pressure: 152/89 mmHg
+Pulse (bpm): -
+Blood Glucose: 118 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 121 mg/dL
+  HDL: -
+  Triglycerides: 221 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.92 mg/dL
+BMI: 27.8
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 25 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: -
+
+
+Doctor's Notes:
+Continue present medications.

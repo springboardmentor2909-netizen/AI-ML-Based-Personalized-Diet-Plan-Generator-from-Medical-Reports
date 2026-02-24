@@ -1,0 +1,40 @@
+
+Everlight Diagnostics
+Address: 13 Riverbend Ave, Meadowridge - 490139
+Phone: +91-91006-19069
+Email: info@everlight65.org
+Website: www.everlight853.org
+Accreditation Code: EV-78229
+
+Report ID: RPT-4A420618
+Sample ID: SMP-77873
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8315
+
+Patient Name: K***
+Patient ID: UH-000440
+Age: 57 years
+Gender: Female
+
+Blood Pressure: 158/78 mmHg
+Blood Sugar: 114 mg/dL
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 134 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 244 mg/dL
+
+Hemoglobin: 11.4 g/dL
+Creatinine: 0.82 mg/dL
+BMI: 33.4
+
+KFT:
+  Urea: 17 mg/dL
+  eGFR: 74 mL/min
+
+
+Remarks:
+Lipid levels require monitoring.

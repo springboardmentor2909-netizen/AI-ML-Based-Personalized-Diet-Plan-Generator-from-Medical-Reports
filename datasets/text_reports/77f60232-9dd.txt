@@ -1,0 +1,45 @@
+
+Greencrest Pathology Lab
+Address: 66 Riverbend Ave, Hillcrest - 463898
+Phone: +91-95644-79234
+Email: info@greencrest49.org
+Website: www.greencrest830.org
+Accreditation Code: GR-33295
+
+Report ID: RPT-8FE9A27D
+Sample ID: SMP-81874
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8952
+
+Patient Name: P***
+Patient ID: UH-000971
+Age: 55 years
+Gender: Other
+
+Height: 154.7 cm
+Weight: 48.3 kg
+
+Blood Pressure: -
+Pulse: 101 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 210 mg/dL
+  LDL: 130 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 155 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: 1.27 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+
+Recommendations:
+Consider ECG if palpitations recur.

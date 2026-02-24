@@ -1,0 +1,40 @@
+
+Starhaven Clinical Institute
+Address: 65 Alpine Street, Westlake - 499335
+Phone: +91-94294-32799
+Email: info@starhaven56.org
+Website: www.starhaven762.org
+Accreditation Code: ST-32087
+
+Report ID: RPT-F0965558
+Sample ID: SMP-31920
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2073
+
+Patient Name: M***
+Patient ID: UH-000820
+Age: 21 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 136 mg/dL
+  HDL: -
+  Triglycerides: 205 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Remark:
+Monitor BP at home regularly.

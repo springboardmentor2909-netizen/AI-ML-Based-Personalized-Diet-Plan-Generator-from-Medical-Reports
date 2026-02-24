@@ -1,0 +1,27 @@
+
+Medisphere Hospital
+Address: 92 Riverbend Ave, Hillcrest - 474503
+Phone: +91-87969-29214
+Email: info@medisphere23.org
+Website: www.medisphere330.org
+Accreditation Code: ME-60121
+
+Report ID: RPT-528E01A3
+Sample ID: SMP-12137
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4255
+
+Patient Name: G***
+Patient ID: UH-001398
+Age: 63
+Gender: Other
+
+Blood Pressure: 133/69 mmHg
+Blood Sugar: 175 mg/dL
+Weight: 93.9 kg
+Creatinine: 1.49 mg/dL
+
+Impression:
+Therapy response is satisfactory.

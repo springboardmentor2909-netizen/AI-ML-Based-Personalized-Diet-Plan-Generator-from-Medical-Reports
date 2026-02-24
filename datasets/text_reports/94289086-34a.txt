@@ -1,0 +1,41 @@
+
+Starhaven Clinical Institute
+Address: 9 Maple Drive, Marigold City - 436441
+Phone: +91-94450-33644
+Email: info@starhaven32.org
+Website: www.starhaven443.org
+Accreditation Code: ST-88550
+
+Report ID: RPT-4B9FE9F2
+Sample ID: SMP-72315
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7961
+
+Patient Name: R***
+Patient ID: UH-000437
+Age: 78 years
+Gender: Male
+
+Blood Pressure: 135/102 mmHg
+Blood Sugar (Random): 140 mg/dL
+
+Cholesterol Panel:
+  Total: 171 mg/dL
+  LDL: 122 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 207 mg/dL
+
+Hemoglobin: 14.4 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 33.8
+
+LFT:
+  AST/SGOT: 27 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Doctor's Comments:
+Glucose levels mildly elevated; lifestyle changes advised.

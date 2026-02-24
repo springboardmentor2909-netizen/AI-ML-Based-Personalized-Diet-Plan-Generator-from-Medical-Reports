@@ -1,0 +1,40 @@
+
+Riverdale Diagnostics
+Address: 87 Evergreen Lane, Silverpoint - 406320
+Phone: +91-97522-14658
+Email: info@riverdale86.org
+Website: www.riverdale729.org
+Accreditation Code: RI-19599
+
+Report ID: RPT-1F7257AF
+Sample ID: SMP-28117
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3257
+
+Patient Name: Q***
+Patient ID: UH-001163
+Age: 48 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: 133/96 mmHg
+Pulse Rate: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 182 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.8 g/dL
+Creatinine: 1.41 mg/dL
+BMI: -
+
+
+Advice:
+Lab markers improved from last visit.

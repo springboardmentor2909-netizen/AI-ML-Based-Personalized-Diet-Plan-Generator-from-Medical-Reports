@@ -1,0 +1,36 @@
+
+Northlake Hospital
+Address: 21 Riverbend Ave, Meadowridge - 446361
+Phone: +91-77729-76453
+Email: info@northlake33.org
+Website: www.northlake347.org
+Accreditation Code: NO-52800
+
+Report ID: RPT-EB5E767D
+Sample ID: SMP-68995
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6818
+
+Patient Name: W***
+Patient ID: UH-001463
+Age: 50
+Gender: Other
+
+Blood Pressure: 138/108 mmHg
+Pulse (bpm): 76 bpm
+Glucose: 121 mg/dL
+Height: 165.8 cm
+LDL: 87 mg/dL
+Triglycerides: 234 mg/dL
+Hemoglobin: 9.8 g/dL
+Creatinine: 0.8 mg/dL
+BMI: 32.0
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 89 mL/min
+
+Impression:
+Monitor BP regularly.

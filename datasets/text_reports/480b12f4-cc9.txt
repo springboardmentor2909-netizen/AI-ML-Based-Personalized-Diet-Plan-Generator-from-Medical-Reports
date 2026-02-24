@@ -1,0 +1,45 @@
+
+SolacePoint Hospital
+Address: 53 Sunrise Boulevard, Northbay - 414783
+Phone: +91-91314-92931
+Email: info@solacepoint66.org
+Website: www.solacepoint811.org
+Accreditation Code: SO-51610
+
+Report ID: RPT-8F49B69B
+Sample ID: SMP-55713
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-3271
+
+Patient Name: W***
+Patient ID: UH-001132
+Age: 72 years
+Gender: Female
+
+Height: 188.9 cm
+Weight: 57.1 kg
+
+Blood Pressure: 160/107 mmHg
+Pulse Rate: -
+Glucose: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 242 mg/dL
+  LDL: -
+  HDL: 42 mg/dL
+  Triglycerides: 170 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 29.8
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: -
+
+
+Doctor's Notes:
+Increase daily fluid intake.

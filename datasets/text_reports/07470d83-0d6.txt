@@ -1,0 +1,40 @@
+
+NovaPath Medical Center
+Address: 42 Sunrise Boulevard, Silverpoint - 430381
+Phone: +91-99980-51743
+Email: info@novapath74.org
+Website: www.novapath361.org
+Accreditation Code: NO-70763
+
+Report ID: RPT-CB44938D
+Sample ID: SMP-94520
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2342
+
+Patient Name: K***
+Patient ID: UH-001154
+Age: 80 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: 97 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 36 mg/dL
+  Triglycerides: 240 mg/dL
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 0.83 mg/dL
+BMI: -
+
+
+Summary:
+Discussed results; patient understood.

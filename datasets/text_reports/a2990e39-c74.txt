@@ -1,0 +1,39 @@
+
+Greencrest Hospital
+Address: 45 Maple Drive, Meadowridge - 401447
+Phone: +91-88675-56083
+Email: info@greencrest32.org
+Website: www.greencrest444.org
+Accreditation Code: GR-38140
+
+Report ID: RPT-51FA4E87
+Sample ID: SMP-27150
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8092
+
+Patient Name: P***
+Patient ID: UH-000585
+Age: 42 years
+Gender: Male
+
+Height: 167.9 cm
+Weight: -
+
+Blood Pressure: 115/106 mmHg
+Blood Sugar (Random): 148 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 88 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.96 mg/dL
+BMI: -
+
+
+Recommendations:
+Blood pressure within acceptable range.

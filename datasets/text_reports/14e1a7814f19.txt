@@ -1,0 +1,39 @@
+
+Everlight Hospital
+Address: 27 Maple Drive, Clearwater - 433523
+Phone: +91-78506-27851
+Email: info@everlight34.org
+Website: www.everlight453.org
+Accreditation Code: EV-78629
+
+Report ID: RPT-C8B2EFEA
+Sample ID: SMP-19773
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2612
+
+Patient Name: I***
+Patient ID: UH-001448
+Age: 47
+Gender: Other
+
+Blood Pressure: 141/62 mmHg
+Pulse (bpm): 97 bpm
+Glucose: 115 mg/dL
+Height: 174.5 cm
+Weight: 54.8 kg
+Cholesterol Total: 171 mg/dL
+LDL: 109 mg/dL
+HDL: 45 mg/dL
+Triglycerides: 150 mg/dL
+Hemoglobin: 15.3 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 23.8
+
+KFT:
+  Urea: 38 mg/dL
+  eGFR: 120 mL/min
+
+Advice:
+Continue medications.

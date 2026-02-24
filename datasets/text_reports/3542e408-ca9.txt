@@ -1,0 +1,39 @@
+
+Greencrest Hospital
+Address: 45 Maple Drive, Meadowridge - 401447
+Phone: +91-88675-56083
+Email: info@greencrest32.org
+Website: www.greencrest444.org
+Accreditation Code: GR-38140
+
+Report ID: RPT-21B76653
+Sample ID: SMP-19057
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8139
+
+Patient Name: E***
+Patient ID: UH-000572
+Age: 58 years
+Gender: Other
+
+Height: 169.1 cm
+Weight: 62.0 kg
+
+Blood Pressure: 103/76 mmHg
+Blood Sugar (Random): 112 mg/dL
+
+Cholesterol Panel:
+  Total: 200 mg/dL
+  LDL: 143 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 228 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 0.95 mg/dL
+BMI: 21.8
+
+
+Recommendations:
+Follow-up recommended after 2 weeks.

@@ -1,0 +1,49 @@
+
+PrimeCare Pathology Lab
+Address: 50 Sunrise Boulevard, Silverpoint - 491795
+Phone: +91-90983-51849
+Email: info@primecare17.org
+Website: www.primecare949.org
+Accreditation Code: PR-94160
+
+Report ID: RPT-AA286944
+Sample ID: SMP-35757
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3719
+
+Patient Name: T***
+Patient ID: UH-001196
+Age: 83 years
+Gender: Female
+
+Height: 145.8 cm
+Weight: 69.2 kg
+
+Blood Pressure: 150/99 mmHg
+Pulse (bpm): 80 bpm
+Glucose: 156 mg/dL
+
+Cholesterol Panel:
+  Total: 238 mg/dL
+  LDL: 128 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 238 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 1.16 mg/dL
+BMI: 29.6
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 22 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: 65 mL/min
+
+
+Doctor's Notes:
+Mild anemia; iron-rich foods suggested.

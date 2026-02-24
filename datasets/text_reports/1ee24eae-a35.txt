@@ -1,0 +1,45 @@
+
+PrimeCare Hospital
+Address: 65 Alpine Street, Eastwood - 478790
+Phone: +91-91454-25129
+Email: info@primecare99.org
+Website: www.primecare137.org
+Accreditation Code: PR-95256
+
+Report ID: RPT-986C6B00
+Sample ID: SMP-59223
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8582
+
+Patient Name: U***
+Patient ID: UH-000445
+Age: 66 years
+Gender: Female
+
+Blood Pressure: 156/98 mmHg
+Glucose: 87 mg/dL
+
+Cholesterol Panel:
+  Total: 191 mg/dL
+  LDL: 122 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 237 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: 1.34 mg/dL
+BMI: 31.7
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: 81 mL/min
+
+
+Recommendations:
+Blood pressure stable today.

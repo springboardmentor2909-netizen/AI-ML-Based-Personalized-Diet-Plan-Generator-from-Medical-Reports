@@ -1,0 +1,43 @@
+
+Silver Oak Clinical Institute
+Address: 97 Alpine Street, Northbay - 443774
+Phone: +91-75789-15640
+Email: info@silver oak15.org
+Website: www.silver oak478.org
+Accreditation Code: SI-17916
+
+Report ID: RPT-4E29CF69
+Sample ID: SMP-64772
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8330
+
+Patient Name: K***
+Patient ID: UH-000594
+Age: 61 years
+Gender: Female
+
+Height: 168.7 cm
+Weight: 82.3 kg
+
+Blood Pressure: 168/95 mmHg
+Blood Glucose: 164 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: 110 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 217 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 25.7
+
+KFT:
+  Urea: 37 mg/dL
+  eGFR: 108 mL/min
+
+
+Recommendation:
+Continue present medications.

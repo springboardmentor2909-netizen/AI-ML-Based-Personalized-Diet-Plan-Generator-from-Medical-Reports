@@ -1,0 +1,35 @@
+
+Everlight Pathology Lab
+Address: 63 Alpine Street, Silverpoint - 468034
+Phone: +91-77787-64677
+Email: info@everlight38.org
+Website: www.everlight284.org
+Accreditation Code: EV-79670
+
+Report ID: RPT-C71CD38A
+Sample ID: SMP-62873
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6163
+
+Patient Name: A***
+Patient ID: UH-001316
+Age: 51
+Gender: Other
+
+Blood Pressure: 119/66 mmHg
+Pulse Rate: 92 bpm
+Blood Glucose: 124 mg/dL
+Height: 164.4 cm
+Weight: 72.4 kg
+Cholesterol Total: 215 mg/dL
+LDL: 115 mg/dL
+HDL: 37 mg/dL
+Triglycerides: 207 mg/dL
+Hemoglobin: 13.3 g/dL
+Creatinine: 1.6 mg/dL
+BMI: 32.9
+
+Remarks:
+Therapy response is satisfactory.

@@ -1,0 +1,44 @@
+
+SolacePoint Medical Center
+Address: 75 Evergreen Lane, Meadowridge - 413358
+Phone: +91-97664-92969
+Email: info@solacepoint45.org
+Website: www.solacepoint105.org
+Accreditation Code: SO-85147
+
+Report ID: RPT-18B15B7E
+Sample ID: SMP-85881
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6670
+
+Patient Name: V***
+Patient ID: UH-000512
+Age: 21 years
+Gender: Other
+
+Height: -
+Weight: 46.8 kg
+
+Blood Pressure: -
+Blood Sugar: 127 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 111 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 113 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.75 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Clinical Notes:
+Lipid profile requires monitoring.

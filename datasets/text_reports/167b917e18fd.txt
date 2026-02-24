@@ -1,0 +1,39 @@
+
+Riverdale Pathology Lab
+Address: 87 Alpine Street, Westlake - 433387
+Phone: +91-83757-13792
+Email: info@riverdale81.org
+Website: www.riverdale462.org
+Accreditation Code: RI-12424
+
+Report ID: RPT-6E552B9E
+Sample ID: SMP-44111
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3684
+
+Patient Name: C***
+Patient ID: UH-001563
+Age: 49
+Gender: Male
+
+Blood Pressure: 124/72 mmHg
+Pulse: 107 bpm
+Glucose: 174 mg/dL
+Height: 152.6 cm
+Weight: 80.2 kg
+Cholesterol Total: 225 mg/dL
+LDL: 110 mg/dL
+HDL: 59 mg/dL
+Triglycerides: 132 mg/dL
+Hemoglobin: 14.7 g/dL
+Creatinine: 1.63 mg/dL
+BMI: 27.3
+
+LFT:
+  AST/SGOT: 27 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+Impression:
+Hydration recommended.

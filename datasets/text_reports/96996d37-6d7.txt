@@ -1,0 +1,45 @@
+
+Riverdale Medical Center
+Address: 50 Riverbend Ave, Westlake - 499590
+Phone: +91-95770-78910
+Email: info@riverdale83.org
+Website: www.riverdale564.org
+Accreditation Code: RI-69678
+
+Report ID: RPT-86025BEB
+Sample ID: SMP-65806
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7573
+
+Patient Name: U***
+Patient ID: UH-000411
+Age: 44 years
+Gender: Female
+
+Blood Pressure: 157/108 mmHg
+Blood Glucose: 139 mg/dL
+
+Cholesterol Panel:
+  Total: 217 mg/dL
+  LDL: 92 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 218 mg/dL
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 0.82 mg/dL
+BMI: 23.9
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 88 mL/min
+
+
+Remarks:
+Blood pressure stable today.

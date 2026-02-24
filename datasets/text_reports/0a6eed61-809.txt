@@ -1,0 +1,48 @@
+
+Silver Oak Medical Center
+Address: 49 Riverbend Ave, Hillcrest - 484539
+Phone: +91-82812-11921
+Email: info@silver oak16.org
+Website: www.silver oak315.org
+Accreditation Code: SI-35580
+
+Report ID: RPT-5B8CC387
+Sample ID: SMP-42194
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4727
+
+Patient Name: H***
+Patient ID: UH-000507
+Age: 19 years
+Gender: Male
+
+Height: 152.9 cm
+Weight: 64.0 kg
+
+Blood Pressure: 109/91 mmHg
+Blood Sugar (Random): 148 mg/dL
+
+Cholesterol Panel:
+  Total: 232 mg/dL
+  LDL: 108 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 134 mg/dL
+
+Hemoglobin: 10.6 g/dL
+Creatinine: 0.7 mg/dL
+BMI: 22.0
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 79 mL/min
+
+
+Advice:
+Blood pressure within acceptable range.

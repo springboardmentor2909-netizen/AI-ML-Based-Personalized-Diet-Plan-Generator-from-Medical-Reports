@@ -1,0 +1,45 @@
+
+Riverdale Diagnostics
+Address: 51 Evergreen Lane, Hillcrest - 465709
+Phone: +91-86789-89518
+Email: info@riverdale39.org
+Website: www.riverdale393.org
+Accreditation Code: RI-21589
+
+Report ID: RPT-72E28A9B
+Sample ID: SMP-63743
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4399
+
+Patient Name: F***
+Patient ID: UH-000406
+Age: 58 years
+Gender: Male
+
+Blood Pressure: 132/93 mmHg
+Blood Sugar: 121 mg/dL
+
+Cholesterol Panel:
+  Total: 175 mg/dL
+  LDL: 126 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 0.81 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 27 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Advice:
+Continue present medications.

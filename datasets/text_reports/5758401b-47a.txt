@@ -1,0 +1,39 @@
+
+Everlight Hospital
+Address: 6 Alpine Street, Westlake - 457212
+Phone: +91-93729-22499
+Email: info@everlight49.org
+Website: www.everlight131.org
+Accreditation Code: EV-25453
+
+Report ID: RPT-DBCDA0C9
+Sample ID: SMP-93641
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5660
+
+Patient Name: A***
+Patient ID: UH-000550
+Age: 71 years
+Gender: Male
+
+Height: 186.8 cm
+Weight: 76.5 kg
+
+Blood Pressure: -
+Blood Sugar (Random): 139 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 137 mg/dL
+  HDL: -
+  Triglycerides: 170 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Continue present medications.

@@ -1,0 +1,44 @@
+
+Medisphere Clinical Institute
+Address: 70 Riverbend Ave, Northbay - 432004
+Phone: +91-88967-71523
+Email: info@medisphere68.org
+Website: www.medisphere447.org
+Accreditation Code: ME-89623
+
+Report ID: RPT-AFED3610
+Sample ID: SMP-36280
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7636
+
+Patient Name: U***
+Patient ID: UH-001221
+Age: 75 years
+Gender: Male
+
+Height: 149.2 cm
+Weight: 91.3 kg
+
+Blood Pressure: 115/70 mmHg
+Pulse (bpm): 95 bpm
+Glucose: 94 mg/dL
+
+Cholesterol Panel:
+  Total: 180 mg/dL
+  LDL: 117 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 245 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 0.9 mg/dL
+BMI: 35.9
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 123 mL/min
+
+
+Recommendation:
+Stable. Review in OPD.

@@ -1,0 +1,39 @@
+
+Medisphere Hospital
+Address: 84 Alpine Street, Northbay - 450961
+Phone: +91-74317-18574
+Email: info@medisphere29.org
+Website: www.medisphere109.org
+Accreditation Code: ME-93280
+
+Report ID: RPT-04E848E5
+Sample ID: SMP-92006
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5044
+
+Patient Name: R***
+Patient ID: UH-000595
+Age: 58 years
+Gender: Male
+
+Height: 156.7 cm
+Weight: 71.3 kg
+
+Blood Pressure: 101/81 mmHg
+Blood Glucose: 133 mg/dL
+
+Cholesterol Panel:
+  Total: 242 mg/dL
+  LDL: 114 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 200 mg/dL
+
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 23.3
+
+
+Doctor's Notes:
+Lipid profile requires monitoring.

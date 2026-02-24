@@ -1,0 +1,41 @@
+
+Riverdale Clinical Institute
+Address: 78 Sunrise Boulevard, Eastwood - 463889
+Phone: +91-79834-59433
+Email: info@riverdale64.org
+Website: www.riverdale500.org
+Accreditation Code: RI-47669
+
+Report ID: RPT-E15B372F
+Sample ID: SMP-23704
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1758
+
+Patient Name: S***
+Patient ID: UH-000461
+Age: 55 years
+Gender: Female
+
+Blood Pressure: 135/79 mmHg
+Blood Sugar (Random): 103 mg/dL
+
+Cholesterol Panel:
+  Total: 187 mg/dL
+  LDL: 103 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 114 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.48 mg/dL
+BMI: 31.8
+
+LFT:
+  AST/SGOT: 31 U/L
+  ALT/SGPT: 13 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

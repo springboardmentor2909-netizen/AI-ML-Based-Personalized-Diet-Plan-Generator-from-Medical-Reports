@@ -1,0 +1,49 @@
+
+BlueValley Hospital
+Address: 43 Riverbend Ave, Westlake - 436615
+Phone: +91-82087-32048
+Email: info@bluevalley29.org
+Website: www.bluevalley819.org
+Accreditation Code: BL-83914
+
+Report ID: RPT-93DBD77C
+Sample ID: SMP-62521
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2403
+
+Patient Name: G***
+Patient ID: UH-000839
+Age: 27 years
+Gender: Other
+
+Height: 188.2 cm
+Weight: 85.3 kg
+
+Blood Pressure: 158/92 mmHg
+Pulse: 61 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 174 mg/dL
+  LDL: 123 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.02 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 117 mL/min
+
+
+Doctor's Comments:
+Continue present medications.

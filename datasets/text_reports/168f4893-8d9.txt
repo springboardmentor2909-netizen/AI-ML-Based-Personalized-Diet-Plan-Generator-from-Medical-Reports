@@ -1,0 +1,40 @@
+
+Silver Oak Clinical Institute
+Address: 91 Riverbend Ave, Westlake - 482861
+Phone: +91-76859-60032
+Email: info@silver oak13.org
+Website: www.silver oak177.org
+Accreditation Code: SI-50864
+
+Report ID: RPT-6E2132E0
+Sample ID: SMP-65552
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8090
+
+Patient Name: C***
+Patient ID: UH-000651
+Age: 68 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 124/63 mmHg
+Pulse: -
+Glucose: 85 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 155 mg/dL
+  HDL: -
+  Triglycerides: 205 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.93 mg/dL
+BMI: 23.9
+
+
+Recommendation:
+Continue present medications.

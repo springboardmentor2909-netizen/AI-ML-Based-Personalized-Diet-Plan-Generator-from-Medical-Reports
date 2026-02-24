@@ -1,0 +1,39 @@
+
+Greencrest Medical Center
+Address: 97 Maple Drive, Hillcrest - 418614
+Phone: +91-84864-98694
+Email: info@greencrest69.org
+Website: www.greencrest850.org
+Accreditation Code: GR-83021
+
+Report ID: RPT-AF1B973A
+Sample ID: SMP-30176
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6555
+
+Patient Name: P***
+Patient ID: UH-001372
+Age: 48
+Gender: Female
+
+Blood Pressure: 106/73 mmHg
+Pulse Rate: 99 bpm
+Blood Glucose: 156 mg/dL
+Height: 173.5 cm
+Weight: 63.8 kg
+Cholesterol Total: 258 mg/dL
+LDL: 123 mg/dL
+HDL: 31 mg/dL
+Triglycerides: 273 mg/dL
+Hemoglobin: 11.0 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 26.5
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 75 mL/min
+
+Recommendations:
+Lifestyle changes discussed with patient.

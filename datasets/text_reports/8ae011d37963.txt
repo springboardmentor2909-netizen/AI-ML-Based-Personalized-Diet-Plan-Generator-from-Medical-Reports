@@ -1,0 +1,49 @@
+
+Silver Oak Hospital
+Address: 92 Evergreen Lane, Westlake - 441752
+Phone: +91-97277-41405
+Email: info@silver oak40.org
+Website: www.silver oak119.org
+Accreditation Code: SI-68853
+
+Report ID: RPT-C3C572E7
+Sample ID: SMP-96406
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3873
+
+Patient Name: U***
+Patient ID: UH-001288
+Age: 31 years
+Gender: Other
+
+Height: 172.5 cm
+Weight: 70.7 kg
+
+Blood Pressure: -
+Pulse (bpm): 105 bpm
+Glucose: 160 mg/dL
+
+Cholesterol Panel:
+  Total: 203 mg/dL
+  LDL: 75 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 110 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 0.96 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.4 mg/dL
+
+KFT:
+  Urea: 14 mg/dL
+  eGFR: 89 mL/min
+
+
+Remarks:
+BP borderline; needs monitoring.

@@ -1,0 +1,44 @@
+
+Silver Oak Diagnostics
+Address: 27 Horizon Road, Northbay - 405361
+Phone: +91-98708-42250
+Email: info@silver oak63.org
+Website: www.silver oak174.org
+Accreditation Code: SI-17222
+
+Report ID: RPT-1E538203
+Sample ID: SMP-54642
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5164
+
+Patient Name: K***
+Patient ID: UH-001119
+Age: 69 years
+Gender: Female
+
+Height: 182.9 cm
+Weight: 66.7 kg
+
+Blood Pressure: 131/104 mmHg
+Pulse (bpm): 67 bpm
+Glucose: 108 mg/dL
+
+Cholesterol Panel:
+  Total: 193 mg/dL
+  LDL: 157 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 149 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: 0.97 mg/dL
+BMI: 22.5
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 70 mL/min
+
+
+Recommendations:
+Possible dehydration; take more fluids.

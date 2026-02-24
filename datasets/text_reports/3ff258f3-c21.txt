@@ -1,0 +1,49 @@
+
+Starhaven Hospital
+Address: 42 Sunrise Boulevard, Meadowridge - 447605
+Phone: +91-92872-14105
+Email: info@starhaven14.org
+Website: www.starhaven143.org
+Accreditation Code: ST-93505
+
+Report ID: RPT-B29B8FA6
+Sample ID: SMP-39273
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4323
+
+Patient Name: Y***
+Patient ID: UH-000860
+Age: 80 years
+Gender: Female
+
+Height: 158.8 cm
+Weight: 75.3 kg
+
+Blood Pressure: 100/107 mmHg
+Pulse Rate: 83 bpm
+Blood Glucose: 109 mg/dL
+
+Cholesterol Panel:
+  Total: 173 mg/dL
+  LDL: 150 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 212 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 33.5
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 100 mL/min
+
+
+Summary:
+Encouraged moderate daily activity.

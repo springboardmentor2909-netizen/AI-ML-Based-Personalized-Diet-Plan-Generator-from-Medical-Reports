@@ -1,0 +1,29 @@
+
+Starhaven Pathology Lab
+Address: 72 Evergreen Lane, Clearwater - 454494
+Phone: +91-80290-33074
+Email: info@starhaven61.org
+Website: www.starhaven422.org
+Accreditation Code: ST-58684
+
+Report ID: RPT-1FDF9B12
+Sample ID: SMP-21240
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3795
+
+Patient Name: P***
+Patient ID: UH-001308
+Age: 40
+Gender: Female
+
+Blood Pressure: 128/67 mmHg
+Blood Glucose: 162 mg/dL
+Height: 150.4 cm
+Weight: 88.2 kg
+HDL: 43 mg/dL
+BMI: 34.1
+
+Remarks:
+No concerning findings.

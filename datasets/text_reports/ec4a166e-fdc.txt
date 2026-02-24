@@ -1,0 +1,40 @@
+
+Silver Oak Diagnostics
+Address: 63 Evergreen Lane, Clearwater - 437036
+Phone: +91-80726-42946
+Email: info@silver oak41.org
+Website: www.silver oak332.org
+Accreditation Code: SI-78524
+
+Report ID: RPT-DB4FFEC8
+Sample ID: SMP-37638
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5617
+
+Patient Name: B***
+Patient ID: UH-000919
+Age: 75 years
+Gender: Female
+
+Height: 157.5 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 105 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 231 mg/dL
+  LDL: 132 mg/dL
+  HDL: -
+  Triglycerides: 199 mg/dL
+
+Hemoglobin: 10.5 g/dL
+Creatinine: 1.34 mg/dL
+BMI: -
+
+
+Summary:
+Lifestyle counseling advised.

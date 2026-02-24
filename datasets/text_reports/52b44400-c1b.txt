@@ -1,0 +1,44 @@
+
+BlueValley Clinical Institute
+Address: 68 Riverbend Ave, Silverpoint - 457949
+Phone: +91-92395-69130
+Email: info@bluevalley97.org
+Website: www.bluevalley456.org
+Accreditation Code: BL-41857
+
+Report ID: RPT-50A6CA86
+Sample ID: SMP-84369
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3037
+
+Patient Name: S***
+Patient ID: UH-000932
+Age: 76 years
+Gender: Other
+
+Height: 157.2 cm
+Weight: 78.7 kg
+
+Blood Pressure: 116/105 mmHg
+Pulse: 80 bpm
+Blood Sugar: 86 mg/dL
+
+Cholesterol Panel:
+  Total: 248 mg/dL
+  LDL: -
+  HDL: 45 mg/dL
+  Triglycerides: 238 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: -
+BMI: 20.7
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 100 mL/min
+
+
+Recommendation:
+Medication adherence reviewed.

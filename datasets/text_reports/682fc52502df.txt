@@ -1,0 +1,36 @@
+
+Greencrest Hospital
+Address: 8 Alpine Street, Westlake - 479648
+Phone: +91-75919-25629
+Email: info@greencrest29.org
+Website: www.greencrest448.org
+Accreditation Code: GR-34631
+
+Report ID: RPT-14EE7ADA
+Sample ID: SMP-54970
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2716
+
+Patient Name: V***
+Patient ID: UH-001541
+Age: 21
+Gender: Male
+
+Blood Pressure: 147/99 mmHg
+Pulse: 84 bpm
+Glucose: 149 mg/dL
+Cholesterol Total: 235 mg/dL
+Triglycerides: 197 mg/dL
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.62 mg/dL
+BMI: 27.3
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: 13 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+Summary:
+Follow-up advised.

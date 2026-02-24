@@ -1,0 +1,36 @@
+
+SolacePoint Hospital
+Address: 58 Sunrise Boulevard, Silverpoint - 404169
+Phone: +91-89436-93830
+Email: info@solacepoint49.org
+Website: www.solacepoint777.org
+Accreditation Code: SO-87525
+
+Report ID: RPT-3E1D7677
+Sample ID: SMP-76190
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4721
+
+Patient Name: Q***
+Patient ID: UH-000410
+Age: 73 years
+Gender: Female
+
+Blood Pressure: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 229 mg/dL
+  LDL: 118 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.25 mg/dL
+BMI: 21.5
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

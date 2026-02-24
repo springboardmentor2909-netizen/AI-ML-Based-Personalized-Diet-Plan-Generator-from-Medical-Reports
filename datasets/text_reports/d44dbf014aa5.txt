@@ -1,0 +1,45 @@
+
+Medisphere Medical Center
+Address: 64 Evergreen Lane, Clearwater - 462897
+Phone: +91-71771-94730
+Email: info@medisphere18.org
+Website: www.medisphere118.org
+Accreditation Code: ME-86192
+
+Report ID: RPT-A2B210FA
+Sample ID: SMP-43527
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8276
+
+Patient Name: R***
+Patient ID: UH-001266
+Age: 51 years
+Gender: Female
+
+Height: 169.7 cm
+Weight: 94.8 kg
+
+Blood Pressure: 112/72 mmHg
+Pulse: 94 bpm
+Glucose: 118 mg/dL
+
+Cholesterol Panel:
+  Total: 257 mg/dL
+  LDL: 70 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 268 mg/dL
+
+Hemoglobin: 15.7 g/dL
+Creatinine: 1.23 mg/dL
+BMI: 34.3
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 38 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+
+Clinical Notes:
+Cholesterol borderline high; monitor regularly.

@@ -1,0 +1,44 @@
+
+Riverdale Diagnostics
+Address: 52 Maple Drive, Hillcrest - 455473
+Phone: +91-86432-44291
+Email: info@riverdale25.org
+Website: www.riverdale257.org
+Accreditation Code: RI-64927
+
+Report ID: RPT-F5EF88C4
+Sample ID: SMP-46120
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1074
+
+Patient Name: X***
+Patient ID: UH-001224
+Age: 48 years
+Gender: Female
+
+Height: 176.5 cm
+Weight: 77.1 kg
+
+Blood Pressure: 148/80 mmHg
+Pulse (bpm): 67 bpm
+Glucose: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 222 mg/dL
+  LDL: 90 mg/dL
+  HDL: 65 mg/dL
+  Triglycerides: 113 mg/dL
+
+Hemoglobin: 13.4 g/dL
+Creatinine: 1.14 mg/dL
+BMI: 31.1
+
+KFT:
+  Urea: 13 mg/dL
+  eGFR: 123 mL/min
+
+
+Advice:
+Good therapy response.

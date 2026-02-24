@@ -1,0 +1,49 @@
+
+NovaPath Clinical Institute
+Address: 34 Maple Drive, Meadowridge - 412197
+Phone: +91-76172-22073
+Email: info@novapath75.org
+Website: www.novapath240.org
+Accreditation Code: NO-37762
+
+Report ID: RPT-11C2C6F4
+Sample ID: SMP-71019
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5279
+
+Patient Name: D***
+Patient ID: UH-000656
+Age: 51 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 108 bpm
+Glucose: 158 mg/dL
+
+Cholesterol Panel:
+  Total: 204 mg/dL
+  LDL: 86 mg/dL
+  HDL: -
+  Triglycerides: 116 mg/dL
+
+Hemoglobin: 10.8 g/dL
+Creatinine: 0.92 mg/dL
+BMI: 21.5
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 100 mL/min
+
+
+Recommendation:
+Lipid profile requires monitoring.

@@ -1,0 +1,39 @@
+
+ClearRiver Medical Center
+Address: 29 Horizon Road, Marigold City - 413687
+Phone: +91-90610-29431
+Email: info@clearriver36.org
+Website: www.clearriver527.org
+Accreditation Code: CL-40887
+
+Report ID: RPT-F3A75420
+Sample ID: SMP-30931
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2472
+
+Patient Name: V***
+Patient ID: UH-000514
+Age: 63 years
+Gender: Female
+
+Height: 180.8 cm
+Weight: 63.3 kg
+
+Blood Pressure: -
+Blood Sugar: 132 mg/dL
+
+Cholesterol Panel:
+  Total: 175 mg/dL
+  LDL: 154 mg/dL
+  HDL: -
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 1.25 mg/dL
+BMI: 22.2
+
+
+Advice:
+Continue present medications.

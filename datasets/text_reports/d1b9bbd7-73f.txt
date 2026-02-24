@@ -1,0 +1,48 @@
+
+Silver Oak Medical Center
+Address: 45 Sunrise Boulevard, Westlake - 444797
+Phone: +91-78674-12920
+Email: info@silver oak80.org
+Website: www.silver oak498.org
+Accreditation Code: SI-57823
+
+Report ID: RPT-CDCAFFD2
+Sample ID: SMP-36699
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7664
+
+Patient Name: P***
+Patient ID: UH-000508
+Age: 84 years
+Gender: Male
+
+Height: 170.8 cm
+Weight: -
+
+Blood Pressure: 113/103 mmHg
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: 111 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.34 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 35 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: -
+
+
+Clinical Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

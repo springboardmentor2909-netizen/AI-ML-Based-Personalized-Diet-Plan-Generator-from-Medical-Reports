@@ -1,0 +1,37 @@
+
+BlueValley Diagnostics
+Address: 29 Horizon Road, Hillcrest - 476375
+Phone: +91-94996-13414
+Email: info@bluevalley34.org
+Website: www.bluevalley189.org
+Accreditation Code: BL-41774
+
+Report ID: RPT-09CF9658
+Sample ID: SMP-94955
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2432
+
+Patient Name: N***
+Patient ID: UH-001557
+Age: 66
+Gender: Other
+
+Pulse Rate: 79 bpm
+Blood Glucose: 159 mg/dL
+Height: 186.8 cm
+Weight: 71.5 kg
+Cholesterol Total: 181 mg/dL
+LDL: 139 mg/dL
+HDL: 35 mg/dL
+Triglycerides: 216 mg/dL
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.37 mg/dL
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: 64 mL/min
+
+Impression:
+Discussed results; patient understood.

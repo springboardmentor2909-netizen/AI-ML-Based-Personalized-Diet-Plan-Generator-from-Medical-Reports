@@ -1,0 +1,37 @@
+
+SolacePoint Diagnostics
+Address: 32 Evergreen Lane, Clearwater - 449873
+Phone: +91-71186-17507
+Email: info@solacepoint57.org
+Website: www.solacepoint147.org
+Accreditation Code: SO-36323
+
+Report ID: RPT-22095DB4
+Sample ID: SMP-54326
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4171
+
+Patient Name: B***
+Patient ID: UH-001493
+Age: 68
+Gender: Male
+
+Pulse: 68 bpm
+Height: 181.6 cm
+Cholesterol Total: 154 mg/dL
+Triglycerides: 140 mg/dL
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.25 mg/dL
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 16 mg/dL
+
+Remarks:
+Follow-up advised.

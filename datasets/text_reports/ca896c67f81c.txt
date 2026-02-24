@@ -1,0 +1,28 @@
+
+Riverdale Medical Center
+Address: 9 Riverbend Ave, Clearwater - 418825
+Phone: +91-89127-58962
+Email: info@riverdale25.org
+Website: www.riverdale503.org
+Accreditation Code: RI-47836
+
+Report ID: RPT-C26B3BD1
+Sample ID: SMP-63576
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8193
+
+Patient Name: X***
+Patient ID: UH-001356
+Age: 30
+Gender: Female
+
+Blood Pressure: 121/60 mmHg
+Blood Glucose: 132 mg/dL
+Cholesterol Total: 236 mg/dL
+LDL: 131 mg/dL
+HDL: 48 mg/dL
+
+Summary:
+Increase daily walking.

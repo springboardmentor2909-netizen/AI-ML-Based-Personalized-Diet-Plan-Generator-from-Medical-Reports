@@ -1,0 +1,35 @@
+
+Everlight Medical Center
+Address: 54 Sunrise Boulevard, Clearwater - 450724
+Phone: +91-75992-83476
+Email: info@everlight53.org
+Website: www.everlight687.org
+Accreditation Code: EV-47572
+
+Report ID: RPT-3F43BB11
+Sample ID: SMP-38859
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3907
+
+Patient Name: H***
+Patient ID: UH-001359
+Age: 56
+Gender: Female
+
+Pulse: 84 bpm
+Blood Sugar (Random): 88 mg/dL
+Height: 189.2 cm
+Weight: 53.6 kg
+HDL: 36 mg/dL
+Hemoglobin: 11.2 g/dL
+BMI: 20.9
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+Doctor's Comments:
+Stable condition; review in OPD.

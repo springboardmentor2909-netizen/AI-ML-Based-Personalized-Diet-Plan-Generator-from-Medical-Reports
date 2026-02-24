@@ -1,0 +1,40 @@
+
+BlueValley Diagnostics
+Address: 98 Maple Drive, Meadowridge - 465779
+Phone: +91-78611-34526
+Email: info@bluevalley60.org
+Website: www.bluevalley929.org
+Accreditation Code: BL-23253
+
+Report ID: RPT-B2FE3D48
+Sample ID: SMP-39735
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9082
+
+Patient Name: L***
+Patient ID: UH-000459
+Age: 85 years
+Gender: Other
+
+Blood Pressure: -
+Blood Glucose: 141 mg/dL
+
+Cholesterol Panel:
+  Total: 167 mg/dL
+  LDL: 160 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 199 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 0.99 mg/dL
+BMI: -
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: 76 mL/min
+
+
+Impression:
+Blood pressure stable today.

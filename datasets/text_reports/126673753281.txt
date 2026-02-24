@@ -1,0 +1,44 @@
+
+ClearRiver Clinical Institute
+Address: 95 Maple Drive, Hillcrest - 411298
+Phone: +91-81150-48265
+Email: info@clearriver98.org
+Website: www.clearriver213.org
+Accreditation Code: CL-30122
+
+Report ID: RPT-D114C8D3
+Sample ID: SMP-81313
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7893
+
+Patient Name: W***
+Patient ID: UH-001371
+Age: 50
+Gender: Female
+
+Blood Pressure: 163/64 mmHg
+Pulse Rate: 79 bpm
+Blood Sugar: 179 mg/dL
+Height: 188.4 cm
+Weight: 49.4 kg
+Cholesterol Total: 251 mg/dL
+LDL: 87 mg/dL
+HDL: 36 mg/dL
+Triglycerides: 192 mg/dL
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 31.9
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 1.4 mg/dL
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 82 mL/min
+
+Remark:
+Increase daily walking.

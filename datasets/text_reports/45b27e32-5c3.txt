@@ -1,0 +1,39 @@
+
+SolacePoint Medical Center
+Address: 75 Evergreen Lane, Meadowridge - 413358
+Phone: +91-97664-92969
+Email: info@solacepoint45.org
+Website: www.solacepoint105.org
+Accreditation Code: SO-85147
+
+Report ID: RPT-6DD6310C
+Sample ID: SMP-82515
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3542
+
+Patient Name: D***
+Patient ID: UH-000527
+Age: 73 years
+Gender: Other
+
+Height: 163.2 cm
+Weight: 87.3 kg
+
+Blood Pressure: -
+Glucose: 163 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 127 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 189 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: -
+BMI: 23.1
+
+
+Clinical Notes:
+Follow-up recommended after 2 weeks.

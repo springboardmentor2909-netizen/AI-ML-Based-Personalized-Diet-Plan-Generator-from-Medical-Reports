@@ -1,0 +1,40 @@
+
+Medisphere Medical Center
+Address: 63 Alpine Street, Clearwater - 440994
+Phone: +91-87663-28083
+Email: info@medisphere75.org
+Website: www.medisphere849.org
+Accreditation Code: ME-18445
+
+Report ID: RPT-69EA89C9
+Sample ID: SMP-46575
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8339
+
+Patient Name: K***
+Patient ID: UH-001052
+Age: 67 years
+Gender: Male
+
+Height: -
+Weight: 82.7 kg
+
+Blood Pressure: 111/104 mmHg
+Pulse: 73 bpm
+Glucose: 100 mg/dL
+
+Cholesterol Panel:
+  Total: 229 mg/dL
+  LDL: 153 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 32.5
+
+
+Remark:
+Repeat test if clinically indicated.

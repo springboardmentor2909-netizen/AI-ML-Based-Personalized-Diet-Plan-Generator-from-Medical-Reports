@@ -1,0 +1,45 @@
+
+PrimeCare Pathology Lab
+Address: 22 Evergreen Lane, Westlake - 400590
+Phone: +91-76571-74037
+Email: info@primecare99.org
+Website: www.primecare202.org
+Accreditation Code: PR-99725
+
+Report ID: RPT-F3893266
+Sample ID: SMP-28655
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3483
+
+Patient Name: E***
+Patient ID: UH-001108
+Age: 35 years
+Gender: Male
+
+Height: -
+Weight: 86.9 kg
+
+Blood Pressure: 161/97 mmHg
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 179 mg/dL
+  LDL: 151 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 213 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 32.1
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Doctor's Comments:
+Blood sugar trending upward; review lifestyle changes.

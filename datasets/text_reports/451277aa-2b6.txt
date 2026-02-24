@@ -1,0 +1,44 @@
+
+SolacePoint Medical Center
+Address: 13 Riverbend Ave, Hillcrest - 403127
+Phone: +91-91431-29262
+Email: info@solacepoint44.org
+Website: www.solacepoint430.org
+Accreditation Code: SO-76752
+
+Report ID: RPT-F6E7C195
+Sample ID: SMP-77775
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2382
+
+Patient Name: Y***
+Patient ID: UH-000618
+Age: 35 years
+Gender: Male
+
+Height: 153.7 cm
+Weight: 82.1 kg
+
+Blood Pressure: 159/78 mmHg
+Pulse (bpm): 98 bpm
+Blood Sugar (Random): 145 mg/dL
+
+Cholesterol Panel:
+  Total: 230 mg/dL
+  LDL: 85 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 110 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: 1.29 mg/dL
+BMI: 18.2
+
+KFT:
+  Urea: 29 mg/dL
+  eGFR: 88 mL/min
+
+
+Remarks:
+Blood pressure within acceptable range.

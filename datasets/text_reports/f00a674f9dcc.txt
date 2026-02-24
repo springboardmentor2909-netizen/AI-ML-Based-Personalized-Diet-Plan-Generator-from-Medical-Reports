@@ -1,0 +1,29 @@
+
+ClearRiver Diagnostics
+Address: 54 Evergreen Lane, Meadowridge - 431062
+Phone: +91-92001-41770
+Email: info@clearriver87.org
+Website: www.clearriver152.org
+Accreditation Code: CL-32504
+
+Report ID: RPT-231CAF2C
+Sample ID: SMP-82899
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5743
+
+Patient Name: H***
+Patient ID: UH-001390
+Age: 49
+Gender: Female
+
+Weight: 54.3 kg
+Cholesterol Total: 199 mg/dL
+LDL: 79 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 196 mg/dL
+Hemoglobin: 9.8 g/dL
+
+Remark:
+Therapy response is satisfactory.

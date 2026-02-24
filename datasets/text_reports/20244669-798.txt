@@ -1,0 +1,49 @@
+
+Northlake Hospital
+Address: 90 Evergreen Lane, Clearwater - 409244
+Phone: +91-85172-93372
+Email: info@northlake82.org
+Website: www.northlake616.org
+Accreditation Code: NO-98655
+
+Report ID: RPT-C60A3A6D
+Sample ID: SMP-19428
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6154
+
+Patient Name: E***
+Patient ID: UH-001105
+Age: 72 years
+Gender: Male
+
+Height: 167.9 cm
+Weight: 52.9 kg
+
+Blood Pressure: 112/105 mmHg
+Pulse: 104 bpm
+Blood Glucose: 148 mg/dL
+
+Cholesterol Panel:
+  Total: 207 mg/dL
+  LDL: 103 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 194 mg/dL
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 31.4
+
+LFT:
+  AST/SGOT: 39 U/L
+  ALT/SGPT: 40 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 30 mg/dL
+  eGFR: 90 mL/min
+
+
+Advice:
+Essential to improve diet quality.

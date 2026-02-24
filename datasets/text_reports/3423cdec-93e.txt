@@ -1,0 +1,45 @@
+
+PrimeCare Medical Center
+Address: 72 Maple Drive, Meadowridge - 485598
+Phone: +91-85157-72867
+Email: info@primecare12.org
+Website: www.primecare973.org
+Accreditation Code: PR-70073
+
+Report ID: RPT-63AA6434
+Sample ID: SMP-69521
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2745
+
+Patient Name: U***
+Patient ID: UH-000915
+Age: 73 years
+Gender: Other
+
+Height: 168.4 cm
+Weight: 84.3 kg
+
+Blood Pressure: 114/85 mmHg
+Pulse Rate: 71 bpm
+Blood Sugar (Random): 155 mg/dL
+
+Cholesterol Panel:
+  Total: 257 mg/dL
+  LDL: 111 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 218 mg/dL
+
+Hemoglobin: 10.8 g/dL
+Creatinine: 0.71 mg/dL
+BMI: 26.7
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+
+Clinical Notes:
+Sugar levels within acceptable range.

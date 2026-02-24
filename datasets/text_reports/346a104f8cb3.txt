@@ -1,0 +1,33 @@
+
+ClearRiver Clinical Institute
+Address: 61 Maple Drive, Meadowridge - 406103
+Phone: +91-75120-13206
+Email: info@clearriver40.org
+Website: www.clearriver773.org
+Accreditation Code: CL-89167
+
+Report ID: RPT-248205AA
+Sample ID: SMP-30168
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1048
+
+Patient Name: S***
+Patient ID: UH-001515
+Age: 31
+Gender: Male
+
+Blood Pressure: 110/93 mmHg
+Pulse: 104 bpm
+Glucose: 107 mg/dL
+Height: 170.3 cm
+Weight: 66.4 kg
+LDL: 142 mg/dL
+HDL: 39 mg/dL
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.26 mg/dL
+BMI: 22.9
+
+Impression:
+Follow-up advised.

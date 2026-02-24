@@ -1,0 +1,49 @@
+
+BlueValley Clinical Institute
+Address: 16 Evergreen Lane, Westlake - 456008
+Phone: +91-97513-94650
+Email: info@bluevalley83.org
+Website: www.bluevalley751.org
+Accreditation Code: BL-19060
+
+Report ID: RPT-62FBB25A
+Sample ID: SMP-30644
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9612
+
+Patient Name: K***
+Patient ID: UH-001223
+Age: 74 years
+Gender: Male
+
+Height: 182.9 cm
+Weight: 99.9 kg
+
+Blood Pressure: 157/64 mmHg
+Pulse (bpm): 78 bpm
+Glucose: 130 mg/dL
+
+Cholesterol Panel:
+  Total: 244 mg/dL
+  LDL: -
+  HDL: 53 mg/dL
+  Triglycerides: 272 mg/dL
+
+Hemoglobin: 13.6 g/dL
+Creatinine: -
+BMI: 32.0
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 16 mg/dL
+  eGFR: 120 mL/min
+
+
+Recommendation:
+Good therapy response.

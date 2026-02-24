@@ -1,0 +1,49 @@
+
+PrimeCare Medical Center
+Address: 40 Horizon Road, Clearwater - 493284
+Phone: +91-78653-20427
+Email: info@primecare88.org
+Website: www.primecare927.org
+Accreditation Code: PR-24315
+
+Report ID: RPT-E1F0082D
+Sample ID: SMP-50424
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8729
+
+Patient Name: B***
+Patient ID: UH-001089
+Age: 50 years
+Gender: Other
+
+Height: 183.1 cm
+Weight: -
+
+Blood Pressure: 127/108 mmHg
+Pulse: -
+Glucose: 168 mg/dL
+
+Cholesterol Panel:
+  Total: 162 mg/dL
+  LDL: 150 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: 228 mg/dL
+
+Hemoglobin: 11.3 g/dL
+Creatinine: 0.79 mg/dL
+BMI: 29.1
+
+LFT:
+  AST/SGOT: 26 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: -
+
+
+Advice:
+Cholesterol borderline. Consider dietary modification.

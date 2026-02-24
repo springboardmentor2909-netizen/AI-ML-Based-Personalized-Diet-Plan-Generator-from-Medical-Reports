@@ -1,0 +1,43 @@
+
+Starhaven Medical Center
+Address: 49 Maple Drive, Eastwood - 479085
+Phone: +91-81604-10092
+Email: info@starhaven71.org
+Website: www.starhaven754.org
+Accreditation Code: ST-60442
+
+Report ID: RPT-0606AF17
+Sample ID: SMP-66847
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7698
+
+Patient Name: C***
+Patient ID: UH-000510
+Age: 47 years
+Gender: Female
+
+Height: 168.0 cm
+Weight: 60.7 kg
+
+Blood Pressure: 162/109 mmHg
+Glucose: 95 mg/dL
+
+Cholesterol Panel:
+  Total: 204 mg/dL
+  LDL: 129 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 107 mg/dL
+
+Hemoglobin: 11.1 g/dL
+Creatinine: 0.88 mg/dL
+BMI: 33.0
+
+KFT:
+  Urea: -
+  eGFR: 113 mL/min
+
+
+Advice:
+Follow-up recommended after 2 weeks.

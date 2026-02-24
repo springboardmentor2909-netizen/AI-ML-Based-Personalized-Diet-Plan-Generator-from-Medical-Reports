@@ -1,0 +1,48 @@
+
+Everlight Medical Center
+Address: 2 Alpine Street, Northbay - 478663
+Phone: +91-84180-61204
+Email: info@everlight40.org
+Website: www.everlight137.org
+Accreditation Code: EV-76716
+
+Report ID: RPT-87413D98
+Sample ID: SMP-34441
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1363
+
+Patient Name: C***
+Patient ID: UH-000506
+Age: 21 years
+Gender: Female
+
+Height: 182.9 cm
+Weight: -
+
+Blood Pressure: 135/92 mmHg
+Blood Sugar (Random): 156 mg/dL
+
+Cholesterol Panel:
+  Total: 214 mg/dL
+  LDL: 88 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 241 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 1.08 mg/dL
+BMI: 20.1
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: 39 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 62 mL/min
+
+
+Advice:
+Blood pressure within acceptable range.

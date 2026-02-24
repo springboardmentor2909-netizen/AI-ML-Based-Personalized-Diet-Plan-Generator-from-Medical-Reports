@@ -1,0 +1,40 @@
+FORTIS MEMORIAL RESEARCH INSTITUTE
+Sector 44, Gurugram, Haryana – 122002, India
+
+PATIENT DIAGNOSTIC REPORT
+
+Patient Name: ███████ █████
+Patient ID: FMRI-2025-8843
+Age: 58
+Gender: Male
+Height: 168 cm
+Weight: 82 kg
+Date of Examination: 18-Dec-2025
+
+VITALS
+- Blood Pressure: 158 / 96 mmHg
+- Pulse: 104 bpm
+- BMI: 29.1
+
+BLOOD SUGAR
+- Fasting Glucose: 162 mg/dL
+- Post‑Prandial Glucose: 268 mg/dL
+
+LIPID PROFILE
+- Total Cholesterol: 248 mg/dL
+- HDL: 34 mg/dL
+- LDL: 164 mg/dL
+- Triglycerides: 312 mg/dL
+
+RENAL FUNCTION
+- Creatinine: 2.18 mg/dL
+
+HEMATOLOGY
+- Hemoglobin: 10.8 g/dL
+- RBC Count: 3.92 million/cu mm
+- Platelet Count: 1.42 lakh/cu mm
+
+DOCTOR'S COMMENTS:
+Creatinine is significantly elevated suggesting impaired renal function. Blood pressure
+and blood sugar levels are poorly controlled. Dyslipidemia and mild anemia noted.
+Urgent nephrology consultation advised along with strict glycemic and BP control.

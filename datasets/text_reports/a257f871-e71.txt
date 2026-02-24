@@ -1,0 +1,45 @@
+
+SolacePoint Hospital
+Address: 91 Riverbend Ave, Hillcrest - 442013
+Phone: +91-99982-95804
+Email: info@solacepoint47.org
+Website: www.solacepoint375.org
+Accreditation Code: SO-96860
+
+Report ID: RPT-39FB99E5
+Sample ID: SMP-93256
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9913
+
+Patient Name: U***
+Patient ID: UH-000965
+Age: 63 years
+Gender: Male
+
+Height: 173.1 cm
+Weight: 65.4 kg
+
+Blood Pressure: 114/64 mmHg
+Pulse: 95 bpm
+Blood Sugar (Random): 82 mg/dL
+
+Cholesterol Panel:
+  Total: 216 mg/dL
+  LDL: 123 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 204 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 1.18 mg/dL
+BMI: 31.4
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 25 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Recommendations:
+Blood pressure requires monitoring.

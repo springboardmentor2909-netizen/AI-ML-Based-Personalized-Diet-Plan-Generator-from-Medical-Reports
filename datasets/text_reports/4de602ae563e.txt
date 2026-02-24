@@ -1,0 +1,35 @@
+
+Silver Oak Clinical Institute
+Address: 36 Evergreen Lane, Hillcrest - 436538
+Phone: +91-83644-76496
+Email: info@silver oak90.org
+Website: www.silver oak583.org
+Accreditation Code: SI-58343
+
+Report ID: RPT-80994EA7
+Sample ID: SMP-89365
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4832
+
+Patient Name: H***
+Patient ID: UH-001473
+Age: 64
+Gender: Other
+
+Blood Pressure: 116/67 mmHg
+Height: 182.0 cm
+Weight: 50.9 kg
+Cholesterol Total: 227 mg/dL
+HDL: 50 mg/dL
+Triglycerides: 97 mg/dL
+Hemoglobin: 13.5 g/dL
+BMI: 35.0
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: 106 mL/min
+
+Advice:
+Values improving.

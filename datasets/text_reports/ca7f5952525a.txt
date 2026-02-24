@@ -1,0 +1,40 @@
+
+Greencrest Clinical Institute
+Address: 19 Evergreen Lane, Silverpoint - 410325
+Phone: +91-71390-56581
+Email: info@greencrest73.org
+Website: www.greencrest460.org
+Accreditation Code: GR-21344
+
+Report ID: RPT-ED843CC0
+Sample ID: SMP-62263
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3103
+
+Patient Name: U***
+Patient ID: UH-001234
+Age: 72 years
+Gender: Female
+
+Height: 176.8 cm
+Weight: -
+
+Blood Pressure: 133/81 mmHg
+Pulse Rate: -
+Blood Sugar (Random): 112 mg/dL
+
+Cholesterol Panel:
+  Total: 214 mg/dL
+  LDL: 143 mg/dL
+  HDL: -
+  Triglycerides: 254 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 0.97 mg/dL
+BMI: -
+
+
+Recommendation:
+Medication routine reviewed.

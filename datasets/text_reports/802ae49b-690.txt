@@ -1,0 +1,39 @@
+
+Silver Oak Medical Center
+Address: 49 Riverbend Ave, Hillcrest - 484539
+Phone: +91-82812-11921
+Email: info@silver oak16.org
+Website: www.silver oak315.org
+Accreditation Code: SI-35580
+
+Report ID: RPT-6B4F63F8
+Sample ID: SMP-68293
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8357
+
+Patient Name: V***
+Patient ID: UH-000515
+Age: 68 years
+Gender: Male
+
+Height: 184.9 cm
+Weight: 72.8 kg
+
+Blood Pressure: 107/97 mmHg
+Blood Sugar (Random): 123 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 119 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 193 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.32 mg/dL
+BMI: -
+
+
+Remarks:
+Lipid profile requires monitoring.

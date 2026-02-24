@@ -1,0 +1,40 @@
+
+Everlight Hospital
+Address: 56 Evergreen Lane, Silverpoint - 449654
+Phone: +91-90816-73677
+Email: info@everlight11.org
+Website: www.everlight120.org
+Accreditation Code: EV-47942
+
+Report ID: RPT-3E162FE4
+Sample ID: SMP-80045
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7284
+
+Patient Name: I***
+Patient ID: UH-000961
+Age: 51 years
+Gender: Male
+
+Height: 176.0 cm
+Weight: 75.2 kg
+
+Blood Pressure: -
+Pulse: 88 bpm
+Blood Sugar (Random): 154 mg/dL
+
+Cholesterol Panel:
+  Total: 219 mg/dL
+  LDL: -
+  HDL: 58 mg/dL
+  Triglycerides: 186 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: -
+BMI: 28.9
+
+
+Remarks:
+Sugar levels within acceptable range.

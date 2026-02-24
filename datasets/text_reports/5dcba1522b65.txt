@@ -1,0 +1,40 @@
+
+SolacePoint Medical Center
+Address: 42 Sunrise Boulevard, Meadowridge - 491491
+Phone: +91-70893-80444
+Email: info@solacepoint96.org
+Website: www.solacepoint302.org
+Accreditation Code: SO-31697
+
+Report ID: RPT-8A25916D
+Sample ID: SMP-33225
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1154
+
+Patient Name: P***
+Patient ID: UH-001291
+Age: 83 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 154/97 mmHg
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 126 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 10.5 g/dL
+Creatinine: 1.43 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Discussed results clearly. Patient understood.

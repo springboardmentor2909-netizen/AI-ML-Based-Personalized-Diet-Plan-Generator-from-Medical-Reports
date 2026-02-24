@@ -1,0 +1,36 @@
+
+Riverdale Medical Center
+Address: 76 Evergreen Lane, Meadowridge - 473762
+Phone: +91-79134-15975
+Email: info@riverdale88.org
+Website: www.riverdale463.org
+Accreditation Code: RI-19381
+
+Report ID: RPT-257B8B44
+Sample ID: SMP-70112
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8378
+
+Patient Name: Q***
+Patient ID: UH-001393
+Age: 40
+Gender: Male
+
+Blood Pressure: 126/88 mmHg
+Pulse: 63 bpm
+Blood Sugar: 89 mg/dL
+Height: 184.9 cm
+Weight: 54.9 kg
+Cholesterol Total: 250 mg/dL
+LDL: 106 mg/dL
+Hemoglobin: 11.2 g/dL
+Creatinine: 1.13 mg/dL
+BMI: 21.9
+
+KFT:
+  Urea: 30 mg/dL
+
+Recommendation:
+Recheck lipid levels after 3 months.

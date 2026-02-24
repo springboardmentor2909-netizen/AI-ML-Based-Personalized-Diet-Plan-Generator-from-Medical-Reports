@@ -1,0 +1,44 @@
+
+Riverdale Medical Center
+Address: 48 Horizon Road, Eastwood - 468989
+Phone: +91-82667-35049
+Email: info@riverdale71.org
+Website: www.riverdale447.org
+Accreditation Code: RI-22422
+
+Report ID: RPT-FAB3D7A3
+Sample ID: SMP-98710
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8938
+
+Patient Name: P***
+Patient ID: UH-000588
+Age: 22 years
+Gender: Male
+
+Height: 169.6 cm
+Weight: 45.8 kg
+
+Blood Pressure: 165/71 mmHg
+Blood Glucose: 141 mg/dL
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: 109 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 246 mg/dL
+
+Hemoglobin: 12.8 g/dL
+Creatinine: 0.88 mg/dL
+BMI: 20.0
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Advice:
+Continue present medications.

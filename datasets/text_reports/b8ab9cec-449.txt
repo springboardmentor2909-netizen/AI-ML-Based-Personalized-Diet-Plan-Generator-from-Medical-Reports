@@ -1,0 +1,40 @@
+
+Everlight Hospital
+Address: 88 Sunrise Boulevard, Hillcrest - 418196
+Phone: +91-75037-13091
+Email: info@everlight58.org
+Website: www.everlight293.org
+Accreditation Code: EV-29454
+
+Report ID: RPT-BE6FCB9B
+Sample ID: SMP-64254
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6765
+
+Patient Name: P***
+Patient ID: UH-000615
+Age: 25 years
+Gender: Male
+
+Height: 163.3 cm
+Weight: 76.3 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.92 mg/dL
+BMI: -
+
+
+Recommendations:
+Lipid profile requires monitoring.

@@ -1,0 +1,32 @@
+
+Silver Oak Medical Center
+Address: 62 Horizon Road, Northbay - 439242
+Phone: +91-78236-84965
+Email: info@silver oak48.org
+Website: www.silver oak879.org
+Accreditation Code: SI-41973
+
+Report ID: RPT-6A1A30EF
+Sample ID: SMP-83291
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5413
+
+Patient Name: L***
+Patient ID: UH-001518
+Age: 83
+Gender: Male
+
+Pulse (bpm): 68 bpm
+Glucose: 99 mg/dL
+Height: 164.0 cm
+Weight: 84.0 kg
+Cholesterol Total: 236 mg/dL
+HDL: 42 mg/dL
+Hemoglobin: 10.2 g/dL
+Creatinine: 0.83 mg/dL
+BMI: 34.2
+
+Remark:
+Lifestyle modification suggested.

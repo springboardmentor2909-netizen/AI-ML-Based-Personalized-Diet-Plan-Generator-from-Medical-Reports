@@ -1,0 +1,49 @@
+
+Medisphere Diagnostics
+Address: 37 Alpine Street, Meadowridge - 469362
+Phone: +91-90279-66077
+Email: info@medisphere53.org
+Website: www.medisphere275.org
+Accreditation Code: ME-79648
+
+Report ID: RPT-393242A1
+Sample ID: SMP-39946
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9988
+
+Patient Name: V***
+Patient ID: UH-001198
+Age: 56 years
+Gender: Male
+
+Height: -
+Weight: 53.4 kg
+
+Blood Pressure: 129/72 mmHg
+Pulse: 76 bpm
+Blood Sugar: 83 mg/dL
+
+Cholesterol Panel:
+  Total: 246 mg/dL
+  LDL: 129 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 20.3
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 19 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 72 mL/min
+
+
+Remark:
+Increase moderate activity.

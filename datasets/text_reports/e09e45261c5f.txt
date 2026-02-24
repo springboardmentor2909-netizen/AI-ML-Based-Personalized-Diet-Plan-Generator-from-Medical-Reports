@@ -1,0 +1,35 @@
+
+Riverdale Clinical Institute
+Address: 66 Riverbend Ave, Eastwood - 406076
+Phone: +91-79802-95055
+Email: info@riverdale50.org
+Website: www.riverdale606.org
+Accreditation Code: RI-22676
+
+Report ID: RPT-65FA6C09
+Sample ID: SMP-79138
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4612
+
+Patient Name: G***
+Patient ID: UH-001301
+Age: 50
+Gender: Other
+
+Blood Pressure: 165/93 mmHg
+Pulse (bpm): 90 bpm
+Blood Sugar: 110 mg/dL
+Height: 167.7 cm
+Weight: 87.2 kg
+Cholesterol Total: 154 mg/dL
+LDL: 71 mg/dL
+HDL: 52 mg/dL
+Triglycerides: 181 mg/dL
+Hemoglobin: 15.8 g/dL
+Creatinine: 1.07 mg/dL
+BMI: 20.1
+
+Summary:
+Values improved compared to previous results.

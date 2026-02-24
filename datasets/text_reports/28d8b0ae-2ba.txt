@@ -1,0 +1,41 @@
+
+SolacePoint Clinical Institute
+Address: 46 Maple Drive, Eastwood - 463566
+Phone: +91-81287-80481
+Email: info@solacepoint71.org
+Website: www.solacepoint189.org
+Accreditation Code: SO-48405
+
+Report ID: RPT-C818F949
+Sample ID: SMP-50553
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4321
+
+Patient Name: W***
+Patient ID: UH-000487
+Age: 56 years
+Gender: Male
+
+Blood Pressure: 138/101 mmHg
+Glucose: 85 mg/dL
+
+Cholesterol Panel:
+  Total: 171 mg/dL
+  LDL: 127 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 180 mg/dL
+
+Hemoglobin: 14.0 g/dL
+Creatinine: -
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 32 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Clinical Notes:
+Continue present medications.

@@ -1,0 +1,40 @@
+
+Everlight Hospital
+Address: 56 Evergreen Lane, Silverpoint - 449654
+Phone: +91-90816-73677
+Email: info@everlight11.org
+Website: www.everlight120.org
+Accreditation Code: EV-47942
+
+Report ID: RPT-1691CDC2
+Sample ID: SMP-57236
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6063
+
+Patient Name: Z***
+Patient ID: UH-000927
+Age: 85 years
+Gender: Male
+
+Height: 180.2 cm
+Weight: 90.0 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 244 mg/dL
+  LDL: 83 mg/dL
+  HDL: -
+  Triglycerides: 218 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.96 mg/dL
+BMI: 21.6
+
+
+Doctor's Comments:
+Monitor BP at home regularly.

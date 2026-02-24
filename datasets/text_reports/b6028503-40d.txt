@@ -1,0 +1,44 @@
+
+ClearRiver Medical Center
+Address: 87 Horizon Road, Clearwater - 496295
+Phone: +91-92703-55113
+Email: info@clearriver77.org
+Website: www.clearriver284.org
+Accreditation Code: CL-53619
+
+Report ID: RPT-AEC0B0B7
+Sample ID: SMP-81397
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8318
+
+Patient Name: P***
+Patient ID: UH-000824
+Age: 63 years
+Gender: Male
+
+Height: 148.2 cm
+Weight: 90.6 kg
+
+Blood Pressure: 144/107 mmHg
+Pulse (bpm): 64 bpm
+Blood Sugar (Random): 125 mg/dL
+
+Cholesterol Panel:
+  Total: 169 mg/dL
+  LDL: 121 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 243 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 0.93 mg/dL
+BMI: 28.4
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 119 mL/min
+
+
+Recommendation:
+Lifestyle counseling advised.

@@ -1,0 +1,40 @@
+
+Starhaven Medical Center
+Address: 81 Maple Drive, Meadowridge - 433108
+Phone: +91-80363-92061
+Email: info@starhaven64.org
+Website: www.starhaven377.org
+Accreditation Code: ST-69392
+
+Report ID: RPT-2A3DC4BA
+Sample ID: SMP-43390
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9940
+
+Patient Name: N***
+Patient ID: UH-001072
+Age: 77 years
+Gender: Female
+
+Height: 164.6 cm
+Weight: 91.6 kg
+
+Blood Pressure: 143/96 mmHg
+Pulse Rate: 74 bpm
+Blood Sugar (Random): 132 mg/dL
+
+Cholesterol Panel:
+  Total: 192 mg/dL
+  LDL: 90 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: 207 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.11 mg/dL
+BMI: 29.9
+
+
+Impression:
+Lifestyle counseling advised.

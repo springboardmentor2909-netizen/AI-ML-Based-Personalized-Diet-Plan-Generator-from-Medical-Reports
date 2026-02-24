@@ -1,0 +1,45 @@
+
+Everlight Diagnostics
+Address: 68 Evergreen Lane, Silverpoint - 411600
+Phone: +91-93958-66921
+Email: info@everlight48.org
+Website: www.everlight128.org
+Accreditation Code: EV-74648
+
+Report ID: RPT-CABDA241
+Sample ID: SMP-15418
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1685
+
+Patient Name: R***
+Patient ID: UH-000452
+Age: 68 years
+Gender: Female
+
+Blood Pressure: 140/108 mmHg
+Blood Sugar: 143 mg/dL
+
+Cholesterol Panel:
+  Total: 248 mg/dL
+  LDL: 152 mg/dL
+  HDL: 43 mg/dL
+  Triglycerides: 156 mg/dL
+
+Hemoglobin: 14.4 g/dL
+Creatinine: 0.93 mg/dL
+BMI: 32.4
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 13 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 98 mL/min
+
+
+Clinical Notes:
+Blood pressure stable today.

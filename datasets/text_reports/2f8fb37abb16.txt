@@ -1,0 +1,44 @@
+
+Northlake Diagnostics
+Address: 35 Horizon Road, Clearwater - 449498
+Phone: +91-70605-92494
+Email: info@northlake31.org
+Website: www.northlake558.org
+Accreditation Code: NO-54687
+
+Report ID: RPT-9F2AB7EF
+Sample ID: SMP-88094
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1928
+
+Patient Name: S***
+Patient ID: UH-001300
+Age: 49 years
+Gender: Other
+
+Height: 184.6 cm
+Weight: 57.1 kg
+
+Blood Pressure: 115/67 mmHg
+Pulse Rate: -
+Blood Glucose: 119 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 53 mg/dL
+  Triglycerides: 94 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.88 mg/dL
+BMI: 18.4
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 85 mL/min
+
+
+Doctor's Notes:
+Stable. Review in OPD.

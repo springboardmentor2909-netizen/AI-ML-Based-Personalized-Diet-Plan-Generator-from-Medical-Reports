@@ -1,0 +1,37 @@
+
+Silver Oak Clinical Institute
+Address: 40 Sunrise Boulevard, Westlake - 428210
+Phone: +91-74891-59009
+Email: info@silver oak98.org
+Website: www.silver oak607.org
+Accreditation Code: SI-82990
+
+Report ID: RPT-BF7F3B62
+Sample ID: SMP-62893
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2727
+
+Patient Name: H***
+Patient ID: UH-001362
+Age: 18
+Gender: Other
+
+Blood Pressure: 123/100 mmHg
+Pulse: 67 bpm
+Blood Glucose: 106 mg/dL
+Height: 186.6 cm
+Weight: 53.7 kg
+LDL: 105 mg/dL
+Triglycerides: 250 mg/dL
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.68 mg/dL
+BMI: 35.4
+
+LFT:
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+Summary:
+ECG if chest discomfort increases.

@@ -1,0 +1,44 @@
+
+Northlake Diagnostics
+Address: 1 Maple Drive, Meadowridge - 482508
+Phone: +91-92918-45072
+Email: info@northlake35.org
+Website: www.northlake238.org
+Accreditation Code: NO-66064
+
+Report ID: RPT-1EAA6C1C
+Sample ID: SMP-67578
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3790
+
+Patient Name: Q***
+Patient ID: UH-000560
+Age: 33 years
+Gender: Other
+
+Height: 160.9 cm
+Weight: 75.7 kg
+
+Blood Pressure: 123/95 mmHg
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 179 mg/dL
+  LDL: 99 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 180 mg/dL
+
+Hemoglobin: 13.3 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 31.7
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 39 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Impression:
+Lipid profile requires monitoring.

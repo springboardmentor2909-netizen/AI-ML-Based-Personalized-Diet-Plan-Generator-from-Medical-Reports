@@ -1,0 +1,33 @@
+
+PrimeCare Medical Center
+Address: 49 Horizon Road, Westlake - 413361
+Phone: +91-87809-36343
+Email: info@primecare87.org
+Website: www.primecare350.org
+Accreditation Code: PR-43116
+
+Report ID: RPT-325659EB
+Sample ID: SMP-75330
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9937
+
+Patient Name: U***
+Patient ID: UH-001519
+Age: 49
+Gender: Female
+
+Blood Pressure: 103/101 mmHg
+Blood Sugar: 81 mg/dL
+Height: 168.9 cm
+HDL: 41 mg/dL
+Creatinine: 1.3 mg/dL
+BMI: 17.6
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: 12 U/L
+
+Recommendations:
+Mild elevation in glucose.

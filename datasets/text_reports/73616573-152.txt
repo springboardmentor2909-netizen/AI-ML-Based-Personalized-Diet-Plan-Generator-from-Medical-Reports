@@ -1,0 +1,41 @@
+
+SolacePoint Hospital
+Address: 58 Sunrise Boulevard, Silverpoint - 404169
+Phone: +91-89436-93830
+Email: info@solacepoint49.org
+Website: www.solacepoint777.org
+Accreditation Code: SO-87525
+
+Report ID: RPT-ACB30719
+Sample ID: SMP-74540
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5402
+
+Patient Name: J***
+Patient ID: UH-000401
+Age: 27 years
+Gender: Male
+
+Blood Pressure: 168/83 mmHg
+Blood Sugar (Random): 133 mg/dL
+
+Cholesterol Panel:
+  Total: 235 mg/dL
+  LDL: -
+  HDL: 43 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 1.48 mg/dL
+BMI: 32.8
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: 20 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Doctor's Notes:
+Blood pressure stable today.

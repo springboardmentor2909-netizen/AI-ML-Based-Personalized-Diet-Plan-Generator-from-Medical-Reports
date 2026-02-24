@@ -1,0 +1,45 @@
+
+NovaPath Hospital
+Address: 15 Riverbend Ave, Eastwood - 477945
+Phone: +91-87042-40737
+Email: info@novapath53.org
+Website: www.novapath323.org
+Accreditation Code: NO-16752
+
+Report ID: RPT-3B758CC2
+Sample ID: SMP-95393
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4895
+
+Patient Name: A***
+Patient ID: UH-000987
+Age: 46 years
+Gender: Male
+
+Height: 170.2 cm
+Weight: 77.2 kg
+
+Blood Pressure: -
+Pulse Rate: 86 bpm
+Glucose: 124 mg/dL
+
+Cholesterol Panel:
+  Total: 168 mg/dL
+  LDL: 147 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 182 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: -
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 19 U/L
+  Bilirubin Total: -
+
+
+Recommendation:
+Needs follow-up in OPD.

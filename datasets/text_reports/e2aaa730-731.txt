@@ -1,0 +1,40 @@
+
+BlueValley Pathology Lab
+Address: 19 Evergreen Lane, Northbay - 408259
+Phone: +91-79985-75884
+Email: info@bluevalley37.org
+Website: www.bluevalley476.org
+Accreditation Code: BL-85889
+
+Report ID: RPT-8D773A3C
+Sample ID: SMP-85634
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7113
+
+Patient Name: E***
+Patient ID: UH-001123
+Age: 59 years
+Gender: Female
+
+Height: 149.8 cm
+Weight: -
+
+Blood Pressure: 126/109 mmHg
+Pulse (bpm): -
+Blood Glucose: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.0 g/dL
+Creatinine: -
+BMI: -
+
+
+Advice:
+Mild anemia; iron-rich foods suggested.

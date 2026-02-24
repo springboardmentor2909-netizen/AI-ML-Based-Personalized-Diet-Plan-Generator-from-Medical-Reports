@@ -1,0 +1,44 @@
+
+Northlake Clinical Institute
+Address: 70 Horizon Road, Meadowridge - 488949
+Phone: +91-70831-94550
+Email: info@northlake31.org
+Website: www.northlake707.org
+Accreditation Code: NO-40169
+
+Report ID: RPT-ABFE0323
+Sample ID: SMP-34200
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6616
+
+Patient Name: Q***
+Patient ID: UH-000665
+Age: 23 years
+Gender: Female
+
+Height: 155.8 cm
+Weight: 48.2 kg
+
+Blood Pressure: 106/69 mmHg
+Pulse Rate: -
+Blood Sugar (Random): 105 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.78 mg/dL
+BMI: 28.0
+
+KFT:
+  Urea: -
+  eGFR: 63 mL/min
+
+
+Clinical Notes:
+Continue present medications.

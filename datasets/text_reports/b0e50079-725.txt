@@ -1,0 +1,40 @@
+
+ClearRiver Clinical Institute
+Address: 56 Evergreen Lane, Eastwood - 452781
+Phone: +91-92670-69956
+Email: info@clearriver35.org
+Website: www.clearriver405.org
+Accreditation Code: CL-66857
+
+Report ID: RPT-883B9C0F
+Sample ID: SMP-57645
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1956
+
+Patient Name: L***
+Patient ID: UH-001133
+Age: 34 years
+Gender: Female
+
+Height: 145.3 cm
+Weight: 77.9 kg
+
+Blood Pressure: -
+Pulse: 106 bpm
+Blood Glucose: 83 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.92 mg/dL
+BMI: -
+
+
+Remark:
+Encouraged daily walking.

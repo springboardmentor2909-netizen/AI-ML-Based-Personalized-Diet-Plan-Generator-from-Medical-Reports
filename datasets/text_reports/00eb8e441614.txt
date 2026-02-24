@@ -1,0 +1,44 @@
+
+NovaPath Medical Center
+Address: 28 Evergreen Lane, Meadowridge - 464659
+Phone: +91-88149-13818
+Email: info@novapath17.org
+Website: www.novapath767.org
+Accreditation Code: NO-16052
+
+Report ID: RPT-AF734AB8
+Sample ID: SMP-55542
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9542
+
+Patient Name: Z***
+Patient ID: UH-001294
+Age: 80 years
+Gender: Other
+
+Height: 159.7 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Glucose: 174 mg/dL
+
+Cholesterol Panel:
+  Total: 244 mg/dL
+  LDL: 147 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 110 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: -
+BMI: 34.4
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: -
+
+
+Summary:
+Minor deficiency suspected.

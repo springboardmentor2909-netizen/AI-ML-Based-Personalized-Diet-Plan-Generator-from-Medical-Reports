@@ -1,0 +1,44 @@
+
+Medisphere Hospital
+Address: 84 Alpine Street, Northbay - 450961
+Phone: +91-74317-18574
+Email: info@medisphere29.org
+Website: www.medisphere109.org
+Accreditation Code: ME-93280
+
+Report ID: RPT-E25FEF97
+Sample ID: SMP-56668
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8854
+
+Patient Name: F***
+Patient ID: UH-000568
+Age: 23 years
+Gender: Other
+
+Height: -
+Weight: 63.3 kg
+
+Blood Pressure: 152/94 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 253 mg/dL
+  LDL: 83 mg/dL
+  HDL: -
+  Triglycerides: 250 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.13 mg/dL
+BMI: 31.8
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 34 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Doctor's Comments:
+Blood pressure within acceptable range.

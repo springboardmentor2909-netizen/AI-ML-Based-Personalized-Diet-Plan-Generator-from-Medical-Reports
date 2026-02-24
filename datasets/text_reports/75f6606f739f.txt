@@ -1,0 +1,44 @@
+
+Starhaven Medical Center
+Address: 94 Alpine Street, Hillcrest - 480043
+Phone: +91-97797-75402
+Email: info@starhaven46.org
+Website: www.starhaven807.org
+Accreditation Code: ST-77588
+
+Report ID: RPT-6AC66D32
+Sample ID: SMP-82767
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5656
+
+Patient Name: E***
+Patient ID: UH-001218
+Age: 26 years
+Gender: Female
+
+Height: 171.6 cm
+Weight: 45.4 kg
+
+Blood Pressure: 164/65 mmHg
+Pulse: 105 bpm
+Blood Sugar (Random): 98 mg/dL
+
+Cholesterol Panel:
+  Total: 193 mg/dL
+  LDL: 118 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 269 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 18.3
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 82 mL/min
+
+
+Doctor's Comments:
+Follow-up recommended in 2 weeks.

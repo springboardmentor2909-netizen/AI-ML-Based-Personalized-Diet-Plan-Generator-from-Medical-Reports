@@ -1,0 +1,44 @@
+
+ClearRiver Medical Center
+Address: 78 Alpine Street, Silverpoint - 472878
+Phone: +91-79735-42863
+Email: info@clearriver19.org
+Website: www.clearriver507.org
+Accreditation Code: CL-53086
+
+Report ID: RPT-44A26018
+Sample ID: SMP-65817
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2690
+
+Patient Name: M***
+Patient ID: UH-000851
+Age: 40 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 99 bpm
+Blood Glucose: 103 mg/dL
+
+Cholesterol Panel:
+  Total: 247 mg/dL
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: 185 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.49 mg/dL
+BMI: 19.1
+
+KFT:
+  Urea: -
+  eGFR: 83 mL/min
+
+
+Remark:
+Hb slightly low; iron-rich diet suggested.

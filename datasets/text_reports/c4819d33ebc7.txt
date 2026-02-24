@@ -1,0 +1,39 @@
+
+Everlight Medical Center
+Address: 33 Alpine Street, Westlake - 490144
+Phone: +91-99939-64032
+Email: info@everlight67.org
+Website: www.everlight783.org
+Accreditation Code: EV-48295
+
+Report ID: RPT-A47FD5AD
+Sample ID: SMP-28401
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6784
+
+Patient Name: U***
+Patient ID: UH-001459
+Age: 82
+Gender: Other
+
+Blood Pressure: 117/108 mmHg
+Pulse (bpm): 62 bpm
+Blood Sugar (Random): 135 mg/dL
+Height: 176.7 cm
+Weight: 60.6 kg
+Cholesterol Total: 155 mg/dL
+LDL: 128 mg/dL
+HDL: 62 mg/dL
+Triglycerides: 131 mg/dL
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 25.0
+
+KFT:
+  Urea: 41 mg/dL
+  eGFR: 125 mL/min
+
+Recommendation:
+Continue medications.

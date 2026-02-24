@@ -1,0 +1,49 @@
+
+Starhaven Diagnostics
+Address: 87 Riverbend Ave, Westlake - 466271
+Phone: +91-82367-23104
+Email: info@starhaven35.org
+Website: www.starhaven620.org
+Accreditation Code: ST-97233
+
+Report ID: RPT-38F0B72D
+Sample ID: SMP-34668
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5125
+
+Patient Name: M***
+Patient ID: UH-000607
+Age: 53 years
+Gender: Male
+
+Height: 164.0 cm
+Weight: 86.7 kg
+
+Blood Pressure: 165/100 mmHg
+Pulse: 94 bpm
+Blood Glucose: 134 mg/dL
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: 154 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 155 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 0.95 mg/dL
+BMI: 20.2
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 35 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: 65 mL/min
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

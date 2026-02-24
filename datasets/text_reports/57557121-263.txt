@@ -1,0 +1,48 @@
+
+SolacePoint Hospital
+Address: 6 Alpine Street, Meadowridge - 435737
+Phone: +91-98182-59763
+Email: info@solacepoint37.org
+Website: www.solacepoint698.org
+Accreditation Code: SO-60049
+
+Report ID: RPT-9091D0C2
+Sample ID: SMP-62100
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4146
+
+Patient Name: L***
+Patient ID: UH-000546
+Age: 34 years
+Gender: Male
+
+Height: 155.9 cm
+Weight: 63.8 kg
+
+Blood Pressure: 101/101 mmHg
+Blood Sugar: 81 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: 90 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 148 mg/dL
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 24.3
+
+LFT:
+  AST/SGOT: 33 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 81 mL/min
+
+
+Clinical Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

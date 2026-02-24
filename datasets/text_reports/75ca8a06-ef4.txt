@@ -1,0 +1,40 @@
+
+Silver Oak Medical Center
+Address: 17 Riverbend Ave, Marigold City - 404840
+Phone: +91-74740-76120
+Email: info@silver oak68.org
+Website: www.silver oak236.org
+Accreditation Code: SI-67638
+
+Report ID: RPT-3F0577BF
+Sample ID: SMP-93962
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5238
+
+Patient Name: G***
+Patient ID: UH-001147
+Age: 57 years
+Gender: Other
+
+Height: 148.0 cm
+Weight: 45.6 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 203 mg/dL
+  LDL: -
+  HDL: 37 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.93 mg/dL
+BMI: -
+
+
+Advice:
+Essential to improve diet quality.

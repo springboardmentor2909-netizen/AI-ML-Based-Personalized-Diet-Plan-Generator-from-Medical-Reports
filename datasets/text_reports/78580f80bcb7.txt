@@ -1,0 +1,49 @@
+
+Silver Oak Pathology Lab
+Address: 15 Evergreen Lane, Marigold City - 428857
+Phone: +91-96949-29082
+Email: info@silver oak87.org
+Website: www.silver oak924.org
+Accreditation Code: SI-65004
+
+Report ID: RPT-E19BE62A
+Sample ID: SMP-44143
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4768
+
+Patient Name: W***
+Patient ID: UH-001272
+Age: 70 years
+Gender: Female
+
+Height: 162.7 cm
+Weight: -
+
+Blood Pressure: 156/88 mmHg
+Pulse (bpm): 74 bpm
+Glucose: 175 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 148 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 143 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.11 mg/dL
+BMI: 21.3
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 12 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: 69 mL/min
+
+
+Remarks:
+Mild elevation in glucose; advised diet control.

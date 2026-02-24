@@ -1,0 +1,49 @@
+
+BlueValley Pathology Lab
+Address: 70 Evergreen Lane, Meadowridge - 405476
+Phone: +91-86132-38307
+Email: info@bluevalley30.org
+Website: www.bluevalley569.org
+Accreditation Code: BL-29451
+
+Report ID: RPT-A969303D
+Sample ID: SMP-61274
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9279
+
+Patient Name: Z***
+Patient ID: UH-001278
+Age: 60 years
+Gender: Female
+
+Height: 184.7 cm
+Weight: 62.7 kg
+
+Blood Pressure: 168/72 mmHg
+Pulse: 102 bpm
+Blood Glucose: 85 mg/dL
+
+Cholesterol Panel:
+  Total: 219 mg/dL
+  LDL: 140 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 273 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 0.65 mg/dL
+BMI: 20.7
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 63 mL/min
+
+
+Summary:
+Advised ECG if symptoms persist.

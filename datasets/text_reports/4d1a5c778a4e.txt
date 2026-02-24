@@ -1,0 +1,27 @@
+
+Everlight Hospital
+Address: 33 Horizon Road, Clearwater - 455759
+Phone: +91-89640-69184
+Email: info@everlight97.org
+Website: www.everlight186.org
+Accreditation Code: EV-71793
+
+Report ID: RPT-DA10015E
+Sample ID: SMP-76078
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2287
+
+Patient Name: K***
+Patient ID: UH-001467
+Age: 47
+Gender: Other
+
+Weight: 57.1 kg
+Triglycerides: 134 mg/dL
+Hemoglobin: 9.6 g/dL
+BMI: 30.0
+
+Doctor's Notes:
+Monitor BP regularly.

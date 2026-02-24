@@ -1,0 +1,40 @@
+
+ClearRiver Hospital
+Address: 17 Maple Drive, Westlake - 447793
+Phone: +91-96600-96238
+Email: info@clearriver70.org
+Website: www.clearriver631.org
+Accreditation Code: CL-80163
+
+Report ID: RPT-8C81D3BF
+Sample ID: SMP-38555
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7782
+
+Patient Name: D***
+Patient ID: UH-000603
+Age: 45 years
+Gender: Female
+
+Height: 158.0 cm
+Weight: 61.5 kg
+
+Blood Pressure: 122/68 mmHg
+Pulse (bpm): -
+Blood Glucose: 158 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 151 mg/dL
+  HDL: -
+  Triglycerides: 198 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 29.5
+
+
+Remark:
+Lipid profile requires monitoring.

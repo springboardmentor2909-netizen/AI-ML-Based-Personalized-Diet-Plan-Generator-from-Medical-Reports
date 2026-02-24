@@ -1,0 +1,39 @@
+
+PrimeCare Diagnostics
+Address: 81 Riverbend Ave, Marigold City - 476233
+Phone: +91-74487-94021
+Email: info@primecare66.org
+Website: www.primecare410.org
+Accreditation Code: PR-99840
+
+Report ID: RPT-8ED4D8D7
+Sample ID: SMP-16011
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9415
+
+Patient Name: O***
+Patient ID: UH-001403
+Age: 72
+Gender: Female
+
+Blood Pressure: 165/92 mmHg
+Pulse: 63 bpm
+Glucose: 136 mg/dL
+Height: 185.0 cm
+Weight: 74.4 kg
+Cholesterol Total: 150 mg/dL
+LDL: 105 mg/dL
+HDL: 60 mg/dL
+Triglycerides: 107 mg/dL
+Hemoglobin: 12.9 g/dL
+Creatinine: 0.89 mg/dL
+BMI: 27.1
+
+KFT:
+  Urea: 41 mg/dL
+  eGFR: 109 mL/min
+
+Advice:
+Condition stable.

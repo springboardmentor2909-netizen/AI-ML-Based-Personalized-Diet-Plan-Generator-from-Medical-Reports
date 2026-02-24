@@ -1,0 +1,36 @@
+
+Medisphere Clinical Institute
+Address: 96 Sunrise Boulevard, Marigold City - 411354
+Phone: +91-92871-54108
+Email: info@medisphere97.org
+Website: www.medisphere864.org
+Accreditation Code: ME-15204
+
+Report ID: RPT-8E3C5A95
+Sample ID: SMP-73600
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9193
+
+Patient Name: O***
+Patient ID: UH-001527
+Age: 76
+Gender: Male
+
+Blood Pressure: 143/105 mmHg
+Blood Glucose: 122 mg/dL
+Height: 188.5 cm
+Weight: 97.6 kg
+Cholesterol Total: 180 mg/dL
+LDL: 91 mg/dL
+Triglycerides: 256 mg/dL
+Hemoglobin: 10.6 g/dL
+
+LFT:
+  AST/SGOT: 13 U/L
+  ALT/SGPT: 22 U/L
+  Bilirubin Total: 1.4 mg/dL
+
+Remark:
+Discussed results; patient understood.

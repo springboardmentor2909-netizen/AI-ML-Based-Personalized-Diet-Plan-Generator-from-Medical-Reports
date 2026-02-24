@@ -1,0 +1,44 @@
+
+SolacePoint Diagnostics
+Address: 89 Evergreen Lane, Westlake - 416394
+Phone: +91-93798-32626
+Email: info@solacepoint15.org
+Website: www.solacepoint143.org
+Accreditation Code: SO-11817
+
+Report ID: RPT-14E11FE0
+Sample ID: SMP-25514
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1612
+
+Patient Name: W***
+Patient ID: UH-001159
+Age: 60 years
+Gender: Female
+
+Height: 178.9 cm
+Weight: 83.8 kg
+
+Blood Pressure: -
+Pulse Rate: 86 bpm
+Blood Sugar: 103 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 146 mg/dL
+  HDL: -
+  Triglycerides: 142 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 32.4
+
+KFT:
+  Urea: -
+  eGFR: 103 mL/min
+
+
+Impression:
+No signs of active infection.

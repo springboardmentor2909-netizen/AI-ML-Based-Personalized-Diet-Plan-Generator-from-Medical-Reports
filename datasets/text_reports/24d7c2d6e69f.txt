@@ -1,0 +1,33 @@
+
+Everlight Medical Center
+Address: 34 Evergreen Lane, Westlake - 497570
+Phone: +91-81662-69632
+Email: info@everlight15.org
+Website: www.everlight843.org
+Accreditation Code: EV-28670
+
+Report ID: RPT-A953C8C7
+Sample ID: SMP-60232
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2136
+
+Patient Name: P***
+Patient ID: UH-001470
+Age: 71
+Gender: Other
+
+Blood Pressure: 103/73 mmHg
+Pulse (bpm): 108 bpm
+Blood Glucose: 167 mg/dL
+Height: 147.0 cm
+Cholesterol Total: 244 mg/dL
+LDL: 160 mg/dL
+HDL: 46 mg/dL
+Triglycerides: 95 mg/dL
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.26 mg/dL
+
+Impression:
+Lifestyle modification suggested.

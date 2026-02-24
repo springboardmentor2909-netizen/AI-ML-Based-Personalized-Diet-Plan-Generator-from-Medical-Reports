@@ -1,0 +1,35 @@
+
+PrimeCare Hospital
+Address: 90 Alpine Street, Clearwater - 459990
+Phone: +91-81699-20414
+Email: info@primecare26.org
+Website: www.primecare251.org
+Accreditation Code: PR-60344
+
+Report ID: RPT-FE4E8E0F
+Sample ID: SMP-56701
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5235
+
+Patient Name: P***
+Patient ID: UH-001360
+Age: 23
+Gender: Male
+
+Blood Pressure: 162/107 mmHg
+Pulse (bpm): 85 bpm
+Blood Sugar: 179 mg/dL
+Height: 152.5 cm
+Weight: 52.3 kg
+Cholesterol Total: 227 mg/dL
+LDL: 78 mg/dL
+HDL: 44 mg/dL
+Triglycerides: 204 mg/dL
+Hemoglobin: 10.0 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 28.6
+
+Remarks:
+Values improved compared to previous results.

@@ -1,0 +1,40 @@
+
+Starhaven Clinical Institute
+Address: 56 Alpine Street, Hillcrest - 495688
+Phone: +91-88157-47022
+Email: info@starhaven68.org
+Website: www.starhaven863.org
+Accreditation Code: ST-41865
+
+Report ID: RPT-E138289E
+Sample ID: SMP-55875
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2152
+
+Patient Name: O***
+Patient ID: UH-000916
+Age: 25 years
+Gender: Male
+
+Height: -
+Weight: 56.1 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 140 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 0.9 mg/dL
+BMI: 20.6
+
+
+Impression:
+Reassurance provided.

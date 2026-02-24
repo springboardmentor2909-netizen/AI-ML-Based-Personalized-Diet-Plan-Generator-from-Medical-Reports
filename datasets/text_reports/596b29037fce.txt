@@ -1,0 +1,40 @@
+
+PrimeCare Hospital
+Address: 89 Horizon Road, Westlake - 420948
+Phone: +91-77876-79471
+Email: info@primecare47.org
+Website: www.primecare489.org
+Accreditation Code: PR-81507
+
+Report ID: RPT-88E551B5
+Sample ID: SMP-27588
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1435
+
+Patient Name: H***
+Patient ID: UH-001229
+Age: 56 years
+Gender: Male
+
+Height: -
+Weight: 66.4 kg
+
+Blood Pressure: 164/108 mmHg
+Pulse Rate: 70 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 124 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.97 mg/dL
+BMI: 20.0
+
+
+Remarks:
+No indication of bacterial infection.

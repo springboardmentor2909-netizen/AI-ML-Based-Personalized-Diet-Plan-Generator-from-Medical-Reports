@@ -1,0 +1,49 @@
+
+Silver Oak Medical Center
+Address: 30 Sunrise Boulevard, Clearwater - 450819
+Phone: +91-88198-33459
+Email: info@silver oak68.org
+Website: www.silver oak815.org
+Accreditation Code: SI-70860
+
+Report ID: RPT-9ED42304
+Sample ID: SMP-27350
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7632
+
+Patient Name: W***
+Patient ID: UH-001186
+Age: 24 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 152/80 mmHg
+Pulse Rate: -
+Blood Sugar: 107 mg/dL
+
+Cholesterol Panel:
+  Total: 173 mg/dL
+  LDL: 84 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.5 mg/dL
+BMI: 22.9
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: -
+  eGFR: 114 mL/min
+
+
+Doctor's Notes:
+Increase moderate activity.

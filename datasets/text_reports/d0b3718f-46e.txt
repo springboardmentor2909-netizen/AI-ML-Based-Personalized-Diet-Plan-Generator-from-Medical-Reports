@@ -1,0 +1,40 @@
+
+NovaPath Hospital
+Address: 81 Alpine Street, Clearwater - 490797
+Phone: +91-73360-66638
+Email: info@novapath82.org
+Website: www.novapath122.org
+Accreditation Code: NO-83514
+
+Report ID: RPT-C9ACA46A
+Sample ID: SMP-60440
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9368
+
+Patient Name: F***
+Patient ID: UH-000626
+Age: 45 years
+Gender: Other
+
+Height: 159.1 cm
+Weight: 94.6 kg
+
+Blood Pressure: 165/96 mmHg
+Pulse Rate: 90 bpm
+Blood Glucose: 95 mg/dL
+
+Cholesterol Panel:
+  Total: 249 mg/dL
+  LDL: -
+  HDL: 46 mg/dL
+  Triglycerides: 120 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 0.84 mg/dL
+BMI: 28.5
+
+
+Remarks:
+Blood pressure within acceptable range.

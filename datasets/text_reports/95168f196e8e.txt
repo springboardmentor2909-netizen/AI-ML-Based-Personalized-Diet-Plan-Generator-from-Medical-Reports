@@ -1,0 +1,38 @@
+
+PrimeCare Pathology Lab
+Address: 6 Riverbend Ave, Marigold City - 439363
+Phone: +91-70271-45778
+Email: info@primecare48.org
+Website: www.primecare219.org
+Accreditation Code: PR-59445
+
+Report ID: RPT-F40A0CAD
+Sample ID: SMP-35594
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8393
+
+Patient Name: V***
+Patient ID: UH-001533
+Age: 21
+Gender: Female
+
+Blood Pressure: 168/102 mmHg
+Pulse Rate: 90 bpm
+Blood Glucose: 172 mg/dL
+Height: 173.8 cm
+Cholesterol Total: 241 mg/dL
+LDL: 145 mg/dL
+HDL: 34 mg/dL
+Triglycerides: 115 mg/dL
+Hemoglobin: 9.7 g/dL
+Creatinine: 0.86 mg/dL
+BMI: 17.5
+
+LFT:
+  ALT/SGPT: 13 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+Recommendation:
+Mild elevation in glucose.

@@ -1,0 +1,39 @@
+
+ClearRiver Pathology Lab
+Address: 56 Horizon Road, Eastwood - 499603
+Phone: +91-94980-82953
+Email: info@clearriver70.org
+Website: www.clearriver909.org
+Accreditation Code: CL-22564
+
+Report ID: RPT-BE53DD88
+Sample ID: SMP-92305
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1780
+
+Patient Name: L***
+Patient ID: UH-001319
+Age: 29
+Gender: Other
+
+Blood Pressure: 163/71 mmHg
+Pulse: 80 bpm
+Height: 164.9 cm
+HDL: 31 mg/dL
+Triglycerides: 95 mg/dL
+Hemoglobin: 14.0 g/dL
+BMI: 35.9
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 30 mg/dL
+  eGFR: 82 mL/min
+
+Impression:
+No signs of infection detected.

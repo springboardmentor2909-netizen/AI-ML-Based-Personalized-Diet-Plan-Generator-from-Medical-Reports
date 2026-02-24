@@ -1,0 +1,49 @@
+
+Medisphere Clinical Institute
+Address: 65 Alpine Street, Clearwater - 432551
+Phone: +91-70015-57417
+Email: info@medisphere79.org
+Website: www.medisphere600.org
+Accreditation Code: ME-40574
+
+Report ID: RPT-2D93D86B
+Sample ID: SMP-78530
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7059
+
+Patient Name: C***
+Patient ID: UH-001227
+Age: 31 years
+Gender: Other
+
+Height: 169.9 cm
+Weight: 87.2 kg
+
+Blood Pressure: 166/94 mmHg
+Pulse: 110 bpm
+Blood Glucose: 93 mg/dL
+
+Cholesterol Panel:
+  Total: 176 mg/dL
+  LDL: 109 mg/dL
+  HDL: 62 mg/dL
+  Triglycerides: 137 mg/dL
+
+Hemoglobin: 15.8 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 34.4
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 47 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 17 mg/dL
+  eGFR: 85 mL/min
+
+
+Clinical Notes:
+Repeat lipid panel after 90 days.

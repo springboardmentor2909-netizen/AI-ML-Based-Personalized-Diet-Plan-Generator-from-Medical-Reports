@@ -1,0 +1,40 @@
+
+Starhaven Pathology Lab
+Address: 19 Alpine Street, Silverpoint - 491425
+Phone: +91-88851-60653
+Email: info@starhaven79.org
+Website: www.starhaven682.org
+Accreditation Code: ST-64327
+
+Report ID: RPT-452CCAAA
+Sample ID: SMP-57644
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2887
+
+Patient Name: G***
+Patient ID: UH-001298
+Age: 37 years
+Gender: Other
+
+Height: -
+Weight: 46.1 kg
+
+Blood Pressure: 142/92 mmHg
+Pulse (bpm): 61 bpm
+Blood Sugar: 151 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 56 mg/dL
+  Triglycerides: 139 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 0.8 mg/dL
+BMI: 22.4
+
+
+Summary:
+Vitals stable. Continue medications.

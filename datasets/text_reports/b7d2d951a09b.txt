@@ -1,0 +1,35 @@
+
+NovaPath Pathology Lab
+Address: 87 Alpine Street, Meadowridge - 497161
+Phone: +91-85121-49292
+Email: info@novapath66.org
+Website: www.novapath613.org
+Accreditation Code: NO-85280
+
+Report ID: RPT-03A8B35C
+Sample ID: SMP-57950
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9644
+
+Patient Name: M***
+Patient ID: UH-001352
+Age: 85
+Gender: Other
+
+Pulse (bpm): 110 bpm
+Blood Sugar: 93 mg/dL
+Weight: 86.6 kg
+LDL: 102 mg/dL
+Triglycerides: 222 mg/dL
+Hemoglobin: 10.5 g/dL
+BMI: 24.2
+
+LFT:
+  AST/SGOT: 13 U/L
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+Recommendation:
+Mild anemia; increase iron intake.

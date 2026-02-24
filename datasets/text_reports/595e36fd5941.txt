@@ -1,0 +1,34 @@
+
+Riverdale Diagnostics
+Address: 39 Maple Drive, Meadowridge - 433753
+Phone: +91-99953-70928
+Email: info@riverdale55.org
+Website: www.riverdale670.org
+Accreditation Code: RI-28518
+
+Report ID: RPT-39042DC4
+Sample ID: SMP-85148
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1390
+
+Patient Name: Y***
+Patient ID: UH-001337
+Age: 31
+Gender: Female
+
+Pulse: 83 bpm
+Weight: 81.8 kg
+Cholesterol Total: 176 mg/dL
+LDL: 88 mg/dL
+Triglycerides: 181 mg/dL
+Creatinine: 1.06 mg/dL
+BMI: 20.7
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 105 mL/min
+
+Advice:
+Patient instructed to drink more water.

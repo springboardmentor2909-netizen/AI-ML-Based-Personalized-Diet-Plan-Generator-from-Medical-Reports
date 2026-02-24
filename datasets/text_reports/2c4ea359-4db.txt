@@ -1,0 +1,49 @@
+
+Medisphere Hospital
+Address: 9 Alpine Street, Silverpoint - 437026
+Phone: +91-78321-82638
+Email: info@medisphere97.org
+Website: www.medisphere643.org
+Accreditation Code: ME-75900
+
+Report ID: RPT-5723C775
+Sample ID: SMP-82733
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6508
+
+Patient Name: W***
+Patient ID: UH-000964
+Age: 29 years
+Gender: Other
+
+Height: 149.7 cm
+Weight: -
+
+Blood Pressure: 128/105 mmHg
+Pulse (bpm): -
+Blood Sugar: 119 mg/dL
+
+Cholesterol Panel:
+  Total: 219 mg/dL
+  LDL: 85 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 1.38 mg/dL
+BMI: 31.0
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 96 mL/min
+
+
+Clinical Notes:
+Infection markers normal. No antibiotics needed.

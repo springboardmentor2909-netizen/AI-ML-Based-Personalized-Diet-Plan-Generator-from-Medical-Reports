@@ -1,0 +1,45 @@
+
+Medisphere Pathology Lab
+Address: 25 Alpine Street, Hillcrest - 488483
+Phone: +91-70197-28142
+Email: info@medisphere45.org
+Website: www.medisphere410.org
+Accreditation Code: ME-48451
+
+Report ID: RPT-179F5F64
+Sample ID: SMP-58525
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6269
+
+Patient Name: L***
+Patient ID: UH-001117
+Age: 73 years
+Gender: Other
+
+Height: 184.3 cm
+Weight: 51.0 kg
+
+Blood Pressure: 108/86 mmHg
+Pulse Rate: 99 bpm
+Blood Sugar: 152 mg/dL
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: 124 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 179 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 32.8
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Doctor's Comments:
+Mild anemia; iron-rich foods suggested.

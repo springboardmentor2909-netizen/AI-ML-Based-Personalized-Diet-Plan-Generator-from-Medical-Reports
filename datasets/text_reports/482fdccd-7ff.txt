@@ -1,0 +1,36 @@
+
+Greencrest Diagnostics
+Address: 66 Riverbend Ave, Silverpoint - 430090
+Phone: +91-85976-25964
+Email: info@greencrest27.org
+Website: www.greencrest650.org
+Accreditation Code: GR-66526
+
+Report ID: RPT-21B30A21
+Sample ID: SMP-85059
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4523
+
+Patient Name: O***
+Patient ID: UH-000434
+Age: 84 years
+Gender: Other
+
+Blood Pressure: 113/78 mmHg
+Glucose: 96 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 60 mg/dL
+  Triglycerides: 198 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.74 mg/dL
+BMI: 24.0
+
+
+Recommendations:
+Continue present medications.

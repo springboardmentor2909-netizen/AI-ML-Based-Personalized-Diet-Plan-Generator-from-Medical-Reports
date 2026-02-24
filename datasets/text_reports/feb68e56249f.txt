@@ -1,0 +1,39 @@
+
+Everlight Medical Center
+Address: 46 Alpine Street, Meadowridge - 419063
+Phone: +91-77009-37024
+Email: info@everlight32.org
+Website: www.everlight688.org
+Accreditation Code: EV-67715
+
+Report ID: RPT-693D3731
+Sample ID: SMP-64243
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6674
+
+Patient Name: N***
+Patient ID: UH-001437
+Age: 22
+Gender: Other
+
+Blood Sugar (Random): 128 mg/dL
+Weight: 87.3 kg
+LDL: 103 mg/dL
+HDL: 44 mg/dL
+Triglycerides: 219 mg/dL
+Creatinine: 1.22 mg/dL
+BMI: 33.5
+
+LFT:
+  AST/SGOT: 19 U/L
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 14 mg/dL
+  eGFR: 62 mL/min
+
+Recommendation:
+Check lipid panel again later.

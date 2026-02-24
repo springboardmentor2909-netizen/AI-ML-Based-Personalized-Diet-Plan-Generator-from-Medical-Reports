@@ -1,0 +1,45 @@
+
+SolacePoint Diagnostics
+Address: 77 Alpine Street, Marigold City - 436372
+Phone: +91-72499-93908
+Email: info@solacepoint23.org
+Website: www.solacepoint833.org
+Accreditation Code: SO-72891
+
+Report ID: RPT-0368EFA8
+Sample ID: SMP-55159
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2731
+
+Patient Name: E***
+Patient ID: UH-000653
+Age: 42 years
+Gender: Other
+
+Height: 163.2 cm
+Weight: 66.7 kg
+
+Blood Pressure: 103/86 mmHg
+Pulse (bpm): 79 bpm
+Glucose: 97 mg/dL
+
+Cholesterol Panel:
+  Total: 248 mg/dL
+  LDL: 127 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 121 mg/dL
+
+Hemoglobin: 10.5 g/dL
+Creatinine: 0.71 mg/dL
+BMI: 20.4
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Clinical Notes:
+Lipid profile requires monitoring.

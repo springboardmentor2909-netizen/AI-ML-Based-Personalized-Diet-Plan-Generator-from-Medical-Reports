@@ -1,0 +1,35 @@
+
+Riverdale Clinical Institute
+Address: 6 Horizon Road, Clearwater - 441864
+Phone: +91-97405-15436
+Email: info@riverdale84.org
+Website: www.riverdale954.org
+Accreditation Code: RI-77795
+
+Report ID: RPT-53494155
+Sample ID: SMP-73698
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2375
+
+Patient Name: F***
+Patient ID: UH-001490
+Age: 30
+Gender: Female
+
+Blood Pressure: 145/91 mmHg
+Pulse (bpm): 62 bpm
+Blood Sugar (Random): 158 mg/dL
+Height: 146.3 cm
+Weight: 86.1 kg
+Cholesterol Total: 231 mg/dL
+LDL: 149 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 142 mg/dL
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.45 mg/dL
+BMI: 29.5
+
+Impression:
+Follow-up advised.

@@ -1,0 +1,40 @@
+
+SolacePoint Diagnostics
+Address: 23 Alpine Street, Eastwood - 474163
+Phone: +91-90017-12551
+Email: info@solacepoint12.org
+Website: www.solacepoint347.org
+Accreditation Code: SO-22652
+
+Report ID: RPT-75BF99AB
+Sample ID: SMP-55324
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8099
+
+Patient Name: N***
+Patient ID: UH-000838
+Age: 65 years
+Gender: Female
+
+Height: -
+Weight: 49.4 kg
+
+Blood Pressure: 166/106 mmHg
+Pulse Rate: 60 bpm
+Glucose: 140 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 54 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 0.71 mg/dL
+BMI: -
+
+
+Summary:
+Lifestyle counseling advised.

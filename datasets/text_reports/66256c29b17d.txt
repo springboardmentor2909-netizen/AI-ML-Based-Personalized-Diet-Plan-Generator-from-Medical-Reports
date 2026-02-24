@@ -1,0 +1,44 @@
+
+Everlight Medical Center
+Address: 75 Evergreen Lane, Clearwater - 430661
+Phone: +91-82782-83453
+Email: info@everlight82.org
+Website: www.everlight901.org
+Accreditation Code: EV-41786
+
+Report ID: RPT-EAE4F499
+Sample ID: SMP-42372
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4767
+
+Patient Name: W***
+Patient ID: UH-001389
+Age: 66
+Gender: Other
+
+Blood Pressure: 100/94 mmHg
+Pulse (bpm): 74 bpm
+Blood Sugar: 113 mg/dL
+Height: 163.6 cm
+Weight: 96.8 kg
+Cholesterol Total: 207 mg/dL
+LDL: 143 mg/dL
+HDL: 30 mg/dL
+Triglycerides: 130 mg/dL
+Hemoglobin: 9.9 g/dL
+Creatinine: 0.95 mg/dL
+BMI: 22.8
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 47 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 88 mL/min
+
+Doctor's Comments:
+Hydration needs to be increased.

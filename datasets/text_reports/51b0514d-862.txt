@@ -1,0 +1,36 @@
+
+Starhaven Hospital
+Address: 62 Horizon Road, Hillcrest - 475770
+Phone: +91-72256-34084
+Email: info@starhaven40.org
+Website: www.starhaven147.org
+Accreditation Code: ST-70067
+
+Report ID: RPT-165F9336
+Sample ID: SMP-12105
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5862
+
+Patient Name: N***
+Patient ID: UH-000482
+Age: 49 years
+Gender: Other
+
+Blood Pressure: 105/91 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 98 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 163 mg/dL
+
+Hemoglobin: 15.5 g/dL
+Creatinine: 0.82 mg/dL
+BMI: 33.6
+
+
+Impression:
+Blood pressure stable today.

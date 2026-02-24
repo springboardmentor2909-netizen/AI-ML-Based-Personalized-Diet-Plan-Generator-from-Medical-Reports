@@ -1,0 +1,45 @@
+
+ClearRiver Clinical Institute
+Address: 56 Evergreen Lane, Eastwood - 452781
+Phone: +91-92670-69956
+Email: info@clearriver35.org
+Website: www.clearriver405.org
+Accreditation Code: CL-66857
+
+Report ID: RPT-828F9AFB
+Sample ID: SMP-38251
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5310
+
+Patient Name: C***
+Patient ID: UH-001111
+Age: 38 years
+Gender: Male
+
+Height: 168.8 cm
+Weight: 68.0 kg
+
+Blood Pressure: 160/60 mmHg
+Pulse (bpm): 70 bpm
+Blood Sugar: 105 mg/dL
+
+Cholesterol Panel:
+  Total: 215 mg/dL
+  LDL: 108 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 131 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 0.78 mg/dL
+BMI: 19.8
+
+LFT:
+  AST/SGOT: 39 U/L
+  ALT/SGPT: 18 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Recommendations:
+Encouraged improved hydration.

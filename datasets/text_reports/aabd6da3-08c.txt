@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 8 Horizon Road, Eastwood - 465866
+Phone: +91-97475-56356
+Email: info@starhaven27.org
+Website: www.starhaven368.org
+Accreditation Code: ST-69425
+
+Report ID: RPT-A053EB5D
+Sample ID: SMP-26759
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8300
+
+Patient Name: R***
+Patient ID: UH-001124
+Age: 70 years
+Gender: Female
+
+Height: 160.2 cm
+Weight: 88.1 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar (Random): 118 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 97 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 193 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.29 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Blood sugar trending upward; review lifestyle changes.

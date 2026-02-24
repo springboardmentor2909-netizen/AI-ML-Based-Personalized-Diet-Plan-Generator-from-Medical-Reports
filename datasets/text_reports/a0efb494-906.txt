@@ -1,0 +1,44 @@
+
+Silver Oak Medical Center
+Address: 17 Riverbend Ave, Marigold City - 404840
+Phone: +91-74740-76120
+Email: info@silver oak68.org
+Website: www.silver oak236.org
+Accreditation Code: SI-67638
+
+Report ID: RPT-6039BAB1
+Sample ID: SMP-47741
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9233
+
+Patient Name: G***
+Patient ID: UH-001195
+Age: 40 years
+Gender: Male
+
+Height: 186.9 cm
+Weight: 87.6 kg
+
+Blood Pressure: 136/72 mmHg
+Pulse Rate: 64 bpm
+Blood Glucose: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 209 mg/dL
+  LDL: 108 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 1.08 mg/dL
+BMI: 31.3
+
+KFT:
+  Urea: 31 mg/dL
+  eGFR: 77 mL/min
+
+
+Advice:
+Follow-up in 1–2 weeks recommended.

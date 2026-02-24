@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 64 Sunrise Boulevard, Westlake - 457474
+Phone: +91-78864-85363
+Email: info@bluevalley13.org
+Website: www.bluevalley107.org
+Accreditation Code: BL-28683
+
+Report ID: RPT-B163C7E5
+Sample ID: SMP-38156
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4802
+
+Patient Name: S***
+Patient ID: UH-000890
+Age: 70 years
+Gender: Female
+
+Height: -
+Weight: 65.0 kg
+
+Blood Pressure: 118/75 mmHg
+Pulse (bpm): 104 bpm
+Glucose: 130 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 130 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 235 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 32.0
+
+
+Clinical Notes:
+Discussed with patient. Understood.

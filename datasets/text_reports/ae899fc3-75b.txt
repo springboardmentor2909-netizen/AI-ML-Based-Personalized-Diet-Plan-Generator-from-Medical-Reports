@@ -1,0 +1,45 @@
+
+PrimeCare Hospital
+Address: 20 Evergreen Lane, Clearwater - 497076
+Phone: +91-75245-29779
+Email: info@primecare64.org
+Website: www.primecare832.org
+Accreditation Code: PR-70405
+
+Report ID: RPT-E0CA6A1F
+Sample ID: SMP-77816
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-1147
+
+Patient Name: U***
+Patient ID: UH-001037
+Age: 41 years
+Gender: Female
+
+Height: 188.7 cm
+Weight: 89.5 kg
+
+Blood Pressure: 151/71 mmHg
+Pulse (bpm): 75 bpm
+Glucose: 103 mg/dL
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: 111 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 175 mg/dL
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 0.75 mg/dL
+BMI: 26.1
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+
+Remark:
+Discussed with patient. Understood.

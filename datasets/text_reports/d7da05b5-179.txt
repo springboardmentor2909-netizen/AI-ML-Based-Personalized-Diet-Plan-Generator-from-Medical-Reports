@@ -1,0 +1,40 @@
+
+ClearRiver Pathology Lab
+Address: 69 Maple Drive, Westlake - 443768
+Phone: +91-74725-40735
+Email: info@clearriver10.org
+Website: www.clearriver410.org
+Accreditation Code: CL-31364
+
+Report ID: RPT-0F3D7BED
+Sample ID: SMP-92246
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6608
+
+Patient Name: T***
+Patient ID: UH-000934
+Age: 46 years
+Gender: Female
+
+Height: 181.7 cm
+Weight: 78.5 kg
+
+Blood Pressure: 148/101 mmHg
+Pulse: 108 bpm
+Glucose: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 152 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 151 mg/dL
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 19.4
+
+
+Clinical Notes:
+Diet modification essential.

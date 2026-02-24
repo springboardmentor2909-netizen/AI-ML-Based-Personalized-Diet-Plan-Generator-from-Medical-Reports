@@ -1,0 +1,40 @@
+
+Greencrest Medical Center
+Address: 93 Evergreen Lane, Hillcrest - 483650
+Phone: +91-71577-99895
+Email: info@greencrest56.org
+Website: www.greencrest200.org
+Accreditation Code: GR-25622
+
+Report ID: RPT-E3E367A3
+Sample ID: SMP-51457
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9859
+
+Patient Name: P***
+Patient ID: UH-000954
+Age: 52 years
+Gender: Male
+
+Height: 174.6 cm
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 51 mg/dL
+  Triglycerides: 247 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Lifestyle counseling advised.

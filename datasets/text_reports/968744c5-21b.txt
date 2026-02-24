@@ -1,0 +1,40 @@
+
+PrimeCare Clinical Institute
+Address: 99 Horizon Road, Northbay - 456989
+Phone: +91-83899-75133
+Email: info@primecare14.org
+Website: www.primecare722.org
+Accreditation Code: PR-59759
+
+Report ID: RPT-7582C134
+Sample ID: SMP-68817
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7866
+
+Patient Name: Q***
+Patient ID: UH-000937
+Age: 55 years
+Gender: Male
+
+Height: -
+Weight: 53.5 kg
+
+Blood Pressure: 123/88 mmHg
+Pulse Rate: -
+Glucose: 94 mg/dL
+
+Cholesterol Panel:
+  Total: 227 mg/dL
+  LDL: 159 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.3 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendation:
+Sugar levels within acceptable range.

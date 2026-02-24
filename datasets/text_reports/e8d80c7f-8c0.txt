@@ -1,0 +1,48 @@
+
+Northlake Medical Center
+Address: 85 Sunrise Boulevard, Hillcrest - 409495
+Phone: +91-78983-36182
+Email: info@northlake38.org
+Website: www.northlake937.org
+Accreditation Code: NO-70569
+
+Report ID: RPT-C4FFC0A1
+Sample ID: SMP-85841
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4931
+
+Patient Name: V***
+Patient ID: UH-000540
+Age: 81 years
+Gender: Male
+
+Height: 177.2 cm
+Weight: 50.7 kg
+
+Blood Pressure: 107/63 mmHg
+Glucose: 165 mg/dL
+
+Cholesterol Panel:
+  Total: 254 mg/dL
+  LDL: 131 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: 114 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.01 mg/dL
+BMI: 18.6
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 103 mL/min
+
+
+Doctor's Comments:
+Blood pressure within acceptable range.

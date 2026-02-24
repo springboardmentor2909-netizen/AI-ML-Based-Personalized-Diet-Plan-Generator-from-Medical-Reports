@@ -1,0 +1,38 @@
+
+Medisphere Medical Center
+Address: 84 Riverbend Ave, Eastwood - 465971
+Phone: +91-71146-73162
+Email: info@medisphere41.org
+Website: www.medisphere378.org
+Accreditation Code: ME-26081
+
+Report ID: RPT-C52FA79A
+Sample ID: SMP-48360
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3789
+
+Patient Name: H***
+Patient ID: UH-001364
+Age: 72
+Gender: Female
+
+Blood Pressure: 101/105 mmHg
+Pulse (bpm): 70 bpm
+Blood Sugar: 134 mg/dL
+Height: 145.5 cm
+Weight: 95.8 kg
+LDL: 119 mg/dL
+HDL: 62 mg/dL
+Hemoglobin: 14.2 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 25.8
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: 48 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+Recommendation:
+Further tests if symptoms increase.

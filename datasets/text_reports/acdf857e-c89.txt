@@ -1,0 +1,45 @@
+
+SolacePoint Diagnostics
+Address: 34 Sunrise Boulevard, Marigold City - 492155
+Phone: +91-92347-13951
+Email: info@solacepoint94.org
+Website: www.solacepoint457.org
+Accreditation Code: SO-80904
+
+Report ID: RPT-4F66C612
+Sample ID: SMP-68102
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5347
+
+Patient Name: J***
+Patient ID: UH-000958
+Age: 58 years
+Gender: Other
+
+Height: -
+Weight: 78.6 kg
+
+Blood Pressure: 151/66 mmHg
+Pulse: 91 bpm
+Glucose: 104 mg/dL
+
+Cholesterol Panel:
+  Total: 188 mg/dL
+  LDL: 100 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 154 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.33 mg/dL
+BMI: 23.8
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Recommendations:
+Hb slightly low; iron-rich diet suggested.

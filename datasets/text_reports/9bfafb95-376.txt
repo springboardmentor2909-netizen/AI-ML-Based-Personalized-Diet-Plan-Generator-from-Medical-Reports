@@ -1,0 +1,49 @@
+
+NovaPath Diagnostics
+Address: 96 Evergreen Lane, Hillcrest - 402882
+Phone: +91-79428-68726
+Email: info@novapath82.org
+Website: www.novapath547.org
+Accreditation Code: NO-99575
+
+Report ID: RPT-9D661F24
+Sample ID: SMP-64885
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2532
+
+Patient Name: B***
+Patient ID: UH-000880
+Age: 61 years
+Gender: Other
+
+Height: 173.5 cm
+Weight: 45.5 kg
+
+Blood Pressure: 149/79 mmHg
+Pulse (bpm): 70 bpm
+Blood Glucose: 143 mg/dL
+
+Cholesterol Panel:
+  Total: 177 mg/dL
+  LDL: 83 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: 188 mg/dL
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 1.09 mg/dL
+BMI: 33.2
+
+LFT:
+  AST/SGOT: 26 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 25 mg/dL
+  eGFR: 114 mL/min
+
+
+Doctor's Notes:
+Monitor BP at home regularly.

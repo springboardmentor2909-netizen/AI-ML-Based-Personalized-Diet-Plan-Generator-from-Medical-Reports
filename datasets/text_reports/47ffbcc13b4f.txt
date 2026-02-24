@@ -1,0 +1,36 @@
+
+Riverdale Clinical Institute
+Address: 12 Alpine Street, Hillcrest - 478744
+Phone: +91-98326-12695
+Email: info@riverdale55.org
+Website: www.riverdale983.org
+Accreditation Code: RI-15899
+
+Report ID: RPT-C6347C5A
+Sample ID: SMP-95950
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5772
+
+Patient Name: B***
+Patient ID: UH-001326
+Age: 58
+Gender: Female
+
+Pulse Rate: 62 bpm
+Weight: 96.1 kg
+Cholesterol Total: 185 mg/dL
+LDL: 71 mg/dL
+HDL: 59 mg/dL
+Triglycerides: 155 mg/dL
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.54 mg/dL
+BMI: 23.2
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 92 mL/min
+
+Recommendation:
+Therapy response is satisfactory.

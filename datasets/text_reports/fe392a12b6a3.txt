@@ -1,0 +1,40 @@
+
+Everlight Pathology Lab
+Address: 63 Alpine Street, Silverpoint - 468034
+Phone: +91-77787-64677
+Email: info@everlight38.org
+Website: www.everlight284.org
+Accreditation Code: EV-79670
+
+Report ID: RPT-533CEE77
+Sample ID: SMP-61657
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5915
+
+Patient Name: B***
+Patient ID: UH-001382
+Age: 83
+Gender: Other
+
+Blood Pressure: 143/87 mmHg
+Pulse: 97 bpm
+Blood Sugar (Random): 177 mg/dL
+Height: 152.1 cm
+Weight: 65.2 kg
+Cholesterol Total: 182 mg/dL
+LDL: 77 mg/dL
+HDL: 33 mg/dL
+Triglycerides: 192 mg/dL
+Hemoglobin: 10.5 g/dL
+Creatinine: 0.82 mg/dL
+BMI: 32.7
+
+LFT:
+  AST/SGOT: 42 U/L
+  ALT/SGPT: 38 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+Remarks:
+Continue same medication dosage.

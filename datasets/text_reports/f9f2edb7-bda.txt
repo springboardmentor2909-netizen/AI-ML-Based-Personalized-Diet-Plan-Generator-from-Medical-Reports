@@ -1,0 +1,49 @@
+
+Starhaven Clinical Institute
+Address: 80 Alpine Street, Eastwood - 439060
+Phone: +91-73973-66451
+Email: info@starhaven17.org
+Website: www.starhaven512.org
+Accreditation Code: ST-67687
+
+Report ID: RPT-DEBA4B2F
+Sample ID: SMP-67446
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7782
+
+Patient Name: J***
+Patient ID: UH-001197
+Age: 20 years
+Gender: Male
+
+Height: 162.0 cm
+Weight: 84.7 kg
+
+Blood Pressure: 100/71 mmHg
+Pulse: 106 bpm
+Glucose: 103 mg/dL
+
+Cholesterol Panel:
+  Total: 240 mg/dL
+  LDL: 108 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.2 g/dL
+Creatinine: 0.93 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 15 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 113 mL/min
+
+
+Impression:
+Essential to improve diet quality.

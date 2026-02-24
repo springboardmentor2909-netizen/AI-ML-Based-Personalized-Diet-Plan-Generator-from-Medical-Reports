@@ -1,0 +1,39 @@
+
+BlueValley Clinical Institute
+Address: 43 Evergreen Lane, Marigold City - 480927
+Phone: +91-96157-57146
+Email: info@bluevalley73.org
+Website: www.bluevalley288.org
+Accreditation Code: BL-58507
+
+Report ID: RPT-733EF022
+Sample ID: SMP-66379
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-3764
+
+Patient Name: M***
+Patient ID: UH-001321
+Age: 19
+Gender: Male
+
+Blood Pressure: 123/73 mmHg
+Pulse (bpm): 62 bpm
+Blood Sugar (Random): 166 mg/dL
+Height: 172.0 cm
+Weight: 74.5 kg
+Cholesterol Total: 253 mg/dL
+LDL: 98 mg/dL
+HDL: 35 mg/dL
+Triglycerides: 191 mg/dL
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 28.0
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 76 mL/min
+
+Advice:
+Further tests if symptoms increase.

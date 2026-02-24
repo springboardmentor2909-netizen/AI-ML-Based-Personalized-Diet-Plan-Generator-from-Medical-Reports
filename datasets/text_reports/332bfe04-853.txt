@@ -1,0 +1,45 @@
+
+Starhaven Pathology Lab
+Address: 13 Horizon Road, Northbay - 413418
+Phone: +91-77568-32699
+Email: info@starhaven75.org
+Website: www.starhaven434.org
+Accreditation Code: ST-17938
+
+Report ID: RPT-824294D2
+Sample ID: SMP-65755
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6675
+
+Patient Name: I***
+Patient ID: UH-000646
+Age: 50 years
+Gender: Male
+
+Height: 179.6 cm
+Weight: 46.3 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Glucose: 107 mg/dL
+
+Cholesterol Panel:
+  Total: 178 mg/dL
+  LDL: 94 mg/dL
+  HDL: 43 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.5 g/dL
+Creatinine: -
+BMI: 19.2
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.1 mg/dL
+
+
+Remark:
+Follow-up recommended after 2 weeks.

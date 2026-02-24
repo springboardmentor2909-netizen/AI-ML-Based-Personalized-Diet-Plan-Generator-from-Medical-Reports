@@ -1,0 +1,36 @@
+
+NovaPath Diagnostics
+Address: 54 Evergreen Lane, Silverpoint - 411903
+Phone: +91-88262-10983
+Email: info@novapath93.org
+Website: www.novapath758.org
+Accreditation Code: NO-23756
+
+Report ID: RPT-322E17B3
+Sample ID: SMP-14783
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6331
+
+Patient Name: A***
+Patient ID: UH-000404
+Age: 35 years
+Gender: Female
+
+Blood Pressure: 162/60 mmHg
+Glucose: 135 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 101 mg/dL
+  HDL: -
+  Triglycerides: 141 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: 1.3 mg/dL
+BMI: 28.7
+
+
+Clinical Notes:
+Continue present medications.

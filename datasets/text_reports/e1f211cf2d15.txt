@@ -1,0 +1,45 @@
+
+SolacePoint Clinical Institute
+Address: 55 Evergreen Lane, Northbay - 414269
+Phone: +91-81408-48244
+Email: info@solacepoint45.org
+Website: www.solacepoint717.org
+Accreditation Code: SO-67603
+
+Report ID: RPT-9CE437AE
+Sample ID: SMP-56552
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8380
+
+Patient Name: Y***
+Patient ID: UH-001285
+Age: 30 years
+Gender: Other
+
+Height: -
+Weight: 77.2 kg
+
+Blood Pressure: 146/97 mmHg
+Pulse Rate: 110 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 157 mg/dL
+  LDL: 130 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.16 mg/dL
+BMI: 34.6
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.5 mg/dL
+
+
+Remark:
+Retest if required clinically.

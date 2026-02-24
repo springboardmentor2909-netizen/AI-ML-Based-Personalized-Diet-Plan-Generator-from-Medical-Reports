@@ -1,0 +1,45 @@
+
+Silver Oak Clinical Institute
+Address: 15 Alpine Street, Northbay - 456369
+Phone: +91-77062-15605
+Email: info@silver oak88.org
+Website: www.silver oak186.org
+Accreditation Code: SI-35433
+
+Report ID: RPT-8AD257B0
+Sample ID: SMP-27095
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3837
+
+Patient Name: D***
+Patient ID: UH-000409
+Age: 81 years
+Gender: Other
+
+Blood Pressure: 139/98 mmHg
+Glucose: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 159 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 131 mg/dL
+
+Hemoglobin: 11.5 g/dL
+Creatinine: 1.36 mg/dL
+BMI: 21.3
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 44 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: 62 mL/min
+
+
+Advice:
+Follow-up recommended after 2 weeks.

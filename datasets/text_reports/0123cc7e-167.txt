@@ -1,0 +1,39 @@
+
+NovaPath Diagnostics
+Address: 2 Evergreen Lane, Hillcrest - 451057
+Phone: +91-90051-33679
+Email: info@novapath24.org
+Website: www.novapath685.org
+Accreditation Code: NO-18533
+
+Report ID: RPT-36950B0B
+Sample ID: SMP-76435
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5888
+
+Patient Name: K***
+Patient ID: UH-000524
+Age: 68 years
+Gender: Female
+
+Height: 150.5 cm
+Weight: -
+
+Blood Pressure: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 172 mg/dL
+  LDL: 146 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Summary:
+Glucose levels mildly elevated; lifestyle changes advised.

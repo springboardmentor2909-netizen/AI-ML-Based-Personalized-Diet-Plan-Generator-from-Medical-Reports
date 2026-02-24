@@ -1,0 +1,44 @@
+
+Greencrest Clinical Institute
+Address: 54 Horizon Road, Eastwood - 475873
+Phone: +91-82037-41132
+Email: info@greencrest33.org
+Website: www.greencrest902.org
+Accreditation Code: GR-81712
+
+Report ID: RPT-08247995
+Sample ID: SMP-82760
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8387
+
+Patient Name: O***
+Patient ID: UH-001099
+Age: 29 years
+Gender: Other
+
+Height: 164.5 cm
+Weight: 68.0 kg
+
+Blood Pressure: 100/93 mmHg
+Pulse (bpm): 99 bpm
+Blood Sugar (Random): 87 mg/dL
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: 88 mg/dL
+  HDL: 36 mg/dL
+  Triglycerides: 168 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: 1.36 mg/dL
+BMI: 18.5
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 119 mL/min
+
+
+Remarks:
+Cholesterol borderline. Consider dietary modification.

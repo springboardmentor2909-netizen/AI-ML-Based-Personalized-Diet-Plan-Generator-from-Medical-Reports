@@ -1,0 +1,39 @@
+
+PrimeCare Hospital
+Address: 89 Maple Drive, Westlake - 496433
+Phone: +91-72569-16083
+Email: info@primecare11.org
+Website: www.primecare286.org
+Accreditation Code: PR-14248
+
+Report ID: RPT-E18B758D
+Sample ID: SMP-26068
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8268
+
+Patient Name: V***
+Patient ID: UH-001520
+Age: 43
+Gender: Male
+
+Blood Pressure: 109/94 mmHg
+Pulse (bpm): 106 bpm
+Blood Glucose: 163 mg/dL
+Height: 177.2 cm
+Weight: 87.2 kg
+Cholesterol Total: 249 mg/dL
+LDL: 111 mg/dL
+HDL: 46 mg/dL
+Triglycerides: 220 mg/dL
+Hemoglobin: 14.6 g/dL
+Creatinine: 0.8 mg/dL
+BMI: 24.7
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 122 mL/min
+
+Impression:
+Continue medications.

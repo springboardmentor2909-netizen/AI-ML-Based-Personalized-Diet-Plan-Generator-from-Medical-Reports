@@ -1,0 +1,43 @@
+
+Medisphere Clinical Institute
+Address: 86 Horizon Road, Hillcrest - 453102
+Phone: +91-78673-64070
+Email: info@medisphere62.org
+Website: www.medisphere713.org
+Accreditation Code: ME-27664
+
+Report ID: RPT-50F05804
+Sample ID: SMP-29000
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8749
+
+Patient Name: K***
+Patient ID: UH-000581
+Age: 78 years
+Gender: Male
+
+Height: 165.3 cm
+Weight: 51.3 kg
+
+Blood Pressure: -
+Blood Sugar: 94 mg/dL
+
+Cholesterol Panel:
+  Total: 181 mg/dL
+  LDL: 85 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 15.3 g/dL
+Creatinine: -
+BMI: 18.3
+
+KFT:
+  Urea: 31 mg/dL
+  eGFR: 61 mL/min
+
+
+Impression:
+Lipid profile requires monitoring.

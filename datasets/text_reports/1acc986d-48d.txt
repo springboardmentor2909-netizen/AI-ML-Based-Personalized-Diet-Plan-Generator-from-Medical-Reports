@@ -1,0 +1,49 @@
+
+PrimeCare Pathology Lab
+Address: 9 Maple Drive, Marigold City - 413220
+Phone: +91-94788-13262
+Email: info@primecare55.org
+Website: www.primecare502.org
+Accreditation Code: PR-60905
+
+Report ID: RPT-31F60050
+Sample ID: SMP-79564
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5015
+
+Patient Name: V***
+Patient ID: UH-001036
+Age: 70 years
+Gender: Male
+
+Height: 189.0 cm
+Weight: -
+
+Blood Pressure: 101/108 mmHg
+Pulse Rate: 79 bpm
+Blood Sugar (Random): 86 mg/dL
+
+Cholesterol Panel:
+  Total: 232 mg/dL
+  LDL: -
+  HDL: 60 mg/dL
+  Triglycerides: 202 mg/dL
+
+Hemoglobin: 12.8 g/dL
+Creatinine: 1.07 mg/dL
+BMI: 33.5
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Doctor's Comments:
+Infection markers normal. No antibiotics needed.

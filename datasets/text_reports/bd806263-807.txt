@@ -1,0 +1,36 @@
+
+Everlight Diagnostics
+Address: 13 Riverbend Ave, Meadowridge - 490139
+Phone: +91-91006-19069
+Email: info@everlight65.org
+Website: www.everlight853.org
+Accreditation Code: EV-78229
+
+Report ID: RPT-FDFB07E3
+Sample ID: SMP-40602
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3674
+
+Patient Name: M***
+Patient ID: UH-000433
+Age: 77 years
+Gender: Female
+
+Blood Pressure: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: 90 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.23 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Continue present medications.

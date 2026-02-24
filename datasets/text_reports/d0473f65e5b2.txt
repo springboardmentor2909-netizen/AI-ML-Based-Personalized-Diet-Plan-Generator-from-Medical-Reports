@@ -1,0 +1,44 @@
+
+BlueValley Pathology Lab
+Address: 3 Sunrise Boulevard, Clearwater - 402545
+Phone: +91-77057-27779
+Email: info@bluevalley53.org
+Website: www.bluevalley869.org
+Accreditation Code: BL-35929
+
+Report ID: RPT-49896845
+Sample ID: SMP-65769
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5328
+
+Patient Name: L***
+Patient ID: UH-001562
+Age: 20
+Gender: Other
+
+Blood Pressure: 141/97 mmHg
+Pulse: 97 bpm
+Blood Glucose: 81 mg/dL
+Height: 170.8 cm
+Weight: 61.2 kg
+Cholesterol Total: 161 mg/dL
+LDL: 74 mg/dL
+HDL: 50 mg/dL
+Triglycerides: 128 mg/dL
+Hemoglobin: 16.0 g/dL
+Creatinine: 1.19 mg/dL
+BMI: 23.9
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 32 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 45 mg/dL
+  eGFR: 109 mL/min
+
+Advice:
+Mild elevation in glucose.

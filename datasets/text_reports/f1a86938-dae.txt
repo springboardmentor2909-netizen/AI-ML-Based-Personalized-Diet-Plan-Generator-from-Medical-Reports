@@ -1,0 +1,39 @@
+
+PrimeCare Hospital
+Address: 13 Evergreen Lane, Meadowridge - 464836
+Phone: +91-89161-68171
+Email: info@primecare47.org
+Website: www.primecare619.org
+Accreditation Code: PR-12789
+
+Report ID: RPT-F61B9D27
+Sample ID: SMP-78190
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7321
+
+Patient Name: Z***
+Patient ID: UH-000502
+Age: 72 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: 125/85 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 230 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.2 g/dL
+Creatinine: -
+BMI: 24.8
+
+
+Doctor's Comments:
+Blood pressure within acceptable range.

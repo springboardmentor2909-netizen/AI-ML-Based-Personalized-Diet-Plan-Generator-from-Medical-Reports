@@ -1,0 +1,49 @@
+
+Greencrest Diagnostics
+Address: 74 Maple Drive, Meadowridge - 436621
+Phone: +91-96788-92625
+Email: info@greencrest60.org
+Website: www.greencrest987.org
+Accreditation Code: GR-16461
+
+Report ID: RPT-0B1D1C42
+Sample ID: SMP-98596
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9560
+
+Patient Name: J***
+Patient ID: UH-000931
+Age: 24 years
+Gender: Other
+
+Height: -
+Weight: 88.4 kg
+
+Blood Pressure: -
+Pulse: -
+Blood Sugar (Random): 85 mg/dL
+
+Cholesterol Panel:
+  Total: 188 mg/dL
+  LDL: 93 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.1 g/dL
+Creatinine: -
+BMI: 29.0
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 37 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 89 mL/min
+
+
+Advice:
+Increase physical activity.

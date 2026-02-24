@@ -1,0 +1,49 @@
+
+Starhaven Clinical Institute
+Address: 80 Alpine Street, Eastwood - 439060
+Phone: +91-73973-66451
+Email: info@starhaven17.org
+Website: www.starhaven512.org
+Accreditation Code: ST-67687
+
+Report ID: RPT-967AF4FF
+Sample ID: SMP-34148
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5895
+
+Patient Name: G***
+Patient ID: UH-001161
+Age: 76 years
+Gender: Other
+
+Height: -
+Weight: 85.1 kg
+
+Blood Pressure: 131/98 mmHg
+Pulse (bpm): 75 bpm
+Blood Glucose: 169 mg/dL
+
+Cholesterol Panel:
+  Total: 260 mg/dL
+  LDL: -
+  HDL: 41 mg/dL
+  Triglycerides: 198 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.95 mg/dL
+BMI: 32.9
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 120 mL/min
+
+
+Remarks:
+Encouraged daily walking.

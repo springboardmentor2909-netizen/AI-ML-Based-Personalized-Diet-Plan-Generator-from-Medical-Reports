@@ -1,0 +1,44 @@
+
+Greencrest Medical Center
+Address: 13 Maple Drive, Westlake - 442938
+Phone: +91-87787-23985
+Email: info@greencrest15.org
+Website: www.greencrest277.org
+Accreditation Code: GR-53371
+
+Report ID: RPT-13AD46FC
+Sample ID: SMP-96246
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5326
+
+Patient Name: I***
+Patient ID: UH-000831
+Age: 61 years
+Gender: Female
+
+Height: -
+Weight: 51.4 kg
+
+Blood Pressure: 157/78 mmHg
+Pulse (bpm): -
+Blood Glucose: 106 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 57 mg/dL
+  Triglycerides: 249 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.31 mg/dL
+BMI: -
+
+KFT:
+  Urea: 37 mg/dL
+  eGFR: 106 mL/min
+
+
+Recommendation:
+No clinical signs of deterioration.

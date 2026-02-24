@@ -1,0 +1,49 @@
+
+Greencrest Pathology Lab
+Address: 57 Sunrise Boulevard, Hillcrest - 465525
+Phone: +91-91152-14057
+Email: info@greencrest27.org
+Website: www.greencrest181.org
+Accreditation Code: GR-26194
+
+Report ID: RPT-9EAE2376
+Sample ID: SMP-26866
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8050
+
+Patient Name: K***
+Patient ID: UH-000819
+Age: 43 years
+Gender: Other
+
+Height: 172.0 cm
+Weight: 53.4 kg
+
+Blood Pressure: 166/74 mmHg
+Pulse Rate: 61 bpm
+Blood Glucose: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 199 mg/dL
+  LDL: 146 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.7 g/dL
+Creatinine: -
+BMI: -
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.3 mg/dL
+
+KFT:
+  Urea: 31 mg/dL
+  eGFR: 77 mL/min
+
+
+Recommendations:
+Cholesterol borderline. Consider dietary modification.

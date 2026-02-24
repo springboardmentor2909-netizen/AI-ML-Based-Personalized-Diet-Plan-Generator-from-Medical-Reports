@@ -1,0 +1,45 @@
+
+NovaPath Hospital
+Address: 9 Sunrise Boulevard, Eastwood - 488532
+Phone: +91-84602-75913
+Email: info@novapath31.org
+Website: www.novapath624.org
+Accreditation Code: NO-45413
+
+Report ID: RPT-FB37CEA9
+Sample ID: SMP-76130
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 10:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4281
+
+Patient Name: G***
+Patient ID: UH-000945
+Age: 61 years
+Gender: Female
+
+Height: 179.4 cm
+Weight: -
+
+Blood Pressure: 141/61 mmHg
+Pulse: 107 bpm
+Glucose: 120 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 35 mg/dL
+  Triglycerides: 110 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.26 mg/dL
+BMI: 31.2
+
+LFT:
+  AST/SGOT: 13 U/L
+  ALT/SGPT: 44 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Doctor's Notes:
+Reassurance provided.

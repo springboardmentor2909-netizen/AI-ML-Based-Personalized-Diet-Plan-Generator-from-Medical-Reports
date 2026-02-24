@@ -1,0 +1,49 @@
+
+BlueValley Diagnostics
+Address: 90 Alpine Street, Marigold City - 416378
+Phone: +91-90968-56015
+Email: info@bluevalley88.org
+Website: www.bluevalley599.org
+Accreditation Code: BL-25317
+
+Report ID: RPT-4C5E403D
+Sample ID: SMP-51192
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4218
+
+Patient Name: I***
+Patient ID: UH-001289
+Age: 66 years
+Gender: Female
+
+Height: 178.8 cm
+Weight: 60.4 kg
+
+Blood Pressure: 115/72 mmHg
+Pulse Rate: 85 bpm
+Glucose: 118 mg/dL
+
+Cholesterol Panel:
+  Total: 250 mg/dL
+  LDL: 154 mg/dL
+  HDL: 63 mg/dL
+  Triglycerides: 97 mg/dL
+
+Hemoglobin: 15.9 g/dL
+Creatinine: 0.82 mg/dL
+BMI: 26.2
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 37 mg/dL
+  eGFR: 102 mL/min
+
+
+Recommendations:
+No indication of bacterial infection.

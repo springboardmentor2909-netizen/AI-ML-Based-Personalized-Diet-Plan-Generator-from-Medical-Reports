@@ -1,0 +1,40 @@
+
+PrimeCare Diagnostics
+Address: 71 Alpine Street, Marigold City - 452933
+Phone: +91-90287-15239
+Email: info@primecare62.org
+Website: www.primecare604.org
+Accreditation Code: PR-97828
+
+Report ID: RPT-263A2F7F
+Sample ID: SMP-83314
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3841
+
+Patient Name: R***
+Patient ID: UH-001137
+Age: 60 years
+Gender: Female
+
+Height: 148.5 cm
+Weight: -
+
+Blood Pressure: 139/69 mmHg
+Pulse Rate: 68 bpm
+Blood Glucose: 166 mg/dL
+
+Cholesterol Panel:
+  Total: 207 mg/dL
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: 165 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.23 mg/dL
+BMI: 28.4
+
+
+Recommendation:
+Lipid profile indicates borderline elevation.

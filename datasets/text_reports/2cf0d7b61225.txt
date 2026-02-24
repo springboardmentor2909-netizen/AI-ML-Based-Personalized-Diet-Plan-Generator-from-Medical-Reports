@@ -1,0 +1,40 @@
+
+Everlight Medical Center
+Address: 34 Evergreen Lane, Westlake - 497570
+Phone: +91-81662-69632
+Email: info@everlight15.org
+Website: www.everlight843.org
+Accreditation Code: EV-28670
+
+Report ID: RPT-D2B5BEBE
+Sample ID: SMP-71210
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2120
+
+Patient Name: A***
+Patient ID: UH-001432
+Age: 60
+Gender: Male
+
+Blood Pressure: 157/108 mmHg
+Pulse: 76 bpm
+Glucose: 110 mg/dL
+Height: 189.4 cm
+Weight: 82.8 kg
+Cholesterol Total: 193 mg/dL
+LDL: 151 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 109 mg/dL
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.19 mg/dL
+BMI: 19.5
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 39 U/L
+  Bilirubin Total: 1.3 mg/dL
+
+Summary:
+Condition stable.

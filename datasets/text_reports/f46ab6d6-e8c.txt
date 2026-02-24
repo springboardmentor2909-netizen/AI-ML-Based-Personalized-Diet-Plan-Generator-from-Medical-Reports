@@ -1,0 +1,44 @@
+
+Starhaven Medical Center
+Address: 36 Alpine Street, Hillcrest - 422285
+Phone: +91-99904-24855
+Email: info@starhaven42.org
+Website: www.starhaven675.org
+Accreditation Code: ST-59299
+
+Report ID: RPT-888B22C9
+Sample ID: SMP-97480
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8065
+
+Patient Name: R***
+Patient ID: UH-000879
+Age: 82 years
+Gender: Male
+
+Height: 188.4 cm
+Weight: -
+
+Blood Pressure: 162/63 mmHg
+Pulse Rate: 95 bpm
+Blood Sugar (Random): 114 mg/dL
+
+Cholesterol Panel:
+  Total: 167 mg/dL
+  LDL: 95 mg/dL
+  HDL: -
+  Triglycerides: 165 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 25.5
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 104 mL/min
+
+
+Remark:
+Patient advised to maintain hydration.

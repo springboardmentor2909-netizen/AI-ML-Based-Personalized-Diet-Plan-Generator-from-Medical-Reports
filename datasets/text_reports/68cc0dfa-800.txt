@@ -1,0 +1,45 @@
+
+PrimeCare Hospital
+Address: 4 Sunrise Boulevard, Marigold City - 430396
+Phone: +91-75998-36238
+Email: info@primecare11.org
+Website: www.primecare269.org
+Accreditation Code: PR-76236
+
+Report ID: RPT-EDCB305D
+Sample ID: SMP-39271
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6329
+
+Patient Name: Z***
+Patient ID: UH-000491
+Age: 43 years
+Gender: Male
+
+Blood Pressure: 159/91 mmHg
+Glucose: 134 mg/dL
+
+Cholesterol Panel:
+  Total: 242 mg/dL
+  LDL: 144 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 219 mg/dL
+
+Hemoglobin: 13.8 g/dL
+Creatinine: 1.45 mg/dL
+BMI: 27.3
+
+LFT:
+  AST/SGOT: 19 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 97 mL/min
+
+
+Doctor's Comments:
+Blood pressure stable today.

@@ -1,0 +1,40 @@
+
+Medisphere Medical Center
+Address: 84 Sunrise Boulevard, Marigold City - 491932
+Phone: +91-93693-51512
+Email: info@medisphere90.org
+Website: www.medisphere199.org
+Accreditation Code: ME-84046
+
+Report ID: RPT-CDB46BAB
+Sample ID: SMP-99077
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1399
+
+Patient Name: G***
+Patient ID: UH-000957
+Age: 68 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 135 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 238 mg/dL
+
+Hemoglobin: 12.3 g/dL
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Hb slightly low; iron-rich diet suggested.

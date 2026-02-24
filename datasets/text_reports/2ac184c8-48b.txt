@@ -1,0 +1,44 @@
+
+Everlight Hospital
+Address: 32 Evergreen Lane, Hillcrest - 430650
+Phone: +91-73075-10115
+Email: info@everlight42.org
+Website: www.everlight317.org
+Accreditation Code: EV-50882
+
+Report ID: RPT-A04246C3
+Sample ID: SMP-56724
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4861
+
+Patient Name: S***
+Patient ID: UH-000874
+Age: 73 years
+Gender: Other
+
+Height: 179.7 cm
+Weight: 66.1 kg
+
+Blood Pressure: 124/91 mmHg
+Pulse Rate: 104 bpm
+Glucose: 118 mg/dL
+
+Cholesterol Panel:
+  Total: 253 mg/dL
+  LDL: 116 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 204 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 1.29 mg/dL
+BMI: 32.1
+
+KFT:
+  Urea: 17 mg/dL
+  eGFR: 87 mL/min
+
+
+Impression:
+Vitals stable. No acute concerns.

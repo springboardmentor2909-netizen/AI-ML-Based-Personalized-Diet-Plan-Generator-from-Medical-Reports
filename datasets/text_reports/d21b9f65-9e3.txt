@@ -1,0 +1,49 @@
+
+Starhaven Diagnostics
+Address: 80 Alpine Street, Eastwood - 430966
+Phone: +91-75579-97395
+Email: info@starhaven62.org
+Website: www.starhaven857.org
+Accreditation Code: ST-45020
+
+Report ID: RPT-22C3609F
+Sample ID: SMP-35978
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2174
+
+Patient Name: S***
+Patient ID: UH-001090
+Age: 81 years
+Gender: Female
+
+Height: 146.9 cm
+Weight: 46.2 kg
+
+Blood Pressure: 141/84 mmHg
+Pulse (bpm): 63 bpm
+Blood Glucose: 120 mg/dL
+
+Cholesterol Panel:
+  Total: 181 mg/dL
+  LDL: 141 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 0.86 mg/dL
+BMI: 21.8
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 16 mg/dL
+  eGFR: 62 mL/min
+
+
+Recommendations:
+Levels improving compared to last visit.

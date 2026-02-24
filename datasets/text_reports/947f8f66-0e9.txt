@@ -1,0 +1,49 @@
+
+SolacePoint Diagnostics
+Address: 81 Riverbend Ave, Eastwood - 450883
+Phone: +91-90393-20745
+Email: info@solacepoint67.org
+Website: www.solacepoint277.org
+Accreditation Code: SO-68895
+
+Report ID: RPT-9E00F62C
+Sample ID: SMP-73039
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4754
+
+Patient Name: J***
+Patient ID: UH-001081
+Age: 54 years
+Gender: Other
+
+Height: 169.2 cm
+Weight: 72.6 kg
+
+Blood Pressure: 138/95 mmHg
+Pulse Rate: 83 bpm
+Blood Sugar: 132 mg/dL
+
+Cholesterol Panel:
+  Total: 167 mg/dL
+  LDL: 82 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 140 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: 0.83 mg/dL
+BMI: 21.0
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 38 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 90 mL/min
+
+
+Summary:
+No clinical signs of deterioration.

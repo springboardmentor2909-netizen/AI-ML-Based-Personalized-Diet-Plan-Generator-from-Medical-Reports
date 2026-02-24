@@ -1,0 +1,40 @@
+
+Starhaven Hospital
+Address: 4 Horizon Road, Clearwater - 416191
+Phone: +91-96276-67032
+Email: info@starhaven62.org
+Website: www.starhaven266.org
+Accreditation Code: ST-36195
+
+Report ID: RPT-CEDE16E4
+Sample ID: SMP-13924
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5472
+
+Patient Name: Z***
+Patient ID: UH-000488
+Age: 67 years
+Gender: Other
+
+Blood Pressure: 148/66 mmHg
+Blood Sugar: 81 mg/dL
+
+Cholesterol Panel:
+  Total: 164 mg/dL
+  LDL: 86 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 217 mg/dL
+
+Hemoglobin: 14.4 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 33.0
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 97 mL/min
+
+
+Summary:
+Blood pressure stable today.

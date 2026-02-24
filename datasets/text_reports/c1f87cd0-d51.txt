@@ -1,0 +1,44 @@
+
+SolacePoint Hospital
+Address: 6 Alpine Street, Meadowridge - 435737
+Phone: +91-98182-59763
+Email: info@solacepoint37.org
+Website: www.solacepoint698.org
+Accreditation Code: SO-60049
+
+Report ID: RPT-D0C1B78D
+Sample ID: SMP-61269
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5373
+
+Patient Name: L***
+Patient ID: UH-000574
+Age: 30 years
+Gender: Female
+
+Height: 178.0 cm
+Weight: 82.3 kg
+
+Blood Pressure: 120/89 mmHg
+Blood Sugar (Random): 148 mg/dL
+
+Cholesterol Panel:
+  Total: 228 mg/dL
+  LDL: 106 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: 125 mg/dL
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 30.1
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 35 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Doctor's Comments:
+Continue present medications.

@@ -1,0 +1,39 @@
+
+PrimeCare Hospital
+Address: 13 Evergreen Lane, Meadowridge - 464836
+Phone: +91-89161-68171
+Email: info@primecare47.org
+Website: www.primecare619.org
+Accreditation Code: PR-12789
+
+Report ID: RPT-439B7643
+Sample ID: SMP-27053
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7277
+
+Patient Name: G***
+Patient ID: UH-000584
+Age: 75 years
+Gender: Female
+
+Height: 180.7 cm
+Weight: -
+
+Blood Pressure: 125/61 mmHg
+Blood Glucose: 100 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 50 mg/dL
+  Triglycerides: 159 mg/dL
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 0.96 mg/dL
+BMI: -
+
+
+Advice:
+Lipid profile requires monitoring.

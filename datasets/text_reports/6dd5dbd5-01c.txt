@@ -1,0 +1,43 @@
+
+Everlight Diagnostics
+Address: 76 Alpine Street, Marigold City - 445907
+Phone: +91-87847-65059
+Email: info@everlight57.org
+Website: www.everlight888.org
+Accreditation Code: EV-85297
+
+Report ID: RPT-AFD221AA
+Sample ID: SMP-56974
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6908
+
+Patient Name: Y***
+Patient ID: UH-000557
+Age: 34 years
+Gender: Female
+
+Height: 171.6 cm
+Weight: 66.2 kg
+
+Blood Pressure: 136/102 mmHg
+Blood Glucose: 127 mg/dL
+
+Cholesterol Panel:
+  Total: 235 mg/dL
+  LDL: 153 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 241 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 26.4
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 81 mL/min
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

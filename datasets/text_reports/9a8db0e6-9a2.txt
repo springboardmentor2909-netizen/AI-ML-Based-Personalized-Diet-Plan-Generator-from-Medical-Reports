@@ -1,0 +1,49 @@
+
+BlueValley Medical Center
+Address: 31 Sunrise Boulevard, Hillcrest - 473733
+Phone: +91-83392-80958
+Email: info@bluevalley49.org
+Website: www.bluevalley649.org
+Accreditation Code: BL-39257
+
+Report ID: RPT-FCA3CD72
+Sample ID: SMP-31018
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5950
+
+Patient Name: G***
+Patient ID: UH-000821
+Age: 41 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: 136/105 mmHg
+Pulse: 71 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 111 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 186 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 30.8
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 11 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 61 mL/min
+
+
+Remark:
+Improvement noted. Keep current regimen.

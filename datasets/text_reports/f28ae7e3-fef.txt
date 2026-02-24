@@ -1,0 +1,49 @@
+
+Medisphere Medical Center
+Address: 63 Alpine Street, Clearwater - 440994
+Phone: +91-87663-28083
+Email: info@medisphere75.org
+Website: www.medisphere849.org
+Accreditation Code: ME-18445
+
+Report ID: RPT-FADE7BAA
+Sample ID: SMP-37204
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2866
+
+Patient Name: T***
+Patient ID: UH-001038
+Age: 41 years
+Gender: Female
+
+Height: 180.7 cm
+Weight: 45.3 kg
+
+Blood Pressure: 117/64 mmHg
+Pulse Rate: 61 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: -
+  HDL: 54 mg/dL
+  Triglycerides: 200 mg/dL
+
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.21 mg/dL
+BMI: 33.0
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: 104 mL/min
+
+
+Remarks:
+Diet modification essential.

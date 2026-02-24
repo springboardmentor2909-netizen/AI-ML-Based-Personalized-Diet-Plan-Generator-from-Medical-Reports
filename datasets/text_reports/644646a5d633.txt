@@ -1,0 +1,40 @@
+
+NovaPath Clinical Institute
+Address: 46 Riverbend Ave, Marigold City - 433018
+Phone: +91-82744-26922
+Email: info@novapath47.org
+Website: www.novapath206.org
+Accreditation Code: NO-63480
+
+Report ID: RPT-6CCB1EB7
+Sample ID: SMP-18233
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4904
+
+Patient Name: N***
+Patient ID: UH-001214
+Age: 19 years
+Gender: Other
+
+Height: -
+Weight: 91.2 kg
+
+Blood Pressure: -
+Pulse: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 113 mg/dL
+  HDL: 62 mg/dL
+  Triglycerides: 140 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: 1.4 mg/dL
+BMI: -
+
+
+Remark:
+Advised ECG if symptoms persist.

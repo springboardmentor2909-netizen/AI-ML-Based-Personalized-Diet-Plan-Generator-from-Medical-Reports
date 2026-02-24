@@ -1,0 +1,33 @@
+
+SolacePoint Clinical Institute
+Address: 97 Horizon Road, Silverpoint - 409012
+Phone: +91-71714-75137
+Email: info@solacepoint23.org
+Website: www.solacepoint888.org
+Accreditation Code: SO-40755
+
+Report ID: RPT-22DADC80
+Sample ID: SMP-23699
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1658
+
+Patient Name: E***
+Patient ID: UH-001410
+Age: 35
+Gender: Other
+
+Blood Pressure: 120/89 mmHg
+Pulse: 69 bpm
+Glucose: 75 mg/dL
+Weight: 97.3 kg
+Cholesterol Total: 222 mg/dL
+LDL: 156 mg/dL
+Triglycerides: 248 mg/dL
+Hemoglobin: 9.6 g/dL
+Creatinine: 1.66 mg/dL
+BMI: 30.6
+
+Advice:
+Mild elevation in glucose.

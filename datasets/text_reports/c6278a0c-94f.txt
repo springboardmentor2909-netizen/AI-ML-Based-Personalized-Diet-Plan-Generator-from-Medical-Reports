@@ -1,0 +1,49 @@
+
+NovaPath Clinical Institute
+Address: 17 Horizon Road, Eastwood - 492942
+Phone: +91-89129-57069
+Email: info@novapath38.org
+Website: www.novapath189.org
+Accreditation Code: NO-76192
+
+Report ID: RPT-625E5782
+Sample ID: SMP-92362
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7452
+
+Patient Name: L***
+Patient ID: UH-000997
+Age: 61 years
+Gender: Other
+
+Height: 168.7 cm
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 66 bpm
+Glucose: 81 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 116 mg/dL
+  HDL: -
+  Triglycerides: 109 mg/dL
+
+Hemoglobin: 12.9 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 21.4
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: 37 mg/dL
+  eGFR: 72 mL/min
+
+
+Clinical Notes:
+Levels improving compared to last visit.

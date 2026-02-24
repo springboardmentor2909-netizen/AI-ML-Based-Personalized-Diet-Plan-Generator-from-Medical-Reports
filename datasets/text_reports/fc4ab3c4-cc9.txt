@@ -1,0 +1,45 @@
+
+SolacePoint Clinical Institute
+Address: 11 Sunrise Boulevard, Marigold City - 425518
+Phone: +91-76098-33770
+Email: info@solacepoint27.org
+Website: www.solacepoint514.org
+Accreditation Code: SO-64960
+
+Report ID: RPT-878DBBF9
+Sample ID: SMP-94150
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6372
+
+Patient Name: L***
+Patient ID: UH-000857
+Age: 21 years
+Gender: Male
+
+Height: 182.6 cm
+Weight: 86.7 kg
+
+Blood Pressure: 139/76 mmHg
+Pulse (bpm): 70 bpm
+Blood Glucose: 98 mg/dL
+
+Cholesterol Panel:
+  Total: 200 mg/dL
+  LDL: 90 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 136 mg/dL
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 1.23 mg/dL
+BMI: 24.5
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Doctor's Comments:
+Cholesterol borderline. Consider dietary modification.

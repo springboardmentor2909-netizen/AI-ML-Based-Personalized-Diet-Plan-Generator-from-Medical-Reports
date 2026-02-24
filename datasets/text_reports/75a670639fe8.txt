@@ -1,0 +1,40 @@
+
+Everlight Pathology Lab
+Address: 37 Maple Drive, Clearwater - 443450
+Phone: +91-78805-43910
+Email: info@everlight94.org
+Website: www.everlight468.org
+Accreditation Code: EV-68509
+
+Report ID: RPT-048E43B1
+Sample ID: SMP-89221
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5539
+
+Patient Name: S***
+Patient ID: UH-001206
+Age: 67 years
+Gender: Male
+
+Height: 186.0 cm
+Weight: 69.0 kg
+
+Blood Pressure: 166/62 mmHg
+Pulse: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 218 mg/dL
+  LDL: -
+  HDL: 64 mg/dL
+  Triglycerides: 208 mg/dL
+
+Hemoglobin: 15.9 g/dL
+Creatinine: 1.56 mg/dL
+BMI: 26.6
+
+
+Remarks:
+Minor deficiency suspected.

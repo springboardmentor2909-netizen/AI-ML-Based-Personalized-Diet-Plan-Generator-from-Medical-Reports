@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 69 Maple Drive, Marigold City - 445220
+Phone: +91-86114-31489
+Email: info@starhaven18.org
+Website: www.starhaven881.org
+Accreditation Code: ST-36275
+
+Report ID: RPT-AF26A524
+Sample ID: SMP-71367
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5551
+
+Patient Name: P***
+Patient ID: UH-001016
+Age: 68 years
+Gender: Other
+
+Height: 176.6 cm
+Weight: 45.1 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 250 mg/dL
+  LDL: 111 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 11.8 g/dL
+Creatinine: -
+BMI: -
+
+
+Remark:
+Adequate control maintained.

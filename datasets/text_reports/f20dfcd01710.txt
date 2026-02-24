@@ -1,0 +1,49 @@
+
+Everlight Hospital
+Address: 83 Alpine Street, Clearwater - 491721
+Phone: +91-76945-99317
+Email: info@everlight36.org
+Website: www.everlight608.org
+Accreditation Code: EV-37889
+
+Report ID: RPT-D0692C6B
+Sample ID: SMP-48584
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3424
+
+Patient Name: J***
+Patient ID: UH-001253
+Age: 75 years
+Gender: Female
+
+Height: 182.6 cm
+Weight: 69.4 kg
+
+Blood Pressure: 100/78 mmHg
+Pulse (bpm): 82 bpm
+Blood Sugar: 76 mg/dL
+
+Cholesterol Panel:
+  Total: 185 mg/dL
+  LDL: 84 mg/dL
+  HDL: 28 mg/dL
+  Triglycerides: 155 mg/dL
+
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.29 mg/dL
+BMI: 20.9
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 19 U/L
+  Bilirubin Total: 1.3 mg/dL
+
+KFT:
+  Urea: 12 mg/dL
+  eGFR: 84 mL/min
+
+
+Recommendations:
+Hydration important.

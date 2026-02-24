@@ -1,0 +1,40 @@
+
+SolacePoint Clinical Institute
+Address: 11 Sunrise Boulevard, Marigold City - 425518
+Phone: +91-76098-33770
+Email: info@solacepoint27.org
+Website: www.solacepoint514.org
+Accreditation Code: SO-64960
+
+Report ID: RPT-1FA64A06
+Sample ID: SMP-60265
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9196
+
+Patient Name: N***
+Patient ID: UH-000802
+Age: 61 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 125/68 mmHg
+Pulse: 89 bpm
+Blood Glucose: 120 mg/dL
+
+Cholesterol Panel:
+  Total: 164 mg/dL
+  LDL: 158 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 220 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 1.48 mg/dL
+BMI: 33.1
+
+
+Remark:
+Diet modification essential.

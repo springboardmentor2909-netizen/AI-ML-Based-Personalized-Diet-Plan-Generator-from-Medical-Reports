@@ -1,0 +1,36 @@
+
+Everlight Hospital
+Address: 77 Alpine Street, Silverpoint - 465408
+Phone: +91-78436-91344
+Email: info@everlight21.org
+Website: www.everlight685.org
+Accreditation Code: EV-57781
+
+Report ID: RPT-E065AEF0
+Sample ID: SMP-92783
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1018
+
+Patient Name: M***
+Patient ID: UH-000415
+Age: 60 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar (Random): 113 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 86 mg/dL
+  HDL: -
+  Triglycerides: 170 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.85 mg/dL
+BMI: -
+
+
+Clinical Notes:
+Continue present medications.

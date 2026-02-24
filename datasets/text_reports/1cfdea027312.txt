@@ -1,0 +1,42 @@
+
+Greencrest Diagnostics
+Address: 13 Evergreen Lane, Marigold City - 415924
+Phone: +91-88632-41312
+Email: info@greencrest83.org
+Website: www.greencrest801.org
+Accreditation Code: GR-55209
+
+Report ID: RPT-5AD0C47E
+Sample ID: SMP-65625
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9099
+
+Patient Name: K***
+Patient ID: UH-001453
+Age: 53
+Gender: Female
+
+Blood Pressure: 154/106 mmHg
+Blood Sugar: 126 mg/dL
+Height: 156.0 cm
+Weight: 89.0 kg
+LDL: 156 mg/dL
+HDL: 40 mg/dL
+Triglycerides: 176 mg/dL
+Hemoglobin: 9.6 g/dL
+Creatinine: 1.34 mg/dL
+BMI: 34.0
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 72 mL/min
+
+Remark:
+Values improving.

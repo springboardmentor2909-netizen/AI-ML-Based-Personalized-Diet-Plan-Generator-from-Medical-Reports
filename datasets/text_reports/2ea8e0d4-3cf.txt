@@ -1,0 +1,45 @@
+
+Northlake Hospital
+Address: 12 Horizon Road, Northbay - 473594
+Phone: +91-87975-47712
+Email: info@northlake99.org
+Website: www.northlake950.org
+Accreditation Code: NO-63073
+
+Report ID: RPT-FD3B1E97
+Sample ID: SMP-18159
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7409
+
+Patient Name: W***
+Patient ID: UH-001045
+Age: 42 years
+Gender: Other
+
+Height: 147.5 cm
+Weight: 75.4 kg
+
+Blood Pressure: 111/85 mmHg
+Pulse: -
+Glucose: 128 mg/dL
+
+Cholesterol Panel:
+  Total: 237 mg/dL
+  LDL: 127 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 221 mg/dL
+
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.08 mg/dL
+BMI: 24.3
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 12 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Doctor's Notes:
+Advised patient to avoid salty foods.

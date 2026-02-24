@@ -1,0 +1,49 @@
+
+ClearRiver Pathology Lab
+Address: 15 Riverbend Ave, Clearwater - 433897
+Phone: +91-82581-32162
+Email: info@clearriver59.org
+Website: www.clearriver400.org
+Accreditation Code: CL-36750
+
+Report ID: RPT-3C44D51B
+Sample ID: SMP-84324
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7360
+
+Patient Name: O***
+Patient ID: UH-001046
+Age: 79 years
+Gender: Female
+
+Height: 178.4 cm
+Weight: 84.1 kg
+
+Blood Pressure: 100/77 mmHg
+Pulse Rate: 82 bpm
+Blood Sugar: 169 mg/dL
+
+Cholesterol Panel:
+  Total: 211 mg/dL
+  LDL: 156 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.8 g/dL
+Creatinine: 0.92 mg/dL
+BMI: 19.1
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: 35 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 101 mL/min
+
+
+Remark:
+Continue present medications.

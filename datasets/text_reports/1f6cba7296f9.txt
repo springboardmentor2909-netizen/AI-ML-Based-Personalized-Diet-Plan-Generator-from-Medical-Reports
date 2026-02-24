@@ -1,0 +1,40 @@
+
+Silver Oak Medical Center
+Address: 31 Alpine Street, Northbay - 415289
+Phone: +91-89329-21993
+Email: info@silver oak21.org
+Website: www.silver oak524.org
+Accreditation Code: SI-82685
+
+Report ID: RPT-797E8B33
+Sample ID: SMP-88821
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8995
+
+Patient Name: B***
+Patient ID: UH-001246
+Age: 18 years
+Gender: Male
+
+Height: -
+Weight: 48.9 kg
+
+Blood Pressure: 154/107 mmHg
+Pulse Rate: 106 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 10.2 g/dL
+Creatinine: -
+BMI: 20.5
+
+
+Recommendation:
+Advised ECG if symptoms persist.

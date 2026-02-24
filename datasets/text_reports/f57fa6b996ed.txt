@@ -1,0 +1,35 @@
+
+PrimeCare Pathology Lab
+Address: 84 Horizon Road, Northbay - 498128
+Phone: +91-98467-14021
+Email: info@primecare90.org
+Website: www.primecare397.org
+Accreditation Code: PR-98485
+
+Report ID: RPT-FA41C55A
+Sample ID: SMP-11022
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2418
+
+Patient Name: L***
+Patient ID: UH-001530
+Age: 46
+Gender: Female
+
+Pulse (bpm): 61 bpm
+Blood Sugar (Random): 119 mg/dL
+Height: 155.3 cm
+Weight: 56.1 kg
+Cholesterol Total: 241 mg/dL
+HDL: 53 mg/dL
+Triglycerides: 149 mg/dL
+Creatinine: 0.74 mg/dL
+
+LFT:
+  AST/SGOT: 10 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+Doctor's Comments:
+Patient reassured.

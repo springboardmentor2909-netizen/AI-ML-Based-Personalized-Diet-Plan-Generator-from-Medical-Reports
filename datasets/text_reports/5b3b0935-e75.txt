@@ -1,0 +1,44 @@
+
+Starhaven Diagnostics
+Address: 53 Sunrise Boulevard, Marigold City - 488338
+Phone: +91-90083-53064
+Email: info@starhaven96.org
+Website: www.starhaven585.org
+Accreditation Code: ST-87599
+
+Report ID: RPT-A97598F9
+Sample ID: SMP-21028
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8289
+
+Patient Name: L***
+Patient ID: UH-001187
+Age: 83 years
+Gender: Other
+
+Height: 186.3 cm
+Weight: 80.9 kg
+
+Blood Pressure: 112/84 mmHg
+Pulse: 98 bpm
+Blood Sugar (Random): 83 mg/dL
+
+Cholesterol Panel:
+  Total: 207 mg/dL
+  LDL: 159 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.25 mg/dL
+BMI: 25.0
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 113 mL/min
+
+
+Doctor's Comments:
+No clinical deterioration.

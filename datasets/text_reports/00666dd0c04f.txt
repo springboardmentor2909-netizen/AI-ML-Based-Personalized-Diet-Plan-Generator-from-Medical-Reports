@@ -1,0 +1,44 @@
+
+Silver Oak Pathology Lab
+Address: 31 Horizon Road, Westlake - 431269
+Phone: +91-80512-30134
+Email: info@silver oak88.org
+Website: www.silver oak576.org
+Accreditation Code: SI-55961
+
+Report ID: RPT-3EE2BCB3
+Sample ID: SMP-98775
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7156
+
+Patient Name: V***
+Patient ID: UH-001293
+Age: 20 years
+Gender: Male
+
+Height: 160.5 cm
+Weight: -
+
+Blood Pressure: 113/97 mmHg
+Pulse (bpm): -
+Blood Sugar (Random): 165 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 124 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.01 mg/dL
+BMI: 23.7
+
+KFT:
+  Urea: 29 mg/dL
+  eGFR: 88 mL/min
+
+
+Doctor's Comments:
+Reassured patient.

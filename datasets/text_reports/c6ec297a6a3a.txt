@@ -1,0 +1,40 @@
+
+Medisphere Clinical Institute
+Address: 65 Alpine Street, Clearwater - 432551
+Phone: +91-70015-57417
+Email: info@medisphere79.org
+Website: www.medisphere600.org
+Accreditation Code: ME-40574
+
+Report ID: RPT-93DFD1A6
+Sample ID: SMP-52829
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2569
+
+Patient Name: U***
+Patient ID: UH-001282
+Age: 35 years
+Gender: Other
+
+Height: 152.3 cm
+Weight: 77.2 kg
+
+Blood Pressure: 150/108 mmHg
+Pulse Rate: 86 bpm
+Blood Glucose: 172 mg/dL
+
+Cholesterol Panel:
+  Total: 242 mg/dL
+  LDL: 145 mg/dL
+  HDL: 65 mg/dL
+  Triglycerides: 169 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 0.88 mg/dL
+BMI: 27.8
+
+
+Remarks:
+Low hemoglobin; increase iron intake.

@@ -1,0 +1,39 @@
+
+Silver Oak Pathology Lab
+Address: 37 Sunrise Boulevard, Silverpoint - 404266
+Phone: +91-78581-20841
+Email: info@silver oak34.org
+Website: www.silver oak293.org
+Accreditation Code: SI-96315
+
+Report ID: RPT-CE18F158
+Sample ID: SMP-21155
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9916
+
+Patient Name: N***
+Patient ID: UH-000523
+Age: 37 years
+Gender: Male
+
+Height: 170.4 cm
+Weight: -
+
+Blood Pressure: 167/70 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 98 mg/dL
+  HDL: 43 mg/dL
+  Triglycerides: 247 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.0 mg/dL
+BMI: 23.2
+
+
+Impression:
+Blood pressure within acceptable range.

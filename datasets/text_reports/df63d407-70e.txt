@@ -1,0 +1,44 @@
+
+Riverdale Pathology Lab
+Address: 7 Evergreen Lane, Northbay - 450777
+Phone: +91-92687-54165
+Email: info@riverdale78.org
+Website: www.riverdale475.org
+Accreditation Code: RI-77536
+
+Report ID: RPT-71A47A59
+Sample ID: SMP-35352
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6903
+
+Patient Name: Z***
+Patient ID: UH-000822
+Age: 18 years
+Gender: Male
+
+Height: 163.7 cm
+Weight: 82.1 kg
+
+Blood Pressure: 151/93 mmHg
+Pulse: 105 bpm
+Glucose: 104 mg/dL
+
+Cholesterol Panel:
+  Total: 206 mg/dL
+  LDL: 91 mg/dL
+  HDL: -
+  Triglycerides: 160 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: 102 mL/min
+
+
+Recommendation:
+Consider ECG if palpitations recur.

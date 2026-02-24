@@ -1,0 +1,40 @@
+
+Starhaven Hospital
+Address: 84 Sunrise Boulevard, Northbay - 459834
+Phone: +91-79798-67000
+Email: info@starhaven66.org
+Website: www.starhaven480.org
+Accreditation Code: ST-22354
+
+Report ID: RPT-02B4843D
+Sample ID: SMP-26346
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4895
+
+Patient Name: L***
+Patient ID: UH-001042
+Age: 26 years
+Gender: Other
+
+Height: 158.4 cm
+Weight: 46.1 kg
+
+Blood Pressure: 109/69 mmHg
+Pulse: 72 bpm
+Glucose: 109 mg/dL
+
+Cholesterol Panel:
+  Total: 235 mg/dL
+  LDL: 91 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 112 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: 0.73 mg/dL
+BMI: 21.2
+
+
+Clinical Notes:
+Patient advised to maintain hydration.

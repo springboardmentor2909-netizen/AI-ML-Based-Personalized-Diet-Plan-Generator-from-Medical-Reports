@@ -1,0 +1,44 @@
+
+PrimeCare Pathology Lab
+Address: 26 Maple Drive, Marigold City - 417232
+Phone: +91-82413-98825
+Email: info@primecare28.org
+Website: www.primecare425.org
+Accreditation Code: PR-16845
+
+Report ID: RPT-B35AE1C5
+Sample ID: SMP-11538
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3168
+
+Patient Name: M***
+Patient ID: UH-000662
+Age: 53 years
+Gender: Male
+
+Height: -
+Weight: 89.1 kg
+
+Blood Pressure: 142/89 mmHg
+Pulse: 92 bpm
+Blood Sugar: 128 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 136 mg/dL
+  HDL: -
+  Triglycerides: 227 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.13 mg/dL
+BMI: 27.7
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 91 mL/min
+
+
+Remarks:
+Follow-up recommended after 2 weeks.

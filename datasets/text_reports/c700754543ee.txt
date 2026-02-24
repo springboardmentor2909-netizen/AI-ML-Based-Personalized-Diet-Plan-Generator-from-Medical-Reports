@@ -1,0 +1,29 @@
+
+SolacePoint Diagnostics
+Address: 25 Horizon Road, Clearwater - 445510
+Phone: +91-88016-21185
+Email: info@solacepoint20.org
+Website: www.solacepoint403.org
+Accreditation Code: SO-25572
+
+Report ID: RPT-08F554B7
+Sample ID: SMP-75020
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4664
+
+Patient Name: O***
+Patient ID: UH-001546
+Age: 62
+Gender: Male
+
+Blood Pressure: 145/86 mmHg
+Height: 177.6 cm
+Weight: 73.6 kg
+LDL: 129 mg/dL
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.69 mg/dL
+
+Remarks:
+Lifestyle modification suggested.

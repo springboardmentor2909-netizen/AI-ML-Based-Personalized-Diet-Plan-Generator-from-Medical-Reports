@@ -1,0 +1,49 @@
+
+Everlight Pathology Lab
+Address: 36 Alpine Street, Eastwood - 424649
+Phone: +91-80461-76352
+Email: info@everlight79.org
+Website: www.everlight570.org
+Accreditation Code: EV-21010
+
+Report ID: RPT-DF2F7F91
+Sample ID: SMP-22550
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8665
+
+Patient Name: V***
+Patient ID: UH-000841
+Age: 20 years
+Gender: Other
+
+Height: 172.6 cm
+Weight: 68.1 kg
+
+Blood Pressure: 167/96 mmHg
+Pulse Rate: 104 bpm
+Blood Sugar (Random): 94 mg/dL
+
+Cholesterol Panel:
+  Total: 240 mg/dL
+  LDL: 144 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 234 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 0.97 mg/dL
+BMI: 21.8
+
+LFT:
+  AST/SGOT: 15 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 65 mL/min
+
+
+Doctor's Notes:
+Improvement noted. Keep current regimen.

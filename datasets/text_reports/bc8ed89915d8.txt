@@ -1,0 +1,27 @@
+
+Medisphere Pathology Lab
+Address: 2 Maple Drive, Northbay - 440946
+Phone: +91-81244-37189
+Email: info@medisphere58.org
+Website: www.medisphere741.org
+Accreditation Code: ME-83006
+
+Report ID: RPT-70D513E8
+Sample ID: SMP-50893
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2432
+
+Patient Name: T***
+Patient ID: UH-001411
+Age: 56
+Gender: Female
+
+Blood Pressure: 132/69 mmHg
+Glucose: 112 mg/dL
+Hemoglobin: 14.1 g/dL
+Creatinine: 0.76 mg/dL
+
+Impression:
+Condition stable.

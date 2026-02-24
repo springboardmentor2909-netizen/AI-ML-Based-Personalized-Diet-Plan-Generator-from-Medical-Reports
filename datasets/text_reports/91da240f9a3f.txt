@@ -1,0 +1,39 @@
+
+Northlake Medical Center
+Address: 44 Maple Drive, Clearwater - 456660
+Phone: +91-96977-78788
+Email: info@northlake49.org
+Website: www.northlake728.org
+Accreditation Code: NO-17033
+
+Report ID: RPT-2F8F189A
+Sample ID: SMP-97813
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9168
+
+Patient Name: O***
+Patient ID: UH-001417
+Age: 36
+Gender: Male
+
+Blood Pressure: 117/83 mmHg
+Pulse (bpm): 100 bpm
+Blood Glucose: 180 mg/dL
+Height: 157.8 cm
+Weight: 65.0 kg
+Cholesterol Total: 207 mg/dL
+LDL: 155 mg/dL
+HDL: 46 mg/dL
+Triglycerides: 195 mg/dL
+Hemoglobin: 10.3 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 17.5
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 74 mL/min
+
+Doctor's Notes:
+Values improving.

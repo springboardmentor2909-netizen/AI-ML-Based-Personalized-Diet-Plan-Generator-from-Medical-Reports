@@ -1,0 +1,40 @@
+
+Northlake Diagnostics
+Address: 42 Riverbend Ave, Eastwood - 478980
+Phone: +91-93330-38834
+Email: info@northlake86.org
+Website: www.northlake685.org
+Accreditation Code: NO-27660
+
+Report ID: RPT-C40E7240
+Sample ID: SMP-50621
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7455
+
+Patient Name: S***
+Patient ID: UH-001233
+Age: 62 years
+Gender: Other
+
+Height: 167.9 cm
+Weight: 45.8 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar: 163 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 129 mg/dL
+  HDL: -
+  Triglycerides: 192 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Impression:
+Discussed results clearly. Patient understood.

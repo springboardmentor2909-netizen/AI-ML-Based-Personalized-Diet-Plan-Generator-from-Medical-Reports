@@ -1,0 +1,40 @@
+
+Northlake Hospital
+Address: 97 Alpine Street, Westlake - 488241
+Phone: +91-72438-70862
+Email: info@northlake86.org
+Website: www.northlake266.org
+Accreditation Code: NO-22418
+
+Report ID: RPT-DD3A86B5
+Sample ID: SMP-62524
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8139
+
+Patient Name: B***
+Patient ID: UH-000869
+Age: 31 years
+Gender: Female
+
+Height: -
+Weight: 88.9 kg
+
+Blood Pressure: 144/103 mmHg
+Pulse Rate: 87 bpm
+Blood Sugar (Random): 151 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 119 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 0.72 mg/dL
+BMI: 26.6
+
+
+Doctor's Notes:
+Sugar levels within acceptable range.

@@ -1,0 +1,40 @@
+
+NovaPath Diagnostics
+Address: 44 Maple Drive, Northbay - 427996
+Phone: +91-70066-20701
+Email: info@novapath59.org
+Website: www.novapath619.org
+Accreditation Code: NO-17874
+
+Report ID: RPT-1D6255EF
+Sample ID: SMP-68858
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9581
+
+Patient Name: A***
+Patient ID: UH-000700
+Age: 64 years
+Gender: Other
+
+Height: -
+Weight: 49.3 kg
+
+Blood Pressure: -
+Pulse (bpm): 104 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 251 mg/dL
+  LDL: 95 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 189 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 27.7
+
+
+Advice:
+Continue present medications.

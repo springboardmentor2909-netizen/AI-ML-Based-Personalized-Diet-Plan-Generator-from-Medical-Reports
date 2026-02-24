@@ -1,0 +1,40 @@
+
+PrimeCare Clinical Institute
+Address: 30 Maple Drive, Marigold City - 455577
+Phone: +91-80464-13303
+Email: info@primecare78.org
+Website: www.primecare665.org
+Accreditation Code: PR-96575
+
+Report ID: RPT-62EB6FED
+Sample ID: SMP-87381
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9869
+
+Patient Name: W***
+Patient ID: UH-000476
+Age: 65 years
+Gender: Male
+
+Blood Pressure: -
+Glucose: 90 mg/dL
+
+Cholesterol Panel:
+  Total: 238 mg/dL
+  LDL: 142 mg/dL
+  HDL: -
+  Triglycerides: 147 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: -
+BMI: 29.0
+
+KFT:
+  Urea: -
+  eGFR: 71 mL/min
+
+
+Recommendations:
+Follow-up recommended after 2 weeks.

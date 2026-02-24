@@ -1,0 +1,44 @@
+
+ClearRiver Pathology Lab
+Address: 56 Sunrise Boulevard, Meadowridge - 472608
+Phone: +91-70488-68149
+Email: info@clearriver68.org
+Website: www.clearriver957.org
+Accreditation Code: CL-51640
+
+Report ID: RPT-A74F6B39
+Sample ID: SMP-62391
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8019
+
+Patient Name: J***
+Patient ID: UH-001009
+Age: 58 years
+Gender: Female
+
+Height: -
+Weight: 59.4 kg
+
+Blood Pressure: 129/100 mmHg
+Pulse: -
+Blood Sugar (Random): 168 mg/dL
+
+Cholesterol Panel:
+  Total: 240 mg/dL
+  LDL: 105 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 10.6 g/dL
+Creatinine: 1.32 mg/dL
+BMI: 21.8
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: -
+
+
+Advice:
+Pathology values consistent with mild deficiency.

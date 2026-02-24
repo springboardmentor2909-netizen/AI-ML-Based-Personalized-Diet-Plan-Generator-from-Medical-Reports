@@ -1,0 +1,44 @@
+
+Greencrest Hospital
+Address: 7 Horizon Road, Marigold City - 493727
+Phone: +91-89841-26264
+Email: info@greencrest63.org
+Website: www.greencrest282.org
+Accreditation Code: GR-13784
+
+Report ID: RPT-D405A380
+Sample ID: SMP-69863
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4214
+
+Patient Name: Q***
+Patient ID: UH-001110
+Age: 22 years
+Gender: Female
+
+Height: -
+Weight: 52.3 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar (Random): 84 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: -
+  HDL: 49 mg/dL
+  Triglycerides: 208 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 1.02 mg/dL
+BMI: 30.2
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 103 mL/min
+
+
+Doctor's Notes:
+Increase moderate activity.

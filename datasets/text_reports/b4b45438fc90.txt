@@ -1,0 +1,28 @@
+
+Northlake Hospital
+Address: 85 Maple Drive, Clearwater - 447876
+Phone: +91-95002-96142
+Email: info@northlake60.org
+Website: www.northlake403.org
+Accreditation Code: NO-19597
+
+Report ID: RPT-9231E386
+Sample ID: SMP-26146
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5278
+
+Patient Name: Y***
+Patient ID: UH-001494
+Age: 29
+Gender: Other
+
+Blood Sugar: 75 mg/dL
+Height: 185.7 cm
+Weight: 51.6 kg
+Triglycerides: 144 mg/dL
+BMI: 17.2
+
+Recommendation:
+Follow-up advised.

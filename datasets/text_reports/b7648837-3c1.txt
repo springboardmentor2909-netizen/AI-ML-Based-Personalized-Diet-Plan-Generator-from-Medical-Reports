@@ -1,0 +1,49 @@
+
+PrimeCare Clinical Institute
+Address: 24 Alpine Street, Westlake - 457991
+Phone: +91-82500-84570
+Email: info@primecare58.org
+Website: www.primecare215.org
+Accreditation Code: PR-58106
+
+Report ID: RPT-1D4E0C56
+Sample ID: SMP-40250
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6993
+
+Patient Name: O***
+Patient ID: UH-000940
+Age: 30 years
+Gender: Other
+
+Height: 175.3 cm
+Weight: 81.5 kg
+
+Blood Pressure: 117/78 mmHg
+Pulse: 88 bpm
+Glucose: 110 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: 125 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 135 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 1.19 mg/dL
+BMI: 21.2
+
+LFT:
+  AST/SGOT: 26 U/L
+  ALT/SGPT: 41 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 29 mg/dL
+  eGFR: 83 mL/min
+
+
+Advice:
+Needs follow-up in OPD.

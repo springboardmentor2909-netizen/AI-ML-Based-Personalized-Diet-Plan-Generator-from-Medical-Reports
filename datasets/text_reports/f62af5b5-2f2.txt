@@ -1,0 +1,45 @@
+
+Silver Oak Medical Center
+Address: 17 Riverbend Ave, Marigold City - 404840
+Phone: +91-74740-76120
+Email: info@silver oak68.org
+Website: www.silver oak236.org
+Accreditation Code: SI-67638
+
+Report ID: RPT-71A286C5
+Sample ID: SMP-21146
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3479
+
+Patient Name: E***
+Patient ID: UH-001112
+Age: 63 years
+Gender: Female
+
+Height: 184.0 cm
+Weight: 49.0 kg
+
+Blood Pressure: 161/78 mmHg
+Pulse (bpm): 93 bpm
+Blood Sugar (Random): 119 mg/dL
+
+Cholesterol Panel:
+  Total: 170 mg/dL
+  LDL: 147 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 169 mg/dL
+
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 27.6
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 45 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Recommendations:
+Follow-up in 1–2 weeks recommended.

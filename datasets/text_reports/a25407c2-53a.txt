@@ -1,0 +1,45 @@
+
+Greencrest Hospital
+Address: 6 Horizon Road, Northbay - 494799
+Phone: +91-93339-15307
+Email: info@greencrest39.org
+Website: www.greencrest623.org
+Accreditation Code: GR-95028
+
+Report ID: RPT-EE85393B
+Sample ID: SMP-17856
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4383
+
+Patient Name: K***
+Patient ID: UH-000448
+Age: 34 years
+Gender: Male
+
+Blood Pressure: 128/90 mmHg
+Blood Glucose: 147 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 44 mg/dL
+  Triglycerides: 159 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 31.3
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 113 mL/min
+
+
+Summary:
+Lipid levels require monitoring.

@@ -1,0 +1,45 @@
+
+SolacePoint Clinical Institute
+Address: 55 Evergreen Lane, Silverpoint - 445560
+Phone: +91-93724-22898
+Email: info@solacepoint27.org
+Website: www.solacepoint690.org
+Accreditation Code: SO-25855
+
+Report ID: RPT-C82EBB0E
+Sample ID: SMP-85596
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3760
+
+Patient Name: Z***
+Patient ID: UH-000807
+Age: 56 years
+Gender: Other
+
+Height: 183.3 cm
+Weight: 63.9 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 152 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 146 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.04 mg/dL
+BMI: 27.2
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.5 mg/dL
+
+
+Recommendation:
+Hydration emphasized.

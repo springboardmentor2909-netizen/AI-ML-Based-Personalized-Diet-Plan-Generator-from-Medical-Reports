@@ -1,0 +1,40 @@
+
+Riverdale Pathology Lab
+Address: 29 Maple Drive, Marigold City - 479996
+Phone: +91-77157-94573
+Email: info@riverdale10.org
+Website: www.riverdale101.org
+Accreditation Code: RI-59572
+
+Report ID: RPT-067B7E71
+Sample ID: SMP-75016
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9383
+
+Patient Name: T***
+Patient ID: UH-000663
+Age: 53 years
+Gender: Other
+
+Height: 183.1 cm
+Weight: -
+
+Blood Pressure: 165/101 mmHg
+Pulse (bpm): -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 15.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Doctor's Comments:
+Glucose levels mildly elevated; lifestyle changes advised.

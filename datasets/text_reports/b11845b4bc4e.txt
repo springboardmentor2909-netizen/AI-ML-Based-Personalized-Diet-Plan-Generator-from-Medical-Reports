@@ -1,0 +1,37 @@
+
+Silver Oak Diagnostics
+Address: 92 Horizon Road, Northbay - 455847
+Phone: +91-94943-72804
+Email: info@silver oak10.org
+Website: www.silver oak621.org
+Accreditation Code: SI-69088
+
+Report ID: RPT-FCE97B13
+Sample ID: SMP-41630
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3415
+
+Patient Name: N***
+Patient ID: UH-001366
+Age: 58
+Gender: Male
+
+Pulse Rate: 62 bpm
+Glucose: 138 mg/dL
+Height: 183.6 cm
+Cholesterol Total: 164 mg/dL
+LDL: 141 mg/dL
+HDL: 45 mg/dL
+Triglycerides: 162 mg/dL
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.24 mg/dL
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 10 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+Recommendation:
+Explained results clearly; patient agreed.

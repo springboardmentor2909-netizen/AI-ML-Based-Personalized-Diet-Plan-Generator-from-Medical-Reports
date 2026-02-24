@@ -1,0 +1,40 @@
+
+PrimeCare Diagnostics
+Address: 59 Riverbend Ave, Silverpoint - 401683
+Phone: +91-84223-28017
+Email: info@primecare68.org
+Website: www.primecare376.org
+Accreditation Code: PR-72701
+
+Report ID: RPT-54C60181
+Sample ID: SMP-74243
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4957
+
+Patient Name: S***
+Patient ID: UH-000611
+Age: 55 years
+Gender: Male
+
+Height: 178.0 cm
+Weight: -
+
+Blood Pressure: -
+Pulse: 86 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 83 mg/dL
+  HDL: -
+  Triglycerides: 115 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: 1.18 mg/dL
+BMI: -
+
+
+Impression:
+Lipid profile requires monitoring.

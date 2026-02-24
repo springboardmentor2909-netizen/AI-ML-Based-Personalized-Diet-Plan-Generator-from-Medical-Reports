@@ -1,0 +1,45 @@
+
+Riverdale Diagnostics
+Address: 8 Evergreen Lane, Meadowridge - 488781
+Phone: +91-86864-76831
+Email: info@riverdale65.org
+Website: www.riverdale312.org
+Accreditation Code: RI-90330
+
+Report ID: RPT-D15F26B4
+Sample ID: SMP-30995
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2633
+
+Patient Name: C***
+Patient ID: UH-000490
+Age: 85 years
+Gender: Female
+
+Blood Pressure: -
+Blood Glucose: 143 mg/dL
+
+Cholesterol Panel:
+  Total: 228 mg/dL
+  LDL: 100 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 210 mg/dL
+
+Hemoglobin: 11.5 g/dL
+Creatinine: -
+BMI: 28.6
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: 80 mL/min
+
+
+Remarks:
+Continue present medications.

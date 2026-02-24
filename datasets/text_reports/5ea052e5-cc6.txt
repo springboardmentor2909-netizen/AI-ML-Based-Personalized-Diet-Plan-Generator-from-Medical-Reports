@@ -1,0 +1,40 @@
+
+Everlight Hospital
+Address: 56 Evergreen Lane, Silverpoint - 449654
+Phone: +91-90816-73677
+Email: info@everlight11.org
+Website: www.everlight120.org
+Accreditation Code: EV-47942
+
+Report ID: RPT-37D256B3
+Sample ID: SMP-40354
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8605
+
+Patient Name: E***
+Patient ID: UH-000970
+Age: 36 years
+Gender: Female
+
+Height: 178.7 cm
+Weight: 93.9 kg
+
+Blood Pressure: -
+Pulse: 92 bpm
+Blood Sugar: 160 mg/dL
+
+Cholesterol Panel:
+  Total: 187 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.24 mg/dL
+BMI: 22.7
+
+
+Remarks:
+Needs follow-up in OPD.

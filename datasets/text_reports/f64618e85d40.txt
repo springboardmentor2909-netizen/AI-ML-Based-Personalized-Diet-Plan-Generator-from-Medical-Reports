@@ -1,0 +1,27 @@
+
+Starhaven Hospital
+Address: 65 Evergreen Lane, Eastwood - 468301
+Phone: +91-87380-43135
+Email: info@starhaven72.org
+Website: www.starhaven488.org
+Accreditation Code: ST-58509
+
+Report ID: RPT-46CF9AA5
+Sample ID: SMP-54139
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8692
+
+Patient Name: O***
+Patient ID: UH-001560
+Age: 41
+Gender: Female
+
+Cholesterol Total: 253 mg/dL
+LDL: 73 mg/dL
+Creatinine: 1.09 mg/dL
+BMI: 34.0
+
+Doctor's Comments:
+Follow-up advised.

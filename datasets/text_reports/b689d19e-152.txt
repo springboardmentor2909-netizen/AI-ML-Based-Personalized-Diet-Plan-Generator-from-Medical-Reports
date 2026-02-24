@@ -1,0 +1,40 @@
+
+SolacePoint Medical Center
+Address: 63 Alpine Street, Hillcrest - 413437
+Phone: +91-87128-32589
+Email: info@solacepoint37.org
+Website: www.solacepoint208.org
+Accreditation Code: SO-40096
+
+Report ID: RPT-42805EA3
+Sample ID: SMP-60446
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7578
+
+Patient Name: Y***
+Patient ID: UH-000979
+Age: 61 years
+Gender: Male
+
+Height: 146.9 cm
+Weight: 80.9 kg
+
+Blood Pressure: 129/92 mmHg
+Pulse Rate: 77 bpm
+Glucose: 112 mg/dL
+
+Cholesterol Panel:
+  Total: 190 mg/dL
+  LDL: 90 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 158 mg/dL
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 20.7
+
+
+Remarks:
+Needs follow-up in OPD.

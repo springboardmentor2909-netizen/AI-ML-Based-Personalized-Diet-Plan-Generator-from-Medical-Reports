@@ -1,0 +1,45 @@
+
+BlueValley Medical Center
+Address: 63 Horizon Road, Northbay - 482720
+Phone: +91-85083-20483
+Email: info@bluevalley61.org
+Website: www.bluevalley165.org
+Accreditation Code: BL-42808
+
+Report ID: RPT-D58BDADD
+Sample ID: SMP-52419
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8093
+
+Patient Name: C***
+Patient ID: UH-001286
+Age: 38 years
+Gender: Male
+
+Height: 178.7 cm
+Weight: 68.1 kg
+
+Blood Pressure: -
+Pulse Rate: 64 bpm
+Blood Sugar (Random): 167 mg/dL
+
+Cholesterol Panel:
+  Total: 249 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 154 mg/dL
+
+Hemoglobin: 15.9 g/dL
+Creatinine: 1.13 mg/dL
+BMI: 18.2
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: -
+
+
+Recommendations:
+Hydration important.

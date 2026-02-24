@@ -1,0 +1,40 @@
+
+Riverdale Pathology Lab
+Address: 16 Maple Drive, Silverpoint - 417432
+Phone: +91-81911-39996
+Email: info@riverdale66.org
+Website: www.riverdale666.org
+Accreditation Code: RI-57779
+
+Report ID: RPT-4B4C24A4
+Sample ID: SMP-65262
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8519
+
+Patient Name: W***
+Patient ID: UH-001249
+Age: 80 years
+Gender: Other
+
+Height: 162.4 cm
+Weight: 85.3 kg
+
+Blood Pressure: 150/98 mmHg
+Pulse (bpm): -
+Blood Sugar: 127 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 46 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 0.92 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Reassured patient.

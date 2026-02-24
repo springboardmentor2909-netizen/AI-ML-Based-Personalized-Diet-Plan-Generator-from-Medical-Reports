@@ -1,0 +1,39 @@
+
+Riverdale Clinical Institute
+Address: 34 Sunrise Boulevard, Northbay - 437664
+Phone: +91-81210-73937
+Email: info@riverdale50.org
+Website: www.riverdale860.org
+Accreditation Code: RI-67544
+
+Report ID: RPT-7C749185
+Sample ID: SMP-68474
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6992
+
+Patient Name: C***
+Patient ID: UH-000534
+Age: 76 years
+Gender: Other
+
+Height: 188.8 cm
+Weight: 48.5 kg
+
+Blood Pressure: 132/74 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 118 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.0 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 26.9
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

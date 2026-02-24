@@ -1,0 +1,49 @@
+
+Greencrest Pathology Lab
+Address: 59 Maple Drive, Silverpoint - 456861
+Phone: +91-96219-56603
+Email: info@greencrest12.org
+Website: www.greencrest309.org
+Accreditation Code: GR-17612
+
+Report ID: RPT-B921B349
+Sample ID: SMP-49862
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4017
+
+Patient Name: U***
+Patient ID: UH-000889
+Age: 59 years
+Gender: Other
+
+Height: 153.4 cm
+Weight: 61.4 kg
+
+Blood Pressure: 107/72 mmHg
+Pulse (bpm): 100 bpm
+Blood Glucose: 126 mg/dL
+
+Cholesterol Panel:
+  Total: 240 mg/dL
+  LDL: 132 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 201 mg/dL
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 0.74 mg/dL
+BMI: 24.5
+
+LFT:
+  AST/SGOT: 26 U/L
+  ALT/SGPT: 15 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: 25 mg/dL
+  eGFR: 79 mL/min
+
+
+Clinical Notes:
+Patient advised to maintain hydration.

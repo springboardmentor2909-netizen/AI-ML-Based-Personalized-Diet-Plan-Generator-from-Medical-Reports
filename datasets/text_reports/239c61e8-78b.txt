@@ -1,0 +1,39 @@
+
+Everlight Hospital
+Address: 6 Alpine Street, Westlake - 457212
+Phone: +91-93729-22499
+Email: info@everlight49.org
+Website: www.everlight131.org
+Accreditation Code: EV-25453
+
+Report ID: RPT-8C4679D5
+Sample ID: SMP-84405
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2230
+
+Patient Name: E***
+Patient ID: UH-000513
+Age: 30 years
+Gender: Female
+
+Height: 182.4 cm
+Weight: 72.1 kg
+
+Blood Pressure: 150/65 mmHg
+Glucose: 83 mg/dL
+
+Cholesterol Panel:
+  Total: 196 mg/dL
+  LDL: 127 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 1.35 mg/dL
+BMI: 19.1
+
+
+Recommendations:
+Blood pressure within acceptable range.

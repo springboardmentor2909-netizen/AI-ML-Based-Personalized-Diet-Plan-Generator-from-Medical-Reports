@@ -1,0 +1,31 @@
+
+PrimeCare Medical Center
+Address: 46 Horizon Road, Eastwood - 463079
+Phone: +91-80324-50029
+Email: info@primecare43.org
+Website: www.primecare932.org
+Accreditation Code: PR-10054
+
+Report ID: RPT-F9ECBEE6
+Sample ID: SMP-35947
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4866
+
+Patient Name: I***
+Patient ID: UH-001342
+Age: 20
+Gender: Female
+
+Blood Pressure: 107/61 mmHg
+Pulse Rate: 74 bpm
+Glucose: 105 mg/dL
+Height: 184.0 cm
+Cholesterol Total: 201 mg/dL
+LDL: 113 mg/dL
+Creatinine: 1.1 mg/dL
+BMI: 34.3
+
+Summary:
+Monitor BP regularly at home.

@@ -1,0 +1,38 @@
+
+Silver Oak Clinical Institute
+Address: 30 Horizon Road, Northbay - 460681
+Phone: +91-88495-95975
+Email: info@silver oak60.org
+Website: www.silver oak480.org
+Accreditation Code: SI-59206
+
+Report ID: RPT-E2BA96D3
+Sample ID: SMP-17276
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9218
+
+Patient Name: G***
+Patient ID: UH-001577
+Age: 34
+Gender: Male
+
+Blood Pressure: 105/68 mmHg
+Pulse Rate: 84 bpm
+Height: 183.6 cm
+Weight: 93.7 kg
+Cholesterol Total: 156 mg/dL
+LDL: 119 mg/dL
+Triglycerides: 240 mg/dL
+Hemoglobin: 15.8 g/dL
+Creatinine: 0.8 mg/dL
+BMI: 28.5
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+Impression:
+Condition stable.

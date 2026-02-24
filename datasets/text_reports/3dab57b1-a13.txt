@@ -1,0 +1,49 @@
+
+ClearRiver Clinical Institute
+Address: 91 Alpine Street, Northbay - 461118
+Phone: +91-88653-75766
+Email: info@clearriver58.org
+Website: www.clearriver849.org
+Accreditation Code: CL-60814
+
+Report ID: RPT-C6015E73
+Sample ID: SMP-33141
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8521
+
+Patient Name: T***
+Patient ID: UH-000891
+Age: 22 years
+Gender: Male
+
+Height: 167.0 cm
+Weight: 89.0 kg
+
+Blood Pressure: 129/88 mmHg
+Pulse (bpm): 99 bpm
+Blood Glucose: 81 mg/dL
+
+Cholesterol Panel:
+  Total: 220 mg/dL
+  LDL: 105 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.6 g/dL
+Creatinine: -
+BMI: -
+
+LFT:
+  AST/SGOT: 40 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 91 mL/min
+
+
+Doctor's Comments:
+Continue present medications.

@@ -1,0 +1,40 @@
+
+Starhaven Hospital
+Address: 42 Sunrise Boulevard, Silverpoint - 434050
+Phone: +91-75219-77693
+Email: info@starhaven44.org
+Website: www.starhaven983.org
+Accreditation Code: ST-84864
+
+Report ID: RPT-1EC5A458
+Sample ID: SMP-77019
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7476
+
+Patient Name: A***
+Patient ID: UH-000950
+Age: 48 years
+Gender: Female
+
+Height: 146.8 cm
+Weight: 93.7 kg
+
+Blood Pressure: 142/63 mmHg
+Pulse: 63 bpm
+Blood Sugar: 151 mg/dL
+
+Cholesterol Panel:
+  Total: 211 mg/dL
+  LDL: 134 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 178 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.77 mg/dL
+BMI: 31.4
+
+
+Doctor's Comments:
+Repeat test if clinically indicated.

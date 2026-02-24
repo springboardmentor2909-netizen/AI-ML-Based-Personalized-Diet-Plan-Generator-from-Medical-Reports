@@ -1,0 +1,39 @@
+
+Silver Oak Clinical Institute
+Address: 26 Riverbend Ave, Silverpoint - 474352
+Phone: +91-92430-49125
+Email: info@silver oak38.org
+Website: www.silver oak283.org
+Accreditation Code: SI-63660
+
+Report ID: RPT-A6A70641
+Sample ID: SMP-43630
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3264
+
+Patient Name: B***
+Patient ID: UH-001424
+Age: 58
+Gender: Other
+
+Blood Pressure: 122/85 mmHg
+Blood Sugar (Random): 92 mg/dL
+Height: 179.0 cm
+Cholesterol Total: 227 mg/dL
+LDL: 124 mg/dL
+HDL: 39 mg/dL
+Triglycerides: 156 mg/dL
+BMI: 19.3
+
+LFT:
+  ALT/SGPT: 35 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 99 mL/min
+
+Advice:
+Mild elevation in glucose.

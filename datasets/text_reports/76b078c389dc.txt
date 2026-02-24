@@ -1,0 +1,44 @@
+
+BlueValley Hospital
+Address: 62 Riverbend Ave, Westlake - 466075
+Phone: +91-97617-80518
+Email: info@bluevalley25.org
+Website: www.bluevalley784.org
+Accreditation Code: BL-59815
+
+Report ID: RPT-BBA8A507
+Sample ID: SMP-16438
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7728
+
+Patient Name: D***
+Patient ID: UH-001406
+Age: 67
+Gender: Female
+
+Blood Pressure: 101/83 mmHg
+Pulse: 60 bpm
+Blood Sugar (Random): 139 mg/dL
+Height: 181.8 cm
+Weight: 86.2 kg
+Cholesterol Total: 195 mg/dL
+LDL: 92 mg/dL
+HDL: 59 mg/dL
+Triglycerides: 197 mg/dL
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.17 mg/dL
+BMI: 26.9
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: 25 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 98 mL/min
+
+Remarks:
+Monitor BP regularly.

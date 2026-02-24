@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 99 Sunrise Boulevard, Clearwater - 454426
+Phone: +91-99835-19922
+Email: info@bluevalley59.org
+Website: www.bluevalley198.org
+Accreditation Code: BL-13892
+
+Report ID: RPT-F17F3596
+Sample ID: SMP-24816
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7516
+
+Patient Name: V***
+Patient ID: UH-001051
+Age: 68 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: 83 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 146 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.46 mg/dL
+BMI: -
+
+
+Recommendations:
+Cholesterol borderline. Consider dietary modification.

@@ -1,0 +1,44 @@
+
+Everlight Clinical Institute
+Address: 45 Maple Drive, Westlake - 491651
+Phone: +91-85046-60512
+Email: info@everlight99.org
+Website: www.everlight255.org
+Accreditation Code: EV-34035
+
+Report ID: RPT-E04BD2F2
+Sample ID: SMP-93795
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7724
+
+Patient Name: P***
+Patient ID: UH-001134
+Age: 28 years
+Gender: Female
+
+Height: 148.4 cm
+Weight: 45.9 kg
+
+Blood Pressure: 165/85 mmHg
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 130 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: 106 mL/min
+
+
+Impression:
+Re-evaluate lipid values after 3 months.

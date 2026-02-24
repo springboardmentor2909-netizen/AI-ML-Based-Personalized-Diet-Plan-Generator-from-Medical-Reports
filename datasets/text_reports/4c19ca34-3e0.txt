@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 66 Horizon Road, Clearwater - 426022
+Phone: +91-85817-46910
+Email: info@greencrest75.org
+Website: www.greencrest471.org
+Accreditation Code: GR-48886
+
+Report ID: RPT-DACECE0E
+Sample ID: SMP-14060
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5559
+
+Patient Name: J***
+Patient ID: UH-000948
+Age: 55 years
+Gender: Female
+
+Height: -
+Weight: 48.6 kg
+
+Blood Pressure: -
+Pulse (bpm): 69 bpm
+Glucose: 152 mg/dL
+
+Cholesterol Panel:
+  Total: 208 mg/dL
+  LDL: 86 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.9 g/dL
+Creatinine: -
+BMI: -
+
+
+Remark:
+Vitals stable. No acute concerns.

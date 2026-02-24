@@ -1,0 +1,49 @@
+
+ClearRiver Medical Center
+Address: 40 Evergreen Lane, Marigold City - 468477
+Phone: +91-94514-41620
+Email: info@clearriver63.org
+Website: www.clearriver527.org
+Accreditation Code: CL-69283
+
+Report ID: RPT-2DDCFD9A
+Sample ID: SMP-91394
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5150
+
+Patient Name: B***
+Patient ID: UH-000886
+Age: 55 years
+Gender: Other
+
+Height: 153.5 cm
+Weight: 67.0 kg
+
+Blood Pressure: 160/105 mmHg
+Pulse (bpm): 97 bpm
+Blood Sugar: 145 mg/dL
+
+Cholesterol Panel:
+  Total: 210 mg/dL
+  LDL: 94 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 243 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: 0.86 mg/dL
+BMI: 28.8
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 10 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 93 mL/min
+
+
+Impression:
+Diet modification essential.

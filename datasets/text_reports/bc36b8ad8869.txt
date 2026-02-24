@@ -1,0 +1,49 @@
+
+Everlight Diagnostics
+Address: 85 Alpine Street, Eastwood - 407261
+Phone: +91-98447-81944
+Email: info@everlight14.org
+Website: www.everlight876.org
+Accreditation Code: EV-47081
+
+Report ID: RPT-9FF7D8EB
+Sample ID: SMP-27700
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1916
+
+Patient Name: K***
+Patient ID: UH-001270
+Age: 61 years
+Gender: Female
+
+Height: 179.9 cm
+Weight: 72.3 kg
+
+Blood Pressure: 143/71 mmHg
+Pulse (bpm): 81 bpm
+Glucose: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 187 mg/dL
+  LDL: -
+  HDL: 64 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.19 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 44 U/L
+  Bilirubin Total: 1.4 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Doctor's Comments:
+Medication routine reviewed.

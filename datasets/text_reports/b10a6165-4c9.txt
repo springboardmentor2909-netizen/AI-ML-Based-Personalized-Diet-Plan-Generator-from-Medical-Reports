@@ -1,0 +1,44 @@
+
+BlueValley Hospital
+Address: 85 Horizon Road, Northbay - 467679
+Phone: +91-80742-36407
+Email: info@bluevalley39.org
+Website: www.bluevalley979.org
+Accreditation Code: BL-97157
+
+Report ID: RPT-E72CE089
+Sample ID: SMP-25052
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8216
+
+Patient Name: Q***
+Patient ID: UH-001130
+Age: 79 years
+Gender: Other
+
+Height: 160.3 cm
+Weight: -
+
+Blood Pressure: 101/70 mmHg
+Pulse (bpm): 87 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 176 mg/dL
+  LDL: 137 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 164 mg/dL
+
+Hemoglobin: 10.7 g/dL
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: 16 mg/dL
+  eGFR: 68 mL/min
+
+
+Summary:
+Stable condition. OPD review later.

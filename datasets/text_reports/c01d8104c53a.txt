@@ -1,0 +1,33 @@
+
+PrimeCare Medical Center
+Address: 49 Alpine Street, Eastwood - 489165
+Phone: +91-80847-15724
+Email: info@primecare96.org
+Website: www.primecare561.org
+Accreditation Code: PR-28338
+
+Report ID: RPT-84D0ECC4
+Sample ID: SMP-86785
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1658
+
+Patient Name: B***
+Patient ID: UH-001576
+Age: 51
+Gender: Female
+
+Blood Pressure: 106/105 mmHg
+Pulse Rate: 74 bpm
+Blood Glucose: 143 mg/dL
+Weight: 96.3 kg
+Cholesterol Total: 162 mg/dL
+LDL: 148 mg/dL
+HDL: 47 mg/dL
+Triglycerides: 188 mg/dL
+Hemoglobin: 14.4 g/dL
+BMI: 25.0
+
+Remarks:
+Patient reassured.

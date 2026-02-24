@@ -1,0 +1,27 @@
+
+Riverdale Hospital
+Address: 58 Evergreen Lane, Eastwood - 438570
+Phone: +91-96496-15936
+Email: info@riverdale71.org
+Website: www.riverdale887.org
+Accreditation Code: RI-40155
+
+Report ID: RPT-63562E85
+Sample ID: SMP-14000
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9663
+
+Patient Name: G***
+Patient ID: UH-001489
+Age: 61
+Gender: Male
+
+Cholesterol Total: 225 mg/dL
+LDL: 91 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 191 mg/dL
+
+Advice:
+Condition stable.

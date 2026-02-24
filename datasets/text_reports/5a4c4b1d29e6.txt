@@ -1,0 +1,34 @@
+
+NovaPath Pathology Lab
+Address: 48 Maple Drive, Eastwood - 427172
+Phone: +91-88904-18804
+Email: info@novapath76.org
+Website: www.novapath890.org
+Accreditation Code: NO-68461
+
+Report ID: RPT-8F3844FC
+Sample ID: SMP-71559
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1813
+
+Patient Name: U***
+Patient ID: UH-001408
+Age: 22
+Gender: Other
+
+Blood Pressure: 107/98 mmHg
+Pulse (bpm): 77 bpm
+Blood Sugar: 123 mg/dL
+Height: 189.7 cm
+Weight: 59.5 kg
+Cholesterol Total: 222 mg/dL
+LDL: 120 mg/dL
+HDL: 57 mg/dL
+Hemoglobin: 9.9 g/dL
+Creatinine: 0.62 mg/dL
+BMI: 31.6
+
+Advice:
+Patient reassured.

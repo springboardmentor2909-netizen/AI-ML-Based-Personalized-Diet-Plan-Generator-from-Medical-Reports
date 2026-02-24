@@ -1,0 +1,40 @@
+
+Northlake Diagnostics
+Address: 36 Riverbend Ave, Clearwater - 406810
+Phone: +91-72184-43100
+Email: info@northlake55.org
+Website: www.northlake955.org
+Accreditation Code: NO-72450
+
+Report ID: RPT-36A934EC
+Sample ID: SMP-25326
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9966
+
+Patient Name: X***
+Patient ID: UH-001181
+Age: 74 years
+Gender: Male
+
+Height: -
+Weight: 47.7 kg
+
+Blood Pressure: 134/110 mmHg
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.26 mg/dL
+BMI: 30.8
+
+
+Recommendation:
+Sugar values acceptable.

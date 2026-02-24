@@ -1,0 +1,29 @@
+
+SolacePoint Clinical Institute
+Address: 97 Horizon Road, Silverpoint - 409012
+Phone: +91-71714-75137
+Email: info@solacepoint23.org
+Website: www.solacepoint888.org
+Accreditation Code: SO-40755
+
+Report ID: RPT-4F1979A0
+Sample ID: SMP-71859
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8815
+
+Patient Name: A***
+Patient ID: UH-001401
+Age: 80
+Gender: Female
+
+Height: 149.5 cm
+Cholesterol Total: 225 mg/dL
+LDL: 88 mg/dL
+HDL: 32 mg/dL
+Hemoglobin: 15.0 g/dL
+BMI: 23.8
+
+Recommendations:
+Lifestyle modification suggested.

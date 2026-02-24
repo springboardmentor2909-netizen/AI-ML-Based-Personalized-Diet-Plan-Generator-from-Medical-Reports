@@ -1,0 +1,38 @@
+
+PrimeCare Clinical Institute
+Address: 95 Horizon Road, Meadowridge - 430998
+Phone: +91-99518-40604
+Email: info@primecare53.org
+Website: www.primecare185.org
+Accreditation Code: PR-92144
+
+Report ID: RPT-C11FA46E
+Sample ID: SMP-78563
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2569
+
+Patient Name: I***
+Patient ID: UH-001425
+Age: 54
+Gender: Other
+
+Blood Pressure: 108/86 mmHg
+Pulse: 106 bpm
+Blood Sugar (Random): 179 mg/dL
+Height: 176.0 cm
+Weight: 93.8 kg
+Cholesterol Total: 220 mg/dL
+LDL: 144 mg/dL
+HDL: 44 mg/dL
+Triglycerides: 166 mg/dL
+Hemoglobin: 9.9 g/dL
+BMI: 34.7
+
+KFT:
+  Urea: 41 mg/dL
+  eGFR: 96 mL/min
+
+Summary:
+Values improving.

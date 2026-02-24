@@ -1,0 +1,49 @@
+
+BlueValley Hospital
+Address: 85 Horizon Road, Northbay - 467679
+Phone: +91-80742-36407
+Email: info@bluevalley39.org
+Website: www.bluevalley979.org
+Accreditation Code: BL-97157
+
+Report ID: RPT-223FAA84
+Sample ID: SMP-59643
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5625
+
+Patient Name: F***
+Patient ID: UH-001166
+Age: 27 years
+Gender: Male
+
+Height: 149.4 cm
+Weight: -
+
+Blood Pressure: 107/101 mmHg
+Pulse Rate: 84 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 139 mg/dL
+  HDL: -
+  Triglycerides: 184 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.76 mg/dL
+BMI: 31.9
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: 15 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 73 mL/min
+
+
+Doctor's Comments:
+No signs of active infection.

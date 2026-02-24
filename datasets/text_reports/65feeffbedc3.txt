@@ -1,0 +1,35 @@
+
+Silver Oak Clinical Institute
+Address: 57 Sunrise Boulevard, Meadowridge - 465532
+Phone: +91-78725-30222
+Email: info@silver oak47.org
+Website: www.silver oak302.org
+Accreditation Code: SI-41602
+
+Report ID: RPT-60DBB8F0
+Sample ID: SMP-43148
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4529
+
+Patient Name: S***
+Patient ID: UH-001578
+Age: 83
+Gender: Female
+
+Blood Pressure: 130/67 mmHg
+Height: 186.5 cm
+Weight: 52.3 kg
+Cholesterol Total: 184 mg/dL
+LDL: 160 mg/dL
+HDL: 30 mg/dL
+Triglycerides: 221 mg/dL
+Hemoglobin: 14.3 g/dL
+BMI: 24.0
+
+KFT:
+  eGFR: 92 mL/min
+
+Summary:
+Monitor BP regularly.

@@ -1,0 +1,37 @@
+
+Everlight Hospital
+Address: 18 Riverbend Ave, Meadowridge - 408891
+Phone: +91-98781-64981
+Email: info@everlight21.org
+Website: www.everlight276.org
+Accreditation Code: EV-37839
+
+Report ID: RPT-0BE6485E
+Sample ID: SMP-91292
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3972
+
+Patient Name: G***
+Patient ID: UH-001313
+Age: 53
+Gender: Male
+
+Blood Glucose: 86 mg/dL
+Height: 172.7 cm
+Weight: 94.2 kg
+Cholesterol Total: 253 mg/dL
+LDL: 78 mg/dL
+HDL: 61 mg/dL
+Triglycerides: 130 mg/dL
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.64 mg/dL
+BMI: 17.7
+
+KFT:
+  Urea: 14 mg/dL
+  eGFR: 96 mL/min
+
+Impression:
+Patient instructed to drink more water.

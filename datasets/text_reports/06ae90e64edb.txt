@@ -1,0 +1,37 @@
+
+Northlake Clinical Institute
+Address: 99 Alpine Street, Westlake - 484750
+Phone: +91-79203-88013
+Email: info@northlake58.org
+Website: www.northlake999.org
+Accreditation Code: NO-48764
+
+Report ID: RPT-595F13EA
+Sample ID: SMP-65602
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9484
+
+Patient Name: U***
+Patient ID: UH-001544
+Age: 26
+Gender: Female
+
+Blood Pressure: 152/98 mmHg
+Pulse (bpm): 110 bpm
+Height: 157.3 cm
+Weight: 80.0 kg
+LDL: 129 mg/dL
+HDL: 54 mg/dL
+Triglycerides: 126 mg/dL
+Hemoglobin: 9.7 g/dL
+Creatinine: 0.84 mg/dL
+BMI: 18.9
+
+LFT:
+  AST/SGOT: 40 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+Advice:
+Repeat lipid panel in future.

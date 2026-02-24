@@ -1,0 +1,40 @@
+
+PrimeCare Pathology Lab
+Address: 9 Maple Drive, Marigold City - 413220
+Phone: +91-94788-13262
+Email: info@primecare55.org
+Website: www.primecare502.org
+Accreditation Code: PR-60905
+
+Report ID: RPT-A04DE2BD
+Sample ID: SMP-28213
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7532
+
+Patient Name: Q***
+Patient ID: UH-001024
+Age: 52 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 56 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.99 mg/dL
+BMI: -
+
+
+Advice:
+Improvement noted. Keep current regimen.

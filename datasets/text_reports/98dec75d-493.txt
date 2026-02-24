@@ -1,0 +1,40 @@
+
+Riverdale Hospital
+Address: 37 Alpine Street, Marigold City - 417694
+Phone: +91-94803-31541
+Email: info@riverdale47.org
+Website: www.riverdale355.org
+Accreditation Code: RI-17963
+
+Report ID: RPT-182D6409
+Sample ID: SMP-13741
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7367
+
+Patient Name: Q***
+Patient ID: UH-000414
+Age: 79 years
+Gender: Other
+
+Blood Pressure: 169/103 mmHg
+Blood Glucose: 137 mg/dL
+
+Cholesterol Panel:
+  Total: 173 mg/dL
+  LDL: 128 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 23.6
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 100 mL/min
+
+
+Impression:
+Follow-up recommended after 2 weeks.

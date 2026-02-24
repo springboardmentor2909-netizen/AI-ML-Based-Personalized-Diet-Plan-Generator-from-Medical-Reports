@@ -1,0 +1,37 @@
+
+Silver Oak Diagnostics
+Address: 92 Horizon Road, Northbay - 455847
+Phone: +91-94943-72804
+Email: info@silver oak10.org
+Website: www.silver oak621.org
+Accreditation Code: SI-69088
+
+Report ID: RPT-A8C8EB20
+Sample ID: SMP-41659
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1995
+
+Patient Name: X***
+Patient ID: UH-001370
+Age: 79
+Gender: Male
+
+Blood Pressure: 127/85 mmHg
+Pulse (bpm): 107 bpm
+Blood Sugar: 109 mg/dL
+Height: 171.2 cm
+Weight: 73.7 kg
+Cholesterol Total: 223 mg/dL
+LDL: 138 mg/dL
+HDL: 32 mg/dL
+Triglycerides: 226 mg/dL
+Hemoglobin: 14.6 g/dL
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 11 U/L
+
+Recommendations:
+Medication adherence checked.

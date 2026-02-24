@@ -1,0 +1,39 @@
+
+ClearRiver Diagnostics
+Address: 71 Maple Drive, Meadowridge - 443618
+Phone: +91-88646-33055
+Email: info@clearriver97.org
+Website: www.clearriver550.org
+Accreditation Code: CL-32843
+
+Report ID: RPT-25A73514
+Sample ID: SMP-33170
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4204
+
+Patient Name: Q***
+Patient ID: UH-000571
+Age: 68 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: 110/61 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 217 mg/dL
+  LDL: -
+  HDL: 47 mg/dL
+  Triglycerides: 214 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 28.4
+
+
+Clinical Notes:
+Blood pressure within acceptable range.

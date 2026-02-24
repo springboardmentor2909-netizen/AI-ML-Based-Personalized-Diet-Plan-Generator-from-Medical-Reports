@@ -1,0 +1,33 @@
+
+Greencrest Diagnostics
+Address: 13 Evergreen Lane, Marigold City - 415924
+Phone: +91-88632-41312
+Email: info@greencrest83.org
+Website: www.greencrest801.org
+Accreditation Code: GR-55209
+
+Report ID: RPT-F4CD71DA
+Sample ID: SMP-72440
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5603
+
+Patient Name: Y***
+Patient ID: UH-001484
+Age: 78
+Gender: Other
+
+Blood Pressure: 162/97 mmHg
+Pulse (bpm): 81 bpm
+Blood Glucose: 114 mg/dL
+Height: 182.7 cm
+Weight: 71.3 kg
+LDL: 77 mg/dL
+Triglycerides: 161 mg/dL
+Hemoglobin: 10.9 g/dL
+Creatinine: 1.34 mg/dL
+BMI: 35.9
+
+Advice:
+Mild elevation in glucose.

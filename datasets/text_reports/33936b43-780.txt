@@ -1,0 +1,45 @@
+
+PrimeCare Pathology Lab
+Address: 47 Alpine Street, Marigold City - 425498
+Phone: +91-84339-89897
+Email: info@primecare49.org
+Website: www.primecare694.org
+Accreditation Code: PR-30960
+
+Report ID: RPT-E143F9B5
+Sample ID: SMP-84070
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9256
+
+Patient Name: L***
+Patient ID: UH-000669
+Age: 44 years
+Gender: Female
+
+Height: -
+Weight: 61.4 kg
+
+Blood Pressure: 134/91 mmHg
+Pulse: 68 bpm
+Blood Sugar (Random): 98 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 229 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 0.78 mg/dL
+BMI: 26.0
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Summary:
+Follow-up recommended after 2 weeks.

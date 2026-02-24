@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 9 Alpine Street, Silverpoint - 492415
+Phone: +91-90651-84366
+Email: info@bluevalley65.org
+Website: www.bluevalley922.org
+Accreditation Code: BL-83246
+
+Report ID: RPT-837D4B30
+Sample ID: SMP-94660
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6192
+
+Patient Name: C***
+Patient ID: UH-001014
+Age: 60 years
+Gender: Other
+
+Height: 183.7 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 30 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 24.6
+
+
+Remarks:
+Reassurance provided.

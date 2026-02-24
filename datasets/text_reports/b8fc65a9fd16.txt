@@ -1,0 +1,40 @@
+
+Northlake Clinical Institute
+Address: 82 Alpine Street, Marigold City - 441441
+Phone: +91-97261-63782
+Email: info@northlake82.org
+Website: www.northlake847.org
+Accreditation Code: NO-79673
+
+Report ID: RPT-C553BAD2
+Sample ID: SMP-51777
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3687
+
+Patient Name: Y***
+Patient ID: UH-001262
+Age: 47 years
+Gender: Other
+
+Height: -
+Weight: 55.6 kg
+
+Blood Pressure: 168/79 mmHg
+Pulse Rate: 62 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 250 mg/dL
+  LDL: 153 mg/dL
+  HDL: -
+  Triglycerides: 214 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.12 mg/dL
+BMI: 29.8
+
+
+Recommendation:
+Minor deficiency suspected.

@@ -1,0 +1,40 @@
+
+Everlight Medical Center
+Address: 50 Maple Drive, Clearwater - 435704
+Phone: +91-93923-28020
+Email: info@everlight87.org
+Website: www.everlight938.org
+Accreditation Code: EV-86699
+
+Report ID: RPT-F6A4ED61
+Sample ID: SMP-84153
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5376
+
+Patient Name: M***
+Patient ID: UH-001469
+Age: 20
+Gender: Other
+
+Blood Pressure: 156/78 mmHg
+Pulse: 67 bpm
+Blood Sugar (Random): 105 mg/dL
+Height: 183.0 cm
+Cholesterol Total: 182 mg/dL
+Triglycerides: 185 mg/dL
+Creatinine: 1.32 mg/dL
+BMI: 22.7
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.4 mg/dL
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 117 mL/min
+
+Recommendation:
+Condition stable.

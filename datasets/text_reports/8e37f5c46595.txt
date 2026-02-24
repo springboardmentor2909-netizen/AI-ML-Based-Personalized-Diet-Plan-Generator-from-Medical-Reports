@@ -1,0 +1,49 @@
+
+Starhaven Diagnostics
+Address: 67 Maple Drive, Northbay - 448448
+Phone: +91-93363-76753
+Email: info@starhaven35.org
+Website: www.starhaven280.org
+Accreditation Code: ST-75245
+
+Report ID: RPT-00C796BE
+Sample ID: SMP-75163
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4490
+
+Patient Name: K***
+Patient ID: UH-001274
+Age: 82 years
+Gender: Other
+
+Height: 173.0 cm
+Weight: 52.3 kg
+
+Blood Pressure: 169/110 mmHg
+Pulse Rate: 104 bpm
+Blood Glucose: 149 mg/dL
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 96 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 271 mg/dL
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 0.69 mg/dL
+BMI: 24.8
+
+LFT:
+  AST/SGOT: 41 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 107 mL/min
+
+
+Doctor's Comments:
+OPD follow-up suggested.

@@ -1,0 +1,36 @@
+
+Greencrest Medical Center
+Address: 95 Sunrise Boulevard, Hillcrest - 489685
+Phone: +91-80831-76916
+Email: info@greencrest97.org
+Website: www.greencrest796.org
+Accreditation Code: GR-66752
+
+Report ID: RPT-A78061CC
+Sample ID: SMP-64123
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2252
+
+Patient Name: D***
+Patient ID: UH-000492
+Age: 52 years
+Gender: Female
+
+Blood Pressure: -
+Glucose: 152 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 115 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendations:
+Follow-up recommended after 2 weeks.

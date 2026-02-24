@@ -1,0 +1,39 @@
+
+Greencrest Clinical Institute
+Address: 35 Maple Drive, Westlake - 477589
+Phone: +91-75580-78070
+Email: info@greencrest39.org
+Website: www.greencrest822.org
+Accreditation Code: GR-74486
+
+Report ID: RPT-0FB164B9
+Sample ID: SMP-39952
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4132
+
+Patient Name: Q***
+Patient ID: UH-000520
+Age: 53 years
+Gender: Other
+
+Height: 184.9 cm
+Weight: -
+
+Blood Pressure: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 33 mg/dL
+  Triglycerides: 182 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: -
+BMI: 23.4
+
+
+Remark:
+Lipid profile requires monitoring.

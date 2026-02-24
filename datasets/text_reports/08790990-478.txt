@@ -1,0 +1,45 @@
+
+Everlight Medical Center
+Address: 58 Evergreen Lane, Silverpoint - 479633
+Phone: +91-88135-97240
+Email: info@everlight39.org
+Website: www.everlight612.org
+Accreditation Code: EV-78764
+
+Report ID: RPT-7B7023E3
+Sample ID: SMP-64247
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8573
+
+Patient Name: M***
+Patient ID: UH-000455
+Age: 34 years
+Gender: Male
+
+Blood Pressure: 144/65 mmHg
+Blood Glucose: 145 mg/dL
+
+Cholesterol Panel:
+  Total: 213 mg/dL
+  LDL: 86 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 156 mg/dL
+
+Hemoglobin: 10.6 g/dL
+Creatinine: 0.93 mg/dL
+BMI: 31.0
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 109 mL/min
+
+
+Impression:
+Glucose levels mildly elevated; lifestyle changes advised.

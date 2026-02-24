@@ -1,0 +1,45 @@
+
+PrimeCare Medical Center
+Address: 79 Horizon Road, Hillcrest - 466102
+Phone: +91-87332-33897
+Email: info@primecare94.org
+Website: www.primecare927.org
+Accreditation Code: PR-27581
+
+Report ID: RPT-8EE63570
+Sample ID: SMP-71338
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5601
+
+Patient Name: R***
+Patient ID: UH-001029
+Age: 28 years
+Gender: Female
+
+Height: 164.0 cm
+Weight: 50.7 kg
+
+Blood Pressure: 145/82 mmHg
+Pulse (bpm): 64 bpm
+Glucose: 109 mg/dL
+
+Cholesterol Panel:
+  Total: 215 mg/dL
+  LDL: 103 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 122 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.38 mg/dL
+BMI: 32.8
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 21 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Remark:
+Advised patient to avoid salty foods.

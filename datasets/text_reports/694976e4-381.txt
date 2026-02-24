@@ -1,0 +1,39 @@
+
+Riverdale Hospital
+Address: 58 Horizon Road, Clearwater - 485417
+Phone: +91-83636-11402
+Email: info@riverdale77.org
+Website: www.riverdale161.org
+Accreditation Code: RI-43208
+
+Report ID: RPT-48259408
+Sample ID: SMP-12566
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9487
+
+Patient Name: W***
+Patient ID: UH-000552
+Age: 67 years
+Gender: Other
+
+Height: 159.8 cm
+Weight: -
+
+Blood Pressure: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 247 mg/dL
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 21.1
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

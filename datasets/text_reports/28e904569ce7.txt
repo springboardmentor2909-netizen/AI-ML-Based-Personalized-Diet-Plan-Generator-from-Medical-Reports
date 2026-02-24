@@ -1,0 +1,34 @@
+
+Everlight Hospital
+Address: 27 Maple Drive, Clearwater - 433523
+Phone: +91-78506-27851
+Email: info@everlight34.org
+Website: www.everlight453.org
+Accreditation Code: EV-78629
+
+Report ID: RPT-D5A4A582
+Sample ID: SMP-92965
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9761
+
+Patient Name: W***
+Patient ID: UH-001413
+Age: 66
+Gender: Female
+
+Blood Pressure: 137/70 mmHg
+Pulse (bpm): 76 bpm
+Glucose: 147 mg/dL
+Height: 177.9 cm
+Cholesterol Total: 169 mg/dL
+LDL: 114 mg/dL
+HDL: 35 mg/dL
+Triglycerides: 115 mg/dL
+Hemoglobin: 15.6 g/dL
+Creatinine: 1.11 mg/dL
+BMI: 30.5
+
+Impression:
+Values improving.

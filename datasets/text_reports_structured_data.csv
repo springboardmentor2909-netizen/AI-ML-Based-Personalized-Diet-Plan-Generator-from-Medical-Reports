@@ -1,0 +1,1079 @@
+report_id,age,gender,height_cm,weight_kg,bmi,pulse,glucose,cholesterol_total,ldl,hdl,triglycerides,hemoglobin,creatinine,bp,doctor_comments
+1,30,Female,146.3,86.1,29.5,145.0,,231.0,149.0,29.0,142.0,12.1,1.45,145/91,Follow-up advised.
+2,20,Male,160.5,,23.7,113.0,,,124.0,,,12.4,1.01,113/97,Reassured patient.
+3,72,Others,186.6,51.0,24.5,114.0,,260.0,159.0,56.0,,11.1,,114/90,Vitals normal; continue medications.
+4,56,Female,177.3,,,103.0,134.0,,,,,14.1,0.78,103/63,Lifestyle and diet counseling provided.
+5,57,Male,,,19.4,163.0,84.0,,106.0,42.0,,12.8,,163/72,Blood pressure stable today.
+6,80,Others,159.7,,34.4,174.0,174.0,,147.0,34.0,110.0,15.3,,,Minor deficiency suspected.
+7,68,Female,150.5,,,,,,146.0,39.0,,,,,Glucose levels mildly elevated; lifestyle changes advised.
+8,73,Others,184.3,51.0,32.8,108.0,152.0,,124.0,56.0,179.0,13.5,1.4,108/86,Mild anemia; iron-rich foods suggested.
+9,75,Others,177.1,53.6,21.5,121.0,,194.0,160.0,63.0,211.0,11.4,1.35,121/110,No signs of infection detected.
+10,82,Male,187.1,63.4,32.1,100.0,119.0,,141.0,56.0,157.0,11.9,1.41,100/62,Encouraged daily walking.
+11,37,Male,150.3,,18.9,154.0,131.0,,120.0,30.0,242.0,,0.8,154/83,Glucose levels mildly elevated; lifestyle changes advised.
+12,76,Male,178.7,99.4,19.8,,,225.0,83.0,53.0,110.0,12.6,0.63,139/104,Continue medications.
+13,41,Male,160.9,71.6,25.6,106.0,,171.0,122.0,52.0,135.0,13.2,0.65,106/90,Reduce salt intake.
+14,74,Male,,,,,137.0,,,,,,0.77,,Follow-up recommended after 2 weeks.
+15,38,Others,161.3,89.6,33.4,122.0,172.0,156.0,,50.0,242.0,15.5,,122/65,Condition stable.
+16,43,Others,180.2,51.5,28.5,,154.0,,,34.0,112.0,9.6,1.0,,Further evaluation if symptoms worsen.
+17,56,Female,167.4,52.9,31.1,155.0,,,114.0,50.0,116.0,12.0,1.41,155/78,Follow-up recommended after 2 weeks.
+18,84,Male,,52.6,33.1,154.0,168.0,,,,247.0,14.2,0.82,154/95,General improvement noted.
+19,74,Male,184.3,,30.8,82.0,155.0,218.0,85.0,63.0,112.0,,0.82,,Mild elevation in glucose.
+20,60,Male,172.5,75.2,34.1,149.0,,194.0,104.0,29.0,116.0,13.3,1.47,149/77,Hydration recommended.
+21,62,Others,172.5,93.0,18.4,136.0,,,,,149.0,,,136/95,Repeat test if clinically indicated.
+22,76,Male,,,,159.0,106.0,,85.0,52.0,,11.5,,159/83,Lipid levels require monitoring.
+23,85,Female,,,28.6,,143.0,,100.0,33.0,210.0,11.5,,,Continue present medications.
+24,47,Others,180.7,71.4,21.9,105.0,89.0,,,37.0,193.0,10.9,,105/85,Consider ECG if palpitations recur.
+25,36,Female,,82.3,,110.0,,,,,101.0,,,,Blood pressure within acceptable range.
+26,71,Male,,,30.2,,,,,,,13.7,1.15,,Blood pressure stable today.
+27,26,Female,157.3,80.0,18.9,152.0,,,129.0,54.0,126.0,9.7,0.84,152/98,Repeat lipid panel in future.
+28,43,Male,,,,156.0,158.0,,89.0,,,12.7,1.13,156/84,Lipid levels require monitoring.
+29,80,Female,,,,,97.0,,,36.0,240.0,13.6,0.83,,Discussed results; patient understood.
+30,73,Female,170.7,,27.6,133.0,120.0,,85.0,40.0,193.0,14.1,,133/65,No clinical signs of deterioration.
+31,60,Others,187.3,,31.0,,,157.0,103.0,,,11.2,,,Increase daily walking.
+32,56,Others,183.3,63.9,27.2,,,,152.0,40.0,146.0,14.5,1.04,,Hydration emphasized.
+33,39,Male,,78.0,29.5,163.0,153.0,,142.0,31.0,241.0,,1.7,163/69,Mild anemia; increase iron intake.
+34,29,Others,188.7,93.9,26.4,102.0,153.0,,,59.0,126.0,11.6,0.74,,Infection markers normal. No antibiotics needed.
+35,34,Male,,,31.0,144.0,145.0,,86.0,32.0,156.0,10.6,0.93,144/65,Glucose levels mildly elevated; lifestyle changes advised.
+36,74,Female,,,28.7,,,,110.0,52.0,168.0,14.2,,,Follow-up recommended after 2 weeks.
+37,61,Female,147.8,76.6,34.8,105.0,,,78.0,29.0,,,1.42,105/80,Encouraged brisk walking.
+38,32,Female,,99.5,,136.0,89.0,241.0,159.0,,269.0,,0.95,136/91,Monitor BP regularly at home.
+39,34,Female,185.1,48.2,29.7,122.0,105.0,,120.0,32.0,183.0,14.1,1.18,122/79,Infection markers normal. No antibiotics needed.
+40,30,Male,169.3,86.5,19.7,133.0,136.0,,112.0,54.0,168.0,,0.99,133/97,Increase physical activity.
+41,29,Male,182.7,66.3,25.0,112.0,,152.0,,45.0,131.0,11.7,1.09,112/100,Patient instructed to drink more water.
+42,74,Female,,86.4,,94.0,142.0,,113.0,49.0,,10.6,0.84,,Adequate control maintained.
+43,19,Male,152.9,64.0,22.0,109.0,,,108.0,32.0,134.0,10.6,0.7,109/91,Blood pressure within acceptable range.
+44,64,Others,,,25.0,160.0,106.0,,139.0,32.0,168.0,15.3,1.21,160/71,No concerning signs.
+45,73,Others,,90.2,31.6,126.0,,,102.0,59.0,,10.9,1.21,126/60,Glucose levels mildly elevated; lifestyle changes advised.
+46,43,Others,169.4,78.1,29.6,144.0,167.0,,151.0,41.0,125.0,13.4,0.89,144/81,Lipid profile requires monitoring.
+47,64,Others,,49.3,27.7,104.0,,,95.0,58.0,189.0,15.3,1.15,,Continue present medications.
+48,18,Others,186.6,53.7,35.4,123.0,106.0,,105.0,,250.0,10.8,1.68,123/100,ECG if chest discomfort increases.
+49,25,Male,145.4,48.3,22.8,113.0,,185.0,107.0,61.0,265.0,13.3,,113/98,Major dietary change required.
+50,22,Others,,,18.8,132.0,96.0,,120.0,31.0,123.0,12.8,1.36,132/62,Lipid levels require monitoring.
+51,23,Male,155.9,61.8,33.5,,,,119.0,34.0,125.0,14.7,1.01,,Follow-up recommended after 2 weeks.
+52,51,Female,,47.3,18.3,127.0,153.0,,151.0,42.0,166.0,12.9,0.6,127/69,Mild elevation in glucose; advised diet control.
+53,45,Others,,,,121.0,153.0,221.0,,,,12.8,,121/65,Discussed results; patient understood.
+54,23,Male,166.4,63.2,26.1,113.0,133.0,228.0,,,278.0,15.7,,113/60,Monitor BP regularly.
+55,58,Male,149.3,81.2,29.4,114.0,146.0,,147.0,55.0,240.0,15.0,1.26,114/94,Recommend rechecking lipids after 3 months.
+56,21,Female,170.2,,27.8,152.0,118.0,,121.0,,221.0,,0.92,152/89,Continue present medications.
+57,46,Female,,94.3,18.4,164.0,144.0,,89.0,39.0,174.0,13.2,1.44,164/90,Pt stable. Continue routine follow-up.
+58,26,Male,165.8,,31.7,120.0,149.0,186.0,75.0,32.0,,,,120/100,Minor vitamin deficiency probable.
+59,62,Female,147.1,65.6,29.0,133.0,,,,,120.0,11.7,,133/110,Lifestyle modification suggested.
+60,34,Others,,87.8,23.0,133.0,,,145.0,,,,0.76,133/63,Levels improving compared to last visit.
+61,85,Male,180.2,90.0,21.6,,,,83.0,,218.0,,0.96,,Monitor BP at home regularly.
+62,79,Male,153.2,57.9,28.9,111.0,168.0,168.0,86.0,42.0,132.0,9.9,1.2,111/96,Follow-up advised.
+63,68,Male,151.5,61.9,22.0,168.0,,,154.0,48.0,145.0,12.0,1.37,168/97,Cholesterol borderline. Consider dietary modification.
+64,58,Male,,,,,85.0,,111.0,,112.0,,,,Continue present medications.
+65,74,Others,182.2,,35.2,83.0,,,112.0,52.0,147.0,,1.27,,Follow-up recommended in 2 weeks.
+66,66,Others,175.4,80.1,33.4,106.0,,,139.0,,,12.0,,84/125,Check lipid panel again later.
+67,36,Others,,,,103.0,,,117.0,44.0,238.0,,1.19,,Therapy maintaining adequate control.
+68,27,Male,186.6,64.4,19.5,110.0,115.0,,133.0,49.0,222.0,14.4,1.04,110/107,Patient advised to maintain hydration.
+69,26,Others,,,,139.0,,185.0,,52.0,154.0,9.6,1.4,139/73,Reduce salt intake.
+70,80,Others,167.7,87.1,27.6,161.0,139.0,228.0,86.0,35.0,212.0,16.0,1.35,161/93,Major dietary change required.
+71,24,Female,149.2,93.4,31.1,107.0,99.0,220.0,,39.0,216.0,,1.27,107/90,Mild elevation in glucose.
+72,40,Female,179.1,69.3,31.6,160.0,120.0,,145.0,48.0,145.0,11.1,1.46,160/65,Discussed with patient. Understood.
+73,49,Female,184.3,77.3,25.6,142.0,,,,46.0,139.0,12.9,,142/70,Blood pressure within acceptable range.
+74,41,Female,158.8,52.7,29.3,123.0,,,128.0,56.0,137.0,,1.23,123/79,Low hemoglobin; increase iron intake.
+75,50,Female,188.4,49.4,31.9,163.0,179.0,251.0,87.0,36.0,192.0,12.4,1.46,163/64,Increase daily walking.
+76,62,Others,186.6,54.1,31.5,106.0,77.0,160.0,139.0,44.0,92.0,9.9,1.32,,Follow-up advised.
+77,58,Male,,,17.8,105.0,,163.0,,,228.0,13.6,,,Minor vitamin deficiency probable.
+78,81,Male,185.6,,,157.0,166.0,,83.0,36.0,111.0,12.4,1.27,157/73,Discussed with patient. Understood.
+79,21,Male,160.2,69.3,32.5,132.0,134.0,254.0,103.0,39.0,225.0,11.5,1.11,132/73,Continue medications.
+80,48,Male,189.2,65.4,18.3,76.0,129.0,156.0,155.0,57.0,158.0,,0.77,,Encouraged regular physical activity.
+81,55,Male,178.0,,,68.0,,,83.0,,115.0,13.5,1.18,,Lipid profile requires monitoring.
+82,34,Others,161.8,,,168.0,107.0,150.0,90.0,39.0,125.0,12.8,0.73,168/100,Minor vitamin deficiency probable.
+83,33,Female,189.2,56.4,21.6,130.0,165.0,,129.0,55.0,125.0,13.9,1.3,130/91,Continue present medications.
+84,81,Others,168.7,59.8,31.4,167.0,129.0,,110.0,,174.0,,1.06,167/98,Monitor BP at home regularly.
+85,25,Female,154.2,74.1,29.5,111.0,124.0,,94.0,34.0,120.0,12.0,0.77,111/86,Lipid profile requires monitoring.
+86,68,Male,173.2,55.8,34.6,145.0,99.0,196.0,107.0,64.0,234.0,10.4,0.84,145/100,Further tests if symptoms increase.
+87,21,Male,,,,,,,136.0,,205.0,,,,Monitor BP at home regularly.
+88,18,Male,,73.8,20.5,51.0,,,159.0,,165.0,11.5,0.9,106/63,Continue present medications.
+89,64,Others,160.9,55.3,19.4,102.0,,,141.0,53.0,237.0,10.0,0.99,,Advised ECG if symptoms persist.
+90,47,Others,174.5,54.8,23.8,141.0,115.0,171.0,109.0,45.0,150.0,15.3,1.15,141/62,Continue medications.
+91,24,Female,170.5,86.3,25.1,101.0,133.0,,,,102.0,12.3,1.0,,Follow-up recommended after 2 weeks.
+92,32,Male,155.2,70.2,32.7,154.0,159.0,,117.0,31.0,156.0,12.2,1.22,154/63,Blood pressure within acceptable range.
+93,63,Male,175.8,84.2,28.3,124.0,,199.0,97.0,41.0,174.0,15.0,0.99,124/61,Further tests if symptoms increase.
+94,52,Female,,73.1,,68.0,161.0,,119.0,,181.0,14.6,0.98,139/93,Follow-up recommended after 2 weeks.
+95,29,Female,,59.1,26.5,147.0,,,,49.0,,12.0,0.7,147/60,Continue present medications.
+96,19,Male,182.5,57.8,22.5,169.0,87.0,,80.0,49.0,178.0,11.7,1.06,169/64,Continue present medications.
+97,77,Others,,,,154.0,,,137.0,48.0,205.0,14.2,0.72,154/88,Glucose levels mildly elevated; lifestyle changes advised.
+98,49,Male,152.6,80.2,27.3,124.0,174.0,225.0,110.0,59.0,132.0,14.7,1.63,124/72,Hydration recommended.
+99,68,Male,,,23.9,124.0,85.0,,155.0,,205.0,,0.93,124/63,Continue present medications.
+100,75,Female,,77.2,,168.0,117.0,,154.0,58.0,,,0.95,168/106,Lipid profile requires monitoring.
+101,83,Others,174.0,62.7,22.5,162.0,,,153.0,,,13.2,1.3,162/104,Sugar levels within acceptable range.
+102,69,Female,183.7,73.1,21.7,61.0,,,,42.0,182.0,10.6,1.21,,Lipid profile requires monitoring.
+103,30,Others,,92.1,,40.0,,,79.0,51.0,,12.1,,,Values improving.
+104,61,Male,146.1,,23.3,111.0,,,,,225.0,14.7,1.47,111/106,Patient advised to maintain hydration.
+105,43,Female,,47.9,33.1,134.0,,213.0,,33.0,168.0,14.0,1.15,134/105,Continue medications.
+106,35,Male,,,,124.0,,,96.0,34.0,193.0,12.7,1.22,124/62,Continue present medications.
+107,38,Female,150.9,50.7,20.0,118.0,81.0,,148.0,45.0,109.0,14.6,1.23,118/84,Discussed with patient. Understood.
+108,47,Male,173.2,48.3,29.1,159.0,87.0,,131.0,31.0,199.0,12.2,0.72,159/61,Improvement noted. Keep current regimen.
+109,52,Female,,64.7,29.3,143.0,,,85.0,30.0,230.0,,1.12,143/91,Improvement noted. Keep current regimen.
+110,75,Male,,,35.8,,,,135.0,43.0,216.0,,1.57,,Follow-up advised.
+111,25,Female,,89.5,25.1,143.0,,,158.0,40.0,191.0,10.9,0.87,143/65,Pathology values consistent with mild deficiency.
+112,68,Female,,45.9,,114.0,,252.0,146.0,47.0,,9.7,,114/82,Repeat tests if clinically required.
+113,34,Male,145.0,56.9,26.0,115.0,99.0,,135.0,44.0,240.0,13.5,0.85,115/108,Glucose levels mildly elevated; lifestyle changes advised.
+114,66,Female,178.8,60.4,26.2,115.0,118.0,,154.0,63.0,97.0,15.9,0.82,115/72,No indication of bacterial infection.
+115,70,Male,189.0,,33.5,55.0,,,,60.0,202.0,12.8,1.07,101/108,Infection markers normal. No antibiotics needed.
+116,40,Others,154.1,84.3,35.5,,,,,37.0,,,0.7,,Follow-up recommended in 2 weeks.
+117,84,Others,,83.5,26.8,164.0,,,139.0,34.0,244.0,10.8,,164/82,Encouraged improved hydration.
+118,30,Female,169.9,75.4,31.4,102.0,107.0,,84.0,46.0,156.0,15.2,1.31,102/105,Patient advised to maintain hydration.
+119,53,Female,156.0,89.0,34.0,154.0,126.0,,156.0,40.0,176.0,9.6,1.34,154/106,Values improving.
+120,75,Male,182.8,89.9,22.2,125.0,,,114.0,46.0,250.0,13.1,0.81,125/61,Reassurance provided.
+121,24,Female,146.2,65.2,23.1,157.0,111.0,211.0,73.0,54.0,215.0,13.6,1.31,157/65,BP slightly high; observe.
+122,69,Female,182.9,66.7,22.5,131.0,108.0,,157.0,40.0,149.0,11.2,0.97,131/104,Possible dehydration; take more fluids.
+123,55,Female,,74.6,,162.0,,181.0,,49.0,224.0,10.5,1.58,162/86,Increase physical activity.
+124,70,Male,188.2,50.8,35.6,141.0,112.0,195.0,130.0,50.0,231.0,15.1,,141/78,Discussed results; patient understood.
+125,58,Male,187.2,62.5,17.8,163.0,164.0,,135.0,,225.0,12.2,1.16,163/102,Discussed with patient. Understood.
+126,69,Male,184.7,83.2,34.7,166.0,,,150.0,47.0,160.0,15.9,0.65,166/110,Lifestyle modifications discussed.
+127,66,Female,,,31.7,99.0,87.0,,122.0,42.0,237.0,15.3,1.34,156/98,Blood pressure stable today.
+128,33,Male,172.8,,31.1,130.0,,,137.0,,129.0,15.1,0.93,130/85,Follow-up recommended after 2 weeks.
+129,18,Male,,48.9,20.5,154.0,,,,,,10.2,,154/107,Advised ECG if symptoms persist.
+130,72,Male,167.9,52.9,31.4,112.0,148.0,,103.0,53.0,194.0,14.3,0.87,112/105,Essential to improve diet quality.
+131,25,Female,,57.3,28.2,159.0,165.0,,92.0,59.0,189.0,11.4,0.94,159/100,Blood pressure requires monitoring.
+132,68,Others,176.6,45.1,14.5,,,,111.0,,,11.8,,,Adequate control maintained.
+133,58,Male,156.7,71.3,23.3,101.0,133.0,,114.0,59.0,200.0,12.4,1.42,101/81,Lipid profile requires monitoring.
+134,33,Others,162.9,67.0,26.2,118.0,,171.0,114.0,56.0,121.0,12.8,0.73,118/64,Continue medications.
+135,59,Female,146.9,,,161.0,149.0,,84.0,48.0,155.0,,,161/88,Blood pressure within acceptable range.
+136,32,Female,,,,114.0,108.0,,,52.0,194.0,,0.88,114/97,Continue present medications.
+137,78,Female,147.9,68.6,23.3,134.0,158.0,,119.0,33.0,249.0,14.1,1.04,134/98,Hb slightly low; iron-rich diet suggested.
+138,33,Others,160.9,75.7,31.7,123.0,,,99.0,57.0,180.0,13.3,1.39,123/95,Lipid profile requires monitoring.
+139,42,Others,,50.4,,152.0,163.0,,,41.0,176.0,13.0,,152/68,No clinical signs of deterioration.
+140,51,Male,176.0,75.2,28.9,88.0,,,,58.0,186.0,14.1,,,Sugar levels within acceptable range.
+141,58,Male,171.4,,35.2,108.0,,,154.0,55.0,279.0,,1.35,,Increase daily walking.
+142,60,Male,162.1,55.8,18.2,100.0,,,141.0,,,14.3,1.1,,Stable condition. OPD review later.
+143,79,Others,167.3,,25.3,136.0,163.0,,149.0,49.0,212.0,,1.05,136/88,Encouraged improved hydration.
+144,30,Female,182.4,72.1,19.1,150.0,83.0,,127.0,35.0,127.0,14.3,1.35,150/65,Blood pressure within acceptable range.
+145,26,Male,,88.7,,139.0,113.0,,127.0,63.0,102.0,11.0,,139/102,OPD follow-up suggested.
+146,24,Male,187.3,78.8,23.8,109.0,,,128.0,60.0,188.0,,0.87,109/92,Further evaluation if symptoms persist.
+147,80,Others,,,23.3,155.0,96.0,,124.0,47.0,140.0,12.1,1.06,155/100,Blood pressure stable today.
+148,64,Male,172.9,93.6,25.3,109.0,122.0,,120.0,30.0,160.0,14.5,1.11,109/71,Continue present medications.
+149,75,Others,,91.9,26.9,128.0,,,153.0,,,,1.05,128/97,Vitals stable. No acute concerns.
+150,21,Male,160.1,85.5,21.5,106.0,,,138.0,52.0,214.0,13.1,1.21,106/70,Adequate control maintained.
+151,71,Others,147.0,,,103.0,167.0,244.0,160.0,46.0,95.0,12.4,1.26,103/73,Lifestyle modification suggested.
+152,60,Female,180.7,75.7,31.0,148.0,,227.0,89.0,56.0,186.0,11.1,1.37,148/65,General improvement observed.
+153,46,Others,152.9,78.0,28.5,134.0,113.0,,90.0,59.0,163.0,14.1,0.86,134/67,Follow-up recommended after 2 weeks.
+154,84,Others,,,,169.0,,,140.0,45.0,,11.3,,169/86,Lipid profile requires monitoring.
+155,19,Male,154.4,,19.5,130.0,135.0,,,,149.0,14.7,0.75,130/106,Glucose levels mildly elevated; lifestyle changes advised.
+156,22,Others,153.4,56.8,31.4,105.0,,,157.0,41.0,216.0,12.6,1.05,105/91,Diet modification essential.
+157,18,Others,157.6,68.8,20.9,137.0,136.0,,,43.0,,14.9,1.18,137/89,Continue present medications.
+158,81,Male,145.3,94.8,27.2,105.0,,,139.0,61.0,150.0,,1.3,105/76,BP borderline; needs monitoring.
+159,48,Female,162.9,54.8,20.5,,,,106.0,42.0,163.0,13.6,1.41,156/104,Encouraged daily walking.
+160,35,Male,149.4,78.2,25.9,117.0,,,141.0,,,14.2,1.16,117/93,Suggest further evaluation if symptoms persist.
+161,61,Male,184.9,,,103.0,104.0,210.0,142.0,60.0,136.0,,1.51,,Reduce salt intake.
+162,56,Male,,,,138.0,85.0,,127.0,31.0,180.0,14.0,,138/101,Continue present medications.
+163,66,Female,177.9,,30.5,137.0,147.0,169.0,114.0,35.0,115.0,15.6,1.11,137/70,Values improving.
+164,74,Male,,47.7,30.8,134.0,,,,,,,1.26,134/110,Sugar values acceptable.
+165,51,Others,154.1,78.5,24.2,110.0,109.0,,89.0,34.0,101.0,13.3,0.75,110/71,Stable. Review in OPD.
+166,72,Female,152.2,,22.9,102.0,,172.0,106.0,,155.0,,1.57,,Patient reassured.
+167,85,Male,,,33.3,112.0,167.0,,90.0,31.0,228.0,14.3,1.46,112/105,Blood pressure requires monitoring.
+168,36,Others,151.0,52.6,32.3,80.0,,214.0,,58.0,278.0,13.6,1.52,119/89,Reduce salt intake strictly.
+169,65,Female,,,27.2,76.0,,,157.0,53.0,249.0,13.7,1.4,,Encouraged moderate daily activity.
+170,34,Others,153.6,47.6,33.3,127.0,140.0,,113.0,31.0,120.0,11.7,0.85,127/96,Medication adherence reviewed.
+171,41,Male,171.8,90.5,21.4,142.0,107.0,,83.0,35.0,142.0,11.2,,142/110,Blood pressure within acceptable range.
+172,78,Male,165.3,51.3,18.3,,94.0,,85.0,,,15.3,,,Lipid profile requires monitoring.
+173,70,Male,,,34.0,157.0,,,119.0,50.0,126.0,13.5,,157/87,Hb slightly low; iron-rich diet suggested.
+174,29,Male,,89.1,,,,,119.0,,252.0,14.5,0.64,,Lifestyle modifications discussed.
+175,37,Female,186.9,69.5,34.7,,,226.0,85.0,62.0,248.0,14.8,1.63,147/97,Condition stable.
+176,72,Male,,81.6,,145.0,147.0,,133.0,,,,,145/93,Reassurance provided.
+177,73,Others,179.7,66.1,32.1,124.0,118.0,,116.0,39.0,204.0,14.7,1.29,124/91,Vitals stable. No acute concerns.
+178,27,Others,163.0,76.0,28.6,168.0,170.0,,,48.0,128.0,14.1,,168/102,Monitor BP at home regularly.
+179,82,Others,,,19.9,152.0,135.0,,,40.0,224.0,,0.99,152/105,Glucose levels mildly elevated; lifestyle changes advised.
+180,50,Others,165.8,,32.0,138.0,121.0,,87.0,,234.0,9.8,0.8,138/108,Monitor BP regularly.
+181,53,Male,164.0,86.7,20.2,165.0,134.0,,154.0,38.0,155.0,13.1,0.95,165/100,Glucose levels mildly elevated; lifestyle changes advised.
+182,22,Female,,,32.1,125.0,139.0,,94.0,44.0,147.0,15.3,,125/77,Glucose levels mildly elevated; lifestyle changes advised.
+183,43,Others,166.2,,31.6,165.0,91.0,,,54.0,,,,165/74,Continue present medications.
+184,68,Others,,69.6,,147.0,,,99.0,42.0,267.0,,,147/67,No concerning signs.
+185,69,Others,148.6,,33.3,37.0,,218.0,,38.0,226.0,10.0,0.85,120/105,Follow-up advised.
+186,29,Others,149.7,,31.0,128.0,119.0,,85.0,54.0,,11.6,1.38,128/105,Infection markers normal. No antibiotics needed.
+187,46,Others,,59.9,,105.0,,,149.0,47.0,,,1.43,105/101,Reassurance provided.
+188,27,Others,166.6,86.3,31.1,120.0,120.0,,144.0,37.0,,,,120/62,Follow-up recommended after 2 weeks.
+189,60,Male,189.4,82.8,19.5,157.0,110.0,193.0,151.0,29.0,109.0,14.8,1.19,157/108,Condition stable.
+190,40,Female,,,,,,,135.0,52.0,,,0.84,,Blood pressure stable today.
+191,45,Male,189.5,73.4,18.8,126.0,,,123.0,56.0,113.0,13.9,1.37,126/89,Medication adherence reviewed.
+192,32,Others,181.1,50.9,15.5,72.0,,,91.0,59.0,145.0,14.9,1.23,115/105,No clinical signs of deterioration.
+193,30,Male,158.5,72.2,17.3,138.0,121.0,157.0,110.0,33.0,119.0,11.6,1.27,138/73,Values improving.
+194,83,Others,184.5,,26.3,109.0,145.0,,136.0,44.0,122.0,11.4,1.23,,Discussed with patient. Understood.
+195,28,Others,187.5,87.9,31.2,71.0,111.0,,,65.0,211.0,9.9,1.15,,Good therapy response.
+196,37,Female,175.8,70.3,32.9,117.0,117.0,,152.0,33.0,196.0,13.4,1.38,117/92,Lipid profile requires monitoring.
+197,42,Others,147.5,75.4,24.3,111.0,128.0,,127.0,31.0,221.0,10.8,1.08,111/85,Advised patient to avoid salty foods.
+198,58,Male,147.4,93.6,22.7,160.0,118.0,,83.0,46.0,228.0,10.7,0.94,160/90,Glucose levels mildly elevated; lifestyle changes advised.
+199,49,Others,184.6,57.1,18.4,115.0,119.0,,,53.0,94.0,,0.88,115/67,Stable. Review in OPD.
+200,53,Male,165.5,,19.9,48.0,,157.0,,49.0,258.0,,1.48,112/79,Follow-up advised.
+201,69,Others,165.6,,21.6,134.0,,,93.0,50.0,206.0,14.9,1.43,134/105,Blood pressure within acceptable range.
+202,29,Others,180.0,94.7,30.7,119.0,87.0,,82.0,56.0,235.0,14.7,0.83,119/78,Diet modification essential.
+203,77,Male,169.3,78.0,27.2,170.0,,,,45.0,234.0,,,170/82,Levels improving compared to last visit.
+204,51,Male,,69.4,19.3,140.0,125.0,,,45.0,,,1.24,140/102,Sugar levels within acceptable range.
+205,84,Female,,,,,94.0,,,34.0,,,,,Lipid profile requires monitoring.
+206,68,Male,,,,83.0,,,146.0,,,,1.46,,Cholesterol borderline. Consider dietary modification.
+207,73,Female,,75.6,29.3,37.0,,177.0,,50.0,130.0,14.1,1.36,,Discussed results; patient understood.
+208,19,Female,,91.0,24.8,,162.0,226.0,121.0,45.0,259.0,10.5,,119/79,Reduce salt intake strictly.
+209,85,Female,188.1,57.7,32.4,110.0,139.0,,92.0,37.0,146.0,14.8,0.94,110/109,Glucose levels mildly elevated; lifestyle changes advised.
+210,50,Male,179.6,46.3,19.2,,107.0,,94.0,43.0,,11.5,,,Follow-up recommended after 2 weeks.
+211,75,Others,158.0,61.9,28.3,162.0,,,,58.0,148.0,15.2,0.9,162/69,Follow-up recommended after 2 weeks.
+212,44,Female,,61.4,26.0,49.0,,,,,229.0,12.6,0.78,134/91,Follow-up recommended after 2 weeks.
+213,84,Others,,,31.3,168.0,,,121.0,,,13.2,,168/105,Follow-up recommended after 2 weeks.
+214,52,Female,164.5,83.0,21.1,71.0,121.0,205.0,120.0,51.0,111.0,15.9,0.67,162/74,Hydration needs to be increased.
+215,73,Others,168.4,84.3,26.7,,,,111.0,45.0,218.0,10.8,0.71,114/85,Sugar levels within acceptable range.
+216,83,Others,182.4,,23.3,149.0,,,140.0,39.0,,,1.5,149/105,Glucose levels mildly elevated; lifestyle changes advised.
+217,31,Male,170.3,66.4,22.9,110.0,107.0,,142.0,39.0,,11.7,1.26,110/93,Follow-up advised.
+218,38,Female,167.3,73.1,33.1,,131.0,,137.0,34.0,,15.1,1.41,,Continue present medications.
+219,36,Female,189.8,70.7,26.8,167.0,131.0,,88.0,51.0,221.0,14.3,1.16,167/69,Follow-up recommended after 2 weeks.
+220,58,Others,169.1,62.0,21.8,103.0,,,143.0,34.0,228.0,12.7,0.95,103/76,Follow-up recommended after 2 weeks.
+221,32,Others,148.4,55.8,30.3,122.0,131.0,,,36.0,197.0,14.6,,122/73,Glucose levels mildly elevated; lifestyle changes advised.
+222,61,Female,,51.4,,157.0,106.0,,,57.0,249.0,,1.31,157/78,No clinical signs of deterioration.
+223,25,Female,,62.3,25.3,166.0,141.0,205.0,71.0,52.0,,15.5,0.68,166/60,Continue medications.
+224,21,Female,158.2,57.1,29.8,152.0,,,159.0,31.0,114.0,11.2,1.29,152/75,Lipid profile requires monitoring.
+225,47,Female,147.6,64.0,21.8,118.0,,,132.0,34.0,191.0,11.0,1.3,118/110,Medication adherence reviewed.
+226,35,Female,148.7,,,153.0,153.0,,142.0,51.0,135.0,13.3,,,Adequate control maintained.
+227,25,Male,,56.1,20.6,,,,140.0,,,11.8,0.9,,Reassurance provided.
+228,23,Others,,,27.9,104.0,165.0,,,47.0,123.0,,,104/108,Vitals stable. No acute concerns.
+229,41,Female,,,26.0,60.0,148.0,,,,217.0,14.2,0.88,170/86,Discussed results; patient understood.
+230,18,Others,175.7,49.9,23.8,157.0,,,106.0,40.0,200.0,12.2,1.5,157/80,Glucose levels mildly elevated; lifestyle changes advised.
+231,61,Male,180.5,54.7,16.8,108.0,149.0,245.0,105.0,46.0,255.0,11.2,,108/64,No signs of infection detected.
+232,64,Male,,,,,,,,,177.0,13.3,,,Follow-up recommended after 2 weeks.
+233,70,Female,,,29.3,,,,100.0,54.0,,15.2,1.08,,Reassurance provided.
+234,23,Female,155.8,48.2,28.0,106.0,,,,40.0,,,0.78,106/69,Continue present medications.
+235,56,Female,162.1,,18.3,,,,88.0,31.0,,,,,No signs of infection detected.
+236,59,Others,165.0,82.1,32.2,170.0,134.0,,,,150.0,11.5,0.97,170/86,Lipid profile requires monitoring.
+237,83,Others,188.3,,21.0,78.0,,,149.0,40.0,199.0,15.1,,157/79,Medication adherence reviewed.
+238,68,Female,179.7,93.2,28.9,126.0,,,123.0,52.0,224.0,14.4,0.81,126/95,Increase physical activity.
+239,26,Female,166.9,77.6,27.9,,145.0,,115.0,59.0,,15.0,1.07,,Blood pressure within acceptable range.
+240,68,Others,157.9,76.5,30.7,,81.0,,,52.0,162.0,12.7,1.07,,Follow-up recommended in 2 weeks.
+241,42,Female,174.1,51.1,19.2,133.0,117.0,,120.0,39.0,156.0,15.4,0.99,133/79,Increase physical activity.
+242,80,Male,157.1,85.9,23.8,76.0,,,89.0,45.0,131.0,11.2,0.85,148/101,No concerning signs.
+243,58,Male,158.8,84.5,19.8,159.0,138.0,,134.0,38.0,226.0,14.3,0.72,159/107,Glucose slightly elevated; review diet and exercise.
+244,31,Others,186.2,,,,,,,42.0,100.0,15.1,1.25,,Repeat test if clinically indicated.
+245,39,Others,180.8,,18.2,127.0,110.0,236.0,150.0,49.0,128.0,15.1,1.4,127/71,Monitor BP regularly.
+246,46,Others,170.0,55.2,25.0,154.0,90.0,,118.0,51.0,255.0,13.9,0.93,154/82,Retest if required clinically.
+247,48,Male,,,28.1,161.0,170.0,,152.0,57.0,,13.8,1.16,161/98,Glucose levels mildly elevated; lifestyle changes advised.
+248,59,Male,156.3,,21.2,108.0,91.0,186.0,120.0,,110.0,,0.74,,Mild elevation in glucose.
+249,85,Male,183.5,,21.2,116.0,,,136.0,65.0,,10.0,1.15,116/105,Retest if required clinically.
+250,80,Male,166.4,45.3,32.2,162.0,170.0,,132.0,59.0,221.0,15.3,0.97,162/90,Adequate control maintained.
+251,45,Male,151.1,,25.0,160.0,,,,,140.0,,,160/87,Patient advised to hydrate adequately.
+252,60,Female,185.3,77.3,23.5,,,,92.0,38.0,249.0,10.5,0.88,140/72,Follow-up recommended after 2 weeks.
+253,53,Male,161.6,59.3,18.8,154.0,133.0,,137.0,34.0,,,1.5,154/97,Follow-up in 1â2 weeks recommended.
+254,65,Male,189.3,81.5,29.4,128.0,114.0,,159.0,54.0,127.0,11.0,1.39,128/104,Glucose levels mildly elevated; lifestyle changes advised.
+255,22,Male,167.0,89.0,31.9,129.0,81.0,,105.0,53.0,,12.6,,129/88,Continue present medications.
+256,70,Others,146.3,67.0,18.5,131.0,119.0,,132.0,51.0,225.0,13.4,1.06,131/88,Lipid profile requires monitoring.
+257,28,Others,,,,120.0,146.0,,124.0,40.0,192.0,13.9,0.88,120/83,Follow-up recommended after 2 weeks.
+258,78,Male,181.1,91.3,17.3,153.0,150.0,,,29.0,,14.8,,153/88,Suggest improving sleep cycle.
+259,46,Male,153.5,75.4,34.5,149.0,156.0,195.0,156.0,55.0,251.0,15.9,1.41,149/101,Stable condition; review in OPD.
+260,29,Others,171.1,63.5,25.6,141.0,,,137.0,60.0,,14.5,0.89,141/84,Continue present medications.
+261,81,Male,,,31.7,101.0,,,82.0,33.0,227.0,11.3,,101/105,Blood pressure stable today.
+262,34,Male,182.6,62.2,35.6,,,228.0,147.0,35.0,225.0,,1.47,,Condition stable.
+263,61,Male,,,,,,225.0,91.0,29.0,191.0,,,,Condition stable.
+264,25,Female,156.1,95.1,22.8,,,173.0,,34.0,113.0,15.8,0.79,,Continue medications.
+265,57,Female,,,33.4,158.0,114.0,,134.0,34.0,244.0,11.4,0.82,158/78,Lipid levels require monitoring.
+266,61,Female,168.7,82.3,25.7,168.0,164.0,,110.0,56.0,217.0,15.3,1.46,168/95,Continue present medications.
+267,84,Others,183.7,77.8,21.4,163.0,,,119.0,34.0,210.0,10.9,1.38,163/80,Lipid profile requires monitoring.
+268,80,Female,158.8,75.3,33.5,100.0,109.0,,150.0,52.0,212.0,10.9,1.15,100/107,Encouraged moderate daily activity.
+269,31,Female,,,26.6,96.0,96.0,,,,,,,,Pt stable. Continue routine follow-up.
+270,57,Male,,,24.5,109.0,99.0,,,54.0,231.0,13.4,,,Blood pressure within acceptable range.
+271,63,Female,180.8,63.3,22.2,,132.0,,154.0,,127.0,11.6,1.25,,Continue present medications.
+272,31,Others,185.9,70.9,26.9,151.0,106.0,166.0,118.0,39.0,127.0,13.0,0.72,151/66,Values improving.
+273,46,Female,155.4,78.3,33.3,162.0,109.0,,,,128.0,,,162/77,Follow-up recommended after 2 weeks.
+274,79,Others,,,,93.0,141.0,,123.0,,176.0,,0.67,,Follow-up advised.
+275,66,Female,151.6,62.5,17.6,103.0,,,80.0,55.0,249.0,12.0,0.77,103/108,Suggest improving sleep cycle.
+276,84,Male,,,,102.0,,253.0,,44.0,,14.9,1.16,,Continue medications.
+277,57,Male,,,23.7,43.0,103.0,,82.0,,161.0,,1.33,,Follow-up recommended after 2 weeks.
+278,70,Others,181.1,60.8,22.6,151.0,124.0,227.0,143.0,50.0,203.0,12.7,1.57,151/69,Increase physical activity.
+279,73,Female,184.5,53.0,18.5,120.0,131.0,,134.0,54.0,,13.0,1.06,120/66,Glucose levels mildly elevated; lifestyle changes advised.
+280,62,Others,145.9,47.8,30.7,104.0,,,,51.0,182.0,,,,Repeat tests if clinically required.
+281,71,Female,156.1,68.9,22.8,125.0,152.0,238.0,137.0,41.0,221.0,13.7,1.06,125/109,Continue medications.
+282,62,Others,167.9,45.8,16.2,,163.0,,129.0,,192.0,,,,Discussed results clearly. Patient understood.
+283,59,Male,,,31.2,114.0,,,123.0,,167.0,14.6,0.89,114/94,Glucose levels mildly elevated; lifestyle changes advised.
+284,35,Female,151.1,75.3,21.8,135.0,123.0,,136.0,42.0,138.0,,0.94,135/97,Adequate control maintained.
+285,35,Male,162.6,60.7,21.8,129.0,,,,54.0,,,0.9,129/66,Lipid profile requires monitoring.
+286,82,Male,,,24.4,,,,122.0,,,,0.99,,Consider ECG if palpitations recur.
+287,59,Others,,70.8,30.0,75.0,,,,,215.0,,,,Hydration emphasized.
+288,29,Male,166.7,70.7,27.9,124.0,99.0,,130.0,31.0,148.0,13.2,0.94,124/108,Glucose slightly elevated; review diet and exercise.
+289,22,Male,158.7,90.2,27.9,,141.0,,,43.0,,14.4,,,Glucose levels mildly elevated; lifestyle changes advised.
+290,23,Female,176.2,85.8,33.5,167.0,,,,44.0,,10.7,1.4,167/88,Pathology values consistent with mild deficiency.
+291,35,Male,153.7,82.1,18.2,159.0,,,85.0,32.0,110.0,15.3,1.29,159/78,Blood pressure within acceptable range.
+292,27,Others,152.3,84.3,19.1,132.0,80.0,,158.0,28.0,154.0,15.3,1.46,132/98,Discussed results clearly. Patient understood.
+293,29,Others,164.5,68.0,18.5,100.0,,,88.0,36.0,168.0,15.4,1.36,100/93,Cholesterol borderline. Consider dietary modification.
+294,68,Female,,,,,,,135.0,35.0,238.0,12.3,,,Hb slightly low; iron-rich diet suggested.
+295,73,Others,163.2,87.3,23.1,,163.0,,127.0,39.0,189.0,13.1,,,Follow-up recommended after 2 weeks.
+296,54,Others,,,18.7,161.0,101.0,,104.0,58.0,149.0,11.7,1.04,161/76,Glucose levels mildly elevated; lifestyle changes advised.
+297,56,Others,178.7,88.8,27.3,122.0,95.0,,160.0,51.0,226.0,13.1,0.75,122/91,Levels improving compared to last visit.
+298,47,Female,168.0,60.7,33.0,162.0,95.0,,129.0,54.0,107.0,11.1,0.88,162/109,Follow-up recommended after 2 weeks.
+299,50,Others,173.2,91.9,17.1,106.0,,,95.0,51.0,101.0,12.2,1.4,,Hydration recommended.
+300,69,Female,165.3,,,100.0,84.0,,142.0,57.0,248.0,9.6,,,Encouraged brisk walking.
+301,77,Others,,,,106.0,176.0,,,,,,,,Stable condition; review in OPD.
+302,40,Male,149.9,55.7,26.8,,,,160.0,,127.0,11.8,1.37,,Encouraged improved hydration.
+303,19,Others,146.7,54.5,32.9,123.0,138.0,,86.0,45.0,224.0,11.1,1.34,123/81,Possible dehydration; take more fluids.
+304,50,Others,186.3,54.9,15.8,111.0,118.0,,141.0,,,14.8,1.12,111/67,Discussed with patient. Understood.
+305,25,Others,158.8,87.2,20.1,154.0,,,135.0,39.0,234.0,11.5,,154/66,Reassured patient.
+306,47,Others,158.2,74.0,29.6,99.0,,,88.0,48.0,,,,,Improvement noted. Keep current regimen.
+307,40,Male,,60.3,28.0,72.0,131.0,,138.0,31.0,,,,,Repeat test if clinically indicated.
+308,68,Male,158.3,87.6,18.6,125.0,115.0,,139.0,49.0,204.0,15.2,0.9,125/96,Follow-up in OPD advised.
+309,58,Female,,96.1,23.2,62.0,,185.0,71.0,59.0,155.0,12.1,1.54,,Therapy response is satisfactory.
+310,72,Female,188.9,57.1,29.8,160.0,170.0,,,42.0,170.0,15.0,1.37,160/107,Increase daily fluid intake.
+311,30,Male,,,,71.0,,,,35.0,136.0,,,,Follow-up in OPD advised.
+312,84,Others,,,24.0,113.0,96.0,,,60.0,198.0,,0.74,113/78,Continue present medications.
+313,66,Male,180.0,70.0,25.7,129.0,167.0,222.0,94.0,49.0,201.0,15.2,1.65,129/63,Lifestyle changes discussed with patient.
+314,67,Others,171.2,91.2,27.0,165.0,86.0,,82.0,55.0,111.0,12.6,0.91,165/78,Lipid profile requires monitoring.
+315,49,Others,,,25.8,135.0,95.0,,,40.0,110.0,,0.74,135/65,Lipid levels require monitoring.
+316,52,Female,180.7,66.7,23.1,156.0,,,130.0,59.0,,14.3,1.46,156/71,Further evaluation if symptoms persist.
+317,42,Female,166.1,70.3,20.4,105.0,127.0,166.0,119.0,64.0,102.0,13.2,1.14,105/91,Increase daily walking.
+318,64,Female,,,,113.0,,,,,,,,113/78,Follow-up recommended after 2 weeks.
+319,77,Male,150.4,50.6,22.4,160.0,158.0,,150.0,42.0,227.0,,1.33,160/97,Blood sugar trending upward; review lifestyle changes.
+320,43,Male,170.7,92.4,20.9,168.0,150.0,,128.0,31.0,128.0,10.6,,168/98,Continue present medications.
+321,35,Others,188.7,74.5,23.1,134.0,110.0,,149.0,35.0,131.0,14.5,1.37,134/107,Glucose levels mildly elevated; lifestyle changes advised.
+322,33,Others,151.9,74.4,20.6,102.0,164.0,,110.0,59.0,212.0,14.8,1.02,102/65,Lab markers improved from last visit.
+323,39,Female,,,25.8,151.0,121.0,,108.0,51.0,114.0,10.7,1.47,151/60,Continue present medications.
+324,61,Female,,45.1,21.1,105.0,,240.0,,43.0,,16.0,0.73,105/104,Patient reassured.
+325,57,Male,,,19.8,,121.0,,,,109.0,,,,Blood pressure stable today.
+326,40,Female,150.4,88.2,34.1,128.0,162.0,,,43.0,,,,128/67,No concerning findings.
+327,46,Female,,,33.3,138.0,,222.0,76.0,,274.0,13.1,,138/66,Values improving.
+328,55,Female,,48.6,,69.0,152.0,,86.0,37.0,,14.9,,,Vitals stable. No acute concerns.
+329,72,Male,167.2,74.8,27.0,141.0,167.0,,142.0,49.0,160.0,12.5,0.96,141/64,Diet modification essential.
+330,52,Female,,,,55.0,,,,56.0,,,0.99,,Improvement noted. Keep current regimen.
+331,76,Male,150.9,49.4,30.7,64.0,120.0,244.0,135.0,,107.0,,1.61,,Recheck lipid levels after 3 months.
+332,73,Others,,,33.7,90.0,,251.0,126.0,56.0,,10.1,,103/81,Discussed results; patient understood.
+333,47,Others,,57.1,30.0,,,,,,134.0,9.6,,,Monitor BP regularly.
+334,40,Female,,,18.3,167.0,136.0,,,,238.0,,,167/93,Lipid levels require monitoring.
+335,64,Others,182.0,50.9,35.0,116.0,,227.0,,50.0,97.0,13.5,,116/67,Values improving.
+336,33,Male,161.2,58.8,27.1,167.0,,,120.0,39.0,172.0,14.9,1.0,167/86,Blood pressure within acceptable range.
+337,44,Female,177.7,57.9,27.7,95.0,,,154.0,35.0,,,0.86,,Adequate control maintained.
+338,68,Male,181.6,,,68.0,,154.0,,,140.0,13.6,1.25,,Follow-up advised.
+339,61,Male,168.6,,24.6,162.0,,,,,184.0,13.5,,162/99,BP borderline; needs monitoring.
+340,52,Male,161.5,45.1,31.9,167.0,,,137.0,36.0,121.0,13.6,1.22,167/86,Follow-up in OPD advised.
+341,75,Female,180.7,,,47.0,100.0,,,50.0,159.0,12.0,0.96,125/61,Lipid profile requires monitoring.
+342,58,Others,179.0,,19.3,122.0,,227.0,124.0,39.0,156.0,,,122/85,Mild elevation in glucose.
+343,23,Others,189.5,80.0,30.9,,123.0,226.0,134.0,61.0,132.0,12.0,1.13,115/64,Reduce salt intake.
+344,35,Female,146.1,77.3,34.2,109.0,,188.0,,41.0,,15.1,,109/77,Continue medications.
+345,27,Male,149.4,,31.9,107.0,,,139.0,,184.0,,0.76,107/101,No signs of active infection.
+346,27,Others,188.2,85.3,24.1,158.0,,,123.0,57.0,,,1.02,158/92,Continue present medications.
+347,42,Female,145.3,86.5,21.2,90.0,145.0,183.0,103.0,34.0,,15.0,1.26,153/71,Patient reassured.
+348,53,Male,,,27.8,,170.0,,,39.0,,14.5,1.1,,Follow-up in 1â2 weeks recommended.
+349,81,Male,,54.5,,43.0,118.0,,105.0,39.0,,,1.26,120/86,No concerning findings.
+350,62,Female,,,31.5,121.0,133.0,165.0,128.0,35.0,236.0,14.2,0.8,121/90,Increase daily walking.
+351,49,Others,,,33.6,105.0,,,98.0,44.0,163.0,15.5,0.82,105/91,Blood pressure stable today.
+352,20,Female,155.2,97.7,26.2,155.0,137.0,,113.0,41.0,229.0,,,155/101,Check BP at home twice daily.
+353,48,Male,156.0,75.8,31.7,119.0,,,119.0,58.0,163.0,10.7,0.9,119/60,Encouraged moderate daily activity.
+354,68,Female,171.0,80.2,27.4,,,,113.0,55.0,,15.4,0.77,,Advised home BP monitoring.
+355,43,Female,162.1,58.7,22.3,59.0,,,133.0,38.0,123.0,12.5,,166/61,Continue present medications.
+356,76,Others,157.2,78.7,20.7,116.0,86.0,,,45.0,238.0,12.7,,116/105,Medication adherence reviewed.
+357,37,Male,157.6,,18.6,87.0,83.0,219.0,71.0,43.0,254.0,,0.91,122/107,Mild elevation in glucose.
+358,56,Female,153.3,61.8,28.1,123.0,110.0,185.0,154.0,46.0,100.0,13.2,1.34,123/75,Continue medications.
+359,72,Female,185.0,74.4,27.1,66.0,136.0,150.0,105.0,60.0,107.0,12.9,0.89,165/92,Condition stable.
+360,34,Female,,,24.2,147.0,91.0,,,33.0,182.0,,1.44,147/94,Lipid levels require monitoring.
+361,58,Female,167.1,93.0,21.0,119.0,100.0,,120.0,51.0,201.0,12.6,1.0,119/89,Increase physical activity.
+362,20,Male,164.8,88.2,23.9,140.0,139.0,,88.0,59.0,166.0,15.0,1.39,140/101,Results indicate minor deficiency.
+363,80,Female,,,35.2,,97.0,171.0,98.0,40.0,258.0,12.3,,170/100,Cholesterol borderline; monitor periodically.
+364,67,Male,152.0,84.7,35.4,170.0,,153.0,160.0,59.0,123.0,10.2,1.54,170/76,Follow-up advised.
+365,75,Male,152.7,51.9,28.4,109.0,87.0,,118.0,47.0,,15.2,1.35,,Lipid profile requires monitoring.
+366,47,Others,,47.1,25.2,109.0,,,146.0,,,,1.4,109/98,Reassurance provided.
+367,27,Others,178.2,,22.0,85.0,,,90.0,48.0,,14.9,,,Continue present medications.
+368,21,Female,164.0,48.6,18.2,132.0,,,155.0,,167.0,,0.79,132/81,Lipid profile requires monitoring.
+369,70,Female,,65.0,32.0,118.0,130.0,,130.0,52.0,235.0,,,118/75,Discussed with patient. Understood.
+370,37,Female,172.4,,,128.0,,,113.0,48.0,183.0,10.7,0.91,128/91,Blood pressure within acceptable range.
+371,60,Female,184.7,62.7,20.7,168.0,85.0,,140.0,39.0,273.0,14.7,0.65,168/72,Advised ECG if symptoms persist.
+372,70,Male,161.1,,,137.0,168.0,,,39.0,166.0,,,137/64,Glucose levels mildly elevated; lifestyle changes advised.
+373,68,Female,,62.4,35.2,81.0,,245.0,85.0,56.0,,11.3,1.49,,Condition stable.
+374,68,Male,,95.7,26.8,166.0,145.0,192.0,109.0,,268.0,,,166/79,Major dietary change required.
+375,43,Female,,54.6,32.8,78.0,,,99.0,47.0,139.0,,1.01,,Possible dehydration; fluids advised.
+376,52,Female,156.4,,32.8,145.0,167.0,,127.0,45.0,,12.9,1.37,145/109,Suggest further evaluation if symptoms persist.
+377,59,Others,187.8,84.1,32.4,121.0,100.0,223.0,155.0,47.0,256.0,11.0,1.6,121/90,Continue medications.
+378,55,Others,181.4,59.7,25.6,126.0,150.0,,92.0,32.0,234.0,11.1,1.43,126/90,Vitals stable. No acute concerns.
+379,71,Others,186.5,59.0,20.4,118.0,,,,,,,,118/90,Lipid profile requires monitoring.
+380,28,Female,157.9,94.4,20.4,133.0,,,137.0,52.0,201.0,11.2,0.74,133/61,Consider ECG if palpitations recur.
+381,34,Male,155.9,63.8,24.3,101.0,81.0,,90.0,38.0,148.0,13.2,1.42,101/101,Glucose levels mildly elevated; lifestyle changes advised.
+382,71,Male,186.8,76.5,21.9,,,,137.0,,170.0,,,,Continue present medications.
+383,34,Others,170.6,66.8,31.6,150.0,,,160.0,,168.0,12.7,1.29,150/99,Values improving.
+384,68,Others,151.8,,,158.0,98.0,,141.0,58.0,,15.5,0.74,158/96,Continue present medications.
+385,21,Female,182.9,,20.1,135.0,,,88.0,50.0,241.0,14.7,1.08,135/92,Blood pressure within acceptable range.
+386,77,Others,189.2,86.7,24.2,68.0,,,84.0,43.0,208.0,15.4,1.19,,Repeat test if clinically required.
+387,31,Female,,81.8,20.7,83.0,,176.0,88.0,,181.0,,1.06,,Patient instructed to drink more water.
+388,56,Male,,66.4,20.0,47.0,,,124.0,,,,0.97,164/108,No indication of bacterial infection.
+389,56,Male,,53.4,20.3,129.0,83.0,,129.0,31.0,,15.0,1.46,129/72,Increase moderate activity.
+390,77,Male,,92.9,24.3,155.0,,,94.0,42.0,234.0,10.8,1.04,155/99,Needs follow-up in OPD.
+391,58,Male,150.0,79.9,24.0,122.0,143.0,207.0,,59.0,200.0,12.6,1.65,122/67,Improve sleep hygiene.
+392,22,Others,189.7,59.5,31.6,107.0,123.0,222.0,120.0,57.0,,9.9,0.62,107/98,Patient reassured.
+393,73,Female,,,21.5,,,,118.0,,,13.7,1.25,,Follow-up recommended after 2 weeks.
+394,30,Female,161.3,50.8,21.3,90.0,,179.0,86.0,63.0,116.0,,0.78,,Hydration recommended.
+395,50,Others,183.1,,29.1,88.0,168.0,,150.0,46.0,228.0,11.3,0.79,127/108,Cholesterol borderline. Consider dietary modification.
+396,32,Male,154.0,,28.8,120.0,,,110.0,59.0,191.0,15.4,,120/70,Lifestyle counseling advised.
+397,59,Male,182.4,51.1,27.4,123.0,170.0,,120.0,50.0,126.0,12.5,0.95,123/72,Therapy maintaining adequate control.
+398,34,Male,151.3,45.7,18.4,156.0,127.0,,86.0,53.0,123.0,15.4,1.4,156/83,Possible dehydration; fluids advised.
+399,52,Male,154.0,71.0,29.9,106.0,,,125.0,,,,,106/88,Lifestyle counseling advised.
+400,83,Others,186.3,80.9,25.0,112.0,,,159.0,52.0,,14.5,1.25,112/84,No clinical deterioration.
+401,35,Male,,97.9,21.9,143.0,,212.0,70.0,,239.0,14.4,0.87,143/65,Hydration recommended.
+402,77,Male,,,29.7,148.0,148.0,,158.0,28.0,221.0,,1.55,,Cholesterol borderline high; monitor regularly.
+403,43,Female,157.6,84.9,26.4,71.0,149.0,215.0,112.0,42.0,160.0,15.0,1.53,114/108,Glucose mildly elevated; diet improvement advised.
+404,29,Female,178.5,90.6,28.7,88.0,138.0,167.0,72.0,53.0,,10.2,0.83,,Hydration recommended.
+405,23,Others,185.9,,33.7,145.0,155.0,,,,,,,145/67,Condition stable.
+406,68,Male,176.9,,21.7,,166.0,,,46.0,164.0,11.7,1.13,,Lipid profile requires monitoring.
+407,28,Female,148.4,45.9,20.8,165.0,,,130.0,53.0,,,,165/85,Re-evaluate lipid values after 3 months.
+408,57,Male,148.5,92.7,42.0,,,,,,126.0,,,,Cholesterol borderline high; monitor regularly.
+409,81,Female,174.0,71.5,31.0,145.0,,,138.0,48.0,179.0,9.7,1.25,145/67,Lifestyle modifications discussed.
+410,26,Others,167.9,,,146.0,,,,60.0,116.0,,1.48,146/85,Blood pressure within acceptable range.
+411,83,Male,,,,154.0,,,126.0,,,10.5,1.43,154/97,Discussed results clearly. Patient understood.
+412,64,Male,,,27.9,,106.0,,138.0,49.0,204.0,12.6,0.72,,Glucose levels mildly elevated; lifestyle changes advised.
+413,36,Female,178.7,93.9,22.7,92.0,160.0,,,,,,1.24,,Needs follow-up in OPD.
+414,80,Others,,,23.2,163.0,138.0,,116.0,,,,,163/94,Lipid levels require monitoring.
+415,76,Others,159.9,46.2,18.1,133.0,153.0,,136.0,41.0,237.0,,,133/66,Glucose levels mildly elevated; lifestyle changes advised.
+416,27,Others,,,,101.0,,,,60.0,206.0,,0.92,101/69,Possible dehydration; take more fluids.
+417,21,Female,158.0,65.0,26.4,163.0,103.0,,122.0,51.0,160.0,11.3,1.19,163/79,Lipid profile requires monitoring.
+418,52,Others,151.4,88.2,27.4,120.0,165.0,,143.0,34.0,159.0,12.3,1.04,120/64,Hydration emphasized.
+419,63,Male,180.5,,,113.0,156.0,,103.0,33.0,176.0,,,113/106,Lipid profile requires monitoring.
+420,74,Others,166.4,45.7,16.5,,128.0,,105.0,38.0,201.0,14.8,1.44,,Continue present medications.
+421,33,Female,158.8,65.8,33.6,127.0,140.0,,158.0,33.0,171.0,13.1,1.49,127/62,Follow-up recommended after 2 weeks.
+422,28,Male,148.0,,31.5,150.0,133.0,,155.0,59.0,,14.3,,150/109,Glucose levels mildly elevated; lifestyle changes advised.
+423,20,Others,183.0,,22.7,156.0,,182.0,,,185.0,,1.32,156/78,Condition stable.
+424,25,Others,,52.6,33.5,149.0,99.0,,,42.0,188.0,12.5,,149/80,Follow-up recommended after 2 weeks.
+425,72,Female,,53.5,,109.0,,,,42.0,,14.1,,,Encouraged improved hydration.
+426,49,Male,168.6,86.0,26.5,,167.0,,151.0,48.0,201.0,12.3,1.12,140/64,Mild anemia; iron-rich foods suggested.
+427,28,Female,177.7,72.3,33.3,151.0,174.0,,85.0,56.0,128.0,10.1,1.55,151/71,Improvement compared to previous visit.
+428,63,Female,184.6,46.6,18.8,119.0,,,130.0,43.0,121.0,13.1,1.04,119/110,Blood pressure requires monitoring.
+429,45,Female,,,,120.0,153.0,,,,,11.2,,120/88,Condition stable.
+430,19,Others,,91.2,,,,,113.0,62.0,140.0,12.5,1.4,,Advised ECG if symptoms persist.
+431,48,Female,146.8,93.7,31.4,142.0,151.0,,134.0,32.0,178.0,,0.77,142/63,Repeat test if clinically indicated.
+432,63,Female,152.2,61.8,26.7,147.0,147.0,,89.0,,,12.7,,,Cholesterol borderline. Consider dietary modification.
+433,62,Male,174.4,,21.8,102.0,,,,35.0,123.0,,,102/71,Lipid profile requires monitoring.
+434,59,Others,153.4,61.4,24.5,107.0,126.0,,132.0,48.0,201.0,13.2,0.74,107/72,Patient advised to maintain hydration.
+435,57,Female,,,28.4,155.0,140.0,,155.0,,140.0,15.4,0.71,155/92,Blood pressure within acceptable range.
+436,43,Others,172.0,53.4,18.1,166.0,140.0,,146.0,38.0,,12.7,,166/74,Cholesterol borderline. Consider dietary modification.
+437,82,Others,179.3,92.2,28.3,125.0,,,152.0,34.0,211.0,11.2,1.13,125/101,Blood pressure requires monitoring.
+438,83,Female,186.5,52.3,24.0,130.0,,184.0,160.0,30.0,221.0,14.3,,130/67,Monitor BP regularly.
+439,66,Others,163.6,96.8,22.8,100.0,113.0,207.0,143.0,30.0,130.0,9.9,0.95,100/94,Hydration needs to be increased.
+440,21,Others,173.0,79.0,20.9,93.0,125.0,229.0,130.0,56.0,159.0,,1.29,,Medication adherence checked.
+441,65,Female,183.7,80.4,23.1,106.0,,,,32.0,,,,,Discussed with patient. Understood.
+442,63,Male,179.0,,,,162.0,233.0,,,267.0,,1.59,,Values improved compared to previous results.
+443,75,Male,151.5,62.4,27.2,114.0,96.0,,92.0,60.0,174.0,11.0,0.82,114/77,Glucose slightly elevated; review diet and exercise.
+444,33,Female,147.9,,30.7,,,,,,,13.1,,,Needs follow-up in OPD.
+445,79,Male,171.2,73.7,25.1,127.0,109.0,223.0,138.0,32.0,226.0,14.6,,127/85,Medication adherence checked.
+446,76,Female,,,,167.0,144.0,,,,,14.3,,167/82,Blood pressure stable today.
+447,21,Male,,,27.3,147.0,149.0,235.0,,,197.0,13.7,1.62,147/99,Follow-up advised.
+448,79,Female,,,31.4,130.0,113.0,,159.0,54.0,159.0,10.9,1.22,130/82,Glucose levels mildly elevated; lifestyle changes advised.
+449,69,Male,179.1,78.7,34.3,162.0,148.0,,121.0,52.0,265.0,11.1,0.7,162/105,Advised ECG if symptoms persist.
+450,45,Male,162.4,,21.1,136.0,121.0,,,33.0,,12.0,0.93,136/81,Cholesterol borderline. Consider dietary modification.
+451,38,Male,168.8,68.0,19.8,160.0,105.0,,108.0,42.0,131.0,15.0,0.78,160/60,Encouraged improved hydration.
+452,43,Male,,,27.3,,134.0,,144.0,33.0,219.0,13.8,1.45,159/91,Blood pressure stable today.
+453,82,Male,188.7,56.3,19.1,147.0,166.0,,111.0,30.0,170.0,11.8,0.83,147/77,Continue present medications.
+454,67,Others,159.8,,21.1,,,,,40.0,,,,,Glucose levels mildly elevated; lifestyle changes advised.
+455,84,Female,150.3,72.8,21.3,112.0,,207.0,72.0,32.0,163.0,11.2,,112/102,Follow-up advised.
+456,19,Others,,73.9,18.5,102.0,,,,,,11.3,1.13,102/83,Lipid profile requires monitoring.
+457,23,Female,148.5,63.2,20.8,145.0,,179.0,143.0,34.0,169.0,10.8,1.25,145/102,Increase physical activity.
+458,85,Male,150.2,,30.4,157.0,159.0,,105.0,,,15.1,1.05,157/86,Lipid profile indicates borderline elevation.
+459,62,Others,145.0,75.9,36.1,153.0,,,156.0,,202.0,15.0,,153/86,Follow-up recommended after 2 weeks.
+460,55,Others,,,,136.0,,,88.0,50.0,189.0,14.2,1.27,136/103,Follow-up recommended after 2 weeks.
+461,71,Female,,,32.9,,,,101.0,48.0,130.0,,1.5,,Lipid levels require monitoring.
+462,50,Female,177.8,52.6,26.6,100.0,114.0,,86.0,45.0,194.0,14.9,1.17,100/67,Sugar levels within acceptable range.
+463,72,Others,188.2,,28.0,61.0,136.0,,146.0,35.0,129.0,12.2,1.18,158/83,Blood pressure within acceptable range.
+464,65,Others,155.2,,32.1,157.0,,,98.0,36.0,217.0,11.0,,157/81,Suggest further evaluation if symptoms persist.
+465,31,Female,,88.9,26.6,144.0,,,119.0,,,13.0,0.72,144/103,Sugar levels within acceptable range.
+466,54,Female,145.8,94.5,21.5,170.0,,,149.0,59.0,248.0,13.6,1.04,170/94,Lipid profile requires monitoring.
+467,66,Female,167.4,,20.9,148.0,115.0,,151.0,31.0,227.0,14.1,0.9,148/69,Follow-up recommended after 2 weeks.
+468,78,Male,172.6,73.3,29.3,94.0,,,95.0,,,12.1,1.15,,Follow-up recommended after 2 weeks.
+469,53,Male,,,33.6,,,,,,,,1.44,,Possible dehydration; fluids advised.
+470,50,Male,,45.8,29.0,,,,122.0,45.0,194.0,12.2,0.99,,Blood pressure requires monitoring.
+471,34,Female,171.6,66.2,26.4,136.0,127.0,,153.0,45.0,241.0,13.7,1.39,136/102,Glucose levels mildly elevated; lifestyle changes advised.
+472,63,Others,145.5,71.1,33.6,143.0,,,,32.0,162.0,11.8,0.92,143/72,Lipid profile requires monitoring.
+473,84,Male,151.6,87.7,21.9,123.0,,,153.0,50.0,111.0,13.5,,123/74,Glucose levels mildly elevated; lifestyle changes advised.
+474,44,Others,155.0,68.6,25.0,123.0,108.0,,155.0,38.0,157.0,14.6,1.22,123/97,Vitals stable. No acute concerns.
+475,35,Others,151.1,58.4,31.7,132.0,,,111.0,55.0,123.0,14.2,0.72,132/107,Reassurance provided.
+476,51,Others,166.3,62.3,29.5,148.0,96.0,,104.0,56.0,95.0,10.8,0.64,148/104,Mild elevation in glucose.
+477,40,Others,,,22.8,157.0,91.0,,98.0,57.0,192.0,12.6,1.3,157/65,Blood pressure stable today.
+478,51,Others,174.5,97.1,26.1,63.0,162.0,,144.0,42.0,,,1.06,,Further evaluation if symptoms worsen.
+479,67,Male,,91.3,23.5,124.0,165.0,,132.0,60.0,,,,124/76,Encouraged moderate daily activity.
+480,44,Female,171.5,,31.0,98.0,97.0,,,,,,0.84,,Pt stable. Continue routine follow-up.
+481,42,Female,177.7,83.7,21.1,128.0,111.0,210.0,122.0,64.0,175.0,9.7,1.26,128/72,Discussed results; patient understood.
+482,21,Male,,,,,,,,36.0,203.0,,,,Continue present medications.
+483,18,Male,166.3,81.4,26.6,108.0,,,,35.0,152.0,,0.97,108/96,BP borderline; needs monitoring.
+484,44,Female,,96.2,18.2,151.0,,,,,,,0.64,151/61,Cholesterol borderline high; monitor regularly.
+485,77,Male,,60.3,,145.0,,,145.0,52.0,129.0,,1.49,145/61,Glucose levels mildly elevated; lifestyle changes advised.
+486,74,Male,,59.7,,169.0,99.0,155.0,136.0,,96.0,11.9,1.35,169/91,Increase daily walking.
+487,22,Female,,52.3,30.2,,,,,49.0,208.0,13.9,1.02,,Increase moderate activity.
+488,23,Male,,,,108.0,,,,,185.0,,1.5,108/87,Medication adherence reviewed.
+489,34,Female,178.5,48.1,30.4,,132.0,,,33.0,174.0,14.4,1.45,,Sugar values acceptable.
+490,83,Female,161.9,,29.8,119.0,,,,30.0,,15.0,1.23,119/100,Pathology values consistent with mild deficiency.
+491,34,Others,,,24.8,123.0,120.0,,111.0,40.0,,15.1,0.97,123/80,Continue present medications.
+492,60,Female,148.5,,28.4,62.0,166.0,,,40.0,165.0,,1.23,139/69,Lipid profile indicates borderline elevation.
+493,27,Male,,,32.8,168.0,,,,43.0,,12.0,1.48,168/83,Blood pressure stable today.
+494,61,Others,153.4,46.6,28.1,103.0,,233.0,147.0,61.0,279.0,12.7,1.22,103/88,Mild elevation in glucose.
+495,58,Male,,,,132.0,121.0,,126.0,49.0,,13.6,0.81,132/93,Continue present medications.
+496,69,Others,174.0,76.0,25.8,158.0,,,83.0,,,12.0,1.41,158/63,Repeat test if clinically indicated.
+497,26,Male,152.2,47.6,20.5,81.0,97.0,,,47.0,,12.7,0.79,,Adequate control maintained.
+498,65,Male,,,26.9,112.0,,,140.0,38.0,240.0,13.4,1.47,112/102,Lipid levels require monitoring.
+499,73,Male,156.9,57.6,18.3,144.0,166.0,,101.0,35.0,190.0,13.1,0.83,144/80,Follow-up recommended after 2 weeks.
+500,53,Others,,,28.2,143.0,85.0,,130.0,58.0,119.0,,,143/101,Blood pressure stable today.
+501,67,Male,186.0,69.0,26.6,166.0,,,,64.0,208.0,15.9,1.56,166/62,Minor deficiency suspected.
+502,57,Others,148.0,45.6,20.8,,,,,37.0,,,0.93,,Essential to improve diet quality.
+503,42,Female,146.6,56.3,34.9,104.0,,,76.0,41.0,186.0,10.2,1.36,104/108,Maintain current therapy plan.
+504,45,Female,,94.7,23.8,110.0,154.0,,148.0,31.0,102.0,12.7,1.17,110/97,Sugar levels within acceptable range.
+505,26,Female,171.6,45.4,18.3,164.0,,,118.0,50.0,269.0,13.7,1.4,164/65,Follow-up recommended in 2 weeks.
+506,40,Male,184.9,54.9,21.9,126.0,89.0,250.0,106.0,,,11.2,1.13,126/88,Recheck lipid levels after 3 months.
+507,67,Male,151.1,47.6,28.2,106.0,89.0,,158.0,37.0,244.0,12.6,1.1,106/108,Glucose levels mildly elevated; lifestyle changes advised.
+508,67,Female,181.8,86.2,26.9,101.0,,195.0,92.0,59.0,197.0,14.5,1.17,101/83,Monitor BP regularly.
+509,25,Female,157.5,88.2,22.5,121.0,,,86.0,,103.0,12.6,0.7,121/74,Therapy maintaining adequate control.
+510,74,Male,149.1,96.2,17.2,161.0,79.0,186.0,96.0,43.0,235.0,14.9,0.88,161/88,Further tests if symptoms increase.
+511,37,Male,,54.4,18.9,109.0,99.0,,,47.0,120.0,,,109/90,Patient advised to maintain hydration.
+512,76,Others,177.9,68.6,17.4,,100.0,174.0,141.0,38.0,143.0,13.4,1.17,132/103,Patient reassured.
+513,66,Female,,76.3,,136.0,87.0,,143.0,53.0,130.0,10.8,0.92,136/75,Blood sugar trending upward; review lifestyle changes.
+514,55,Others,154.7,48.3,20.2,101.0,,,130.0,47.0,155.0,11.2,1.27,,Consider ECG if palpitations recur.
+515,83,Male,164.0,84.0,34.2,68.0,99.0,236.0,,42.0,,10.2,0.83,,Lifestyle modification suggested.
+516,45,Others,166.9,90.9,22.7,138.0,97.0,243.0,106.0,28.0,195.0,9.6,1.0,138/75,Hydration recommended.
+517,70,Female,162.7,,21.3,156.0,175.0,,148.0,31.0,143.0,14.5,1.11,156/88,Mild elevation in glucose; advised diet control.
+518,40,Female,182.1,75.7,30.7,82.0,156.0,,109.0,56.0,171.0,11.9,1.42,,Medication adherence reviewed.
+519,66,Others,159.5,89.2,24.0,153.0,128.0,,104.0,34.0,190.0,14.1,1.36,153/106,Pt stable. Continue routine follow-up.
+520,37,Female,153.7,68.9,34.8,,,223.0,,65.0,,14.8,1.4,,Mild elevation in glucose.
+521,39,Male,160.2,,30.3,165.0,,184.0,121.0,52.0,,14.8,1.34,165/88,Patient reassured.
+522,32,Male,180.5,84.4,28.8,101.0,99.0,,76.0,28.0,181.0,14.8,1.23,101/110,Maintain current therapy plan.
+523,38,Male,178.7,68.1,18.2,64.0,,,,,154.0,15.9,1.13,,Hydration important.
+524,54,Others,189.5,59.5,16.6,158.0,,,131.0,52.0,149.0,12.6,1.65,158/87,General improvement observed.
+525,36,Male,177.0,92.0,32.8,,122.0,,92.0,51.0,,,1.27,,Blood pressure within acceptable range.
+526,85,Others,,,,,141.0,,160.0,51.0,199.0,12.2,0.99,,Blood pressure stable today.
+527,54,Female,149.6,71.8,22.2,116.0,,,156.0,,195.0,13.0,1.12,116/68,Glucose levels mildly elevated; lifestyle changes advised.
+528,25,Male,185.2,73.1,29.5,107.0,,203.0,142.0,44.0,168.0,15.8,1.47,107/100,Vitals normal; continue medications.
+529,22,Male,150.2,,,72.0,,,,,219.0,,,,Blood pressure requires monitoring.
+530,20,Female,184.0,,34.3,43.0,105.0,201.0,113.0,,,,1.1,107/61,Monitor BP regularly at home.
+531,67,Female,,72.8,,,136.0,,,,,9.5,,,Maintain current therapy plan.
+532,52,Male,174.6,,,,,,,51.0,247.0,12.5,,,Lifestyle counseling advised.
+533,42,Others,162.7,71.7,31.1,116.0,,,,48.0,116.0,13.9,,116/86,Lipid profile requires monitoring.
+534,45,Others,148.6,46.9,21.7,,157.0,,152.0,36.0,250.0,12.2,0.94,111/86,Continue present medications.
+535,73,Male,160.2,53.5,25.6,117.0,155.0,212.0,105.0,48.0,226.0,11.0,0.76,117/64,General improvement observed.
+536,77,Female,161.7,93.6,32.5,138.0,,186.0,83.0,29.0,204.0,14.9,1.66,138/61,Repeat lipid panel in future.
+537,27,Male,172.8,,19.6,147.0,,,,54.0,,,1.4,147/82,Encouraged brisk walking.
+538,36,Others,146.0,80.5,30.8,85.0,121.0,,144.0,60.0,125.0,14.3,1.03,119/62,Vitals stable. No acute symptoms.
+539,42,Female,,50.3,,128.0,,,,,137.0,,,128/75,Check lipid panel again later.
+540,32,Male,169.1,96.5,32.1,,180.0,257.0,103.0,36.0,109.0,11.5,0.63,111/81,Values improving.
+541,20,Others,172.6,68.1,21.8,167.0,,,144.0,32.0,234.0,13.1,0.97,167/96,Improvement noted. Keep current regimen.
+542,79,Female,178.4,84.1,19.1,100.0,169.0,,156.0,,,13.8,0.92,100/77,Continue present medications.
+543,45,Others,181.5,,,166.0,110.0,216.0,,63.0,,11.1,,166/71,Hydration recommended.
+544,53,Male,,89.1,27.7,,128.0,,136.0,,227.0,14.1,1.13,142/89,Follow-up recommended after 2 weeks.
+545,68,Male,184.9,72.8,21.3,107.0,,,119.0,33.0,193.0,13.7,1.32,107/97,Lipid profile requires monitoring.
+546,35,Male,,69.6,,147.0,,,104.0,45.0,,,,147/107,Glucose levels mildly elevated; lifestyle changes advised.
+547,55,Male,164.4,,30.5,163.0,128.0,,,52.0,,,,163/83,Follow-up advised.
+548,66,Male,169.4,,33.4,125.0,,,,47.0,234.0,13.2,,125/65,Sugar levels within acceptable range.
+549,49,Female,168.9,,17.6,87.0,81.0,,,41.0,,,1.3,103/101,Mild elevation in glucose.
+550,78,Female,,,27.2,,,,101.0,58.0,,11.8,1.11,167/82,Continue present medications.
+551,32,Male,,,,65.0,83.0,,,,110.0,,,,Glucose levels mildly elevated; lifestyle changes advised.
+552,25,Female,150.7,52.7,32.4,146.0,115.0,,,30.0,273.0,,1.06,146/85,Stable. Review in OPD.
+553,60,Male,182.2,,24.3,136.0,134.0,,115.0,,219.0,13.7,1.43,136/81,Vitals stable. No acute concerns.
+554,75,Male,175.5,68.8,32.0,136.0,136.0,177.0,97.0,49.0,169.0,15.2,,136/72,Recheck lipid levels after 3 months.
+555,74,Female,161.5,87.6,32.0,72.0,84.0,,80.0,,169.0,,1.07,,Stable condition. OPD review later.
+556,39,Female,166.2,,20.2,101.0,153.0,,89.0,48.0,201.0,13.3,0.76,101/67,Glucose levels mildly elevated; lifestyle changes advised.
+557,49,Male,165.2,69.3,25.4,163.0,92.0,,123.0,43.0,207.0,12.7,0.74,163/100,Glucose levels mildly elevated; lifestyle changes advised.
+558,35,Female,,,28.7,162.0,135.0,,101.0,,141.0,14.6,1.3,162/60,Continue present medications.
+559,64,Male,187.0,61.7,22.6,166.0,,,113.0,37.0,198.0,12.4,1.02,166/78,Hb slightly low; iron-rich diet suggested.
+560,33,Male,176.5,54.6,28.8,170.0,,,160.0,44.0,247.0,11.7,1.17,170/81,Glucose slightly elevated; review diet and exercise.
+561,26,Male,153.9,,,,,,90.0,,150.0,,,,Blood pressure within acceptable range.
+562,49,Female,189.4,89.8,26.9,153.0,116.0,,150.0,38.0,177.0,12.6,1.48,153/86,Monitor BP at home regularly.
+563,63,Others,145.4,,29.9,115.0,136.0,,,30.0,157.0,14.2,1.16,115/77,Reassurance provided.
+564,34,Male,149.5,95.5,42.7,134.0,103.0,173.0,132.0,65.0,213.0,15.9,1.39,134/108,Follow-up advised.
+565,27,Others,156.0,60.1,27.5,,103.0,,97.0,58.0,203.0,,1.47,,Continue present medications.
+566,58,Female,,59.4,21.8,129.0,,,105.0,32.0,,10.6,1.32,129/100,Pathology values consistent with mild deficiency.
+567,53,Male,161.5,70.3,22.4,126.0,130.0,,126.0,32.0,180.0,14.4,0.72,126/99,Blood pressure within acceptable range.
+568,61,Female,183.2,75.1,24.1,123.0,,196.0,91.0,43.0,147.0,10.3,1.12,123/99,Follow-up advised.
+569,21,Male,,45.8,28.4,,91.0,,,38.0,152.0,,1.24,,Glucose levels mildly elevated; lifestyle changes advised.
+570,64,Female,170.1,80.8,29.3,110.0,168.0,,134.0,32.0,135.0,13.1,1.03,110/94,No clinical deterioration.
+571,22,Male,164.7,77.0,30.7,60.0,,,,,141.0,13.4,,,Encouraged moderate daily activity.
+572,65,Others,149.4,84.2,25.2,124.0,127.0,,,50.0,109.0,12.2,1.41,124/102,Blood pressure within acceptable range.
+573,29,Others,148.9,,31.3,106.0,138.0,,,43.0,,16.0,1.57,106/64,No indication of bacterial infection.
+574,50,Others,149.5,,,107.0,119.0,,81.0,29.0,168.0,,,107/70,Patient reassured.
+575,51,Male,182.9,,19.8,99.0,,,91.0,40.0,154.0,,1.07,129/90,No signs of active infection.
+576,31,Others,172.5,70.7,23.8,105.0,160.0,,75.0,59.0,110.0,12.6,0.96,,BP borderline; needs monitoring.
+577,80,Male,,,,79.0,,246.0,152.0,,134.0,14.5,0.94,,Condition stable.
+578,73,Female,,,,,150.0,,,59.0,249.0,,0.8,,Lipid levels require monitoring.
+579,20,Others,167.7,,30.1,133.0,,,,57.0,,11.4,,133/71,Continue present medications.
+580,71,Male,181.6,45.7,29.3,166.0,136.0,183.0,146.0,58.0,242.0,12.9,0.74,166/74,Patient instructed to drink more water.
+581,73,Female,172.1,72.6,25.2,165.0,151.0,,135.0,53.0,116.0,14.7,1.16,165/108,Cholesterol borderline high; monitor regularly.
+582,61,Male,151.3,94.2,30.1,167.0,,,98.0,31.0,181.0,13.5,0.86,167/74,Consider ECG if palpitations recur.
+583,83,Male,,,,158.0,,,,,225.0,,,158/67,Blood pressure stable today.
+584,62,Male,155.0,53.5,27.5,155.0,110.0,,140.0,50.0,230.0,9.6,1.15,155/106,Mild elevation in glucose; advised diet control.
+585,48,Female,176.5,77.1,31.1,148.0,136.0,,90.0,65.0,113.0,13.4,1.14,148/80,Good therapy response.
+586,23,Female,176.0,70.8,32.8,128.0,128.0,,71.0,53.0,277.0,15.6,1.59,128/95,Condition improving.
+587,31,Female,167.8,73.2,32.4,116.0,179.0,179.0,146.0,42.0,219.0,10.7,0.86,116/89,Continue medications.
+588,34,Male,176.7,83.5,22.4,111.0,,,97.0,,244.0,15.1,1.19,111/99,Continue existing therapy.
+589,85,Others,176.8,,27.3,,,,,34.0,213.0,11.1,0.92,,Infection markers normal. No antibiotics needed.
+590,82,Others,173.0,52.3,24.8,169.0,149.0,,96.0,52.0,271.0,14.8,0.69,169/110,OPD follow-up suggested.
+591,30,Female,155.6,,24.8,133.0,,,95.0,59.0,198.0,,1.14,133/83,Encouraged moderate daily activity.
+592,26,Male,147.0,88.6,41.0,167.0,,,140.0,,,,0.92,167/85,Discussed results; patient understood.
+593,47,Female,149.7,65.1,29.0,110.0,159.0,,,41.0,,,0.94,110/93,Follow-up recommended after 2 weeks.
+594,30,Female,150.7,,29.9,104.0,,174.0,114.0,,150.0,15.7,1.59,,Monitor BP regularly.
+595,34,Male,146.7,92.5,43.0,,92.0,,87.0,47.0,106.0,,1.38,,Advised patient to avoid salty foods.
+596,70,Female,172.7,,20.1,104.0,138.0,,112.0,,164.0,,1.27,104/99,Infection markers normal. No antibiotics needed.
+597,63,Male,163.5,56.9,28.2,162.0,82.0,230.0,75.0,59.0,211.0,15.5,0.8,162/69,Check lipid panel again later.
+598,55,Male,180.9,68.4,28.4,145.0,140.0,247.0,144.0,36.0,132.0,10.6,1.56,145/108,Hydration recommended.
+599,35,Others,,56.1,26.7,114.0,86.0,,139.0,,182.0,12.8,1.35,114/61,Continue present medications.
+600,62,Female,,53.8,,62.0,109.0,,111.0,,,12.8,,,Increase moderate activity.
+601,74,Male,182.9,99.9,32.0,157.0,130.0,,,53.0,272.0,13.6,,157/64,Good therapy response.
+602,43,Male,177.2,87.2,24.7,,163.0,249.0,111.0,46.0,220.0,14.6,0.8,109/94,Continue medications.
+603,36,Male,157.8,65.0,17.5,117.0,180.0,207.0,155.0,46.0,195.0,10.3,1.39,117/83,Values improving.
+604,63,Others,148.5,78.6,22.2,128.0,160.0,,121.0,56.0,126.0,,0.97,128/93,Lipid profile requires monitoring.
+605,74,Male,,,29.9,142.0,170.0,,108.0,57.0,116.0,11.6,0.75,142/80,Continue present medications.
+606,24,Female,173.6,90.4,24.6,143.0,,,142.0,56.0,215.0,12.6,1.3,143/70,Glucose slightly elevated; review diet and exercise.
+607,44,Others,146.1,,19.5,,,,,,,,1.05,,Lipid profile requires monitoring.
+608,65,Female,,49.4,,166.0,140.0,,,54.0,,12.7,0.71,166/106,Lifestyle counseling advised.
+609,27,Male,,63.9,33.9,90.0,100.0,,,49.0,237.0,13.3,0.83,131/104,Values improving.
+610,52,Male,188.8,,18.1,143.0,123.0,,153.0,32.0,101.0,12.5,,143/86,Maintain current therapy plan.
+611,67,Male,147.9,56.6,18.7,75.0,109.0,,,51.0,204.0,14.2,1.2,,Possible dehydration; fluids advised.
+612,46,Male,170.2,77.2,26.7,86.0,124.0,,147.0,55.0,182.0,15.3,,,Needs follow-up in OPD.
+613,20,Male,189.8,68.2,31.1,149.0,162.0,,158.0,34.0,143.0,11.0,0.96,149/108,Sugar levels within acceptable range.
+614,78,Male,,,33.8,135.0,,,122.0,42.0,207.0,14.4,1.06,135/102,Glucose levels mildly elevated; lifestyle changes advised.
+615,57,Male,,,25.0,108.0,,,111.0,,195.0,10.5,0.94,108/65,Glucose levels mildly elevated; lifestyle changes advised.
+616,54,Others,169.2,72.6,21.0,138.0,132.0,,82.0,53.0,140.0,10.9,0.83,138/95,No clinical signs of deterioration.
+617,21,Female,173.8,,17.5,48.0,172.0,241.0,145.0,34.0,115.0,9.7,0.86,168/102,Mild elevation in glucose.
+618,84,Male,175.0,77.2,20.1,133.0,94.0,245.0,135.0,33.0,150.0,12.9,1.5,133/73,Values improving.
+619,22,Male,,45.2,,,,,128.0,41.0,,,,,Vitals stable. Continue medications.
+620,55,Others,153.5,67.0,28.8,160.0,145.0,,94.0,34.0,243.0,15.4,0.86,160/105,Diet modification essential.
+621,73,Male,149.7,92.3,33.3,116.0,75.0,,124.0,28.0,114.0,15.9,1.24,116/84,Reassured patient.
+622,78,Male,152.8,93.5,19.5,105.0,,198.0,124.0,61.0,108.0,12.4,1.17,105/78,Mild elevation in glucose.
+623,53,Male,172.7,94.2,17.7,,86.0,253.0,78.0,61.0,130.0,10.8,1.64,,Patient instructed to drink more water.
+624,37,Female,,49.2,31.8,109.0,85.0,,102.0,53.0,139.0,12.0,,109/81,Follow-up recommended after 2 weeks.
+625,55,Male,,53.5,,,94.0,,159.0,,,14.3,,123/88,Sugar levels within acceptable range.
+626,44,Female,,,23.9,157.0,139.0,,92.0,40.0,218.0,11.6,0.82,157/108,Blood pressure stable today.
+627,21,Male,186.5,,25.7,134.0,,,117.0,37.0,,,0.81,134/94,Follow-up recommended after 2 weeks.
+628,18,Male,180.3,63.1,29.9,119.0,91.0,215.0,90.0,60.0,257.0,13.8,1.54,119/70,Mild elevation in glucose.
+629,51,Male,176.2,95.3,32.9,122.0,106.0,200.0,107.0,59.0,273.0,12.4,1.46,122/65,Therapy response is satisfactory.
+630,25,Others,173.2,45.1,15.0,142.0,104.0,,,,163.0,,0.75,142/92,Patient advised to hydrate adequately.
+631,80,Others,163.6,85.8,33.2,70.0,,,155.0,45.0,247.0,13.9,1.3,,Lipid profile requires monitoring.
+632,79,Others,,,23.6,169.0,137.0,,128.0,52.0,127.0,12.7,1.4,169/103,Follow-up recommended after 2 weeks.
+633,64,Female,,,29.7,,,,,57.0,227.0,,,,Glucose levels mildly elevated; lifestyle changes advised.
+634,32,Female,,,23.3,115.0,165.0,,135.0,42.0,106.0,12.1,1.0,115/76,Blood pressure stable today.
+635,73,Others,,53.6,,110.0,109.0,,,41.0,173.0,,1.69,110/108,Continue medications.
+636,48,Male,146.7,73.9,20.4,,,,146.0,56.0,119.0,13.6,1.08,,Continue present medications.
+637,19,Female,163.4,49.4,27.8,102.0,153.0,,103.0,51.0,228.0,12.2,1.42,102/93,Possible dehydration; fluids advised.
+638,50,Female,,74.4,,85.0,119.0,,,,129.0,,1.01,,Pt stable. Continue routine follow-up.
+639,23,Male,152.5,52.3,28.6,,179.0,227.0,78.0,44.0,204.0,10.0,1.46,162/107,Values improved compared to previous results.
+640,41,Female,,,30.8,136.0,,,111.0,38.0,186.0,11.7,1.0,136/105,Improvement noted. Keep current regimen.
+641,66,Female,174.9,66.0,33.2,59.0,,,,34.0,214.0,11.2,,156/65,Further evaluation if symptoms persist.
+642,37,Male,170.4,,23.2,167.0,,,98.0,43.0,247.0,,1.0,167/70,Blood pressure within acceptable range.
+643,65,Male,183.4,81.2,20.0,119.0,155.0,,144.0,52.0,232.0,11.0,1.17,119/101,Improvement noted. Keep current regimen.
+644,61,Female,,,29.6,,,,,,,12.1,,,Medication adherence reviewed.
+645,24,Female,172.2,83.8,23.1,122.0,78.0,,,51.0,245.0,13.7,,122/81,Lifestyle modification suggested.
+646,61,Others,173.5,45.5,33.2,149.0,143.0,,83.0,37.0,188.0,11.6,1.09,149/79,Monitor BP at home regularly.
+647,78,Others,163.6,82.0,30.6,123.0,128.0,,,32.0,131.0,15.4,,123/72,Possible dehydration; fluids advised.
+648,39,Male,,89.0,19.4,,,234.0,,,145.0,10.6,1.6,,Patient reassured.
+649,34,Female,,94.8,27.6,140.0,,,,31.0,192.0,13.1,1.25,140/106,Encouraged moderate daily activity.
+650,70,Female,166.6,88.2,31.8,111.0,123.0,195.0,111.0,42.0,209.0,13.0,1.06,111/69,Lifestyle modification suggested.
+651,18,Male,169.1,95.7,33.5,104.0,161.0,173.0,142.0,,124.0,9.9,1.37,104/103,Values improving.
+652,76,Others,171.5,66.4,34.9,115.0,102.0,240.0,97.0,56.0,156.0,11.5,0.65,115/76,Condition stable.
+653,45,Female,179.3,79.8,23.6,162.0,132.0,239.0,147.0,40.0,176.0,10.5,0.85,162/91,Patient reassured.
+654,74,Female,176.8,,26.3,152.0,155.0,,,31.0,128.0,12.5,,152/85,Blood pressure within acceptable range.
+655,34,Male,183.6,93.7,28.5,105.0,,156.0,119.0,,240.0,15.8,0.8,105/68,Condition stable.
+656,74,Female,,,23.4,,,,83.0,,170.0,13.7,1.14,,Continue present medications.
+657,53,Male,157.7,57.8,23.2,40.0,119.0,,90.0,44.0,133.0,11.1,1.34,142/92,Repeat test if clinically indicated.
+658,45,Female,145.9,71.2,19.3,162.0,95.0,227.0,109.0,43.0,,14.3,1.19,162/87,Values improving.
+659,38,Others,,,21.9,,138.0,,155.0,54.0,163.0,12.5,1.13,155/83,Lipid levels require monitoring.
+660,85,Others,188.0,75.2,23.7,,,,149.0,56.0,140.0,14.6,,100/107,No clinical deterioration.
+661,70,Male,,53.8,,,,,,37.0,122.0,10.5,,,Vitals stable. No acute concerns.
+662,46,Female,172.7,61.9,30.3,117.0,,,136.0,56.0,244.0,11.6,,117/62,Infection markers normal. No antibiotics needed.
+663,85,Female,,88.1,26.6,103.0,,,83.0,,,9.7,,,No indication of bacterial infection.
+664,18,Others,165.2,68.4,27.1,143.0,,,142.0,46.0,140.0,,,143/100,Suggest further evaluation if symptoms persist.
+665,70,Female,167.1,85.4,23.5,141.0,157.0,,145.0,33.0,246.0,15.0,1.39,141/79,Reduce salt intake.
+666,42,Male,188.7,79.6,27.9,148.0,172.0,,,40.0,154.0,15.9,0.62,148/78,Maintain current therapy plan.
+667,23,Female,,,29.6,148.0,,,89.0,50.0,171.0,14.6,1.07,148/66,Blood pressure stable today.
+668,40,Male,186.9,87.6,31.3,136.0,140.0,,108.0,35.0,127.0,15.1,1.08,136/72,Follow-up in 1â2 weeks recommended.
+669,83,Female,188.2,,,122.0,159.0,,,,225.0,10.9,1.42,122/95,Sugar levels within acceptable range.
+670,73,Others,149.9,,25.1,120.0,,,94.0,38.0,213.0,12.7,,120/98,Continue present medications.
+671,71,Female,177.7,,33.3,158.0,81.0,,145.0,51.0,,,0.76,158/79,Glucose levels mildly elevated; lifestyle changes advised.
+672,19,Others,174.3,55.2,22.2,127.0,114.0,,,40.0,168.0,,0.82,127/96,Continue present medications.
+673,52,Male,,68.2,26.7,146.0,,,,49.0,,14.9,,146/73,Hb slightly low; iron-rich diet suggested.
+674,34,Male,,,31.3,128.0,147.0,,,44.0,159.0,,,128/90,Lipid levels require monitoring.
+675,63,Male,173.1,65.4,31.4,114.0,,,123.0,40.0,204.0,15.1,1.18,114/64,Blood pressure requires monitoring.
+676,42,Male,167.9,,,115.0,,,88.0,34.0,,,0.96,115/106,Blood pressure within acceptable range.
+677,54,Others,174.7,80.6,26.1,148.0,156.0,,95.0,36.0,198.0,9.8,1.46,148/61,Retest if required clinically.
+678,80,Female,149.5,,23.8,,,225.0,88.0,32.0,,15.0,,,Lifestyle modification suggested.
+679,39,Female,149.8,,33.2,160.0,104.0,,132.0,57.0,213.0,,1.17,160/62,Hb slightly low; iron-rich diet suggested.
+680,74,Female,164.5,76.6,31.5,136.0,,,,,,10.7,1.04,136/62,Condition stable.
+681,56,Female,182.4,69.5,22.0,113.0,90.0,,97.0,44.0,169.0,14.0,1.42,113/93,Needs follow-up in OPD.
+682,81,Female,,,32.2,138.0,124.0,,143.0,52.0,204.0,15.4,1.03,138/66,Blood pressure stable today.
+683,55,Female,148.9,94.5,18.2,106.0,161.0,,147.0,54.0,121.0,13.5,0.73,106/80,Pt stable. Continue routine follow-up.
+684,28,Others,159.4,86.8,22.9,152.0,108.0,,113.0,55.0,,11.2,,152/73,Encouraged daily walking.
+685,47,Female,147.5,,33.0,123.0,80.0,,85.0,32.0,188.0,,1.24,123/64,Continue existing therapy.
+686,30,Male,,,23.8,,155.0,,124.0,52.0,107.0,,1.11,,Lipid levels require monitoring.
+687,22,Others,,62.3,30.7,104.0,115.0,,,31.0,240.0,11.4,0.72,104/104,Diet modification essential.
+688,70,Male,156.2,,18.4,137.0,,,94.0,49.0,176.0,13.1,0.92,137/100,Continue present medications.
+689,51,Female,151.3,88.5,20.9,165.0,,,114.0,55.0,185.0,13.2,1.29,165/103,Vitals stable. No acute concerns.
+690,19,Others,174.8,74.8,27.7,86.0,122.0,,109.0,40.0,137.0,15.4,,,Lipid profile requires monitoring.
+691,85,Others,162.1,89.6,24.0,143.0,153.0,152.0,131.0,54.0,159.0,12.2,0.88,143/70,Discussed results; patient understood.
+692,26,Others,158.4,46.1,21.2,109.0,109.0,,91.0,50.0,112.0,14.6,0.73,109/69,Patient advised to maintain hydration.
+693,39,Male,178.1,89.8,24.1,105.0,,,123.0,41.0,197.0,,1.23,,Blood pressure requires monitoring.
+694,33,Male,,,18.6,107.0,134.0,,159.0,,125.0,13.1,,107/108,Patient advised to maintain hydration.
+695,28,Female,179.5,81.2,25.2,126.0,,,,48.0,217.0,11.7,,126/73,Continue present medications.
+696,66,Others,149.6,88.2,25.0,139.0,159.0,,132.0,47.0,178.0,10.6,1.59,139/103,Increase physical movement.
+697,29,Others,164.9,,35.9,163.0,,,,31.0,95.0,14.0,,163/71,No signs of infection detected.
+698,20,Others,151.5,83.2,36.2,99.0,84.0,,116.0,56.0,,,1.1,125/66,BP requires regular monitoring.
+699,32,Male,,,,,115.0,,139.0,46.0,,,0.78,,Follow-up recommended after 2 weeks.
+700,18,Female,,71.1,,85.0,,,85.0,51.0,180.0,13.0,0.82,,Reassurance provided.
+701,66,Others,186.8,71.5,20.5,79.0,159.0,181.0,139.0,35.0,216.0,14.1,1.37,,Discussed results; patient understood.
+702,31,Others,153.2,,32.4,132.0,125.0,,154.0,42.0,159.0,,1.46,132/80,Blood pressure within acceptable range.
+703,46,Others,160.8,64.8,30.8,138.0,126.0,206.0,86.0,62.0,110.0,15.2,1.51,138/91,Values improving.
+704,57,Male,,,25.4,104.0,,,85.0,38.0,225.0,11.3,1.07,104/66,Continue present medications.
+705,58,Male,175.0,,27.7,61.0,,,120.0,33.0,143.0,11.2,1.39,,Medication adherence discussed.
+706,78,Others,182.7,71.3,35.9,162.0,114.0,,77.0,,161.0,10.9,1.34,162/97,Mild elevation in glucose.
+707,51,Others,169.0,70.8,21.5,130.0,,177.0,155.0,,264.0,13.2,0.95,130/89,Hydration recommended.
+708,63,Male,,,,129.0,,,,44.0,,,0.92,129/104,Continue present medications.
+709,44,Female,151.8,67.3,20.3,117.0,140.0,,130.0,55.0,173.0,13.1,0.74,117/94,Monitor BP at home regularly.
+710,73,Male,167.0,,,110.0,,,,,,,1.14,,Vitals stable. Continue medications.
+711,53,Female,164.3,68.6,33.6,111.0,143.0,155.0,118.0,31.0,186.0,9.8,1.33,111/71,General improvement observed.
+712,70,Female,160.2,88.1,34.3,,,,97.0,59.0,193.0,11.7,1.29,,Blood sugar trending upward; review lifestyle changes.
+713,30,Female,,89.9,33.6,137.0,,,143.0,31.0,133.0,,0.9,137/99,Repeat lipid panel in future.
+714,74,Male,,,,106.0,84.0,,108.0,,,12.7,,,Glucose slightly elevated; review diet and exercise.
+715,56,Others,172.3,65.7,30.0,138.0,169.0,,,,177.0,12.3,1.27,138/74,No signs of active infection.
+716,37,Female,159.9,99.9,32.8,134.0,114.0,228.0,104.0,49.0,222.0,12.7,0.95,134/72,Encouraged regular physical activity.
+717,54,Female,,45.3,20.7,169.0,140.0,,97.0,51.0,,14.3,1.28,169/91,Sugar levels within acceptable range.
+718,63,Female,146.1,57.4,33.2,112.0,96.0,,113.0,48.0,202.0,11.4,1.46,112/83,Glucose slightly elevated; review diet and exercise.
+719,60,Female,,,,154.0,143.0,,137.0,56.0,178.0,14.9,0.92,154/110,Sugar levels within acceptable range.
+720,58,Others,,78.6,23.8,151.0,104.0,,100.0,33.0,154.0,,1.33,151/66,Hb slightly low; iron-rich diet suggested.
+721,49,Female,,,33.4,138.0,,,146.0,46.0,,13.0,0.71,138/98,Glucose levels mildly elevated; lifestyle changes advised.
+722,24,Female,,89.4,25.1,63.0,,,145.0,,206.0,,0.97,,Improvement noted. Keep current regimen.
+723,25,Male,,,,147.0,,157.0,,31.0,127.0,13.7,0.81,147/70,Monitor BP regularly.
+724,62,Female,,68.6,,83.0,120.0,,,,103.0,,0.98,,Check BP at home twice daily.
+725,47,Male,151.8,52.5,23.0,147.0,,,87.0,30.0,166.0,15.0,1.0,147/99,Infection markers normal. No antibiotics needed.
+726,27,Male,152.2,80.6,35.8,143.0,114.0,195.0,,58.0,,10.2,1.63,143/86,Reduce salt intake.
+727,53,Others,,,,81.0,,,104.0,,,,,,Lifestyle counseling advised.
+728,41,Female,188.7,89.5,26.1,64.0,103.0,,111.0,50.0,175.0,12.0,0.75,151/71,Discussed with patient. Understood.
+729,51,Female,156.2,,25.4,109.0,132.0,155.0,,39.0,140.0,11.2,1.07,,Continue medications.
+730,21,Others,,46.8,,,127.0,,111.0,51.0,113.0,,0.75,,Lipid profile requires monitoring.
+731,48,Female,,,30.5,106.0,159.0,,,39.0,177.0,13.8,1.36,106/90,Lipid levels require monitoring.
+732,60,Others,181.5,,32.2,162.0,138.0,,134.0,42.0,162.0,,1.52,162/74,Diet improvement essential.
+733,62,Male,,,,,,,87.0,34.0,,,,,Lipid levels require monitoring.
+734,34,Female,145.3,77.9,36.9,106.0,83.0,,,,,,0.92,,Encouraged daily walking.
+735,79,Others,160.3,,,101.0,,,137.0,53.0,164.0,10.7,,101/70,Stable condition. OPD review later.
+736,58,Male,183.6,,,62.0,138.0,164.0,141.0,45.0,162.0,12.4,1.24,,Explained results clearly; patient agreed.
+737,24,Female,159.3,61.8,21.8,79.0,156.0,247.0,102.0,57.0,110.0,14.6,1.51,159/95,Check lipid panel again later.
+738,38,Others,183.6,73.2,25.9,152.0,,,95.0,57.0,119.0,15.0,1.06,152/91,Continue present medications.
+739,62,Female,,,,144.0,,,154.0,40.0,191.0,11.5,,144/79,Lipid levels require monitoring.
+740,29,Others,161.2,46.1,29.9,110.0,121.0,,102.0,40.0,123.0,11.3,1.22,110/89,Recommend rechecking lipids after 3 months.
+741,20,Male,157.1,74.8,28.8,117.0,78.0,241.0,70.0,63.0,276.0,10.8,1.03,117/87,Increase daily walking.
+742,44,Female,186.4,81.5,32.1,166.0,100.0,,140.0,38.0,242.0,14.9,0.96,166/77,Advised patient to avoid salty foods.
+743,42,Female,146.0,58.2,24.1,169.0,156.0,,120.0,,102.0,,,169/86,Discussed with patient. Understood.
+744,29,Female,169.3,70.6,30.4,153.0,136.0,240.0,159.0,45.0,277.0,14.0,1.12,153/79,Patient reassured.
+745,29,Others,185.7,51.6,17.2,,75.0,,,,144.0,,,,Follow-up advised.
+746,74,Others,,,22.9,,,,148.0,60.0,,,1.45,,Glucose levels mildly elevated; lifestyle changes advised.
+747,19,Female,184.1,62.4,19.7,166.0,152.0,,110.0,33.0,118.0,11.1,1.45,166/109,Continue present medications.
+748,63,Male,148.2,90.6,28.4,144.0,,,121.0,52.0,243.0,12.6,0.93,144/107,Lifestyle counseling advised.
+749,51,Others,,,,112.0,,,,,,11.1,,112/100,Medication adherence checked.
+750,73,Male,,54.7,,,,,152.0,36.0,,,1.09,,Increase moderate activity.
+751,63,Male,146.9,47.0,21.8,164.0,,258.0,88.0,,237.0,11.3,1.11,164/94,Mild anemia; increase iron intake.
+752,61,Male,146.9,80.9,20.7,129.0,112.0,,90.0,54.0,158.0,11.6,0.87,129/92,Needs follow-up in OPD.
+753,77,Male,152.9,,30.4,169.0,,,88.0,43.0,143.0,10.7,1.33,169/78,Recommend rechecking lipids after 3 months.
+754,20,Others,151.8,,28.7,143.0,100.0,,131.0,32.0,136.0,13.9,1.2,143/105,Lipid profile indicates borderline elevation.
+755,25,Others,,62.8,23.6,167.0,,255.0,99.0,50.0,212.0,10.1,,167/68,Condition stable.
+756,30,Others,175.3,81.5,21.2,58.0,110.0,,125.0,58.0,135.0,13.1,1.19,117/78,Needs follow-up in OPD.
+757,43,Male,,,,,,,,,233.0,11.3,,,Discussed results; patient understood.
+758,31,Male,,74.0,22.2,,,,114.0,,,,0.92,,No indication of bacterial infection.
+759,85,Others,,86.6,24.2,110.0,93.0,,102.0,,222.0,10.5,,,Mild anemia; increase iron intake.
+760,65,Others,,,30.1,,,,,,229.0,15.2,,,Increase daily fluid intake.
+761,27,Others,177.4,59.8,28.1,109.0,,,,,,,0.88,,Improvement noted. Keep current regimen.
+762,56,Others,,,30.6,103.0,145.0,,158.0,48.0,223.0,13.9,1.47,103/90,Glucose levels mildly elevated; lifestyle changes advised.
+763,25,Male,163.3,76.3,28.6,,,,,,,,0.92,,Lipid profile requires monitoring.
+764,38,Female,152.0,77.2,33.4,104.0,,,,45.0,230.0,10.5,1.19,104/66,Monitor BP at home regularly.
+765,47,Others,,55.6,29.8,168.0,,,153.0,,214.0,,1.12,168/79,Minor deficiency suspected.
+766,28,Others,150.6,,,83.0,,237.0,123.0,,,15.4,0.65,135/84,Follow-up advised.
+767,38,Male,,,,116.0,,,119.0,,124.0,11.6,0.74,116/97,Follow-up recommended after 2 weeks.
+768,67,Male,,82.7,32.5,111.0,100.0,,153.0,48.0,,11.6,1.37,111/104,Repeat test if clinically indicated.
+769,51,Others,164.4,72.4,32.9,119.0,124.0,215.0,115.0,37.0,207.0,13.3,1.6,119/66,Therapy response is satisfactory.
+770,80,Others,162.4,85.3,32.3,150.0,127.0,,,46.0,,15.1,0.92,150/98,Reassured patient.
+771,69,Female,,72.2,24.2,92.0,162.0,195.0,77.0,,168.0,13.4,,,Cholesterol borderline; monitor periodically.
+772,69,Male,,53.7,18.5,135.0,158.0,,134.0,59.0,122.0,10.6,0.95,135/95,OPD follow-up suggested.
+773,35,Others,152.2,91.6,33.1,165.0,109.0,203.0,77.0,38.0,143.0,11.0,0.75,165/93,Follow-up advised.
+774,56,Female,151.7,87.2,18.5,114.0,161.0,,152.0,36.0,,,1.04,114/108,Lifestyle counseling advised.
+775,25,Female,149.8,79.0,17.8,166.0,126.0,,100.0,38.0,139.0,16.0,0.67,166/97,Increase physical movement.
+776,44,Male,,,,,106.0,,84.0,,236.0,14.2,0.95,,Lipid levels require monitoring.
+777,68,Female,159.3,63.9,26.5,126.0,84.0,,139.0,58.0,238.0,15.3,1.25,126/84,Infection markers normal. No antibiotics needed.
+778,54,Others,183.9,68.4,25.3,,170.0,,97.0,,,14.0,0.87,,Reassurance provided.
+779,85,Female,176.2,,30.4,,,,116.0,,,,1.29,,Glucose levels mildly elevated; lifestyle changes advised.
+780,36,Male,,,20.7,141.0,109.0,,87.0,59.0,201.0,13.9,,141/88,Follow-up recommended after 2 weeks.
+781,57,Female,156.8,88.4,33.0,102.0,,,151.0,56.0,150.0,12.3,0.87,102/62,Continue present medications.
+782,61,Female,179.9,72.3,22.3,143.0,136.0,,,64.0,,,1.19,143/71,Medication routine reviewed.
+783,67,Male,185.8,,29.4,157.0,140.0,,125.0,45.0,225.0,,,157/99,Needs follow-up in OPD.
+784,56,Female,,,,132.0,112.0,,,,,14.1,0.76,132/69,Condition stable.
+785,34,Others,178.1,97.0,25.5,106.0,167.0,192.0,,57.0,205.0,15.2,1.38,106/99,Discussed results; patient understood.
+786,78,Others,,,18.3,163.0,136.0,,137.0,40.0,199.0,,,163/62,Advised patient to avoid salty foods.
+787,76,Male,169.9,85.4,29.6,168.0,159.0,,154.0,52.0,271.0,14.8,0.98,168/98,Maintain current therapy plan.
+788,44,Female,155.1,,26.3,65.0,,,138.0,51.0,213.0,,1.39,,Vitals stable. No acute concerns.
+789,77,Female,,,,,,,90.0,34.0,,10.8,1.23,,Continue present medications.
+790,80,Others,174.4,,21.8,152.0,,,136.0,43.0,237.0,10.9,1.11,152/76,Follow-up recommended after 2 weeks.
+791,43,Others,182.0,78.1,21.8,40.0,152.0,216.0,155.0,53.0,160.0,15.8,0.86,151/65,Monitor BP regularly.
+792,59,Others,,79.8,29.6,154.0,,,153.0,,,11.6,1.41,154/78,Lifestyle counseling advised.
+793,69,Male,164.5,72.8,26.5,101.0,116.0,,136.0,51.0,109.0,11.3,0.75,101/101,Sugar levels within acceptable range.
+794,79,Others,179.0,87.5,32.8,117.0,157.0,215.0,106.0,39.0,105.0,11.7,0.87,117/86,No signs of infection detected.
+795,47,Male,166.9,53.2,28.5,147.0,126.0,245.0,,48.0,,10.9,,147/70,Lifestyle modification suggested.
+796,71,Male,171.3,94.4,25.6,146.0,,,106.0,58.0,189.0,14.9,1.36,146/97,No signs of active infection.
+797,25,Male,,,20.5,,79.0,,154.0,,177.0,,,,Lifestyle modification suggested.
+798,78,Others,178.5,45.4,24.4,155.0,,,98.0,30.0,189.0,9.9,1.43,155/94,Follow-up recommended in 2 weeks.
+799,55,Others,155.9,47.6,23.1,150.0,151.0,241.0,155.0,28.0,264.0,13.0,1.33,150/74,Condition stable.
+800,47,Female,167.5,73.1,20.6,139.0,,,83.0,35.0,166.0,13.7,1.41,139/68,Increase physical movement.
+801,40,Female,166.1,63.6,23.3,150.0,107.0,,124.0,50.0,131.0,14.9,0.91,150/92,Continue present medications.
+802,61,Female,179.4,,31.2,141.0,120.0,,,35.0,110.0,,1.26,141/61,Reassurance provided.
+803,60,Male,,,,,,,86.0,,170.0,,0.85,,Continue present medications.
+804,51,Female,,96.3,25.0,96.0,143.0,162.0,148.0,47.0,188.0,14.4,,106/105,Patient reassured.
+805,83,Female,145.8,69.2,29.6,,156.0,,128.0,48.0,238.0,13.1,1.16,150/99,Mild anemia; iron-rich foods suggested.
+806,68,Female,,,28.4,110.0,,,,47.0,214.0,,,110/61,Blood pressure within acceptable range.
+807,20,Male,150.0,70.7,18.7,165.0,95.0,155.0,99.0,51.0,212.0,12.7,0.91,165/69,Major dietary change required.
+808,49,Others,152.1,47.2,20.4,109.0,105.0,,112.0,,,13.4,1.18,109/94,Encouraged daily walking.
+809,82,Others,162.1,61.9,28.4,158.0,,,,31.0,,11.5,,158/86,Recommend rechecking lipids after 3 months.
+810,55,Others,170.7,77.3,19.4,156.0,,,137.0,56.0,193.0,12.5,1.1,156/79,Patient advised to maintain hydration.
+811,22,Others,154.0,,23.5,151.0,108.0,,114.0,55.0,102.0,12.9,1.26,151/69,Increase physical activity.
+812,66,Female,180.1,61.8,19.5,168.0,,,148.0,47.0,233.0,13.9,1.06,168/75,Continue present medications.
+813,30,Female,178.0,82.3,30.1,120.0,,,106.0,37.0,125.0,13.6,1.4,120/89,Continue present medications.
+814,55,Others,,,25.5,136.0,163.0,,125.0,52.0,,14.8,,136/85,Hydration emphasized.
+815,28,Female,164.0,50.7,32.8,94.0,109.0,,103.0,34.0,122.0,15.0,1.38,145/82,Advised patient to avoid salty foods.
+816,76,Male,177.2,80.3,25.1,65.0,80.0,,153.0,31.0,118.0,12.8,1.27,144/110,Lifestyle counseling advised.
+817,48,Female,147.9,,23.9,129.0,,221.0,82.0,60.0,181.0,,1.61,129/77,Therapy response is satisfactory.
+818,34,Female,161.9,,30.2,,,214.0,,31.0,254.0,12.5,0.63,123/103,Discussed results; patient understood.
+819,71,Male,170.3,61.5,23.4,120.0,146.0,166.0,114.0,,94.0,13.6,,120/103,Repeat lipid panel in future.
+820,34,Male,160.0,75.8,23.4,155.0,99.0,,,36.0,171.0,,,155/78,Medication adherence reviewed.
+821,74,Male,,,20.6,140.0,121.0,,97.0,59.0,200.0,14.2,1.11,140/87,Continue present medications.
+822,28,Female,160.5,,24.2,101.0,83.0,,122.0,37.0,,14.2,,,Discussed with patient. Understood.
+823,60,Female,178.9,83.8,32.4,86.0,103.0,,146.0,,142.0,11.8,0.87,,No signs of active infection.
+824,82,Others,176.7,60.6,25.0,117.0,,155.0,128.0,62.0,131.0,12.4,1.06,117/108,Continue medications.
+825,56,Others,,68.4,,88.0,123.0,,140.0,60.0,200.0,15.5,,,Consider ECG if palpitations recur.
+826,78,Female,146.6,59.0,22.5,131.0,115.0,,121.0,40.0,178.0,13.3,0.81,131/82,Sugar levels within acceptable range.
+827,31,Others,169.6,,17.1,120.0,131.0,,85.0,,242.0,14.8,1.3,120/106,Patient instructed to drink more water.
+828,44,Male,180.6,53.1,23.3,150.0,,,87.0,31.0,173.0,11.7,0.76,150/95,Continue present medications.
+829,61,Others,168.7,,21.4,66.0,81.0,,116.0,,109.0,12.9,1.06,,Levels improving compared to last visit.
+830,59,Male,,69.6,,116.0,155.0,,,,152.0,,1.43,116/62,Continue present medications.
+831,23,Male,165.8,78.6,20.6,161.0,,,107.0,63.0,202.0,15.2,1.09,161/61,Diet improvement essential.
+832,70,Female,185.3,75.8,25.3,149.0,,,160.0,41.0,166.0,,0.77,149/105,Follow-up recommended after 2 weeks.
+833,49,Male,149.4,,23.0,114.0,,255.0,70.0,31.0,119.0,10.6,1.1,114/80,Monitor BP regularly at home.
+834,83,Female,188.6,46.5,27.2,71.0,168.0,,97.0,,173.0,11.8,,,Advised patient to avoid salty foods.
+835,35,Others,152.3,77.2,27.8,150.0,172.0,,145.0,65.0,169.0,14.5,0.88,150/108,Low hemoglobin; increase iron intake.
+836,62,Male,177.6,73.6,23.3,145.0,,,129.0,,,13.7,1.69,145/86,Lifestyle modification suggested.
+837,70,Others,156.4,72.6,29.0,146.0,82.0,,,54.0,247.0,11.1,1.26,146/67,Increase physical activity.
+838,35,Male,,86.9,32.1,99.0,,,151.0,39.0,213.0,14.9,0.87,161/97,Blood sugar trending upward; review lifestyle changes.
+839,77,Female,164.6,91.6,29.9,143.0,,,90.0,60.0,207.0,13.7,1.11,143/96,Lifestyle counseling advised.
+840,33,Female,159.0,50.6,25.1,107.0,,,,46.0,135.0,13.9,,107/99,Medication adherence reviewed.
+841,44,Female,165.8,86.5,31.5,110.0,,,133.0,,100.0,,0.79,110/106,Patient advised to maintain hydration.
+842,76,Others,154.7,,21.2,115.0,124.0,,,36.0,180.0,10.9,1.44,115/83,Lipid profile requires monitoring.
+843,72,Female,176.8,,,133.0,,,143.0,,254.0,13.9,0.97,133/81,Medication routine reviewed.
+844,30,Female,,,,121.0,132.0,236.0,131.0,48.0,,,,121/60,Increase daily walking.
+845,24,Female,164.8,73.3,29.7,151.0,,205.0,113.0,29.0,148.0,13.7,1.6,151/84,Improve sleep hygiene.
+846,45,Female,149.0,50.6,20.9,104.0,165.0,,118.0,42.0,107.0,12.7,1.01,104/83,Follow-up recommended after 2 weeks.
+847,71,Female,,53.0,27.2,,137.0,257.0,85.0,35.0,153.0,,1.65,,OPD visit recommended.
+848,33,Male,,68.0,,136.0,,,,32.0,,10.4,,136/76,Hydration recommended.
+849,81,Male,172.8,,20.8,,,,,,235.0,9.7,0.86,,Values improved compared to previous results.
+850,20,Male,,81.1,23.8,105.0,,,87.0,38.0,180.0,,,105/63,Blood pressure within acceptable range.
+851,52,Female,,,,,152.0,,,,115.0,11.8,,,Follow-up recommended after 2 weeks.
+852,83,Others,,89.4,28.2,,,,114.0,48.0,,,0.94,,Patient reassured.
+853,32,Male,157.0,84.3,20.2,106.0,140.0,,82.0,51.0,233.0,13.6,0.75,106/96,Pt stable. Continue routine follow-up.
+854,74,Male,,,21.3,,,,,,,12.4,,,Lipid levels require monitoring.
+855,35,Male,,73.1,,61.0,,,139.0,,,15.4,,,Follow-up recommended after 2 weeks.
+856,85,Others,177.7,70.7,18.8,124.0,143.0,213.0,126.0,54.0,155.0,14.8,0.7,124/99,Check lipid panel again later.
+857,47,Female,182.0,,31.4,114.0,,,,52.0,154.0,,0.81,114/87,Lipid profile requires monitoring.
+858,80,Male,173.3,47.9,29.5,104.0,119.0,202.0,,59.0,125.0,15.7,1.09,,Monitor BP regularly.
+859,60,Others,149.9,76.1,19.5,138.0,,,89.0,57.0,228.0,14.1,1.46,138/106,Follow-up recommended after 2 weeks.
+860,19,Female,163.5,91.8,33.8,149.0,137.0,,85.0,,,13.1,,149/70,Blood pressure within acceptable range.
+861,32,Male,148.1,70.5,25.8,142.0,,,80.0,35.0,152.0,12.1,1.01,142/106,Glucose levels mildly elevated; lifestyle changes advised.
+862,77,Female,173.0,83.2,26.0,133.0,,259.0,,,279.0,14.2,0.87,133/86,Monitor BP regularly at home.
+863,55,Female,,,31.8,135.0,,,103.0,40.0,114.0,11.7,1.48,135/79,Glucose levels mildly elevated; lifestyle changes advised.
+864,57,Others,,,30.6,170.0,88.0,,135.0,38.0,230.0,,0.79,170/104,Lipid levels require monitoring.
+865,41,Male,170.5,92.7,28.5,135.0,117.0,,,59.0,,14.1,1.37,135/75,Improvement noted. Keep current regimen.
+866,30,Male,158.6,47.6,26.2,142.0,102.0,,153.0,54.0,187.0,13.0,1.3,142/103,Recommend rechecking lipids after 3 months.
+867,54,Others,,,26.8,109.0,101.0,,112.0,35.0,204.0,13.3,1.09,,Encouraged moderate daily activity.
+868,35,Others,,97.3,30.6,120.0,75.0,222.0,156.0,,248.0,9.6,1.66,120/89,Mild elevation in glucose.
+869,38,Others,,,,100.0,107.0,,142.0,50.0,,11.4,1.2,,Glucose slightly elevated; review diet and exercise.
+870,62,Others,,,,83.0,,,,46.0,,15.5,,,Check BP at home twice daily.
+871,64,Others,146.8,58.6,20.7,149.0,91.0,,,,239.0,,0.97,149/71,Diet modification essential.
+872,22,Male,168.3,71.7,25.3,101.0,,254.0,96.0,,195.0,,1.53,101/86,Explained results clearly; patient agreed.
+873,75,Others,,82.6,,62.0,,,138.0,,,,1.23,,Follow-up recommended after 2 weeks.
+874,82,Male,179.1,91.7,19.6,107.0,85.0,227.0,141.0,64.0,,,1.59,,Lifestyle modification suggested.
+875,20,Others,170.8,61.2,23.9,141.0,81.0,161.0,74.0,50.0,128.0,16.0,1.19,141/97,Mild elevation in glucose.
+876,45,Others,159.1,94.6,28.5,165.0,95.0,,,46.0,120.0,11.7,0.84,165/96,Blood pressure within acceptable range.
+877,27,Male,,93.8,,67.0,156.0,,118.0,,,15.4,0.84,,No clinical deterioration.
+878,23,Others,147.9,47.7,34.7,158.0,,,153.0,39.0,96.0,13.7,0.97,158/107,Further evaluation if symptoms worsen.
+879,84,Male,170.8,,,113.0,,,,40.0,111.0,12.7,1.34,113/103,Glucose levels mildly elevated; lifestyle changes advised.
+880,24,Male,171.8,69.5,23.5,,,202.0,,31.0,106.0,15.7,0.76,,Monitor BP regularly.
+881,81,Female,146.9,46.2,21.8,141.0,120.0,,141.0,55.0,225.0,11.8,0.86,141/84,Levels improving compared to last visit.
+882,59,Female,,,,105.0,134.0,,149.0,54.0,225.0,12.7,1.35,,Follow-up recommended after 2 weeks.
+883,37,Others,,46.1,22.4,142.0,151.0,,,56.0,139.0,14.1,0.8,142/92,Vitals stable. Continue medications.
+884,76,Others,,85.1,32.9,131.0,169.0,,,41.0,198.0,,0.95,131/98,Encouraged daily walking.
+885,73,Female,,,19.4,62.0,,,,,,,,,BP requires regular monitoring.
+886,63,Others,,93.9,,133.0,175.0,,,,,,1.49,133/69,Therapy response is satisfactory.
+887,51,Female,169.7,94.8,34.3,112.0,118.0,,70.0,56.0,268.0,15.7,1.23,112/72,Cholesterol borderline high; monitor regularly.
+888,36,Female,,60.7,,169.0,,,103.0,28.0,173.0,9.7,1.25,169/78,Follow-up recommended in 2 weeks.
+889,21,Others,157.1,70.1,28.5,141.0,85.0,,113.0,60.0,184.0,13.2,0.79,141/70,Cholesterol borderline. Consider dietary modification.
+890,30,Female,150.6,54.3,32.7,156.0,,,148.0,38.0,100.0,11.9,0.93,156/73,Blood pressure requires monitoring.
+891,47,Male,,,,124.0,131.0,,,,,13.4,,124/90,Reduce salt intake.
+892,49,Others,153.1,72.6,31.0,131.0,134.0,,93.0,51.0,240.0,12.1,1.29,131/85,Mild anemia; iron-rich foods suggested.
+893,33,Female,169.6,85.2,23.0,106.0,,,116.0,41.0,213.0,12.7,1.09,106/99,Results indicate minor deficiency.
+894,58,Others,,,,,,,134.0,34.0,187.0,10.9,,,Glucose levels mildly elevated; lifestyle changes advised.
+895,22,Female,159.4,,25.7,125.0,108.0,,108.0,58.0,,14.0,1.27,125/96,Follow-up recommended after 2 weeks.
+896,73,Male,160.9,56.3,23.8,155.0,,,,37.0,160.0,13.8,0.93,155/75,Lipid profile indicates borderline elevation.
+897,46,Female,181.7,78.5,19.4,148.0,140.0,,152.0,51.0,151.0,13.0,1.37,148/101,Diet modification essential.
+898,18,Female,166.2,93.3,18.8,,109.0,187.0,84.0,43.0,220.0,14.4,1.07,164/100,Continue medications.
+899,78,Male,,,,,135.0,,116.0,,163.0,,,,Glucose levels mildly elevated; lifestyle changes advised.
+900,75,Male,149.2,91.3,35.9,115.0,94.0,,117.0,56.0,245.0,14.9,0.9,115/70,Stable. Review in OPD.
+901,39,Female,,,,,,,126.0,,236.0,,,,Vitals stable. No acute symptoms.
+902,28,Others,158.4,,26.1,153.0,141.0,,144.0,,,12.4,1.47,153/79,Discussed with patient. Understood.
+903,50,Male,185.3,,,65.0,127.0,,,,,,0.9,,Repeat test if clinically indicated.
+904,27,Male,186.2,,20.4,43.0,169.0,,106.0,42.0,127.0,14.6,0.83,110/69,Follow-up recommended after 2 weeks.
+905,61,Male,160.0,49.4,19.3,143.0,109.0,,,,127.0,14.4,0.79,143/72,Patient advised to maintain hydration.
+906,75,Others,163.3,47.4,28.3,147.0,,,145.0,60.0,255.0,11.2,1.03,147/94,Minor deficiency suspected.
+907,36,Others,159.4,,33.6,108.0,169.0,,,42.0,226.0,,1.41,,Continue present medications.
+908,53,Others,183.1,,,165.0,,,,,,15.5,,165/101,Glucose levels mildly elevated; lifestyle changes advised.
+909,64,Male,173.2,46.5,32.6,150.0,122.0,250.0,81.0,60.0,239.0,11.1,0.63,150/89,Reduce salt intake.
+910,62,Female,,,,,,,,32.0,122.0,,1.24,,Lipid levels require monitoring.
+911,33,Male,,,,,,,110.0,,,11.9,,,Blood pressure within acceptable range.
+912,73,Others,173.0,68.8,23.0,99.0,99.0,,151.0,32.0,231.0,11.1,1.2,,Lifestyle counseling advised.
+913,74,Female,183.0,,,102.0,,,85.0,47.0,,13.2,1.44,102/84,Recommend rechecking lipids after 3 months.
+914,77,Male,,61.3,26.8,141.0,108.0,246.0,109.0,,221.0,14.4,,141/73,Follow-up advised.
+915,30,Male,159.5,81.8,31.2,154.0,,,159.0,56.0,132.0,13.9,1.19,154/98,Follow-up recommended after 2 weeks.
+916,61,Others,,,,70.0,119.0,,,30.0,,,,,Encouraged moderate daily activity.
+917,35,Male,,55.4,19.0,165.0,124.0,,116.0,39.0,181.0,12.6,,165/88,Sugar levels within acceptable range.
+918,24,Female,,,22.3,,,,129.0,60.0,203.0,14.1,,145/73,Continue present medications.
+919,18,Female,,63.6,30.4,144.0,,,123.0,53.0,114.0,,0.75,144/71,Glucose levels mildly elevated; lifestyle changes advised.
+920,51,Male,171.2,84.5,28.8,137.0,129.0,212.0,128.0,39.0,,9.9,0.86,137/60,Values improved compared to previous results.
+921,63,Others,152.8,64.0,32.3,66.0,,,132.0,,123.0,11.7,0.98,130/63,Mild elevation in glucose.
+922,72,Female,145.5,95.8,25.8,101.0,134.0,,119.0,62.0,,14.2,1.42,101/105,Further tests if symptoms increase.
+923,24,Others,150.7,75.5,33.2,130.0,,,,31.0,200.0,13.9,1.3,130/89,Blood pressure within acceptable range.
+924,29,Male,,52.6,27.2,85.0,85.0,,94.0,34.0,,10.7,,,Hb slightly low; iron-rich diet suggested.
+925,18,Male,163.7,82.1,30.6,151.0,104.0,,91.0,,160.0,11.8,,151/93,Consider ECG if palpitations recur.
+926,52,Female,167.4,88.4,23.8,146.0,102.0,,105.0,30.0,236.0,12.2,0.92,146/73,Lipid profile requires monitoring.
+927,83,Female,,,28.2,104.0,,,81.0,,104.0,12.6,0.91,,Monitor BP at home regularly.
+928,79,Female,172.0,,31.1,169.0,88.0,,93.0,,,,0.72,169/88,Glucose levels mildly elevated; lifestyle changes advised.
+929,52,Others,,73.7,26.0,110.0,114.0,,82.0,,142.0,13.5,0.75,110/106,Blood pressure requires monitoring.
+930,80,Female,,,26.8,146.0,95.0,,93.0,60.0,,12.5,,146/93,Glucose levels mildly elevated; lifestyle changes advised.
+931,50,Others,167.7,87.2,20.1,165.0,110.0,154.0,71.0,52.0,181.0,15.8,1.07,165/93,Values improved compared to previous results.
+932,65,Male,,,29.0,78.0,90.0,,142.0,,147.0,15.0,,,Follow-up recommended after 2 weeks.
+933,37,Others,173.3,,20.9,103.0,143.0,158.0,133.0,45.0,157.0,12.4,,103/63,Medication adherence checked.
+934,52,Male,,,,154.0,,,,,,13.7,,154/100,Improve sleep hygiene.
+935,83,Male,,62.0,,,,,137.0,52.0,155.0,10.5,,,Cholesterol borderline high; monitor regularly.
+936,30,Others,,77.2,34.6,146.0,,,130.0,31.0,,13.6,1.16,146/97,Retest if required clinically.
+937,76,Others,188.8,48.5,26.9,132.0,,,118.0,,,14.0,1.0,132/74,Glucose levels mildly elevated; lifestyle changes advised.
+938,29,Female,156.7,49.9,30.1,135.0,,,86.0,47.0,210.0,11.0,0.81,135/69,Blood pressure requires monitoring.
+939,19,Male,172.0,74.5,28.0,123.0,,253.0,98.0,35.0,191.0,11.9,1.42,123/73,Further tests if symptoms increase.
+940,57,Female,180.3,65.5,20.1,131.0,,154.0,,55.0,139.0,10.8,1.31,131/106,Repeat lipid panel in future.
+941,72,Male,155.7,61.6,18.7,165.0,98.0,,124.0,48.0,181.0,11.7,0.76,165/92,Pt stable. Continue routine follow-up.
+942,59,Female,149.8,,,126.0,170.0,,,,,14.0,,126/109,Mild anemia; iron-rich foods suggested.
+943,65,Male,,52.6,18.8,142.0,148.0,,144.0,40.0,241.0,10.8,,142/89,Infection markers normal. No antibiotics needed.
+944,76,Female,170.6,87.5,33.9,128.0,,,,48.0,,11.9,1.45,128/94,Cholesterol borderline. Consider dietary modification.
+945,81,Female,,,22.3,165.0,,,144.0,54.0,107.0,13.0,0.78,165/78,Continue present medications.
+946,42,Others,189.1,79.1,22.3,125.0,,,91.0,42.0,205.0,10.6,,125/72,Sugar values acceptable.
+947,48,Female,173.5,63.8,26.5,106.0,156.0,258.0,123.0,31.0,273.0,11.0,1.15,106/73,Lifestyle changes discussed with patient.
+948,33,Female,148.1,90.0,18.7,165.0,,,110.0,49.0,112.0,13.5,1.25,165/96,Vitals stable. No acute concerns.
+949,56,Male,148.6,89.4,23.5,150.0,161.0,,99.0,46.0,219.0,14.1,1.07,150/80,Advised patient to avoid salty foods.
+950,37,Female,150.5,48.7,25.4,156.0,109.0,,94.0,55.0,139.0,13.6,0.71,156/83,Lipid profile indicates borderline elevation.
+951,75,Others,,,20.0,,88.0,,,40.0,210.0,12.4,0.73,,Blood pressure within acceptable range.
+952,51,Male,,84.8,28.7,143.0,178.0,,147.0,42.0,229.0,10.7,1.57,143/105,Continue same medication dosage.
+953,51,Male,172.9,91.8,25.9,166.0,113.0,,105.0,58.0,138.0,11.5,1.45,166/74,Glucose levels mildly elevated; lifestyle changes advised.
+954,85,Others,,52.8,,114.0,155.0,,113.0,36.0,160.0,14.4,0.92,114/74,Consider ECG if palpitations recur.
+955,76,Male,188.5,97.6,27.5,143.0,122.0,180.0,91.0,,256.0,10.6,,143/105,Discussed results; patient understood.
+956,71,Female,,,23.6,,133.0,,117.0,52.0,231.0,15.1,0.79,,Lipid levels require monitoring.
+957,40,Others,161.4,63.2,24.3,79.0,160.0,,,37.0,,14.8,1.48,,Hydration recommended.
+958,81,Others,,,21.3,139.0,140.0,,159.0,39.0,131.0,11.5,1.36,139/98,Follow-up recommended after 2 weeks.
+959,73,Female,149.0,80.1,28.9,154.0,92.0,228.0,122.0,33.0,195.0,10.4,1.59,154/68,Reduce salt intake strictly.
+960,76,Male,188.1,91.5,27.1,130.0,117.0,213.0,98.0,29.0,116.0,11.7,0.81,130/83,Hydration recommended.
+961,77,Male,154.6,,,,,,148.0,,,14.1,1.0,,Vitals stable. No acute concerns.
+962,54,Others,176.0,93.8,34.7,53.0,,220.0,144.0,44.0,166.0,9.9,,108/86,Values improving.
+963,18,Others,185.6,87.7,30.7,157.0,,,118.0,35.0,146.0,14.0,1.02,157/78,Follow-up recommended after 2 weeks.
+964,36,Male,,54.3,27.2,138.0,161.0,,144.0,35.0,208.0,14.0,0.88,138/87,ECG recommended if palpitations occur again.
+965,55,Female,149.9,82.1,21.0,116.0,83.0,,159.0,56.0,177.0,13.0,0.8,116/94,Glucose levels mildly elevated; lifestyle changes advised.
+966,33,Female,151.7,61.6,30.3,170.0,,,125.0,,168.0,14.3,0.99,170/106,Pt stable. Continue routine follow-up.
+967,33,Others,178.1,,26.7,161.0,,,91.0,42.0,,,1.02,161/74,Continue present medications.
+968,81,Male,177.2,50.7,18.6,107.0,165.0,,131.0,46.0,114.0,14.1,1.01,107/63,Blood pressure within acceptable range.
+969,31,Others,169.9,87.2,34.4,166.0,93.0,,109.0,62.0,137.0,15.8,1.42,166/94,Repeat lipid panel after 90 days.
+970,69,Male,154.0,56.7,32.9,166.0,,,119.0,58.0,206.0,11.9,1.16,166/101,Repeat test if clinically indicated.
+971,53,Male,165.8,81.2,25.3,106.0,149.0,,88.0,41.0,224.0,,0.86,106/93,Glucose slightly elevated; review diet and exercise.
+972,71,Others,189.0,94.9,35.0,159.0,160.0,164.0,100.0,57.0,240.0,14.5,1.45,159/74,Values improving.
+973,28,Female,169.9,67.6,21.8,117.0,93.0,,,58.0,259.0,13.4,1.17,117/95,Monitor BP regularly.
+974,22,Male,169.6,45.8,20.0,165.0,141.0,,109.0,33.0,246.0,12.8,0.88,165/71,Continue present medications.
+975,26,Male,,,,,145.0,,154.0,,,,,,Blood pressure stable today.
+976,53,Others,184.9,,23.4,,,,,33.0,182.0,12.5,,,Lipid profile requires monitoring.
+977,43,Female,,45.3,20.2,,167.0,,,,142.0,13.8,1.15,122/106,Adequate control maintained.
+978,44,Others,171.3,62.2,32.3,112.0,81.0,248.0,159.0,49.0,143.0,9.7,1.39,112/107,Further tests if symptoms increase.
+979,23,Male,152.5,99.5,25.2,169.0,172.0,204.0,144.0,32.0,114.0,13.6,1.22,169/88,Condition stable.
+980,22,Female,168.0,69.7,20.6,129.0,,,81.0,39.0,100.0,12.0,1.43,129/101,Possible dehydration; fluids advised.
+981,50,Male,,,,143.0,102.0,,,36.0,,,0.88,143/76,Glucose levels mildly elevated; lifestyle changes advised.
+982,61,Others,,,33.1,125.0,120.0,,158.0,40.0,220.0,14.7,1.48,125/68,Diet modification essential.
+983,71,Others,147.9,46.3,18.2,160.0,131.0,,120.0,45.0,112.0,11.8,1.47,160/66,Monitor BP at home regularly.
+984,75,Female,157.5,,,105.0,,,132.0,,199.0,10.5,1.34,,Lifestyle counseling advised.
+985,37,Female,,51.4,25.3,102.0,147.0,,85.0,60.0,130.0,,1.23,102/72,Reassurance given.
+986,85,Male,183.7,80.6,31.1,150.0,110.0,,115.0,41.0,198.0,14.6,0.98,150/63,No clinical signs of deterioration.
+987,57,Others,185.2,75.1,29.1,128.0,,,,35.0,205.0,10.5,1.14,128/85,Reassurance given.
+988,43,Male,167.6,,,108.0,155.0,,107.0,,104.0,14.7,,,Essential to improve diet quality.
+989,83,Male,159.8,55.9,21.9,129.0,,,92.0,,224.0,11.9,1.18,129/76,Mild elevation in glucose.
+990,79,Male,,,29.3,,106.0,,,31.0,,,,,Lipid levels require monitoring.
+991,70,Others,146.1,,21.4,158.0,111.0,,129.0,33.0,220.0,14.7,0.87,158/64,Continue present medications.
+992,19,Female,164.9,58.9,33.2,135.0,164.0,,142.0,54.0,224.0,12.2,1.26,135/67,Continue present medications.
+993,60,Female,183.3,46.9,18.9,123.0,129.0,,134.0,42.0,221.0,10.8,0.75,123/100,Blood sugar trending upward; review lifestyle changes.
+994,54,Female,147.0,48.1,32.6,117.0,119.0,,103.0,56.0,169.0,12.8,0.73,117/91,Glucose levels mildly elevated; lifestyle changes advised.
+995,27,Others,,,,104.0,117.0,,94.0,41.0,248.0,,,104/107,Sugar values acceptable.
+996,24,Others,,,22.9,152.0,107.0,,84.0,31.0,,,1.5,152/80,Increase moderate activity.
+997,31,Female,,,30.0,127.0,156.0,,107.0,30.0,193.0,14.9,1.38,127/105,Follow-up recommended after 2 weeks.
+998,82,Others,159.1,60.2,23.8,94.0,133.0,,115.0,40.0,153.0,,,,Maintain current therapy plan.
+999,45,Female,158.0,61.5,29.5,122.0,158.0,,151.0,,198.0,,,122/68,Lipid profile requires monitoring.
+1000,19,Male,160.1,74.0,34.2,148.0,108.0,,98.0,61.0,196.0,11.9,1.51,148/93,Retest if required clinically.
+1001,23,Others,,63.3,31.8,152.0,,,83.0,,250.0,,1.13,152/94,Blood pressure within acceptable range.
+1002,49,Female,,54.3,,,,199.0,79.0,29.0,196.0,9.8,,,Therapy response is satisfactory.
+1003,81,Female,172.6,61.5,18.9,,100.0,,139.0,58.0,185.0,,1.33,141/75,Repeat test if clinically indicated.
+1004,47,Others,,,31.5,75.0,167.0,,,53.0,,,,,Pt stable. Continue routine follow-up.
+1005,57,Male,160.1,,25.1,163.0,167.0,,136.0,,,11.6,0.81,163/99,Pathology values consistent with mild deficiency.
+1006,72,Female,,,24.8,47.0,,,,,,12.2,,125/85,Blood pressure within acceptable range.
+1007,30,Female,175.6,76.5,24.8,136.0,,204.0,91.0,44.0,93.0,14.3,0.86,136/108,General improvement observed.
+1008,84,Female,181.4,89.0,29.4,90.0,,,,42.0,235.0,12.6,1.02,,Vitals stable. No acute concerns.
+1009,42,Male,173.2,90.0,26.2,107.0,120.0,,80.0,48.0,183.0,15.4,1.15,107/79,Infection markers normal. No antibiotics needed.
+1010,75,Female,182.6,69.4,20.9,100.0,76.0,,84.0,28.0,155.0,12.1,1.29,100/78,Hydration important.
+1011,29,Male,,92.2,30.9,143.0,157.0,,129.0,53.0,255.0,,,143/98,Explained results clearly; patient agreed.
+1012,41,Female,180.7,45.3,33.0,117.0,,,,54.0,200.0,11.9,1.21,117/64,Diet modification essential.
+1013,31,Male,161.1,,27.9,125.0,147.0,,,49.0,146.0,,1.36,125/63,Results indicate minor deficiency.
+1014,22,Male,151.8,51.1,22.1,110.0,165.0,,94.0,58.0,173.0,12.6,1.39,110/79,Lipid profile requires monitoring.
+1015,21,Others,188.1,96.6,30.6,106.0,116.0,,89.0,62.0,169.0,13.8,1.13,106/68,Repeat lipid panel after 90 days.
+1016,42,Others,163.2,66.7,20.4,103.0,97.0,,127.0,53.0,121.0,10.5,0.71,103/86,Lipid profile requires monitoring.
+1017,82,Male,188.4,,25.5,162.0,,,95.0,,165.0,13.1,1.39,162/63,Patient advised to maintain hydration.
+1018,39,Female,,70.6,21.3,79.0,,,87.0,59.0,,,,,Further evaluation if symptoms persist.
+1019,20,Female,,,24.2,140.0,104.0,174.0,,,,10.7,,140/83,Discussed results; patient understood.
+1020,60,Male,187.6,,,102.0,125.0,246.0,135.0,,256.0,,1.42,,Hydration recommended.
+1021,46,Female,155.3,56.1,23.3,90.0,,241.0,,53.0,149.0,,0.74,,Patient reassured.
+1022,60,Others,183.7,,24.6,,,,,30.0,,,,,Reassurance provided.
+1023,63,Female,184.0,49.0,27.6,161.0,,,147.0,45.0,169.0,12.4,1.22,161/78,Follow-up in 1â2 weeks recommended.
+1024,41,Female,,,34.0,,,253.0,73.0,,,,1.09,,Follow-up advised.
+1025,70,Others,147.9,,,96.0,82.0,,135.0,,,12.1,,,Discussed with patient. Understood.
+1026,61,Female,172.8,57.3,25.8,159.0,134.0,,111.0,57.0,249.0,12.5,0.95,159/110,Discussed with patient. Understood.
+1027,19,Female,,,31.3,79.0,,,,55.0,,13.8,,,Mild elevation in glucose.
+1028,81,Male,,,18.9,110.0,106.0,,107.0,38.0,103.0,13.2,0.89,110/64,Glucose levels mildly elevated; lifestyle changes advised.
+1029,29,Male,,,25.1,132.0,102.0,,88.0,37.0,182.0,13.5,1.18,132/94,Glucose levels mildly elevated; lifestyle changes advised.
+1030,39,Others,167.4,86.8,31.0,127.0,143.0,,,44.0,244.0,15.2,0.79,127/109,Pt stable. Continue routine follow-up.
+1031,56,Female,189.2,53.6,20.9,84.0,,,,36.0,,11.2,,,Stable condition; review in OPD.
+1032,49,Others,148.4,68.6,25.3,155.0,169.0,239.0,132.0,53.0,225.0,12.3,1.53,155/63,Explained results clearly; patient agreed.
+1033,24,Others,,88.4,29.0,,,,93.0,,,14.1,,,Increase physical activity.
+1034,18,Female,145.6,53.1,26.7,157.0,90.0,,96.0,42.0,209.0,11.7,1.24,157/64,Discussed with patient. Understood.
+1035,48,Others,182.6,85.1,28.6,119.0,86.0,240.0,,39.0,274.0,9.6,1.44,119/63,Monitor BP regularly.
+1036,56,Others,,,30.0,,138.0,,133.0,,215.0,11.7,1.22,,Suggest further evaluation if symptoms persist.
+1037,49,Male,173.3,46.4,25.7,112.0,,156.0,147.0,49.0,133.0,11.0,0.82,112/95,Lifestyle modification suggested.
+1038,57,Others,189.1,58.8,17.6,152.0,108.0,216.0,142.0,53.0,185.0,13.0,0.78,152/63,Continue medications.
+1039,48,Male,169.3,86.3,31.7,167.0,,,139.0,57.0,158.0,11.7,0.94,167/95,Possible dehydration; fluids advised.
+1040,83,Others,,,19.1,140.0,,,119.0,49.0,,,0.8,140/98,Lipid levels require monitoring.
+1041,84,Female,179.3,53.3,16.6,59.0,,,116.0,36.0,165.0,12.6,,146/76,Essential to improve diet quality.
+1042,23,Male,158.7,76.4,27.8,169.0,147.0,,109.0,47.0,229.0,11.0,1.04,169/69,Reduce salt intake.
+1043,20,Male,162.0,84.7,32.3,100.0,103.0,,108.0,41.0,,11.2,0.93,100/71,Essential to improve diet quality.
+1044,40,Male,,,19.1,99.0,103.0,,,40.0,185.0,14.5,1.49,,Hb slightly low; iron-rich diet suggested.
+1045,82,Male,,,,99.0,,,110.0,,225.0,,0.98,133/92,Continue present medications.
+1046,80,Male,183.4,58.5,20.9,110.0,,257.0,91.0,,142.0,12.1,1.69,110/82,Monitor BP regularly.
+1047,78,Male,164.1,62.7,26.1,170.0,151.0,,72.0,58.0,95.0,10.3,0.85,170/106,BP borderline; needs monitoring.
+1048,84,Female,169.9,,32.7,,141.0,,98.0,,,15.3,,,Continue present medications.
+1049,35,Male,161.0,70.8,27.3,65.0,,,,43.0,184.0,12.5,1.22,,Glucose levels mildly elevated; lifestyle changes advised.
+1050,83,Female,177.8,,,135.0,114.0,,109.0,37.0,123.0,14.8,1.47,135/73,Continue present medications.
+1051,33,Male,169.9,89.2,32.0,100.0,156.0,,157.0,30.0,,,1.37,100/67,Diet modification essential.
+1052,29,Male,,54.0,30.4,163.0,93.0,,79.0,,,12.9,,163/68,Mild elevation in glucose.
+1053,68,Female,,,32.4,140.0,143.0,,152.0,43.0,156.0,14.4,0.93,140/108,Blood pressure stable today.
+1054,23,Female,156.8,48.6,19.8,104.0,151.0,,,,162.0,,0.83,104/104,Further evaluation if symptoms persist.
+1055,55,Others,163.2,75.0,35.0,145.0,85.0,150.0,143.0,33.0,174.0,11.4,0.68,145/110,Continue same medication dosage.
+1056,56,Others,,64.0,,169.0,,212.0,,63.0,263.0,,,169/80,Condition stable.
+1057,69,Female,146.3,81.2,25.2,124.0,138.0,,133.0,,,11.2,,124/61,Hydration emphasized.
+1058,31,Others,,79.2,28.5,111.0,103.0,,102.0,33.0,223.0,14.5,0.8,111/92,Discussed with patient. Understood.
+1059,42,Male,168.5,,,128.0,138.0,,,,,10.7,1.34,128/88,Lifestyle counseling advised.
+1060,21,Male,182.6,86.7,24.5,139.0,98.0,,90.0,58.0,136.0,13.0,1.23,139/76,Cholesterol borderline. Consider dietary modification.
+1061,21,Male,154.1,62.9,26.5,163.0,108.0,,,42.0,,,0.78,163/62,Glucose levels mildly elevated; lifestyle changes advised.
+1062,47,Female,,,,,,195.0,,47.0,,,1.41,,Glucose mildly elevated; diet improvement advised.
+1063,51,Male,,,21.5,108.0,158.0,,86.0,,116.0,10.8,0.92,,Lipid profile requires monitoring.
+1064,48,Female,,,,133.0,,,,,,13.8,1.41,133/96,Lab markers improved from last visit.
+1065,67,Others,,,33.0,148.0,81.0,,86.0,57.0,217.0,14.4,1.06,148/66,Blood pressure stable today.
+1066,67,Male,,,,,,,93.0,,,,1.07,,Follow-up recommended after 2 weeks.
+1067,46,Others,155.3,49.2,32.1,134.0,99.0,,137.0,31.0,126.0,12.8,1.46,134/82,Hydration emphasized.
+1068,38,Others,174.6,58.3,19.1,170.0,90.0,187.0,119.0,,,14.1,1.25,170/96,Monitor BP regularly.
+1069,83,Others,152.1,65.2,32.7,143.0,,182.0,77.0,33.0,192.0,10.5,0.82,143/87,Continue same medication dosage.
+1070,75,Female,175.0,54.8,24.1,110.0,,,107.0,33.0,188.0,,1.26,110/81,Infection markers normal. No antibiotics needed.
+1071,73,Male,,79.5,,103.0,,,138.0,52.0,235.0,13.6,,,OPD visit recommended.
+1072,22,Others,,87.3,33.5,,,,103.0,44.0,219.0,,1.22,,Check lipid panel again later.
+1073,85,Others,172.8,61.9,20.5,159.0,94.0,,106.0,48.0,225.0,15.1,0.83,159/76,Hydration emphasized.
+1074,39,Others,174.1,,,117.0,,,136.0,32.0,,12.1,0.72,117/77,Follow-up in 1â2 weeks recommended.
+1075,67,Male,162.4,96.9,36.7,131.0,113.0,233.0,135.0,53.0,,,,131/79,Follow-up advised.
+1076,84,Others,,65.6,,122.0,,180.0,,43.0,137.0,11.9,,122/75,OPD visit recommended.
+1077,34,Female,182.1,62.8,26.9,94.0,,,129.0,43.0,118.0,10.9,,,Suggest further evaluation if symptoms persist.
+1078,67,Male,157.9,91.8,21.7,166.0,,,87.0,44.0,172.0,12.8,1.26,166/74,Blood sugar trending upward; review lifestyle changes.

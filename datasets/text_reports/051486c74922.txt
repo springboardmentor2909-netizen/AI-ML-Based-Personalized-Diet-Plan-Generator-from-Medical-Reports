@@ -1,0 +1,41 @@
+
+Silver Oak Hospital
+Address: 68 Alpine Street, Eastwood - 454212
+Phone: +91-92167-17114
+Email: info@silver oak18.org
+Website: www.silver oak185.org
+Accreditation Code: SI-88215
+
+Report ID: RPT-479ABF37
+Sample ID: SMP-75438
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4288
+
+Patient Name: T***
+Patient ID: UH-001506
+Age: 74
+Gender: Male
+
+Pulse: 82 bpm
+Blood Glucose: 155 mg/dL
+Height: 184.3 cm
+Cholesterol Total: 218 mg/dL
+LDL: 85 mg/dL
+HDL: 63 mg/dL
+Triglycerides: 112 mg/dL
+Creatinine: 0.82 mg/dL
+BMI: 30.8
+
+LFT:
+  AST/SGOT: 42 U/L
+  ALT/SGPT: 12 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 64 mL/min
+
+Remarks:
+Mild elevation in glucose.

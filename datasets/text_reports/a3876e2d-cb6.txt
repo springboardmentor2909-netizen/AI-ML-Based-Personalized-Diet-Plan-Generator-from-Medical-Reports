@@ -1,0 +1,40 @@
+
+NovaPath Clinical Institute
+Address: 1 Riverbend Ave, Eastwood - 418816
+Phone: +91-72720-47639
+Email: info@novapath10.org
+Website: www.novapath240.org
+Accreditation Code: NO-91254
+
+Report ID: RPT-0CD41F03
+Sample ID: SMP-58400
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1682
+
+Patient Name: B***
+Patient ID: UH-001060
+Age: 55 years
+Gender: Female
+
+Height: 148.9 cm
+Weight: 94.5 kg
+
+Blood Pressure: 106/80 mmHg
+Pulse (bpm): 81 bpm
+Blood Glucose: 161 mg/dL
+
+Cholesterol Panel:
+  Total: 170 mg/dL
+  LDL: 147 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 121 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: 0.73 mg/dL
+BMI: 18.2
+
+
+Doctor's Comments:
+Pt stable. Continue routine follow-up.

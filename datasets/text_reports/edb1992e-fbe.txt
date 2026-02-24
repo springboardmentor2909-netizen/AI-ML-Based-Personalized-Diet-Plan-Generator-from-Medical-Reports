@@ -1,0 +1,49 @@
+
+Everlight Diagnostics
+Address: 34 Alpine Street, Meadowridge - 433923
+Phone: +91-71267-39368
+Email: info@everlight10.org
+Website: www.everlight377.org
+Accreditation Code: EV-15986
+
+Report ID: RPT-C8432591
+Sample ID: SMP-81218
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1230
+
+Patient Name: B***
+Patient ID: UH-000608
+Age: 19 years
+Gender: Female
+
+Height: 164.9 cm
+Weight: 58.9 kg
+
+Blood Pressure: 135/67 mmHg
+Pulse: 80 bpm
+Glucose: 164 mg/dL
+
+Cholesterol Panel:
+  Total: 196 mg/dL
+  LDL: 142 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 224 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 1.26 mg/dL
+BMI: 33.2
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: -
+
+
+Remarks:
+Continue present medications.

@@ -1,0 +1,35 @@
+
+ClearRiver Medical Center
+Address: 82 Maple Drive, Silverpoint - 477832
+Phone: +91-77531-73861
+Email: info@clearriver23.org
+Website: www.clearriver927.org
+Accreditation Code: CL-70229
+
+Report ID: RPT-C54C8A49
+Sample ID: SMP-68382
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9570
+
+Patient Name: N***
+Patient ID: UH-001355
+Age: 73
+Gender: Female
+
+Blood Pressure: 154/68 mmHg
+Pulse: 77 bpm
+Blood Sugar: 92 mg/dL
+Height: 149.0 cm
+Weight: 80.1 kg
+Cholesterol Total: 228 mg/dL
+LDL: 122 mg/dL
+HDL: 33 mg/dL
+Triglycerides: 195 mg/dL
+Hemoglobin: 10.4 g/dL
+Creatinine: 1.59 mg/dL
+BMI: 28.9
+
+Remarks:
+Reduce salt intake strictly.

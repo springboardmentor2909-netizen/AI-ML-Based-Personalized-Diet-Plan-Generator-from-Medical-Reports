@@ -1,0 +1,40 @@
+
+NovaPath Clinical Institute
+Address: 17 Horizon Road, Eastwood - 492942
+Phone: +91-89129-57069
+Email: info@novapath38.org
+Website: www.novapath189.org
+Accreditation Code: NO-76192
+
+Report ID: RPT-4C2BF2B9
+Sample ID: SMP-54449
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4187
+
+Patient Name: X***
+Patient ID: UH-001000
+Age: 47 years
+Gender: Other
+
+Height: -
+Weight: 47.1 kg
+
+Blood Pressure: 109/98 mmHg
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 178 mg/dL
+  LDL: 146 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.4 mg/dL
+BMI: 25.2
+
+
+Doctor's Comments:
+Reassurance provided.

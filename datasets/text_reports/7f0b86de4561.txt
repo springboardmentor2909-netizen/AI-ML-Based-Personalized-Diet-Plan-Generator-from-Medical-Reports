@@ -1,0 +1,26 @@
+
+Medisphere Diagnostics
+Address: 22 Alpine Street, Clearwater - 448657
+Phone: +91-81310-58174
+Email: info@medisphere43.org
+Website: www.medisphere220.org
+Accreditation Code: ME-10513
+
+Report ID: RPT-6970DB87
+Sample ID: SMP-71108
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6211
+
+Patient Name: I***
+Patient ID: UH-001451
+Age: 42
+Gender: Female
+
+Blood Pressure: 128/75 mmHg
+Weight: 50.3 kg
+Triglycerides: 137 mg/dL
+
+Doctor's Comments:
+Check lipid panel again later.

@@ -1,0 +1,40 @@
+
+Starhaven Clinical Institute
+Address: 67 Evergreen Lane, Hillcrest - 418086
+Phone: +91-85305-33250
+Email: info@starhaven97.org
+Website: www.starhaven889.org
+Accreditation Code: ST-42554
+
+Report ID: RPT-1AF97DC6
+Sample ID: SMP-70992
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3792
+
+Patient Name: L***
+Patient ID: UH-001077
+Age: 56 years
+Gender: Male
+
+Height: 148.6 cm
+Weight: 89.4 kg
+
+Blood Pressure: 150/80 mmHg
+Pulse Rate: 73 bpm
+Blood Glucose: 161 mg/dL
+
+Cholesterol Panel:
+  Total: 181 mg/dL
+  LDL: 99 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: 219 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.07 mg/dL
+BMI: 23.5
+
+
+Clinical Notes:
+Advised patient to avoid salty foods.

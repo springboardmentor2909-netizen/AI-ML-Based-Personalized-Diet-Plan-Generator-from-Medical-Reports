@@ -1,0 +1,27 @@
+
+Northlake Hospital
+Address: 17 Riverbend Ave, Westlake - 412415
+Phone: +91-98753-72025
+Email: info@northlake64.org
+Website: www.northlake613.org
+Accreditation Code: NO-52659
+
+Report ID: RPT-12882966
+Sample ID: SMP-14211
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2395
+
+Patient Name: V***
+Patient ID: UH-001471
+Age: 25
+Gender: Male
+
+Blood Sugar: 79 mg/dL
+LDL: 154 mg/dL
+Triglycerides: 177 mg/dL
+BMI: 20.5
+
+Impression:
+Lifestyle modification suggested.

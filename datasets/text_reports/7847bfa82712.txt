@@ -1,0 +1,40 @@
+
+Medisphere Medical Center
+Address: 36 Evergreen Lane, Clearwater - 407283
+Phone: +91-75653-51894
+Email: info@medisphere21.org
+Website: www.medisphere571.org
+Accreditation Code: ME-82241
+
+Report ID: RPT-4F6F09A2
+Sample ID: SMP-75120
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1680
+
+Patient Name: W***
+Patient ID: UH-001511
+Age: 45
+Gender: Other
+
+Blood Pressure: 138/75 mmHg
+Pulse (bpm): 97 bpm
+Blood Glucose: 97 mg/dL
+Height: 166.9 cm
+Weight: 90.9 kg
+Cholesterol Total: 243 mg/dL
+LDL: 106 mg/dL
+HDL: 28 mg/dL
+Triglycerides: 195 mg/dL
+Hemoglobin: 9.6 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 22.7
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+Recommendations:
+Hydration recommended.

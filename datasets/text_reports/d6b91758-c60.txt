@@ -1,0 +1,36 @@
+
+Silver Oak Clinical Institute
+Address: 78 Sunrise Boulevard, Westlake - 424509
+Phone: +91-78049-54372
+Email: info@silver oak31.org
+Website: www.silver oak792.org
+Accreditation Code: SI-69273
+
+Report ID: RPT-7DBC842D
+Sample ID: SMP-48922
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6287
+
+Patient Name: K***
+Patient ID: UH-000453
+Age: 58 years
+Gender: Other
+
+Blood Pressure: -
+Blood Sugar (Random): 142 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 134 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 187 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: -
+BMI: -
+
+
+Doctor's Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

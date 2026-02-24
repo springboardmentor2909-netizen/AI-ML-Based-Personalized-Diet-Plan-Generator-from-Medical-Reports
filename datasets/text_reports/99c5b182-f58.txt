@@ -1,0 +1,36 @@
+
+Medisphere Clinical Institute
+Address: 78 Maple Drive, Meadowridge - 466049
+Phone: +91-88472-45933
+Email: info@medisphere77.org
+Website: www.medisphere609.org
+Accreditation Code: ME-70505
+
+Report ID: RPT-728ABC43
+Sample ID: SMP-34720
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1819
+
+Patient Name: E***
+Patient ID: UH-000471
+Age: 32 years
+Gender: Female
+
+Blood Pressure: 115/76 mmHg
+Blood Sugar: 165 mg/dL
+
+Cholesterol Panel:
+  Total: 195 mg/dL
+  LDL: 135 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 106 mg/dL
+
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 23.3
+
+
+Impression:
+Blood pressure stable today.

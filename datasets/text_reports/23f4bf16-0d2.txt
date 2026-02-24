@@ -1,0 +1,36 @@
+
+Riverdale Clinical Institute
+Address: 78 Sunrise Boulevard, Eastwood - 463889
+Phone: +91-79834-59433
+Email: info@riverdale64.org
+Website: www.riverdale500.org
+Accreditation Code: RI-47669
+
+Report ID: RPT-07984A66
+Sample ID: SMP-63647
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9892
+
+Patient Name: M***
+Patient ID: UH-000475
+Age: 80 years
+Gender: Other
+
+Blood Pressure: 155/100 mmHg
+Glucose: 96 mg/dL
+
+Cholesterol Panel:
+  Total: 250 mg/dL
+  LDL: 124 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 140 mg/dL
+
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 23.3
+
+
+Advice:
+Blood pressure stable today.

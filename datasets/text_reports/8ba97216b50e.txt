@@ -1,0 +1,44 @@
+
+Silver Oak Diagnostics
+Address: 27 Evergreen Lane, Hillcrest - 432893
+Phone: +91-81558-84486
+Email: info@silver oak14.org
+Website: www.silver oak986.org
+Accreditation Code: SI-88790
+
+Report ID: RPT-2C59B3C8
+Sample ID: SMP-82402
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7200
+
+Patient Name: A***
+Patient ID: UH-001333
+Age: 71
+Gender: Male
+
+Blood Pressure: 166/74 mmHg
+Pulse (bpm): 106 bpm
+Blood Glucose: 136 mg/dL
+Height: 181.6 cm
+Weight: 45.7 kg
+Cholesterol Total: 183 mg/dL
+LDL: 146 mg/dL
+HDL: 58 mg/dL
+Triglycerides: 242 mg/dL
+Hemoglobin: 12.9 g/dL
+Creatinine: 0.74 mg/dL
+BMI: 29.3
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 94 mL/min
+
+Clinical Notes:
+Patient instructed to drink more water.

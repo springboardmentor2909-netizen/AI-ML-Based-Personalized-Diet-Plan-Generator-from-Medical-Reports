@@ -1,0 +1,36 @@
+
+Riverdale Diagnostics
+Address: 18 Alpine Street, Silverpoint - 457605
+Phone: +91-79387-27127
+Email: info@riverdale18.org
+Website: www.riverdale987.org
+Accreditation Code: RI-20646
+
+Report ID: RPT-E26A9C00
+Sample ID: SMP-67700
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9954
+
+Patient Name: G***
+Patient ID: UH-000420
+Age: 64 years
+Gender: Female
+
+Blood Pressure: 113/78 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Follow-up recommended after 2 weeks.

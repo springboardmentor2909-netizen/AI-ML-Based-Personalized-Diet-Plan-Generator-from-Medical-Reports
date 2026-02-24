@@ -1,0 +1,40 @@
+
+Silver Oak Diagnostics
+Address: 57 Evergreen Lane, Northbay - 410653
+Phone: +91-88595-64898
+Email: info@silver oak25.org
+Website: www.silver oak987.org
+Accreditation Code: SI-41377
+
+Report ID: RPT-DFCEE0CA
+Sample ID: SMP-86930
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5705
+
+Patient Name: Z***
+Patient ID: UH-000813
+Age: 52 years
+Gender: Male
+
+Height: 154.0 cm
+Weight: 71.0 kg
+
+Blood Pressure: 106/88 mmHg
+Pulse: 79 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 125 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Lifestyle counseling advised.

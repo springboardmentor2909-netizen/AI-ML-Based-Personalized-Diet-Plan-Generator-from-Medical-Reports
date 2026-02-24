@@ -1,0 +1,48 @@
+
+ClearRiver Diagnostics
+Address: 62 Sunrise Boulevard, Eastwood - 417452
+Phone: +91-73039-26039
+Email: info@clearriver50.org
+Website: www.clearriver889.org
+Accreditation Code: CL-49056
+
+Report ID: RPT-24832768
+Sample ID: SMP-92940
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9471
+
+Patient Name: R***
+Patient ID: UH-000577
+Age: 23 years
+Gender: Male
+
+Height: 155.9 cm
+Weight: 61.8 kg
+
+Blood Pressure: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 227 mg/dL
+  LDL: 119 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 125 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 1.01 mg/dL
+BMI: 33.5
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 71 mL/min
+
+
+Remark:
+Follow-up recommended after 2 weeks.

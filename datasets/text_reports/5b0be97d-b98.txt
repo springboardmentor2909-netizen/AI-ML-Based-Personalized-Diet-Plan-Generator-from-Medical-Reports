@@ -1,0 +1,40 @@
+
+ClearRiver Medical Center
+Address: 56 Riverbend Ave, Meadowridge - 443949
+Phone: +91-94304-28618
+Email: info@clearriver88.org
+Website: www.clearriver554.org
+Accreditation Code: CL-14683
+
+Report ID: RPT-4326C570
+Sample ID: SMP-62025
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 10:48
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3421
+
+Patient Name: D***
+Patient ID: UH-000994
+Age: 32 years
+Gender: Male
+
+Height: 154.0 cm
+Weight: -
+
+Blood Pressure: 120/70 mmHg
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 110 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 191 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: -
+BMI: 28.8
+
+
+Remark:
+Lifestyle counseling advised.

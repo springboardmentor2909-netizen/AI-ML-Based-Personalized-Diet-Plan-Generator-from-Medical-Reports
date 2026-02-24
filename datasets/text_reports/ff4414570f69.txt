@@ -1,0 +1,35 @@
+
+Riverdale Medical Center
+Address: 9 Riverbend Ave, Clearwater - 418825
+Phone: +91-89127-58962
+Email: info@riverdale25.org
+Website: www.riverdale503.org
+Accreditation Code: RI-47836
+
+Report ID: RPT-AE86AEDB
+Sample ID: SMP-46721
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1788
+
+Patient Name: D***
+Patient ID: UH-001386
+Age: 84
+Gender: Other
+
+Blood Pressure: 122/75 mmHg
+Pulse (bpm): 83 bpm
+Weight: 65.6 kg
+Cholesterol Total: 180 mg/dL
+HDL: 43 mg/dL
+Triglycerides: 137 mg/dL
+Hemoglobin: 11.9 g/dL
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+Remark:
+OPD visit recommended.

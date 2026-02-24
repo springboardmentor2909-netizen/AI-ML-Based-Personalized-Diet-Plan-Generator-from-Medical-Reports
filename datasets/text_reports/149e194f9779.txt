@@ -1,0 +1,35 @@
+
+Northlake Diagnostics
+Address: 98 Sunrise Boulevard, Clearwater - 447630
+Phone: +91-72050-56060
+Email: info@northlake35.org
+Website: www.northlake331.org
+Accreditation Code: NO-76059
+
+Report ID: RPT-93A36B0E
+Sample ID: SMP-46250
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3618
+
+Patient Name: E***
+Patient ID: UH-001332
+Age: 68
+Gender: Male
+
+Blood Pressure: 145/100 mmHg
+Pulse: 76 bpm
+Blood Sugar: 99 mg/dL
+Height: 173.2 cm
+Weight: 55.8 kg
+Cholesterol Total: 196 mg/dL
+LDL: 107 mg/dL
+HDL: 64 mg/dL
+Triglycerides: 234 mg/dL
+Hemoglobin: 10.4 g/dL
+Creatinine: 0.84 mg/dL
+BMI: 34.6
+
+Recommendation:
+Further tests if symptoms increase.

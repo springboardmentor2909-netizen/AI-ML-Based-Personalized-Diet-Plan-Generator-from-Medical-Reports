@@ -1,0 +1,35 @@
+
+SolacePoint Hospital
+Address: 12 Horizon Road, Hillcrest - 441670
+Phone: +91-98597-34812
+Email: info@solacepoint68.org
+Website: www.solacepoint109.org
+Accreditation Code: SO-83886
+
+Report ID: RPT-E0B9F259
+Sample ID: SMP-73121
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8698
+
+Patient Name: M***
+Patient ID: UH-001539
+Age: 37
+Gender: Female
+
+Blood Sugar (Random): 127 mg/dL
+Height: 153.7 cm
+Weight: 68.9 kg
+Cholesterol Total: 223 mg/dL
+HDL: 65 mg/dL
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 34.8
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: 40 U/L
+
+Remark:
+Mild elevation in glucose.

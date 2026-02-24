@@ -1,0 +1,44 @@
+
+ClearRiver Diagnostics
+Address: 71 Maple Drive, Meadowridge - 443618
+Phone: +91-88646-33055
+Email: info@clearriver97.org
+Website: www.clearriver550.org
+Accreditation Code: CL-32843
+
+Report ID: RPT-63B249A2
+Sample ID: SMP-65756
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9192
+
+Patient Name: I***
+Patient ID: UH-000549
+Age: 18 years
+Gender: Other
+
+Height: 185.6 cm
+Weight: 87.7 kg
+
+Blood Pressure: 157/78 mmHg
+Blood Sugar (Random): 163 mg/dL
+
+Cholesterol Panel:
+  Total: 168 mg/dL
+  LDL: 118 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 146 mg/dL
+
+Hemoglobin: 14.0 g/dL
+Creatinine: 1.02 mg/dL
+BMI: 30.7
+
+LFT:
+  AST/SGOT: 13 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

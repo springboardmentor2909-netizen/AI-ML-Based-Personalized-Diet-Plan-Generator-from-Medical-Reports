@@ -1,0 +1,37 @@
+
+Medisphere Clinical Institute
+Address: 90 Evergreen Lane, Marigold City - 450713
+Phone: +91-77631-74040
+Email: info@medisphere66.org
+Website: www.medisphere866.org
+Accreditation Code: ME-20787
+
+Report ID: RPT-712D44C1
+Sample ID: SMP-17615
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3339
+
+Patient Name: N***
+Patient ID: UH-001423
+Age: 30
+Gender: Female
+
+Pulse: 90 bpm
+Height: 161.3 cm
+Weight: 50.8 kg
+Cholesterol Total: 179 mg/dL
+LDL: 86 mg/dL
+HDL: 63 mg/dL
+Triglycerides: 116 mg/dL
+Creatinine: 0.78 mg/dL
+BMI: 21.3
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+Advice:
+Hydration recommended.

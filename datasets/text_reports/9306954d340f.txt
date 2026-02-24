@@ -1,0 +1,36 @@
+
+PrimeCare Pathology Lab
+Address: 42 Sunrise Boulevard, Clearwater - 432436
+Phone: +91-73710-37176
+Email: info@primecare90.org
+Website: www.primecare958.org
+Accreditation Code: PR-32178
+
+Report ID: RPT-6B6F2509
+Sample ID: SMP-65804
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9187
+
+Patient Name: A***
+Patient ID: UH-001551
+Age: 27
+Gender: Male
+
+Blood Pressure: 131/104 mmHg
+Glucose: 100 mg/dL
+Weight: 63.9 kg
+HDL: 49 mg/dL
+Triglycerides: 237 mg/dL
+Hemoglobin: 13.3 g/dL
+Creatinine: 0.83 mg/dL
+BMI: 33.9
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+Summary:
+Values improving.

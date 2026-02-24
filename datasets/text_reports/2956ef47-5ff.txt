@@ -1,0 +1,45 @@
+
+Silver Oak Diagnostics
+Address: 57 Evergreen Lane, Northbay - 410653
+Phone: +91-88595-64898
+Email: info@silver oak25.org
+Website: www.silver oak987.org
+Accreditation Code: SI-41377
+
+Report ID: RPT-E5D66DAB
+Sample ID: SMP-56733
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5823
+
+Patient Name: P***
+Patient ID: UH-000870
+Age: 65 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: 76 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 211 mg/dL
+  LDL: 157 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 249 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 27.2
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+
+Remarks:
+Encouraged moderate daily activity.

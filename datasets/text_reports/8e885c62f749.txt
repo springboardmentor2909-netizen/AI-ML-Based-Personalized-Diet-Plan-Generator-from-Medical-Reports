@@ -1,0 +1,29 @@
+
+Greencrest Medical Center
+Address: 87 Horizon Road, Clearwater - 402088
+Phone: +91-70333-45555
+Email: info@greencrest13.org
+Website: www.greencrest863.org
+Accreditation Code: GR-96359
+
+Report ID: RPT-730E712F
+Sample ID: SMP-75381
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2805
+
+Patient Name: S***
+Patient ID: UH-001517
+Age: 26
+Gender: Male
+
+Blood Pressure: 167/85 mmHg
+Pulse Rate: 103 bpm
+Height: 147.0 cm
+Weight: 88.6 kg
+LDL: 140 mg/dL
+Creatinine: 0.92 mg/dL
+
+Impression:
+Discussed results; patient understood.

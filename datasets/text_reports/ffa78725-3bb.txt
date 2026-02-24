@@ -1,0 +1,45 @@
+
+NovaPath Diagnostics
+Address: 62 Horizon Road, Marigold City - 419902
+Phone: +91-74259-94470
+Email: info@novapath59.org
+Website: www.novapath553.org
+Accreditation Code: NO-36758
+
+Report ID: RPT-E9409A55
+Sample ID: SMP-17040
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9615
+
+Patient Name: G***
+Patient ID: UH-001174
+Age: 67 years
+Gender: Male
+
+Height: 157.9 cm
+Weight: 91.8 kg
+
+Blood Pressure: 166/74 mmHg
+Pulse: 81 bpm
+Blood Sugar (Random): 120 mg/dL
+
+Cholesterol Panel:
+  Total: 170 mg/dL
+  LDL: 87 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 172 mg/dL
+
+Hemoglobin: 12.8 g/dL
+Creatinine: 1.26 mg/dL
+BMI: 21.7
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Clinical Notes:
+Blood sugar trending upward; review lifestyle changes.

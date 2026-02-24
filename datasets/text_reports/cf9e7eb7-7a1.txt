@@ -1,0 +1,45 @@
+
+Starhaven Clinical Institute
+Address: 67 Evergreen Lane, Hillcrest - 418086
+Phone: +91-85305-33250
+Email: info@starhaven97.org
+Website: www.starhaven889.org
+Accreditation Code: ST-42554
+
+Report ID: RPT-0FD6EDAF
+Sample ID: SMP-11931
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7458
+
+Patient Name: A***
+Patient ID: UH-001092
+Age: 54 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 109 bpm
+Blood Glucose: 101 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 112 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 204 mg/dL
+
+Hemoglobin: 13.3 g/dL
+Creatinine: 1.09 mg/dL
+BMI: 26.8
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: 29 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Advice:
+Encouraged moderate daily activity.

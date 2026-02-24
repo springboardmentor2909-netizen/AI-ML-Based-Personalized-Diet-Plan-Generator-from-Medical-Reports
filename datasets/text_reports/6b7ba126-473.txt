@@ -1,0 +1,36 @@
+
+Silver Oak Medical Center
+Address: 70 Evergreen Lane, Clearwater - 408124
+Phone: +91-86478-63803
+Email: info@silver oak94.org
+Website: www.silver oak302.org
+Accreditation Code: SI-90505
+
+Report ID: RPT-59A5DE7D
+Sample ID: SMP-58606
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6047
+
+Patient Name: A***
+Patient ID: UH-000467
+Age: 55 years
+Gender: Other
+
+Blood Pressure: 136/103 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: 189 mg/dL
+  LDL: 88 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 189 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 1.27 mg/dL
+BMI: -
+
+
+Summary:
+Follow-up recommended after 2 weeks.

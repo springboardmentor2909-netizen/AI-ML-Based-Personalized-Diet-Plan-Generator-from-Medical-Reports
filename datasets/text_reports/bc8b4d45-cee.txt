@@ -1,0 +1,44 @@
+
+SolacePoint Diagnostics
+Address: 81 Riverbend Ave, Eastwood - 450883
+Phone: +91-90393-20745
+Email: info@solacepoint67.org
+Website: www.solacepoint277.org
+Accreditation Code: SO-68895
+
+Report ID: RPT-84A5C32F
+Sample ID: SMP-20534
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8812
+
+Patient Name: U***
+Patient ID: UH-001083
+Age: 67 years
+Gender: Male
+
+Height: 185.8 cm
+Weight: -
+
+Blood Pressure: 157/99 mmHg
+Pulse: -
+Blood Sugar: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 195 mg/dL
+  LDL: 125 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 29.4
+
+KFT:
+  Urea: -
+  eGFR: 110 mL/min
+
+
+Remarks:
+Needs follow-up in OPD.

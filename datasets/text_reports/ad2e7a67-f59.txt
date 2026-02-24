@@ -1,0 +1,41 @@
+
+Riverdale Diagnostics
+Address: 14 Maple Drive, Meadowridge - 425325
+Phone: +91-92162-30525
+Email: info@riverdale77.org
+Website: www.riverdale143.org
+Accreditation Code: RI-64166
+
+Report ID: RPT-B1554C8E
+Sample ID: SMP-15721
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2005
+
+Patient Name: Z***
+Patient ID: UH-000474
+Age: 49 years
+Gender: Female
+
+Blood Pressure: 138/98 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 146 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 0.71 mg/dL
+BMI: 33.4
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.0 mg/dL
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

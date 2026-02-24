@@ -1,0 +1,45 @@
+
+Riverdale Clinical Institute
+Address: 94 Maple Drive, Clearwater - 464307
+Phone: +91-90216-84326
+Email: info@riverdale26.org
+Website: www.riverdale700.org
+Accreditation Code: RI-98608
+
+Report ID: RPT-1A54C398
+Sample ID: SMP-75828
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6589
+
+Patient Name: I***
+Patient ID: UH-000833
+Age: 51 years
+Gender: Male
+
+Height: -
+Weight: 69.4 kg
+
+Blood Pressure: 140/102 mmHg
+Pulse: 92 bpm
+Glucose: 125 mg/dL
+
+Cholesterol Panel:
+  Total: 181 mg/dL
+  LDL: -
+  HDL: 45 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.24 mg/dL
+BMI: 19.3
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Recommendations:
+Sugar levels within acceptable range.

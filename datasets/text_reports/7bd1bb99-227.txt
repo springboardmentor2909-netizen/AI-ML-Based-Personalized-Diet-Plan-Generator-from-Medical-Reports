@@ -1,0 +1,39 @@
+
+Silver Oak Medical Center
+Address: 98 Sunrise Boulevard, Silverpoint - 431173
+Phone: +91-71339-46146
+Email: info@silver oak91.org
+Website: www.silver oak134.org
+Accreditation Code: SI-39679
+
+Report ID: RPT-0876E59E
+Sample ID: SMP-40979
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6472
+
+Patient Name: X***
+Patient ID: UH-000578
+Age: 36 years
+Gender: Male
+
+Height: 177.0 cm
+Weight: 92.0 kg
+
+Blood Pressure: -
+Blood Sugar: 122 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 92 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.27 mg/dL
+BMI: 32.8
+
+
+Doctor's Comments:
+Blood pressure within acceptable range.

@@ -1,0 +1,39 @@
+
+ClearRiver Hospital
+Address: 17 Riverbend Ave, Hillcrest - 487348
+Phone: +91-79960-88602
+Email: info@clearriver78.org
+Website: www.clearriver485.org
+Accreditation Code: CL-41018
+
+Report ID: RPT-4843FA29
+Sample ID: SMP-74575
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9421
+
+Patient Name: J***
+Patient ID: UH-000583
+Age: 62 years
+Gender: Male
+
+Height: 174.4 cm
+Weight: -
+
+Blood Pressure: 102/71 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 256 mg/dL
+  LDL: -
+  HDL: 35 mg/dL
+  Triglycerides: 123 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 21.8
+
+
+Clinical Notes:
+Lipid profile requires monitoring.

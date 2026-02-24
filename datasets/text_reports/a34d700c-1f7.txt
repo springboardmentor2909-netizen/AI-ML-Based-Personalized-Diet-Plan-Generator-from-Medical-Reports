@@ -1,0 +1,40 @@
+
+Medisphere Clinical Institute
+Address: 49 Horizon Road, Westlake - 424915
+Phone: +91-79901-72529
+Email: info@medisphere95.org
+Website: www.medisphere201.org
+Accreditation Code: ME-74539
+
+Report ID: RPT-710905DD
+Sample ID: SMP-21841
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7377
+
+Patient Name: I***
+Patient ID: UH-001023
+Age: 39 years
+Gender: Female
+
+Height: 149.8 cm
+Weight: -
+
+Blood Pressure: 160/62 mmHg
+Pulse (bpm): 79 bpm
+Blood Sugar: 104 mg/dL
+
+Cholesterol Panel:
+  Total: 176 mg/dL
+  LDL: 132 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 213 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.17 mg/dL
+BMI: 33.2
+
+
+Clinical Notes:
+Hb slightly low; iron-rich diet suggested.

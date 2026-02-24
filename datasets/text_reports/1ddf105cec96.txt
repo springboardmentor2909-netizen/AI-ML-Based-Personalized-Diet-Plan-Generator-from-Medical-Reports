@@ -1,0 +1,38 @@
+
+Starhaven Diagnostics
+Address: 54 Horizon Road, Eastwood - 407491
+Phone: +91-77509-98620
+Email: info@starhaven34.org
+Website: www.starhaven365.org
+Accreditation Code: ST-67450
+
+Report ID: RPT-0427806D
+Sample ID: SMP-84802
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9661
+
+Patient Name: Z***
+Patient ID: UH-001545
+Age: 70
+Gender: Male
+
+Blood Pressure: 141/78 mmHg
+Pulse (bpm): 76 bpm
+Glucose: 112 mg/dL
+Height: 188.2 cm
+Weight: 50.8 kg
+Cholesterol Total: 195 mg/dL
+LDL: 130 mg/dL
+HDL: 50 mg/dL
+Triglycerides: 231 mg/dL
+Hemoglobin: 15.1 g/dL
+BMI: 35.6
+
+LFT:
+  AST/SGOT: 27 U/L
+  ALT/SGPT: 35 U/L
+
+Remarks:
+Discussed results; patient understood.

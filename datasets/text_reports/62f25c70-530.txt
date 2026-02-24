@@ -1,0 +1,49 @@
+
+PrimeCare Pathology Lab
+Address: 50 Sunrise Boulevard, Silverpoint - 491795
+Phone: +91-90983-51849
+Email: info@primecare17.org
+Website: www.primecare949.org
+Accreditation Code: PR-94160
+
+Report ID: RPT-2208887C
+Sample ID: SMP-98931
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4852
+
+Patient Name: E***
+Patient ID: UH-001176
+Age: 49 years
+Gender: Male
+
+Height: 168.6 cm
+Weight: 86.0 kg
+
+Blood Pressure: 140/64 mmHg
+Pulse: 76 bpm
+Blood Sugar: 167 mg/dL
+
+Cholesterol Panel:
+  Total: 193 mg/dL
+  LDL: 151 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 201 mg/dL
+
+Hemoglobin: 12.3 g/dL
+Creatinine: 1.12 mg/dL
+BMI: 26.5
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: 44 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 86 mL/min
+
+
+Doctor's Notes:
+Mild anemia; iron-rich foods suggested.

@@ -1,0 +1,34 @@
+
+Northlake Hospital
+Address: 37 Evergreen Lane, Meadowridge - 452701
+Phone: +91-85454-30773
+Email: info@northlake60.org
+Website: www.northlake729.org
+Accreditation Code: NO-71362
+
+Report ID: RPT-384D88EA
+Sample ID: SMP-69927
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1651
+
+Patient Name: N***
+Patient ID: UH-001460
+Age: 70
+Gender: Female
+
+Blood Pressure: 111/69 mmHg
+Pulse Rate: 94 bpm
+Blood Glucose: 123 mg/dL
+Height: 166.6 cm
+Weight: 88.2 kg
+Cholesterol Total: 195 mg/dL
+LDL: 111 mg/dL
+HDL: 42 mg/dL
+Triglycerides: 209 mg/dL
+Hemoglobin: 13.0 g/dL
+Creatinine: 1.06 mg/dL
+
+Doctor's Notes:
+Lifestyle modification suggested.

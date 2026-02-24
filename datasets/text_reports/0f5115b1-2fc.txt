@@ -1,0 +1,40 @@
+
+Medisphere Diagnostics
+Address: 49 Riverbend Ave, Hillcrest - 486270
+Phone: +91-80927-65465
+Email: info@medisphere65.org
+Website: www.medisphere879.org
+Accreditation Code: ME-37815
+
+Report ID: RPT-E733C8BA
+Sample ID: SMP-53666
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2025
+
+Patient Name: V***
+Patient ID: UH-000959
+Age: 34 years
+Gender: Other
+
+Height: -
+Weight: 87.8 kg
+
+Blood Pressure: 133/63 mmHg
+Pulse (bpm): -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 257 mg/dL
+  LDL: 145 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.76 mg/dL
+BMI: 23.0
+
+
+Doctor's Notes:
+Levels improving compared to last visit.

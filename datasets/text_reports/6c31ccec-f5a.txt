@@ -1,0 +1,39 @@
+
+PrimeCare Pathology Lab
+Address: 57 Horizon Road, Eastwood - 467452
+Phone: +91-96764-94174
+Email: info@primecare61.org
+Website: www.primecare463.org
+Accreditation Code: PR-78652
+
+Report ID: RPT-1751A43B
+Sample ID: SMP-44029
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8711
+
+Patient Name: B***
+Patient ID: UH-000544
+Age: 72 years
+Gender: Other
+
+Height: 188.2 cm
+Weight: -
+
+Blood Pressure: 158/83 mmHg
+Blood Sugar: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: 146 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 129 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 1.18 mg/dL
+BMI: 28.0
+
+
+Remark:
+Blood pressure within acceptable range.

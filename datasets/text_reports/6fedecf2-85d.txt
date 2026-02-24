@@ -1,0 +1,40 @@
+
+Silver Oak Medical Center
+Address: 70 Evergreen Lane, Clearwater - 408124
+Phone: +91-86478-63803
+Email: info@silver oak94.org
+Website: www.silver oak302.org
+Accreditation Code: SI-90505
+
+Report ID: RPT-A8279647
+Sample ID: SMP-97516
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2018
+
+Patient Name: F***
+Patient ID: UH-000477
+Age: 40 years
+Gender: Other
+
+Blood Pressure: 157/65 mmHg
+Glucose: 91 mg/dL
+
+Cholesterol Panel:
+  Total: 212 mg/dL
+  LDL: 98 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 192 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 1.3 mg/dL
+BMI: 22.8
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 88 mL/min
+
+
+Remarks:
+Blood pressure stable today.

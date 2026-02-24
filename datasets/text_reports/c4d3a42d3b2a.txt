@@ -1,0 +1,34 @@
+
+SolacePoint Medical Center
+Address: 95 Horizon Road, Marigold City - 496352
+Phone: +91-73401-34281
+Email: info@solacepoint28.org
+Website: www.solacepoint631.org
+Accreditation Code: SO-53980
+
+Report ID: RPT-592936DC
+Sample ID: SMP-62981
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8434
+
+Patient Name: H***
+Patient ID: UH-001377
+Age: 31
+Gender: Other
+
+Blood Pressure: 120/106 mmHg
+Blood Glucose: 131 mg/dL
+Height: 169.6 cm
+LDL: 85 mg/dL
+Triglycerides: 242 mg/dL
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.3 mg/dL
+BMI: 17.1
+
+LFT:
+  ALT/SGPT: 31 U/L
+
+Remark:
+Patient instructed to drink more water.

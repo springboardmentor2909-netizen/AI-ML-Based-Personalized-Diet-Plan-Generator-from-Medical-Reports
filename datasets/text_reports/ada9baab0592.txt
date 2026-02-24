@@ -1,0 +1,40 @@
+
+Starhaven Pathology Lab
+Address: 94 Evergreen Lane, Hillcrest - 466819
+Phone: +91-81338-98268
+Email: info@starhaven38.org
+Website: www.starhaven593.org
+Accreditation Code: ST-46668
+
+Report ID: RPT-65CC6C6C
+Sample ID: SMP-84591
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-8433
+
+Patient Name: V***
+Patient ID: UH-001205
+Age: 62 years
+Gender: Female
+
+Height: -
+Weight: 68.6 kg
+
+Blood Pressure: -
+Pulse (bpm): 83 bpm
+Glucose: 120 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 103 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.98 mg/dL
+BMI: -
+
+
+Remarks:
+Check BP at home twice daily.

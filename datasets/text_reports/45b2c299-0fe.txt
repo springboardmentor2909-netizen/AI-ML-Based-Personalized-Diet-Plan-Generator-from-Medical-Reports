@@ -1,0 +1,36 @@
+
+Starhaven Hospital
+Address: 4 Horizon Road, Clearwater - 416191
+Phone: +91-96276-67032
+Email: info@starhaven62.org
+Website: www.starhaven266.org
+Accreditation Code: ST-36195
+
+Report ID: RPT-DB195844
+Sample ID: SMP-84371
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5976
+
+Patient Name: T***
+Patient ID: UH-000419
+Age: 54 years
+Gender: Other
+
+Blood Pressure: 161/76 mmHg
+Blood Sugar: 101 mg/dL
+
+Cholesterol Panel:
+  Total: 241 mg/dL
+  LDL: 104 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 149 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.04 mg/dL
+BMI: 18.7
+
+
+Clinical Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

@@ -1,0 +1,40 @@
+
+Greencrest Clinical Institute
+Address: 57 Evergreen Lane, Clearwater - 425046
+Phone: +91-77028-35960
+Email: info@greencrest72.org
+Website: www.greencrest475.org
+Accreditation Code: GR-55297
+
+Report ID: RPT-71D67103
+Sample ID: SMP-22903
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8279
+
+Patient Name: E***
+Patient ID: UH-000952
+Age: 77 years
+Gender: Male
+
+Height: 169.3 cm
+Weight: 78.0 kg
+
+Blood Pressure: 170/82 mmHg
+Pulse: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 45 mg/dL
+  Triglycerides: 234 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Summary:
+Levels improving compared to last visit.

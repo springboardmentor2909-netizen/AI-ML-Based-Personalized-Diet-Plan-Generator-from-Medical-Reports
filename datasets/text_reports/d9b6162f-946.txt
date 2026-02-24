@@ -1,0 +1,44 @@
+
+PrimeCare Clinical Institute
+Address: 24 Evergreen Lane, Clearwater - 432515
+Phone: +91-86283-81728
+Email: info@primecare43.org
+Website: www.primecare621.org
+Accreditation Code: PR-52317
+
+Report ID: RPT-9FC2D720
+Sample ID: SMP-83906
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7294
+
+Patient Name: W***
+Patient ID: UH-000532
+Age: 27 years
+Gender: Male
+
+Height: 186.2 cm
+Weight: -
+
+Blood Pressure: 110/69 mmHg
+Blood Sugar: 169 mg/dL
+
+Cholesterol Panel:
+  Total: 211 mg/dL
+  LDL: 106 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: 0.83 mg/dL
+BMI: 20.4
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+
+Remark:
+Follow-up recommended after 2 weeks.

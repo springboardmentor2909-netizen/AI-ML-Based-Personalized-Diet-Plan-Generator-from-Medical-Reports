@@ -1,0 +1,34 @@
+
+Starhaven Pathology Lab
+Address: 70 Alpine Street, Eastwood - 484474
+Phone: +91-80215-45355
+Email: info@starhaven78.org
+Website: www.starhaven946.org
+Accreditation Code: ST-91759
+
+Report ID: RPT-5B87B89C
+Sample ID: SMP-19589
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3659
+
+Patient Name: Z***
+Patient ID: UH-001455
+Age: 62
+Gender: Other
+
+Pulse: 106 bpm
+Blood Sugar: 77 mg/dL
+Height: 186.6 cm
+Weight: 54.1 kg
+Cholesterol Total: 160 mg/dL
+LDL: 139 mg/dL
+HDL: 44 mg/dL
+Triglycerides: 92 mg/dL
+Hemoglobin: 9.9 g/dL
+Creatinine: 1.32 mg/dL
+BMI: 31.5
+
+Doctor's Notes:
+Follow-up advised.

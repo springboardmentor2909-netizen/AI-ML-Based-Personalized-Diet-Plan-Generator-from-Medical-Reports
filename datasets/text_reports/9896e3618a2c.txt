@@ -1,0 +1,44 @@
+
+Everlight Hospital
+Address: 83 Alpine Street, Clearwater - 491721
+Phone: +91-76945-99317
+Email: info@everlight36.org
+Website: www.everlight608.org
+Accreditation Code: EV-37889
+
+Report ID: RPT-79151530
+Sample ID: SMP-23081
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1654
+
+Patient Name: E***
+Patient ID: UH-001263
+Age: 25 years
+Gender: Other
+
+Height: 173.2 cm
+Weight: 45.1 kg
+
+Blood Pressure: 142/92 mmHg
+Pulse Rate: 101 bpm
+Blood Sugar: 104 mg/dL
+
+Cholesterol Panel:
+  Total: 203 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 163 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.75 mg/dL
+BMI: -
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 114 mL/min
+
+
+Remarks:
+Patient advised to hydrate adequately.

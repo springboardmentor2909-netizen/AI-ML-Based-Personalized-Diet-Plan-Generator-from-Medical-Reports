@@ -1,0 +1,34 @@
+
+PrimeCare Clinical Institute
+Address: 20 Sunrise Boulevard, Marigold City - 424685
+Phone: +91-93776-59798
+Email: info@primecare37.org
+Website: www.primecare801.org
+Accreditation Code: PR-20632
+
+Report ID: RPT-3214D00E
+Sample ID: SMP-77149
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6076
+
+Patient Name: Q***
+Patient ID: UH-001529
+Age: 73
+Gender: Female
+
+Weight: 75.6 kg
+Cholesterol Total: 177 mg/dL
+HDL: 50 mg/dL
+Triglycerides: 130 mg/dL
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.36 mg/dL
+BMI: 29.3
+
+LFT:
+  AST/SGOT: 41 U/L
+  ALT/SGPT: 18 U/L
+
+Remark:
+Discussed results; patient understood.

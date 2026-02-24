@@ -1,0 +1,48 @@
+
+Riverdale Hospital
+Address: 80 Riverbend Ave, Westlake - 400193
+Phone: +91-86447-81308
+Email: info@riverdale53.org
+Website: www.riverdale205.org
+Accreditation Code: RI-82720
+
+Report ID: RPT-48E4C313
+Sample ID: SMP-52077
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3089
+
+Patient Name: V***
+Patient ID: UH-000529
+Age: 21 years
+Gender: Female
+
+Height: 158.0 cm
+Weight: 65.0 kg
+
+Blood Pressure: 163/79 mmHg
+Blood Sugar: 103 mg/dL
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: 122 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 160 mg/dL
+
+Hemoglobin: 11.3 g/dL
+Creatinine: 1.19 mg/dL
+BMI: 26.4
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 22 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 74 mL/min
+
+
+Doctor's Notes:
+Lipid profile requires monitoring.

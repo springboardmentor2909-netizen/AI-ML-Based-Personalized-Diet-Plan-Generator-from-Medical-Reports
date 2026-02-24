@@ -1,0 +1,35 @@
+
+SolacePoint Pathology Lab
+Address: 54 Maple Drive, Westlake - 479909
+Phone: +91-95305-82801
+Email: info@solacepoint96.org
+Website: www.solacepoint294.org
+Accreditation Code: SO-26855
+
+Report ID: RPT-CFAA6A5F
+Sample ID: SMP-99701
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5848
+
+Patient Name: C***
+Patient ID: UH-001387
+Age: 26
+Gender: Male
+
+Blood Pressure: 120/100 mmHg
+Pulse (bpm): 107 bpm
+Blood Glucose: 149 mg/dL
+Height: 165.8 cm
+Cholesterol Total: 186 mg/dL
+LDL: 75 mg/dL
+HDL: 32 mg/dL
+BMI: 31.7
+
+LFT:
+  AST/SGOT: 19 U/L
+  ALT/SGPT: 20 U/L
+
+Summary:
+Minor vitamin deficiency probable.

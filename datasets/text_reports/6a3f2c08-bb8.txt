@@ -1,0 +1,39 @@
+
+Everlight Hospital
+Address: 6 Alpine Street, Westlake - 457212
+Phone: +91-93729-22499
+Email: info@everlight49.org
+Website: www.everlight131.org
+Accreditation Code: EV-25453
+
+Report ID: RPT-FAD4A8E0
+Sample ID: SMP-95322
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9976
+
+Patient Name: W***
+Patient ID: UH-000579
+Age: 19 years
+Gender: Other
+
+Height: -
+Weight: 73.9 kg
+
+Blood Pressure: 102/83 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 11.3 g/dL
+Creatinine: 1.13 mg/dL
+BMI: 18.5
+
+
+Advice:
+Lipid profile requires monitoring.

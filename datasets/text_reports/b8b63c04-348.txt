@@ -1,0 +1,45 @@
+
+ClearRiver Hospital
+Address: 6 Riverbend Ave, Westlake - 493101
+Phone: +91-76972-78297
+Email: info@clearriver40.org
+Website: www.clearriver141.org
+Accreditation Code: CL-88351
+
+Report ID: RPT-4996E8A5
+Sample ID: SMP-75304
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6429
+
+Patient Name: O***
+Patient ID: UH-000911
+Age: 38 years
+Gender: Female
+
+Height: 152.0 cm
+Weight: 77.2 kg
+
+Blood Pressure: 104/66 mmHg
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 183 mg/dL
+  LDL: -
+  HDL: 45 mg/dL
+  Triglycerides: 230 mg/dL
+
+Hemoglobin: 10.5 g/dL
+Creatinine: 1.19 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 19 U/L
+  ALT/SGPT: 19 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+
+Remark:
+Monitor BP at home regularly.

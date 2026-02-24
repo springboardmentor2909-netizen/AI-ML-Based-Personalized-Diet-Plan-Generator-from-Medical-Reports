@@ -1,0 +1,40 @@
+
+PrimeCare Diagnostics
+Address: 46 Evergreen Lane, Silverpoint - 445426
+Phone: +91-75738-11396
+Email: info@primecare11.org
+Website: www.primecare631.org
+Accreditation Code: PR-28824
+
+Report ID: RPT-ADCDB55A
+Sample ID: SMP-28569
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 08:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8269
+
+Patient Name: T***
+Patient ID: UH-001572
+Age: 76
+Gender: Male
+
+Blood Pressure: 139/104 mmHg
+Pulse Rate: 73 bpm
+Blood Sugar (Random): 148 mg/dL
+Height: 178.7 cm
+Weight: 99.4 kg
+Cholesterol Total: 225 mg/dL
+LDL: 83 mg/dL
+HDL: 53 mg/dL
+Triglycerides: 110 mg/dL
+Hemoglobin: 12.6 g/dL
+Creatinine: 0.63 mg/dL
+BMI: 19.8
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 11 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+Doctor's Comments:
+Continue medications.

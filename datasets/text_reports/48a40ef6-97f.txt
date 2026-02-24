@@ -1,0 +1,45 @@
+
+SolacePoint Clinical Institute
+Address: 78 Evergreen Lane, Meadowridge - 429629
+Phone: +91-86846-88621
+Email: info@solacepoint39.org
+Website: www.solacepoint258.org
+Accreditation Code: SO-87688
+
+Report ID: RPT-7C89D991
+Sample ID: SMP-66375
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5230
+
+Patient Name: J***
+Patient ID: UH-000675
+Age: 67 years
+Gender: Other
+
+Height: 171.2 cm
+Weight: 91.2 kg
+
+Blood Pressure: 165/78 mmHg
+Pulse: 80 bpm
+Glucose: 86 mg/dL
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: 82 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 111 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 0.91 mg/dL
+BMI: 27.0
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 40 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+
+Doctor's Notes:
+Lipid profile requires monitoring.

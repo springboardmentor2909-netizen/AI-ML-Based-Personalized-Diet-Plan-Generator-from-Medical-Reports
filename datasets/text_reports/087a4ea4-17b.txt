@@ -1,0 +1,39 @@
+
+Riverdale Diagnostics
+Address: 93 Horizon Road, Hillcrest - 480836
+Phone: +91-94241-43849
+Email: info@riverdale25.org
+Website: www.riverdale183.org
+Accreditation Code: RI-98138
+
+Report ID: RPT-0CA5C6B6
+Sample ID: SMP-55311
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1478
+
+Patient Name: L***
+Patient ID: UH-000556
+Age: 74 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 110 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 168 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: -
+BMI: 28.7
+
+
+Impression:
+Follow-up recommended after 2 weeks.

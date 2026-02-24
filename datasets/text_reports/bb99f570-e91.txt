@@ -1,0 +1,40 @@
+
+Medisphere Pathology Lab
+Address: 7 Horizon Road, Hillcrest - 484174
+Phone: +91-84685-88259
+Email: info@medisphere16.org
+Website: www.medisphere538.org
+Accreditation Code: ME-22296
+
+Report ID: RPT-5AF3EA52
+Sample ID: SMP-92438
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1653
+
+Patient Name: R***
+Patient ID: UH-000863
+Age: 54 years
+Gender: Other
+
+Height: 183.9 cm
+Weight: 68.4 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Glucose: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 241 mg/dL
+  LDL: 97 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.0 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 25.3
+
+
+Advice:
+Reassurance provided.

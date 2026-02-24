@@ -1,0 +1,26 @@
+
+ClearRiver Pathology Lab
+Address: 19 Sunrise Boulevard, Hillcrest - 452706
+Phone: +91-77163-87040
+Email: info@clearriver20.org
+Website: www.clearriver512.org
+Accreditation Code: CL-34374
+
+Report ID: RPT-A8D698F6
+Sample ID: SMP-86887
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5458
+
+Patient Name: M***
+Patient ID: UH-001348
+Age: 51
+Gender: Other
+
+Blood Pressure: 112/100 mmHg
+Pulse (bpm): 106 bpm
+Hemoglobin: 11.1 g/dL
+
+Summary:
+Medication adherence checked.

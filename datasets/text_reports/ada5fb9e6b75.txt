@@ -1,0 +1,32 @@
+
+Greencrest Clinical Institute
+Address: 8 Horizon Road, Hillcrest - 443213
+Phone: +91-77667-18595
+Email: info@greencrest31.org
+Website: www.greencrest992.org
+Accreditation Code: GR-11526
+
+Report ID: RPT-2675BEED
+Sample ID: SMP-15353
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5279
+
+Patient Name: P***
+Patient ID: UH-001505
+Age: 25
+Gender: Male
+
+Blood Pressure: 147/70 mmHg
+Cholesterol Total: 157 mg/dL
+HDL: 31 mg/dL
+Triglycerides: 127 mg/dL
+Hemoglobin: 13.7 g/dL
+Creatinine: 0.81 mg/dL
+
+KFT:
+  eGFR: 123 mL/min
+
+Advice:
+Monitor BP regularly.

@@ -1,0 +1,45 @@
+
+Northlake Pathology Lab
+Address: 54 Maple Drive, Eastwood - 423196
+Phone: +91-74845-49639
+Email: info@northlake95.org
+Website: www.northlake636.org
+Accreditation Code: NO-62757
+
+Report ID: RPT-C11E13FC
+Sample ID: SMP-76385
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8943
+
+Patient Name: O***
+Patient ID: UH-000435
+Age: 40 years
+Gender: Female
+
+Blood Pressure: 167/93 mmHg
+Blood Sugar: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 230 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 238 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 18.3
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: 100 mL/min
+
+
+Summary:
+Lipid levels require monitoring.

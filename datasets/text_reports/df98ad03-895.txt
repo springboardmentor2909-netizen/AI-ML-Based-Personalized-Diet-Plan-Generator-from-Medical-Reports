@@ -1,0 +1,48 @@
+
+SolacePoint Medical Center
+Address: 32 Evergreen Lane, Northbay - 458603
+Phone: +91-85306-59441
+Email: info@solacepoint19.org
+Website: www.solacepoint227.org
+Accreditation Code: SO-52162
+
+Report ID: RPT-3D1013AD
+Sample ID: SMP-35842
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8543
+
+Patient Name: I***
+Patient ID: UH-000580
+Age: 52 years
+Gender: Female
+
+Height: 167.4 cm
+Weight: 88.4 kg
+
+Blood Pressure: 146/73 mmHg
+Blood Glucose: 102 mg/dL
+
+Cholesterol Panel:
+  Total: 162 mg/dL
+  LDL: 105 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: 236 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 0.92 mg/dL
+BMI: 23.8
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 18 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 41 mg/dL
+  eGFR: 83 mL/min
+
+
+Doctor's Comments:
+Lipid profile requires monitoring.

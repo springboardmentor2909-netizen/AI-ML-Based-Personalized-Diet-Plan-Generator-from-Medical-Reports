@@ -1,0 +1,40 @@
+
+NovaPath Clinical Institute
+Address: 1 Riverbend Ave, Eastwood - 418816
+Phone: +91-72720-47639
+Email: info@novapath10.org
+Website: www.novapath240.org
+Accreditation Code: NO-91254
+
+Report ID: RPT-19CABBBB
+Sample ID: SMP-32901
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8717
+
+Patient Name: T***
+Patient ID: UH-001011
+Age: 62 years
+Gender: Other
+
+Height: 145.0 cm
+Weight: 75.9 kg
+
+Blood Pressure: 153/86 mmHg
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 162 mg/dL
+  LDL: 156 mg/dL
+  HDL: -
+  Triglycerides: 202 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendations:
+Follow-up recommended after 2 weeks.

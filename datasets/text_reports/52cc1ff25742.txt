@@ -1,0 +1,32 @@
+
+PrimeCare Medical Center
+Address: 49 Horizon Road, Westlake - 413361
+Phone: +91-87809-36343
+Email: info@primecare87.org
+Website: www.primecare350.org
+Accreditation Code: PR-43116
+
+Report ID: RPT-05041330
+Sample ID: SMP-57060
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5583
+
+Patient Name: M***
+Patient ID: UH-001516
+Age: 37
+Gender: Male
+
+Blood Pressure: 122/107 mmHg
+Blood Sugar: 83 mg/dL
+Height: 157.6 cm
+Cholesterol Total: 219 mg/dL
+LDL: 71 mg/dL
+HDL: 43 mg/dL
+Triglycerides: 254 mg/dL
+Creatinine: 0.91 mg/dL
+BMI: 18.6
+
+Advice:
+Mild elevation in glucose.

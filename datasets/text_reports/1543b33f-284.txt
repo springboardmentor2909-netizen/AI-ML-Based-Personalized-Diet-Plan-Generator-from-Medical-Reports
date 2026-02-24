@@ -1,0 +1,44 @@
+
+SolacePoint Pathology Lab
+Address: 68 Alpine Street, Westlake - 494469
+Phone: +91-93349-63223
+Email: info@solacepoint86.org
+Website: www.solacepoint748.org
+Accreditation Code: SO-11685
+
+Report ID: RPT-071F470D
+Sample ID: SMP-32971
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6164
+
+Patient Name: M***
+Patient ID: UH-000628
+Age: 32 years
+Gender: Male
+
+Height: 155.2 cm
+Weight: 70.2 kg
+
+Blood Pressure: 154/63 mmHg
+Pulse: -
+Glucose: 159 mg/dL
+
+Cholesterol Panel:
+  Total: 242 mg/dL
+  LDL: 117 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 156 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 32.7
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Summary:
+Blood pressure within acceptable range.

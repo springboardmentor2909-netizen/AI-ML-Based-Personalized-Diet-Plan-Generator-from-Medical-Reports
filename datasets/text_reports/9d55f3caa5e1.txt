@@ -1,0 +1,40 @@
+
+ClearRiver Diagnostics
+Address: 41 Evergreen Lane, Silverpoint - 490981
+Phone: +91-78817-38140
+Email: info@clearriver74.org
+Website: www.clearriver238.org
+Accreditation Code: CL-10041
+
+Report ID: RPT-0F01E7E0
+Sample ID: SMP-76941
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3438
+
+Patient Name: K***
+Patient ID: UH-001566
+Age: 76
+Gender: Other
+
+Blood Pressure: 115/76 mmHg
+Pulse: 108 bpm
+Blood Glucose: 102 mg/dL
+Height: 171.5 cm
+Weight: 66.4 kg
+Cholesterol Total: 240 mg/dL
+LDL: 97 mg/dL
+HDL: 56 mg/dL
+Triglycerides: 156 mg/dL
+Hemoglobin: 11.5 g/dL
+Creatinine: 0.65 mg/dL
+BMI: 34.9
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 34 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+Doctor's Comments:
+Condition stable.

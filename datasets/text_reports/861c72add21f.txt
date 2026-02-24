@@ -1,0 +1,38 @@
+
+Greencrest Clinical Institute
+Address: 3 Alpine Street, Meadowridge - 446264
+Phone: +91-71650-43177
+Email: info@greencrest16.org
+Website: www.greencrest930.org
+Accreditation Code: GR-39411
+
+Report ID: RPT-ED1FF561
+Sample ID: SMP-74103
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1437
+
+Patient Name: Z***
+Patient ID: UH-001534
+Age: 34
+Gender: Male
+
+Blood Pressure: 134/108 mmHg
+Pulse: 63 bpm
+Blood Sugar: 103 mg/dL
+Height: 149.5 cm
+Weight: 95.5 kg
+Cholesterol Total: 173 mg/dL
+LDL: 132 mg/dL
+HDL: 65 mg/dL
+Triglycerides: 213 mg/dL
+Hemoglobin: 15.9 g/dL
+Creatinine: 1.39 mg/dL
+
+KFT:
+  Urea: 28 mg/dL
+  eGFR: 84 mL/min
+
+Remark:
+Follow-up advised.

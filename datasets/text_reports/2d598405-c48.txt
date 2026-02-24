@@ -1,0 +1,49 @@
+
+Greencrest Hospital
+Address: 19 Horizon Road, Hillcrest - 476960
+Phone: +91-97491-71974
+Email: info@greencrest11.org
+Website: www.greencrest376.org
+Accreditation Code: GR-83389
+
+Report ID: RPT-5BE909E4
+Sample ID: SMP-36211
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4635
+
+Patient Name: G***
+Patient ID: UH-000989
+Age: 45 years
+Gender: Male
+
+Height: 189.5 cm
+Weight: 73.4 kg
+
+Blood Pressure: 126/89 mmHg
+Pulse Rate: 69 bpm
+Blood Sugar (Random): 81 mg/dL
+
+Cholesterol Panel:
+  Total: 170 mg/dL
+  LDL: 123 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 113 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 18.8
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 92 mL/min
+
+
+Remark:
+Medication adherence reviewed.

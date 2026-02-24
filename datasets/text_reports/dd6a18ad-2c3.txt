@@ -1,0 +1,49 @@
+
+SolacePoint Pathology Lab
+Address: 20 Riverbend Ave, Northbay - 419982
+Phone: +91-78808-88703
+Email: info@solacepoint19.org
+Website: www.solacepoint206.org
+Accreditation Code: SO-26061
+
+Report ID: RPT-4450C06E
+Sample ID: SMP-29508
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2316
+
+Patient Name: U***
+Patient ID: UH-000804
+Age: 35 years
+Gender: Male
+
+Height: -
+Weight: 55.4 kg
+
+Blood Pressure: 165/88 mmHg
+Pulse (bpm): 81 bpm
+Blood Glucose: 124 mg/dL
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: 116 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 181 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: -
+BMI: 19.0
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 84 mL/min
+
+
+Remarks:
+Sugar levels within acceptable range.

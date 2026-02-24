@@ -1,0 +1,44 @@
+
+Riverdale Medical Center
+Address: 50 Maple Drive, Eastwood - 428563
+Phone: +91-96359-66474
+Email: info@riverdale74.org
+Website: www.riverdale332.org
+Accreditation Code: RI-28655
+
+Report ID: RPT-D097091C
+Sample ID: SMP-92374
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4238
+
+Patient Name: C***
+Patient ID: UH-000535
+Age: 33 years
+Gender: Male
+
+Height: 172.8 cm
+Weight: -
+
+Blood Pressure: 130/85 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 232 mg/dL
+  LDL: 137 mg/dL
+  HDL: -
+  Triglycerides: 129 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 0.93 mg/dL
+BMI: 31.1
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.1 mg/dL
+
+
+Summary:
+Follow-up recommended after 2 weeks.

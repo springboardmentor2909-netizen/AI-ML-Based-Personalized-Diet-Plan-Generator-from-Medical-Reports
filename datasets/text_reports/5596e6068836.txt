@@ -1,0 +1,39 @@
+
+Silver Oak Hospital
+Address: 32 Horizon Road, Silverpoint - 483114
+Phone: +91-98305-43539
+Email: info@silver oak71.org
+Website: www.silver oak197.org
+Accreditation Code: SI-26073
+
+Report ID: RPT-5E82EDE9
+Sample ID: SMP-20891
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7967
+
+Patient Name: A***
+Patient ID: UH-001436
+Age: 68
+Gender: Female
+
+Pulse: 81 bpm
+Weight: 62.4 kg
+Cholesterol Total: 245 mg/dL
+LDL: 85 mg/dL
+HDL: 56 mg/dL
+Hemoglobin: 11.3 g/dL
+Creatinine: 1.49 mg/dL
+BMI: 35.2
+
+LFT:
+  AST/SGOT: 36 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 14 mg/dL
+  eGFR: 100 mL/min
+
+Summary:
+Condition stable.

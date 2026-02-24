@@ -1,0 +1,44 @@
+
+Starhaven Pathology Lab
+Address: 92 Horizon Road, Clearwater - 455867
+Phone: +91-73627-82457
+Email: info@starhaven30.org
+Website: www.starhaven654.org
+Accreditation Code: ST-33406
+
+Report ID: RPT-03491D4E
+Sample ID: SMP-10346
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4844
+
+Patient Name: E***
+Patient ID: UH-001067
+Age: 52 years
+Gender: Other
+
+Height: -
+Weight: 73.7 kg
+
+Blood Pressure: 110/106 mmHg
+Pulse (bpm): 60 bpm
+Glucose: 114 mg/dL
+
+Cholesterol Panel:
+  Total: 238 mg/dL
+  LDL: 82 mg/dL
+  HDL: -
+  Triglycerides: 142 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: 0.75 mg/dL
+BMI: 26.0
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 71 mL/min
+
+
+Clinical Notes:
+Blood pressure requires monitoring.

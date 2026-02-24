@@ -1,0 +1,39 @@
+
+Everlight Pathology Lab
+Address: 75 Maple Drive, Marigold City - 425580
+Phone: +91-85506-82311
+Email: info@everlight70.org
+Website: www.everlight825.org
+Accreditation Code: EV-47441
+
+Report ID: RPT-6DE01038
+Sample ID: SMP-78321
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6845
+
+Patient Name: A***
+Patient ID: UH-000559
+Age: 78 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Glucose: 135 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 116 mg/dL
+  HDL: -
+  Triglycerides: 163 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Summary:
+Glucose levels mildly elevated; lifestyle changes advised.

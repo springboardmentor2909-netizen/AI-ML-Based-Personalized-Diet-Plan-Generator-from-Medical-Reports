@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 86 Evergreen Lane, Meadowridge - 495147
+Phone: +91-99246-29897
+Email: info@bluevalley56.org
+Website: www.bluevalley290.org
+Accreditation Code: BL-71455
+
+Report ID: RPT-397AF69A
+Sample ID: SMP-88762
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2529
+
+Patient Name: Q***
+Patient ID: UH-000666
+Age: 28 years
+Gender: Female
+
+Height: 179.5 cm
+Weight: 81.2 kg
+
+Blood Pressure: 126/73 mmHg
+Pulse (bpm): -
+Blood Sugar (Random): 120 mg/dL
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: -
+  HDL: 48 mg/dL
+  Triglycerides: 217 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: -
+BMI: -
+
+
+Summary:
+Continue present medications.

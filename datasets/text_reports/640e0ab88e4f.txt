@@ -1,0 +1,27 @@
+
+NovaPath Pathology Lab
+Address: 48 Maple Drive, Eastwood - 427172
+Phone: +91-88904-18804
+Email: info@novapath76.org
+Website: www.novapath890.org
+Accreditation Code: NO-68461
+
+Report ID: RPT-8489DE22
+Sample ID: SMP-51146
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5849
+
+Patient Name: C***
+Patient ID: UH-001415
+Age: 45
+Gender: Female
+
+Blood Pressure: 120/88 mmHg
+Pulse: 74 bpm
+Blood Glucose: 153 mg/dL
+Hemoglobin: 11.2 g/dL
+
+Summary:
+Condition stable.

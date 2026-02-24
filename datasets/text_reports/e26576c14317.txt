@@ -1,0 +1,38 @@
+
+Starhaven Clinical Institute
+Address: 84 Horizon Road, Meadowridge - 412376
+Phone: +91-76934-58160
+Email: info@starhaven21.org
+Website: www.starhaven147.org
+Accreditation Code: ST-33030
+
+Report ID: RPT-07084A92
+Sample ID: SMP-38585
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 08:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1828
+
+Patient Name: J***
+Patient ID: UH-001502
+Age: 57
+Gender: Female
+
+Blood Pressure: 131/106 mmHg
+Pulse: 80 bpm
+Blood Sugar (Random): 75 mg/dL
+Height: 180.3 cm
+Weight: 65.5 kg
+Cholesterol Total: 154 mg/dL
+HDL: 55 mg/dL
+Triglycerides: 139 mg/dL
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.31 mg/dL
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: 21 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+Recommendation:
+Repeat lipid panel in future.

@@ -1,0 +1,49 @@
+
+Greencrest Clinical Institute
+Address: 19 Evergreen Lane, Silverpoint - 410325
+Phone: +91-71390-56581
+Email: info@greencrest73.org
+Website: www.greencrest460.org
+Accreditation Code: GR-21344
+
+Report ID: RPT-817E44E0
+Sample ID: SMP-71670
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1021
+
+Patient Name: F***
+Patient ID: UH-001216
+Age: 69 years
+Gender: Male
+
+Height: 184.7 cm
+Weight: 83.2 kg
+
+Blood Pressure: 166/110 mmHg
+Pulse Rate: 105 bpm
+Blood Sugar (Random): 141 mg/dL
+
+Cholesterol Panel:
+  Total: 204 mg/dL
+  LDL: 150 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 160 mg/dL
+
+Hemoglobin: 15.9 g/dL
+Creatinine: 0.65 mg/dL
+BMI: 34.7
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 120 mL/min
+
+
+Remarks:
+Lifestyle modifications discussed.

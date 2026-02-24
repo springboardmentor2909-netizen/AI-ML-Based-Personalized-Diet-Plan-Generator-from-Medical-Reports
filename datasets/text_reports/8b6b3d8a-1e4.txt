@@ -1,0 +1,36 @@
+
+ClearRiver Clinical Institute
+Address: 50 Sunrise Boulevard, Meadowridge - 453015
+Phone: +91-77787-92144
+Email: info@clearriver59.org
+Website: www.clearriver703.org
+Accreditation Code: CL-64913
+
+Report ID: RPT-34B6D936
+Sample ID: SMP-55301
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3769
+
+Patient Name: B***
+Patient ID: UH-000493
+Age: 73 years
+Gender: Female
+
+Blood Pressure: -
+Blood Glucose: 150 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 59 mg/dL
+  Triglycerides: 249 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.8 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Lipid levels require monitoring.

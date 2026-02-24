@@ -1,0 +1,40 @@
+
+BlueValley Clinical Institute
+Address: 6 Evergreen Lane, Meadowridge - 411617
+Phone: +91-78396-78518
+Email: info@bluevalley89.org
+Website: www.bluevalley172.org
+Accreditation Code: BL-17061
+
+Report ID: RPT-15081963
+Sample ID: SMP-86084
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3597
+
+Patient Name: W***
+Patient ID: UH-001148
+Age: 56 years
+Gender: Female
+
+Height: 177.3 cm
+Weight: -
+
+Blood Pressure: 103/63 mmHg
+Pulse (bpm): 87 bpm
+Glucose: 134 mg/dL
+
+Cholesterol Panel:
+  Total: 198 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 0.78 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Lifestyle and diet counseling provided.

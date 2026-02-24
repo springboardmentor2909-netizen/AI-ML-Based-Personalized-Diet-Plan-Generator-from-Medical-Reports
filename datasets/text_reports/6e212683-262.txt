@@ -1,0 +1,45 @@
+
+Starhaven Clinical Institute
+Address: 11 Alpine Street, Hillcrest - 449096
+Phone: +91-73557-55340
+Email: info@starhaven14.org
+Website: www.starhaven273.org
+Accreditation Code: ST-81520
+
+Report ID: RPT-F68010CE
+Sample ID: SMP-22905
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1823
+
+Patient Name: P***
+Patient ID: UH-000668
+Age: 84 years
+Gender: Male
+
+Height: 151.6 cm
+Weight: 87.7 kg
+
+Blood Pressure: 123/74 mmHg
+Pulse: -
+Blood Sugar (Random): 122 mg/dL
+
+Cholesterol Panel:
+  Total: 245 mg/dL
+  LDL: 153 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 111 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: -
+BMI: 21.9
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 41 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Recommendations:
+Glucose levels mildly elevated; lifestyle changes advised.

@@ -1,0 +1,44 @@
+
+ClearRiver Clinical Institute
+Address: 90 Maple Drive, Silverpoint - 402636
+Phone: +91-89232-82030
+Email: info@clearriver45.org
+Website: www.clearriver569.org
+Accreditation Code: CL-93989
+
+Report ID: RPT-9678905F
+Sample ID: SMP-25382
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7124
+
+Patient Name: Y***
+Patient ID: UH-000505
+Age: 54 years
+Gender: Female
+
+Height: 149.6 cm
+Weight: 71.8 kg
+
+Blood Pressure: 116/68 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 162 mg/dL
+  LDL: 156 mg/dL
+  HDL: -
+  Triglycerides: 195 mg/dL
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 1.12 mg/dL
+BMI: 22.2
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: 19 U/L
+  Bilirubin Total: -
+
+
+Recommendation:
+Glucose levels mildly elevated; lifestyle changes advised.

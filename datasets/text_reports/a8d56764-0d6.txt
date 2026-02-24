@@ -1,0 +1,43 @@
+
+SolacePoint Medical Center
+Address: 32 Evergreen Lane, Northbay - 458603
+Phone: +91-85306-59441
+Email: info@solacepoint19.org
+Website: www.solacepoint227.org
+Accreditation Code: SO-52162
+
+Report ID: RPT-3853B809
+Sample ID: SMP-22302
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3653
+
+Patient Name: C***
+Patient ID: UH-000542
+Age: 31 years
+Gender: Other
+
+Height: 153.2 cm
+Weight: -
+
+Blood Pressure: 132/80 mmHg
+Blood Glucose: 125 mg/dL
+
+Cholesterol Panel:
+  Total: 168 mg/dL
+  LDL: 154 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 159 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.46 mg/dL
+BMI: 32.4
+
+KFT:
+  Urea: 38 mg/dL
+  eGFR: -
+
+
+Doctor's Comments:
+Blood pressure within acceptable range.

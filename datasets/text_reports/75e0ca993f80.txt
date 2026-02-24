@@ -1,0 +1,45 @@
+
+BlueValley Diagnostics
+Address: 90 Alpine Street, Marigold City - 416378
+Phone: +91-90968-56015
+Email: info@bluevalley88.org
+Website: www.bluevalley599.org
+Accreditation Code: BL-25317
+
+Report ID: RPT-69C8FA06
+Sample ID: SMP-82627
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7146
+
+Patient Name: H***
+Patient ID: UH-001210
+Age: 42 years
+Gender: Female
+
+Height: 146.6 cm
+Weight: 56.3 kg
+
+Blood Pressure: 104/108 mmHg
+Pulse (bpm): 68 bpm
+Blood Sugar (Random): 79 mg/dL
+
+Cholesterol Panel:
+  Total: 251 mg/dL
+  LDL: 76 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 186 mg/dL
+
+Hemoglobin: 10.2 g/dL
+Creatinine: 1.36 mg/dL
+BMI: 34.9
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 32 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Remarks:
+Maintain current therapy plan.

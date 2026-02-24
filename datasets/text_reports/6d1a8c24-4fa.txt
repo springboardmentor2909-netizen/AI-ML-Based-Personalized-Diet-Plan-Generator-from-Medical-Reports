@@ -1,0 +1,40 @@
+
+ClearRiver Medical Center
+Address: 99 Evergreen Lane, Hillcrest - 482654
+Phone: +91-98111-73772
+Email: info@clearriver98.org
+Website: www.clearriver726.org
+Accreditation Code: CL-94794
+
+Report ID: RPT-B625C278
+Sample ID: SMP-17052
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6616
+
+Patient Name: D***
+Patient ID: UH-000826
+Age: 53 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.44 mg/dL
+BMI: 33.6
+
+
+Doctor's Notes:
+Possible dehydration; fluids advised.

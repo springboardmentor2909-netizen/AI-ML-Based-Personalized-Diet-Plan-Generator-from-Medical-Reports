@@ -1,0 +1,40 @@
+
+Greencrest Clinical Institute
+Address: 91 Alpine Street, Eastwood - 485278
+Phone: +91-93707-79089
+Email: info@greencrest86.org
+Website: www.greencrest317.org
+Accreditation Code: GR-24878
+
+Report ID: RPT-34028586
+Sample ID: SMP-85145
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9608
+
+Patient Name: W***
+Patient ID: UH-001271
+Age: 61 years
+Gender: Male
+
+Height: 168.6 cm
+Weight: -
+
+Blood Pressure: 162/99 mmHg
+Pulse: 89 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 160 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 184 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: -
+BMI: 24.6
+
+
+Doctor's Notes:
+BP borderline; needs monitoring.

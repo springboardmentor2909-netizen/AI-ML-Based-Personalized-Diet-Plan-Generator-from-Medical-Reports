@@ -1,0 +1,44 @@
+
+Northlake Clinical Institute
+Address: 70 Horizon Road, Meadowridge - 488949
+Phone: +91-70831-94550
+Email: info@northlake31.org
+Website: www.northlake707.org
+Accreditation Code: NO-40169
+
+Report ID: RPT-0F1273BE
+Sample ID: SMP-99039
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5676
+
+Patient Name: X***
+Patient ID: UH-000684
+Age: 73 years
+Gender: Female
+
+Height: 184.5 cm
+Weight: 53.0 kg
+
+Blood Pressure: 120/66 mmHg
+Pulse: 62 bpm
+Glucose: 131 mg/dL
+
+Cholesterol Panel:
+  Total: 230 mg/dL
+  LDL: 134 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 18.5
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 97 mL/min
+
+
+Doctor's Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

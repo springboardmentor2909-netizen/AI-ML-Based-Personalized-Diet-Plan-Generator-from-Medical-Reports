@@ -1,0 +1,44 @@
+
+Northlake Clinical Institute
+Address: 97 Maple Drive, Eastwood - 439270
+Phone: +91-85309-10194
+Email: info@northlake56.org
+Website: www.northlake175.org
+Accreditation Code: NO-49638
+
+Report ID: RPT-4BCFF541
+Sample ID: SMP-34251
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6937
+
+Patient Name: X***
+Patient ID: UH-000698
+Age: 19 years
+Gender: Male
+
+Height: 154.4 cm
+Weight: -
+
+Blood Pressure: 130/106 mmHg
+Pulse: 86 bpm
+Blood Sugar: 135 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 149 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 0.75 mg/dL
+BMI: 19.5
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 106 mL/min
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

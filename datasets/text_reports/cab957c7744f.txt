@@ -1,0 +1,37 @@
+
+ClearRiver Clinical Institute
+Address: 95 Maple Drive, Hillcrest - 411298
+Phone: +91-81150-48265
+Email: info@clearriver98.org
+Website: www.clearriver213.org
+Accreditation Code: CL-30122
+
+Report ID: RPT-E48E4373
+Sample ID: SMP-54036
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1798
+
+Patient Name: O***
+Patient ID: UH-001318
+Age: 24
+Gender: Female
+
+Blood Pressure: 151/84 mmHg
+Height: 164.8 cm
+Weight: 73.3 kg
+Cholesterol Total: 205 mg/dL
+LDL: 113 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 148 mg/dL
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.6 mg/dL
+BMI: 29.7
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 91 mL/min
+
+Clinical Notes:
+Improve sleep hygiene.

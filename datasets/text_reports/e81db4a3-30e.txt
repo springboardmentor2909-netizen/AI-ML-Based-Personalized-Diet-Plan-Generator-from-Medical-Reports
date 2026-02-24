@@ -1,0 +1,45 @@
+
+NovaPath Diagnostics
+Address: 62 Horizon Road, Marigold City - 419902
+Phone: +91-74259-94470
+Email: info@novapath59.org
+Website: www.novapath553.org
+Accreditation Code: NO-36758
+
+Report ID: RPT-EFC3B3B9
+Sample ID: SMP-88427
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8998
+
+Patient Name: C***
+Patient ID: UH-001113
+Age: 36 years
+Gender: Male
+
+Height: -
+Weight: 54.3 kg
+
+Blood Pressure: 138/87 mmHg
+Pulse: 98 bpm
+Blood Glucose: 161 mg/dL
+
+Cholesterol Panel:
+  Total: 260 mg/dL
+  LDL: 144 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 208 mg/dL
+
+Hemoglobin: 14.0 g/dL
+Creatinine: 0.88 mg/dL
+BMI: 27.2
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: -
+
+
+Clinical Notes:
+ECG recommended if palpitations occur again.

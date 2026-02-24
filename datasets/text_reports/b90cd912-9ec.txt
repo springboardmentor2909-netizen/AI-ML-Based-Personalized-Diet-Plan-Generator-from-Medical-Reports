@@ -1,0 +1,36 @@
+
+NovaPath Diagnostics
+Address: 84 Sunrise Boulevard, Northbay - 477485
+Phone: +91-88011-70994
+Email: info@novapath86.org
+Website: www.novapath142.org
+Accreditation Code: NO-61122
+
+Report ID: RPT-AB7AE60F
+Sample ID: SMP-22898
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1438
+
+Patient Name: H***
+Patient ID: UH-000416
+Age: 38 years
+Gender: Male
+
+Blood Pressure: 116/97 mmHg
+Blood Sugar (Random): 151 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: 119 mg/dL
+  HDL: -
+  Triglycerides: 124 mg/dL
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 0.74 mg/dL
+BMI: -
+
+
+Recommendations:
+Follow-up recommended after 2 weeks.

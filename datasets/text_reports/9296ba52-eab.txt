@@ -1,0 +1,45 @@
+
+Northlake Hospital
+Address: 12 Horizon Road, Northbay - 473594
+Phone: +91-87975-47712
+Email: info@northlake99.org
+Website: www.northlake950.org
+Accreditation Code: NO-63073
+
+Report ID: RPT-4CD2084F
+Sample ID: SMP-51167
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6248
+
+Patient Name: A***
+Patient ID: UH-001055
+Age: 24 years
+Gender: Female
+
+Height: 173.6 cm
+Weight: 90.4 kg
+
+Blood Pressure: 143/70 mmHg
+Pulse (bpm): 60 bpm
+Blood Sugar (Random): 104 mg/dL
+
+Cholesterol Panel:
+  Total: 249 mg/dL
+  LDL: 142 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 215 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 1.3 mg/dL
+BMI: 24.6
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Clinical Notes:
+Glucose slightly elevated; review diet and exercise.

@@ -1,0 +1,37 @@
+
+Silver Oak Clinical Institute
+Address: 34 Riverbend Ave, Westlake - 411105
+Phone: +91-79473-88033
+Email: info@silver oak16.org
+Website: www.silver oak150.org
+Accreditation Code: SI-18065
+
+Report ID: RPT-1488F36C
+Sample ID: SMP-64134
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8678
+
+Patient Name: X***
+Patient ID: UH-001391
+Age: 49
+Gender: Male
+
+Blood Pressure: 114/80 mmHg
+Pulse (bpm): 74 bpm
+Blood Sugar (Random): 105 mg/dL
+Height: 149.4 cm
+Cholesterol Total: 255 mg/dL
+LDL: 70 mg/dL
+HDL: 31 mg/dL
+Triglycerides: 119 mg/dL
+Hemoglobin: 10.6 g/dL
+Creatinine: 1.1 mg/dL
+BMI: 23.0
+
+KFT:
+  Urea: 39 mg/dL
+
+Recommendation:
+Monitor BP regularly at home.

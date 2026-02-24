@@ -1,0 +1,45 @@
+
+Starhaven Hospital
+Address: 52 Horizon Road, Westlake - 450006
+Phone: +91-73437-87470
+Email: info@starhaven92.org
+Website: www.starhaven521.org
+Accreditation Code: ST-73186
+
+Report ID: RPT-379309C9
+Sample ID: SMP-50845
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8179
+
+Patient Name: J***
+Patient ID: UH-000829
+Age: 18 years
+Gender: Female
+
+Height: 145.6 cm
+Weight: 53.1 kg
+
+Blood Pressure: 157/64 mmHg
+Pulse Rate: 84 bpm
+Blood Sugar: 90 mg/dL
+
+Cholesterol Panel:
+  Total: 213 mg/dL
+  LDL: 96 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 209 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.24 mg/dL
+BMI: 26.7
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 25 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+
+Impression:
+Discussed with patient. Understood.

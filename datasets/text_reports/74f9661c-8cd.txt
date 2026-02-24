@@ -1,0 +1,40 @@
+
+PrimeCare Medical Center
+Address: 31 Horizon Road, Hillcrest - 493101
+Phone: +91-80548-97105
+Email: info@primecare81.org
+Website: www.primecare230.org
+Accreditation Code: PR-58903
+
+Report ID: RPT-C3EF0CB3
+Sample ID: SMP-66408
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4760
+
+Patient Name: X***
+Patient ID: UH-000977
+Age: 26 years
+Gender: Male
+
+Height: 152.2 cm
+Weight: 47.6 kg
+
+Blood Pressure: -
+Pulse: -
+Blood Glucose: 97 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 47 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 0.79 mg/dL
+BMI: -
+
+
+Recommendations:
+Adequate control maintained.

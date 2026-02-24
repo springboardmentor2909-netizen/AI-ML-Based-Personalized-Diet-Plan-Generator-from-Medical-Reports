@@ -1,0 +1,40 @@
+
+NovaPath Pathology Lab
+Address: 44 Maple Drive, Meadowridge - 454424
+Phone: +91-75051-29052
+Email: info@novapath11.org
+Website: www.novapath612.org
+Accreditation Code: NO-25206
+
+Report ID: RPT-AF8D8EAA
+Sample ID: SMP-28433
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4423
+
+Patient Name: K***
+Patient ID: UH-000803
+Age: 47 years
+Gender: Male
+
+Height: 151.8 cm
+Weight: 52.5 kg
+
+Blood Pressure: 147/99 mmHg
+Pulse (bpm): 84 bpm
+Blood Sugar (Random): 89 mg/dL
+
+Cholesterol Panel:
+  Total: 216 mg/dL
+  LDL: 87 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: 166 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.0 mg/dL
+BMI: 23.0
+
+
+Doctor's Notes:
+Infection markers normal. No antibiotics needed.

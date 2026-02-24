@@ -1,0 +1,40 @@
+
+Silver Oak Hospital
+Address: 9 Riverbend Ave, Marigold City - 426151
+Phone: +91-74345-51670
+Email: info@silver oak56.org
+Website: www.silver oak570.org
+Accreditation Code: SI-57258
+
+Report ID: RPT-8F2E56B6
+Sample ID: SMP-70705
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9605
+
+Patient Name: L***
+Patient ID: UH-001556
+Age: 35
+Gender: Other
+
+Blood Pressure: 165/93 mmHg
+Pulse: 60 bpm
+Blood Glucose: 109 mg/dL
+Height: 152.2 cm
+Weight: 91.6 kg
+Cholesterol Total: 203 mg/dL
+LDL: 77 mg/dL
+HDL: 38 mg/dL
+Triglycerides: 143 mg/dL
+Hemoglobin: 11.0 g/dL
+Creatinine: 0.75 mg/dL
+BMI: 33.1
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 40 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+Advice:
+Follow-up advised.

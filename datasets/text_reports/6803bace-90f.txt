@@ -1,0 +1,40 @@
+
+SolacePoint Clinical Institute
+Address: 46 Maple Drive, Eastwood - 463566
+Phone: +91-81287-80481
+Email: info@solacepoint71.org
+Website: www.solacepoint189.org
+Accreditation Code: SO-48405
+
+Report ID: RPT-62A094AE
+Sample ID: SMP-74472
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1558
+
+Patient Name: C***
+Patient ID: UH-000450
+Age: 76 years
+Gender: Female
+
+Blood Pressure: 167/82 mmHg
+Blood Glucose: 144 mg/dL
+
+Cholesterol Panel:
+  Total: 169 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.3 g/dL
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: 81 mL/min
+
+
+Summary:
+Blood pressure stable today.

@@ -1,0 +1,44 @@
+
+Medisphere Hospital
+Address: 64 Sunrise Boulevard, Eastwood - 434640
+Phone: +91-91102-41831
+Email: info@medisphere85.org
+Website: www.medisphere362.org
+Accreditation Code: ME-61118
+
+Report ID: RPT-D58449E1
+Sample ID: SMP-54927
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4347
+
+Patient Name: A***
+Patient ID: UH-001184
+Age: 49 years
+Gender: Other
+
+Height: 153.1 cm
+Weight: 72.6 kg
+
+Blood Pressure: 131/85 mmHg
+Pulse Rate: 62 bpm
+Blood Sugar: 134 mg/dL
+
+Cholesterol Panel:
+  Total: 234 mg/dL
+  LDL: 93 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 240 mg/dL
+
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.29 mg/dL
+BMI: -
+
+KFT:
+  Urea: 28 mg/dL
+  eGFR: 82 mL/min
+
+
+Clinical Notes:
+Mild anemia; iron-rich foods suggested.

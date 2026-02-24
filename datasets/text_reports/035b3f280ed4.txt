@@ -1,0 +1,35 @@
+
+NovaPath Clinical Institute
+Address: 94 Alpine Street, Meadowridge - 473022
+Phone: +91-89593-45837
+Email: info@novapath68.org
+Website: www.novapath987.org
+Accreditation Code: NO-55029
+
+Report ID: RPT-4E4532E7
+Sample ID: SMP-97814
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6804
+
+Patient Name: C***
+Patient ID: UH-001521
+Age: 41
+Gender: Male
+
+Blood Pressure: 106/90 mmHg
+Pulse (bpm): 82 bpm
+Blood Sugar (Random): 85 mg/dL
+Height: 160.9 cm
+Weight: 71.6 kg
+Cholesterol Total: 171 mg/dL
+LDL: 122 mg/dL
+HDL: 52 mg/dL
+Triglycerides: 135 mg/dL
+Hemoglobin: 13.2 g/dL
+Creatinine: 0.65 mg/dL
+BMI: 25.6
+
+Impression:
+Reduce salt intake.

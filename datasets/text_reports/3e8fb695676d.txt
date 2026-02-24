@@ -1,0 +1,35 @@
+
+Riverdale Clinical Institute
+Address: 12 Alpine Street, Hillcrest - 478744
+Phone: +91-98326-12695
+Email: info@riverdale55.org
+Website: www.riverdale983.org
+Accreditation Code: RI-15899
+
+Report ID: RPT-2F8E639E
+Sample ID: SMP-27977
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4481
+
+Patient Name: V***
+Patient ID: UH-001323
+Age: 46
+Gender: Male
+
+Blood Pressure: 149/101 mmHg
+Pulse (bpm): 109 bpm
+Blood Sugar: 156 mg/dL
+Height: 153.5 cm
+Weight: 75.4 kg
+Cholesterol Total: 195 mg/dL
+LDL: 156 mg/dL
+HDL: 55 mg/dL
+Triglycerides: 251 mg/dL
+Hemoglobin: 15.9 g/dL
+Creatinine: 1.41 mg/dL
+BMI: 34.5
+
+Advice:
+Stable condition; review in OPD.

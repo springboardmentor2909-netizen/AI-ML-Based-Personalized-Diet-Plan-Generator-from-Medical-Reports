@@ -1,0 +1,28 @@
+
+ClearRiver Diagnostics
+Address: 89 Maple Drive, Northbay - 474166
+Phone: +91-90561-66952
+Email: info@clearriver61.org
+Website: www.clearriver473.org
+Accreditation Code: CL-49037
+
+Report ID: RPT-D8D515B6
+Sample ID: SMP-45643
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2644
+
+Patient Name: P***
+Patient ID: UH-001442
+Age: 55
+Gender: Male
+
+Blood Pressure: 163/83 mmHg
+Blood Glucose: 128 mg/dL
+Height: 164.4 cm
+HDL: 52 mg/dL
+BMI: 30.5
+
+Remark:
+Follow-up advised.

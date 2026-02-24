@@ -1,0 +1,39 @@
+
+PrimeCare Clinical Institute
+Address: 24 Evergreen Lane, Clearwater - 432515
+Phone: +91-86283-81728
+Email: info@primecare43.org
+Website: www.primecare621.org
+Accreditation Code: PR-52317
+
+Report ID: RPT-FCA0BBEC
+Sample ID: SMP-20251
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3426
+
+Patient Name: B***
+Patient ID: UH-000566
+Age: 57 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Blood Sugar: 103 mg/dL
+
+Cholesterol Panel:
+  Total: 191 mg/dL
+  LDL: 82 mg/dL
+  HDL: -
+  Triglycerides: 161 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.33 mg/dL
+BMI: 23.7
+
+
+Remarks:
+Follow-up recommended after 2 weeks.

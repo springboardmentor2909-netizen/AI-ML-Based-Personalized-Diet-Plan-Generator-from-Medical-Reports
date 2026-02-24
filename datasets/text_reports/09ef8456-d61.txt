@@ -1,0 +1,44 @@
+
+NovaPath Pathology Lab
+Address: 57 Riverbend Ave, Meadowridge - 407289
+Phone: +91-78415-17498
+Email: info@novapath42.org
+Website: www.novapath668.org
+Accreditation Code: NO-73439
+
+Report ID: RPT-6D624673
+Sample ID: SMP-42256
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9665
+
+Patient Name: T***
+Patient ID: UH-000993
+Age: 30 years
+Gender: Male
+
+Height: 169.3 cm
+Weight: 86.5 kg
+
+Blood Pressure: 133/97 mmHg
+Pulse Rate: 75 bpm
+Blood Glucose: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 166 mg/dL
+  LDL: 112 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 168 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.99 mg/dL
+BMI: 19.7
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 84 mL/min
+
+
+Remarks:
+Increase physical activity.

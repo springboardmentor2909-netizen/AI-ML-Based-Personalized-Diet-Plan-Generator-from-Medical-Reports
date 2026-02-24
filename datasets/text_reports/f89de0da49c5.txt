@@ -1,0 +1,35 @@
+
+Starhaven Medical Center
+Address: 27 Alpine Street, Northbay - 475705
+Phone: +91-75186-99848
+Email: info@starhaven65.org
+Website: www.starhaven671.org
+Accreditation Code: ST-59057
+
+Report ID: RPT-1735E596
+Sample ID: SMP-61443
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8192
+
+Patient Name: H***
+Patient ID: UH-001531
+Age: 57
+Gender: Other
+
+Blood Pressure: 152/63 mmHg
+Pulse Rate: 90 bpm
+Glucose: 108 mg/dL
+Height: 189.1 cm
+Weight: 58.8 kg
+Cholesterol Total: 216 mg/dL
+LDL: 142 mg/dL
+HDL: 53 mg/dL
+Triglycerides: 185 mg/dL
+Hemoglobin: 13.0 g/dL
+Creatinine: 0.78 mg/dL
+BMI: 17.6
+
+Impression:
+Continue medications.

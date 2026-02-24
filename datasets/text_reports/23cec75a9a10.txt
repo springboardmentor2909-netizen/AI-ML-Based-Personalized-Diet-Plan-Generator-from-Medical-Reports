@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 48 Sunrise Boulevard, Marigold City - 453564
+Phone: +91-78611-13303
+Email: info@greencrest12.org
+Website: www.greencrest503.org
+Accreditation Code: GR-36238
+
+Report ID: RPT-62A28DA7
+Sample ID: SMP-25733
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5577
+
+Patient Name: G***
+Patient ID: UH-001252
+Age: 26 years
+Gender: Male
+
+Height: -
+Weight: 88.7 kg
+
+Blood Pressure: 139/102 mmHg
+Pulse (bpm): 99 bpm
+Blood Glucose: 113 mg/dL
+
+Cholesterol Panel:
+  Total: 252 mg/dL
+  LDL: 127 mg/dL
+  HDL: 63 mg/dL
+  Triglycerides: 102 mg/dL
+
+Hemoglobin: 11.0 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendations:
+OPD follow-up suggested.

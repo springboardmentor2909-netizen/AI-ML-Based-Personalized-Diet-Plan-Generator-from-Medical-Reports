@@ -1,0 +1,40 @@
+
+Starhaven Medical Center
+Address: 36 Alpine Street, Hillcrest - 422285
+Phone: +91-99904-24855
+Email: info@starhaven42.org
+Website: www.starhaven675.org
+Accreditation Code: ST-59299
+
+Report ID: RPT-E76A4C31
+Sample ID: SMP-94866
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1202
+
+Patient Name: T***
+Patient ID: UH-000827
+Age: 52 years
+Gender: Other
+
+Height: 151.4 cm
+Weight: 88.2 kg
+
+Blood Pressure: 120/64 mmHg
+Pulse: 75 bpm
+Blood Sugar: 165 mg/dL
+
+Cholesterol Panel:
+  Total: 248 mg/dL
+  LDL: 143 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 159 mg/dL
+
+Hemoglobin: 12.3 g/dL
+Creatinine: 1.04 mg/dL
+BMI: 27.4
+
+
+Doctor's Comments:
+Hydration emphasized.

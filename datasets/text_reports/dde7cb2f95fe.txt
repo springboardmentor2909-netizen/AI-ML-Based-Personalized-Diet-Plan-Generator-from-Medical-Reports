@@ -1,0 +1,37 @@
+
+Silver Oak Clinical Institute
+Address: 9 Sunrise Boulevard, Westlake - 416745
+Phone: +91-89414-85484
+Email: info@silver oak63.org
+Website: www.silver oak852.org
+Accreditation Code: SI-62942
+
+Report ID: RPT-F61735E4
+Sample ID: SMP-71908
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4525
+
+Patient Name: V***
+Patient ID: UH-001392
+Age: 51
+Gender: Male
+
+Blood Pressure: 137/60 mmHg
+Pulse (bpm): 93 bpm
+Blood Sugar: 129 mg/dL
+Height: 171.2 cm
+Weight: 84.5 kg
+Cholesterol Total: 212 mg/dL
+LDL: 128 mg/dL
+HDL: 39 mg/dL
+Hemoglobin: 9.9 g/dL
+Creatinine: 0.86 mg/dL
+
+KFT:
+  Urea: 31 mg/dL
+  eGFR: 123 mL/min
+
+Recommendations:
+Values improved compared to previous results.

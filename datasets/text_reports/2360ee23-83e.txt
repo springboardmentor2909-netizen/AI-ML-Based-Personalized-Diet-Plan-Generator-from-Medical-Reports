@@ -1,0 +1,45 @@
+
+Starhaven Diagnostics
+Address: 33 Riverbend Ave, Westlake - 454949
+Phone: +91-76031-95421
+Email: info@starhaven21.org
+Website: www.starhaven591.org
+Accreditation Code: ST-91033
+
+Report ID: RPT-8A2B642B
+Sample ID: SMP-43615
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3294
+
+Patient Name: H***
+Patient ID: UH-001157
+Age: 60 years
+Gender: Male
+
+Height: 162.1 cm
+Weight: 55.8 kg
+
+Blood Pressure: -
+Pulse Rate: 100 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: 141 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 1.1 mg/dL
+BMI: 18.2
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: -
+
+
+Summary:
+Stable condition. OPD review later.

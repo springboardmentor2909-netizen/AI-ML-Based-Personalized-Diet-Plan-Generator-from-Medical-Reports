@@ -1,0 +1,49 @@
+
+Riverdale Hospital
+Address: 45 Sunrise Boulevard, Northbay - 497850
+Phone: +91-83291-62509
+Email: info@riverdale33.org
+Website: www.riverdale629.org
+Accreditation Code: RI-63261
+
+Report ID: RPT-657F6A34
+Sample ID: SMP-71303
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3938
+
+Patient Name: C***
+Patient ID: UH-000648
+Age: 27 years
+Gender: Other
+
+Height: 178.2 cm
+Weight: -
+
+Blood Pressure: -
+Pulse: 85 bpm
+Blood Sugar (Random): 106 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: 90 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.9 g/dL
+Creatinine: -
+BMI: 22.0
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: 41 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 16 mg/dL
+  eGFR: 76 mL/min
+
+
+Summary:
+Continue present medications.

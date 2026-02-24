@@ -1,0 +1,39 @@
+
+Everlight Medical Center
+Address: 43 Alpine Street, Clearwater - 401252
+Phone: +91-96865-26175
+Email: info@everlight29.org
+Website: www.everlight332.org
+Accreditation Code: EV-31734
+
+Report ID: RPT-D1DB932A
+Sample ID: SMP-90961
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6280
+
+Patient Name: B***
+Patient ID: UH-001525
+Age: 31
+Gender: Female
+
+Blood Pressure: 116/89 mmHg
+Pulse Rate: 81 bpm
+Blood Glucose: 179 mg/dL
+Height: 167.8 cm
+Weight: 73.2 kg
+Cholesterol Total: 179 mg/dL
+LDL: 146 mg/dL
+HDL: 42 mg/dL
+Triglycerides: 219 mg/dL
+Hemoglobin: 10.7 g/dL
+Creatinine: 0.86 mg/dL
+BMI: 32.4
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 64 mL/min
+
+Impression:
+Continue medications.

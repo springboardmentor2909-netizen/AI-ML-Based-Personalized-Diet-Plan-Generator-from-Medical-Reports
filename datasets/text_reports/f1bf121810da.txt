@@ -1,0 +1,40 @@
+
+Starhaven Pathology Lab
+Address: 72 Evergreen Lane, Clearwater - 454494
+Phone: +91-80290-33074
+Email: info@starhaven61.org
+Website: www.starhaven422.org
+Accreditation Code: ST-58684
+
+Report ID: RPT-14A7A5FC
+Sample ID: SMP-71208
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9389
+
+Patient Name: R***
+Patient ID: UH-001341
+Age: 30
+Gender: Female
+
+Blood Pressure: 136/108 mmHg
+Height: 175.6 cm
+Weight: 76.5 kg
+Cholesterol Total: 204 mg/dL
+LDL: 91 mg/dL
+HDL: 44 mg/dL
+Triglycerides: 93 mg/dL
+Hemoglobin: 14.3 g/dL
+Creatinine: 0.86 mg/dL
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: 37 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  eGFR: 80 mL/min
+
+Remark:
+General improvement observed.

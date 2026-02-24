@@ -1,0 +1,40 @@
+
+ClearRiver Clinical Institute
+Address: 76 Horizon Road, Clearwater - 473488
+Phone: +91-81016-13015
+Email: info@clearriver49.org
+Website: www.clearriver503.org
+Accreditation Code: CL-12118
+
+Report ID: RPT-A494E0FC
+Sample ID: SMP-14088
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4685
+
+Patient Name: W***
+Patient ID: UH-001019
+Age: 35 years
+Gender: Male
+
+Height: 149.4 cm
+Weight: 78.2 kg
+
+Blood Pressure: 117/93 mmHg
+Pulse: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 169 mg/dL
+  LDL: 141 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 1.16 mg/dL
+BMI: 25.9
+
+
+Advice:
+Suggest further evaluation if symptoms persist.

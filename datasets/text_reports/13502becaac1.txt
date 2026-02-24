@@ -1,0 +1,36 @@
+
+Starhaven Clinical Institute
+Address: 43 Alpine Street, Silverpoint - 456090
+Phone: +91-98670-78754
+Email: info@starhaven99.org
+Website: www.starhaven826.org
+Accreditation Code: ST-41577
+
+Report ID: RPT-2DADC379
+Sample ID: SMP-99838
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2222
+
+Patient Name: B***
+Patient ID: UH-001350
+Age: 48
+Gender: Male
+
+Pulse Rate: 76 bpm
+Blood Glucose: 129 mg/dL
+Height: 189.2 cm
+Weight: 65.4 kg
+Cholesterol Total: 156 mg/dL
+LDL: 155 mg/dL
+HDL: 57 mg/dL
+Triglycerides: 158 mg/dL
+Creatinine: 0.77 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 93 mL/min
+
+Remark:
+Encouraged regular physical activity.

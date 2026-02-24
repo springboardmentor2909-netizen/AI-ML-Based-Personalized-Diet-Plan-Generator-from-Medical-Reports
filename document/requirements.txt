@@ -1,0 +1,36 @@
+# Core Python & Utilities
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+
+# Machine Learning Models
+lightgbm
+xgboost
+
+# NLP & Text Processing
+nltk
+regex
+
+# Transformers (BERT + LLM utilities)
+torch
+transformers
+tokenizers
+sentencepiece
+
+# OCR & Document Processing
+pytesseract
+opencv-python
+Pillow
+pdfplumber
+PyMuPDF
+
+# LLM Integration (LLaMA via Ollama)
+requests
+
+# Frontend
+streamlit
+
+# Optional (for better progress & logs)
+tqdm

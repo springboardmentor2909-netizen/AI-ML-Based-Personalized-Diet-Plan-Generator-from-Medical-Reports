@@ -1,0 +1,31 @@
+
+Riverdale Medical Center
+Address: 76 Evergreen Lane, Meadowridge - 473762
+Phone: +91-79134-15975
+Email: info@riverdale88.org
+Website: www.riverdale463.org
+Accreditation Code: RI-19381
+
+Report ID: RPT-574B4237
+Sample ID: SMP-77914
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2659
+
+Patient Name: Q***
+Patient ID: UH-001306
+Age: 71
+Gender: Female
+
+Glucose: 137 mg/dL
+Weight: 53.0 kg
+Cholesterol Total: 257 mg/dL
+LDL: 85 mg/dL
+HDL: 35 mg/dL
+Triglycerides: 153 mg/dL
+Creatinine: 1.65 mg/dL
+BMI: 27.2
+
+Remarks:
+OPD visit recommended.

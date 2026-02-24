@@ -1,0 +1,45 @@
+
+Silver Oak Pathology Lab
+Address: 69 Sunrise Boulevard, Marigold City - 477568
+Phone: +91-70248-85329
+Email: info@silver oak69.org
+Website: www.silver oak425.org
+Accreditation Code: SI-41534
+
+Report ID: RPT-AFBF35BE
+Sample ID: SMP-62802
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8755
+
+Patient Name: R***
+Patient ID: UH-000975
+Age: 68 years
+Gender: Female
+
+Height: 179.7 cm
+Weight: 93.2 kg
+
+Blood Pressure: 126/95 mmHg
+Pulse Rate: 66 bpm
+Blood Sugar (Random): 97 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: 123 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 224 mg/dL
+
+Hemoglobin: 14.4 g/dL
+Creatinine: 0.81 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 15 U/L
+  ALT/SGPT: 39 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Recommendations:
+Increase physical activity.

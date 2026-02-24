@@ -1,0 +1,40 @@
+
+Northlake Diagnostics
+Address: 15 Sunrise Boulevard, Clearwater - 492315
+Phone: +91-76576-75170
+Email: info@northlake64.org
+Website: www.northlake513.org
+Accreditation Code: NO-58643
+
+Report ID: RPT-1BA39DEC
+Sample ID: SMP-93878
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6938
+
+Patient Name: V***
+Patient ID: UH-000836
+Age: 77 years
+Gender: Male
+
+Height: 154.6 cm
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 148 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.0 mg/dL
+BMI: -
+
+
+Impression:
+Vitals stable. No acute concerns.

@@ -1,0 +1,32 @@
+
+Northlake Diagnostics
+Address: 6 Maple Drive, Silverpoint - 429940
+Phone: +91-73238-71185
+Email: info@northlake22.org
+Website: www.northlake560.org
+Accreditation Code: NO-41904
+
+Report ID: RPT-CC3D323A
+Sample ID: SMP-60491
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8057
+
+Patient Name: L***
+Patient ID: UH-001472
+Age: 38
+Gender: Other
+
+Blood Pressure: 170/96 mmHg
+Pulse: 94 bpm
+Blood Glucose: 90 mg/dL
+Height: 174.6 cm
+Weight: 58.3 kg
+Cholesterol Total: 187 mg/dL
+LDL: 119 mg/dL
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.25 mg/dL
+
+Impression:
+Monitor BP regularly.

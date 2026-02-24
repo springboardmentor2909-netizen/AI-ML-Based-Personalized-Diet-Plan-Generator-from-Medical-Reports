@@ -1,0 +1,32 @@
+
+Silver Oak Diagnostics
+Address: 92 Horizon Road, Northbay - 455847
+Phone: +91-94943-72804
+Email: info@silver oak10.org
+Website: www.silver oak621.org
+Accreditation Code: SI-69088
+
+Report ID: RPT-5561FF2D
+Sample ID: SMP-60289
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7726
+
+Patient Name: G***
+Patient ID: UH-001384
+Age: 58
+Gender: Male
+
+Pulse (bpm): 105 bpm
+Cholesterol Total: 163 mg/dL
+Triglycerides: 228 mg/dL
+Hemoglobin: 13.6 g/dL
+BMI: 17.8
+
+KFT:
+  Urea: 37 mg/dL
+  eGFR: 94 mL/min
+
+Remark:
+Minor vitamin deficiency probable.

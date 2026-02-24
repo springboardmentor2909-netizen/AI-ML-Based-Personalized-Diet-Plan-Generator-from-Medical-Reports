@@ -1,0 +1,45 @@
+
+NovaPath Medical Center
+Address: 17 Evergreen Lane, Westlake - 482805
+Phone: +91-92748-17676
+Email: info@novapath76.org
+Website: www.novapath564.org
+Accreditation Code: NO-30083
+
+Report ID: RPT-1756EBAA
+Sample ID: SMP-96475
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8393
+
+Patient Name: O***
+Patient ID: UH-001064
+Age: 48 years
+Gender: Male
+
+Height: 156.0 cm
+Weight: 75.8 kg
+
+Blood Pressure: 119/60 mmHg
+Pulse (bpm): 89 bpm
+Blood Sugar (Random): 94 mg/dL
+
+Cholesterol Panel:
+  Total: 219 mg/dL
+  LDL: 119 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 163 mg/dL
+
+Hemoglobin: 10.7 g/dL
+Creatinine: 0.9 mg/dL
+BMI: 31.7
+
+LFT:
+  AST/SGOT: 39 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+
+Remark:
+Encouraged moderate daily activity.

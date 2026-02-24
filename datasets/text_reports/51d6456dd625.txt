@@ -1,0 +1,40 @@
+
+NovaPath Pathology Lab
+Address: 39 Maple Drive, Eastwood - 480731
+Phone: +91-90141-57100
+Email: info@novapath83.org
+Website: www.novapath419.org
+Accreditation Code: NO-23905
+
+Report ID: RPT-AB975F25
+Sample ID: SMP-60617
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2961
+
+Patient Name: Y***
+Patient ID: UH-001235
+Age: 20 years
+Gender: Female
+
+Height: 155.2 cm
+Weight: 97.7 kg
+
+Blood Pressure: 155/101 mmHg
+Pulse Rate: -
+Blood Glucose: 137 mg/dL
+
+Cholesterol Panel:
+  Total: 231 mg/dL
+  LDL: 113 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 229 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 26.2
+
+
+Recommendations:
+Check BP at home twice daily.

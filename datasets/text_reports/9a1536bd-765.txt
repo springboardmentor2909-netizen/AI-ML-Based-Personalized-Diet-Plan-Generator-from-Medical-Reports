@@ -1,0 +1,44 @@
+
+NovaPath Clinical Institute
+Address: 17 Alpine Street, Hillcrest - 414048
+Phone: +91-86293-66869
+Email: info@novapath94.org
+Website: www.novapath341.org
+Accreditation Code: NO-28296
+
+Report ID: RPT-4E8CCC1F
+Sample ID: SMP-95851
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1844
+
+Patient Name: E***
+Patient ID: UH-000866
+Age: 48 years
+Gender: Male
+
+Height: 146.7 cm
+Weight: 73.9 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 170 mg/dL
+  LDL: 146 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 119 mg/dL
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.08 mg/dL
+BMI: 20.4
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 110 mL/min
+
+
+Recommendations:
+Continue present medications.

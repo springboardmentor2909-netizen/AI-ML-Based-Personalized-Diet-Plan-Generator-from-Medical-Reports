@@ -1,0 +1,49 @@
+
+Starhaven Clinical Institute
+Address: 79 Riverbend Ave, Eastwood - 480343
+Phone: +91-86647-62390
+Email: info@starhaven22.org
+Website: www.starhaven734.org
+Accreditation Code: ST-87447
+
+Report ID: RPT-2CE3900F
+Sample ID: SMP-80791
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3905
+
+Patient Name: A***
+Patient ID: UH-000939
+Age: 39 years
+Gender: Male
+
+Height: 178.1 cm
+Weight: 89.8 kg
+
+Blood Pressure: -
+Pulse: 105 bpm
+Blood Sugar (Random): 167 mg/dL
+
+Cholesterol Panel:
+  Total: 204 mg/dL
+  LDL: 123 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 197 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.23 mg/dL
+BMI: 24.1
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 31 mg/dL
+  eGFR: 82 mL/min
+
+
+Recommendation:
+Blood pressure requires monitoring.

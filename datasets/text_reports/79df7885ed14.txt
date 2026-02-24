@@ -1,0 +1,36 @@
+
+SolacePoint Medical Center
+Address: 43 Horizon Road, Eastwood - 420928
+Phone: +91-81719-75465
+Email: info@solacepoint95.org
+Website: www.solacepoint906.org
+Accreditation Code: SO-83422
+
+Report ID: RPT-F864320B
+Sample ID: SMP-40792
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4876
+
+Patient Name: Z***
+Patient ID: UH-001535
+Age: 39
+Gender: Male
+
+Blood Pressure: 165/88 mmHg
+Pulse (bpm): 73 bpm
+Height: 160.2 cm
+Cholesterol Total: 184 mg/dL
+LDL: 121 mg/dL
+HDL: 52 mg/dL
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.34 mg/dL
+BMI: 30.3
+
+LFT:
+  AST/SGOT: 30 U/L
+  Bilirubin Total: 0.3 mg/dL
+
+Clinical Notes:
+Patient reassured.

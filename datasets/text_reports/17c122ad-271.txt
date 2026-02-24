@@ -1,0 +1,40 @@
+
+BlueValley Diagnostics
+Address: 2 Maple Drive, Marigold City - 477291
+Phone: +91-72411-65419
+Email: info@bluevalley85.org
+Website: www.bluevalley712.org
+Accreditation Code: BL-12182
+
+Report ID: RPT-5A98F0E1
+Sample ID: SMP-39497
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6311
+
+Patient Name: Z***
+Patient ID: UH-000896
+Age: 61 years
+Gender: Male
+
+Height: 146.1 cm
+Weight: -
+
+Blood Pressure: 111/106 mmHg
+Pulse: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 23.3
+
+
+Doctor's Comments:
+Patient advised to maintain hydration.

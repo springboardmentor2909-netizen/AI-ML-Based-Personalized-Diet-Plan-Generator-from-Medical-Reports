@@ -1,0 +1,36 @@
+
+Greencrest Pathology Lab
+Address: 56 Alpine Street, Hillcrest - 465470
+Phone: +91-97697-94312
+Email: info@greencrest49.org
+Website: www.greencrest985.org
+Accreditation Code: GR-28830
+
+Report ID: RPT-5C177855
+Sample ID: SMP-86617
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2349
+
+Patient Name: N***
+Patient ID: UH-000500
+Age: 76 years
+Gender: Male
+
+Blood Pressure: 159/83 mmHg
+Blood Sugar: 106 mg/dL
+
+Cholesterol Panel:
+  Total: 191 mg/dL
+  LDL: 85 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Advice:
+Lipid levels require monitoring.

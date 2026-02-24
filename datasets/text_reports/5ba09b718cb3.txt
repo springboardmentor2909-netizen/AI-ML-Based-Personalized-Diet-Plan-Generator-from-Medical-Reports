@@ -1,0 +1,40 @@
+
+Medisphere Medical Center
+Address: 50 Maple Drive, Northbay - 476342
+Phone: +91-92878-80895
+Email: info@medisphere48.org
+Website: www.medisphere858.org
+Accreditation Code: ME-57264
+
+Report ID: RPT-860AF88C
+Sample ID: SMP-28552
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5200
+
+Patient Name: F***
+Patient ID: UH-001277
+Age: 77 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Glucose: 148 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 158 mg/dL
+  HDL: 28 mg/dL
+  Triglycerides: 221 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.55 mg/dL
+BMI: 29.7
+
+
+Doctor's Comments:
+Cholesterol borderline high; monitor regularly.

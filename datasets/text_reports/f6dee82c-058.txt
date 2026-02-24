@@ -1,0 +1,44 @@
+
+SolacePoint Pathology Lab
+Address: 84 Riverbend Ave, Northbay - 492136
+Phone: +91-78532-92641
+Email: info@solacepoint29.org
+Website: www.solacepoint579.org
+Accreditation Code: SO-90626
+
+Report ID: RPT-538700A3
+Sample ID: SMP-11597
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8286
+
+Patient Name: G***
+Patient ID: UH-001001
+Age: 39 years
+Gender: Other
+
+Height: 167.4 cm
+Weight: 86.8 kg
+
+Blood Pressure: 127/109 mmHg
+Pulse (bpm): -
+Blood Sugar: 143 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: -
+  HDL: 44 mg/dL
+  Triglycerides: 244 mg/dL
+
+Hemoglobin: 15.2 g/dL
+Creatinine: 0.79 mg/dL
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Impression:
+Pt stable. Continue routine follow-up.

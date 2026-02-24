@@ -1,0 +1,39 @@
+
+Northlake Hospital
+Address: 28 Sunrise Boulevard, Meadowridge - 418517
+Phone: +91-93430-82153
+Email: info@northlake40.org
+Website: www.northlake955.org
+Accreditation Code: NO-86973
+
+Report ID: RPT-F3EF7CFA
+Sample ID: SMP-82129
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7451
+
+Patient Name: L***
+Patient ID: UH-000551
+Age: 73 years
+Gender: Other
+
+Height: -
+Weight: 90.2 kg
+
+Blood Pressure: 126/60 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 102 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 10.9 g/dL
+Creatinine: 1.21 mg/dL
+BMI: 31.6
+
+
+Clinical Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

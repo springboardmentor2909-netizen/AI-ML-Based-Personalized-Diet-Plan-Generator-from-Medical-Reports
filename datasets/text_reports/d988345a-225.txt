@@ -1,0 +1,40 @@
+
+PrimeCare Pathology Lab
+Address: 50 Sunrise Boulevard, Silverpoint - 491795
+Phone: +91-90983-51849
+Email: info@primecare17.org
+Website: www.primecare949.org
+Accreditation Code: PR-94160
+
+Report ID: RPT-93A7BF37
+Sample ID: SMP-16787
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1844
+
+Patient Name: C***
+Patient ID: UH-001156
+Age: 39 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 183 mg/dL
+  LDL: 126 mg/dL
+  HDL: -
+  Triglycerides: 236 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Advice:
+Vitals stable. No acute symptoms.

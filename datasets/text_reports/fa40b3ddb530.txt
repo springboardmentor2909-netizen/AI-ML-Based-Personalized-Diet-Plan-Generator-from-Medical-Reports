@@ -1,0 +1,43 @@
+
+Riverdale Pathology Lab
+Address: 4 Horizon Road, Meadowridge - 471149
+Phone: +91-92815-52682
+Email: info@riverdale57.org
+Website: www.riverdale931.org
+Accreditation Code: RI-71165
+
+Report ID: RPT-516977CD
+Sample ID: SMP-35101
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4032
+
+Patient Name: M***
+Patient ID: UH-001514
+Age: 80
+Gender: Male
+
+Blood Pressure: 110/82 mmHg
+Pulse Rate: 103 bpm
+Blood Sugar (Random): 176 mg/dL
+Height: 183.4 cm
+Weight: 58.5 kg
+Cholesterol Total: 257 mg/dL
+LDL: 91 mg/dL
+Triglycerides: 142 mg/dL
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.69 mg/dL
+BMI: 20.9
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 22 U/L
+  Bilirubin Total: 1.3 mg/dL
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 72 mL/min
+
+Doctor's Notes:
+Monitor BP regularly.

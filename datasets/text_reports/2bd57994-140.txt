@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 85 Evergreen Lane, Westlake - 401417
+Phone: +91-84314-45549
+Email: info@greencrest19.org
+Website: www.greencrest605.org
+Accreditation Code: GR-16594
+
+Report ID: RPT-C9CDFF49
+Sample ID: SMP-70530
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1218
+
+Patient Name: Q***
+Patient ID: UH-000427
+Age: 22 years
+Gender: Female
+
+Blood Pressure: 125/77 mmHg
+Blood Sugar: 139 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 94 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 147 mg/dL
+
+Hemoglobin: 15.3 g/dL
+Creatinine: -
+BMI: 32.1
+
+KFT:
+  Urea: 30 mg/dL
+  eGFR: 69 mL/min
+
+
+Recommendations:
+Glucose levels mildly elevated; lifestyle changes advised.

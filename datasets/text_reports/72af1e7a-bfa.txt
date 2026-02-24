@@ -1,0 +1,40 @@
+
+Greencrest Hospital
+Address: 87 Riverbend Ave, Hillcrest - 413899
+Phone: +91-92560-23988
+Email: info@greencrest64.org
+Website: www.greencrest412.org
+Accreditation Code: GR-21023
+
+Report ID: RPT-82A3059D
+Sample ID: SMP-89511
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6146
+
+Patient Name: S***
+Patient ID: UH-000855
+Age: 23 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 108/87 mmHg
+Pulse (bpm): 82 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 185 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.5 mg/dL
+BMI: -
+
+
+Recommendation:
+Medication adherence reviewed.

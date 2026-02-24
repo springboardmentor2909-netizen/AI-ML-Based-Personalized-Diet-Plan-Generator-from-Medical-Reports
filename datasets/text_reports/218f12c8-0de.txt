@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 64 Sunrise Boulevard, Westlake - 457474
+Phone: +91-78864-85363
+Email: info@bluevalley13.org
+Website: www.bluevalley107.org
+Accreditation Code: BL-28683
+
+Report ID: RPT-57C727AC
+Sample ID: SMP-71981
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5436
+
+Patient Name: E***
+Patient ID: UH-000877
+Age: 78 years
+Gender: Female
+
+Height: 147.9 cm
+Weight: 68.6 kg
+
+Blood Pressure: 134/98 mmHg
+Pulse: -
+Blood Sugar: 158 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 119 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 249 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.04 mg/dL
+BMI: 23.3
+
+
+Doctor's Comments:
+Hb slightly low; iron-rich diet suggested.

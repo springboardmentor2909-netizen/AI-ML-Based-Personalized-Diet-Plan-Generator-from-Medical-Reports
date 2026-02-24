@@ -1,0 +1,44 @@
+
+Northlake Medical Center
+Address: 30 Horizon Road, Northbay - 481950
+Phone: +91-88916-19774
+Email: info@northlake66.org
+Website: www.northlake499.org
+Accreditation Code: NO-44842
+
+Report ID: RPT-968C602B
+Sample ID: SMP-44461
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6019
+
+Patient Name: C***
+Patient ID: UH-000644
+Age: 18 years
+Gender: Other
+
+Height: 157.6 cm
+Weight: 68.8 kg
+
+Blood Pressure: 137/89 mmHg
+Pulse Rate: 69 bpm
+Blood Sugar: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 194 mg/dL
+  LDL: -
+  HDL: 43 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 1.18 mg/dL
+BMI: 20.9
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: -
+
+
+Remarks:
+Continue present medications.

@@ -1,0 +1,27 @@
+
+Everlight Medical Center
+Address: 75 Evergreen Lane, Clearwater - 430661
+Phone: +91-82782-83453
+Email: info@everlight82.org
+Website: www.everlight901.org
+Accreditation Code: EV-41786
+
+Report ID: RPT-30A48791
+Sample ID: SMP-88473
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1416
+
+Patient Name: Q***
+Patient ID: UH-001325
+Age: 47
+Gender: Female
+
+Blood Sugar (Random): 99 mg/dL
+Cholesterol Total: 195 mg/dL
+HDL: 47 mg/dL
+Creatinine: 1.41 mg/dL
+
+Doctor's Comments:
+Glucose mildly elevated; diet improvement advised.

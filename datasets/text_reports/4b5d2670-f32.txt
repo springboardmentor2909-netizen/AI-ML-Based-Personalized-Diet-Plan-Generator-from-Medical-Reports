@@ -1,0 +1,36 @@
+
+NovaPath Pathology Lab
+Address: 24 Evergreen Lane, Hillcrest - 462127
+Phone: +91-99011-56321
+Email: info@novapath34.org
+Website: www.novapath600.org
+Accreditation Code: NO-98015
+
+Report ID: RPT-D7D94E7D
+Sample ID: SMP-74284
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5558
+
+Patient Name: A***
+Patient ID: UH-000480
+Age: 57 years
+Gender: Male
+
+Blood Pressure: -
+Blood Glucose: 121 mg/dL
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 109 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 19.8
+
+
+Clinical Notes:
+Blood pressure stable today.

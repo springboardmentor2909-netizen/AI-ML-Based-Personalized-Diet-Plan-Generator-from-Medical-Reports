@@ -1,0 +1,40 @@
+
+Medisphere Pathology Lab
+Address: 7 Horizon Road, Hillcrest - 484174
+Phone: +91-84685-88259
+Email: info@medisphere16.org
+Website: www.medisphere538.org
+Accreditation Code: ME-22296
+
+Report ID: RPT-03505B31
+Sample ID: SMP-54183
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1346
+
+Patient Name: G***
+Patient ID: UH-000875
+Age: 69 years
+Gender: Male
+
+Height: 154.0 cm
+Weight: 56.7 kg
+
+Blood Pressure: 166/101 mmHg
+Pulse: 91 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 256 mg/dL
+  LDL: 119 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 206 mg/dL
+
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.16 mg/dL
+BMI: 32.9
+
+
+Summary:
+Repeat test if clinically indicated.

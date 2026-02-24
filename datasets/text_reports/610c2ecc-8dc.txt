@@ -1,0 +1,44 @@
+
+BlueValley Medical Center
+Address: 11 Sunrise Boulevard, Meadowridge - 427299
+Phone: +91-78441-72650
+Email: info@bluevalley23.org
+Website: www.bluevalley741.org
+Accreditation Code: BL-27990
+
+Report ID: RPT-98B8C5C2
+Sample ID: SMP-34834
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1870
+
+Patient Name: G***
+Patient ID: UH-000625
+Age: 33 years
+Gender: Female
+
+Height: 158.8 cm
+Weight: 65.8 kg
+
+Blood Pressure: 127/62 mmHg
+Pulse Rate: 105 bpm
+Blood Sugar: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 210 mg/dL
+  LDL: 158 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 171 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 1.49 mg/dL
+BMI: 33.6
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 90 mL/min
+
+
+Advice:
+Follow-up recommended after 2 weeks.

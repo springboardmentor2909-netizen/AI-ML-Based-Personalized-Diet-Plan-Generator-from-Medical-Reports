@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 64 Sunrise Boulevard, Westlake - 457474
+Phone: +91-78864-85363
+Email: info@bluevalley13.org
+Website: www.bluevalley107.org
+Accreditation Code: BL-28683
+
+Report ID: RPT-2E929602
+Sample ID: SMP-97281
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3373
+
+Patient Name: J***
+Patient ID: UH-000825
+Age: 34 years
+Gender: Male
+
+Height: 160.0 cm
+Weight: 75.8 kg
+
+Blood Pressure: 155/78 mmHg
+Pulse Rate: 109 bpm
+Blood Sugar: 99 mg/dL
+
+Cholesterol Panel:
+  Total: 197 mg/dL
+  LDL: -
+  HDL: 36 mg/dL
+  Triglycerides: 171 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 23.4
+
+
+Doctor's Comments:
+Medication adherence reviewed.

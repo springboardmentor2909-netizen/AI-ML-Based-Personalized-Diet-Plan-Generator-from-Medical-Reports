@@ -1,0 +1,39 @@
+
+Silver Oak Medical Center
+Address: 49 Riverbend Ave, Hillcrest - 484539
+Phone: +91-82812-11921
+Email: info@silver oak16.org
+Website: www.silver oak315.org
+Accreditation Code: SI-35580
+
+Report ID: RPT-FF6C7A78
+Sample ID: SMP-74317
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5855
+
+Patient Name: Q***
+Patient ID: UH-000517
+Age: 35 years
+Gender: Other
+
+Height: -
+Weight: 56.1 kg
+
+Blood Pressure: 114/61 mmHg
+Blood Sugar: 86 mg/dL
+
+Cholesterol Panel:
+  Total: 220 mg/dL
+  LDL: 139 mg/dL
+  HDL: -
+  Triglycerides: 182 mg/dL
+
+Hemoglobin: 12.8 g/dL
+Creatinine: 1.35 mg/dL
+BMI: 26.7
+
+
+Advice:
+Continue present medications.

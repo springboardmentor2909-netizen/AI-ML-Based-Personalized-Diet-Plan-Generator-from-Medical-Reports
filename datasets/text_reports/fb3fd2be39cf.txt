@@ -1,0 +1,30 @@
+
+Riverdale Clinical Institute
+Address: 6 Horizon Road, Clearwater - 441864
+Phone: +91-97405-15436
+Email: info@riverdale84.org
+Website: www.riverdale954.org
+Accreditation Code: RI-77795
+
+Report ID: RPT-21A07C27
+Sample ID: SMP-50264
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4505
+
+Patient Name: B***
+Patient ID: UH-001426
+Age: 29
+Gender: Male
+
+Blood Pressure: 163/68 mmHg
+Pulse Rate: 90 bpm
+Blood Sugar: 93 mg/dL
+Weight: 54.0 kg
+LDL: 79 mg/dL
+Hemoglobin: 12.9 g/dL
+BMI: 30.4
+
+Clinical Notes:
+Mild elevation in glucose.

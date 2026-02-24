@@ -1,0 +1,41 @@
+
+SolacePoint Hospital
+Address: 58 Sunrise Boulevard, Silverpoint - 404169
+Phone: +91-89436-93830
+Email: info@solacepoint49.org
+Website: www.solacepoint777.org
+Accreditation Code: SO-87525
+
+Report ID: RPT-DFA24A43
+Sample ID: SMP-43666
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7506
+
+Patient Name: K***
+Patient ID: UH-000456
+Age: 44 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar: 106 mg/dL
+
+Cholesterol Panel:
+  Total: 223 mg/dL
+  LDL: 84 mg/dL
+  HDL: -
+  Triglycerides: 236 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 0.95 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: 1.1 mg/dL
+
+
+Remark:
+Lipid levels require monitoring.

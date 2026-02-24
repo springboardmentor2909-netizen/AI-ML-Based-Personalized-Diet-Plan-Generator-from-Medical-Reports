@@ -1,0 +1,49 @@
+
+Silver Oak Diagnostics
+Address: 4 Riverbend Ave, Meadowridge - 487823
+Phone: +91-70567-31902
+Email: info@silver oak49.org
+Website: www.silver oak945.org
+Accreditation Code: SI-86333
+
+Report ID: RPT-F497B5CE
+Sample ID: SMP-31057
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1059
+
+Patient Name: L***
+Patient ID: UH-001228
+Age: 32 years
+Gender: Male
+
+Height: 180.5 cm
+Weight: 84.4 kg
+
+Blood Pressure: 101/110 mmHg
+Pulse: 87 bpm
+Glucose: 99 mg/dL
+
+Cholesterol Panel:
+  Total: 240 mg/dL
+  LDL: 76 mg/dL
+  HDL: 28 mg/dL
+  Triglycerides: 181 mg/dL
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.23 mg/dL
+BMI: 28.8
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: 39 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 115 mL/min
+
+
+Advice:
+Maintain current therapy plan.

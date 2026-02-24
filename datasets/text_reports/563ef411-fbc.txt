@@ -1,0 +1,45 @@
+
+Northlake Medical Center
+Address: 8 Sunrise Boulevard, Northbay - 462701
+Phone: +91-83044-10343
+Email: info@northlake15.org
+Website: www.northlake827.org
+Accreditation Code: NO-56972
+
+Report ID: RPT-A4763382
+Sample ID: SMP-50485
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5790
+
+Patient Name: K***
+Patient ID: UH-000998
+Age: 43 years
+Gender: Female
+
+Height: -
+Weight: 54.6 kg
+
+Blood Pressure: -
+Pulse Rate: 78 bpm
+Blood Sugar (Random): 113 mg/dL
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: 99 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 139 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.01 mg/dL
+BMI: 32.8
+
+LFT:
+  AST/SGOT: 31 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.3 mg/dL
+
+
+Summary:
+Possible dehydration; fluids advised.

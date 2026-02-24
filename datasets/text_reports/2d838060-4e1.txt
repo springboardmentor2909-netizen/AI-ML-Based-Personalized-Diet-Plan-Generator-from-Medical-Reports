@@ -1,0 +1,40 @@
+
+PrimeCare Hospital
+Address: 47 Riverbend Ave, Marigold City - 453551
+Phone: +91-86646-44588
+Email: info@primecare72.org
+Website: www.primecare142.org
+Accreditation Code: PR-68909
+
+Report ID: RPT-DC13C35D
+Sample ID: SMP-52484
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2012
+
+Patient Name: V***
+Patient ID: UH-001097
+Age: 32 years
+Gender: Other
+
+Height: 181.1 cm
+Weight: 50.9 kg
+
+Blood Pressure: 115/105 mmHg
+Pulse: -
+Blood Sugar (Random): 133 mg/dL
+
+Cholesterol Panel:
+  Total: 195 mg/dL
+  LDL: 91 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 145 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 1.23 mg/dL
+BMI: -
+
+
+Advice:
+No clinical signs of deterioration.

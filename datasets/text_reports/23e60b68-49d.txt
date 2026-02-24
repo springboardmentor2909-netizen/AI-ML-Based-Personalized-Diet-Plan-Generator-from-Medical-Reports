@@ -1,0 +1,45 @@
+
+Northlake Medical Center
+Address: 38 Riverbend Ave, Hillcrest - 458205
+Phone: +91-86015-56766
+Email: info@northlake62.org
+Website: www.northlake627.org
+Accreditation Code: NO-35748
+
+Report ID: RPT-6BF1C376
+Sample ID: SMP-46340
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5092
+
+Patient Name: E***
+Patient ID: UH-001114
+Age: 24 years
+Gender: Male
+
+Height: 187.3 cm
+Weight: 78.8 kg
+
+Blood Pressure: 109/92 mmHg
+Pulse: 106 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 255 mg/dL
+  LDL: 128 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: 188 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.87 mg/dL
+BMI: 23.8
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.2 mg/dL
+
+
+Remarks:
+Further evaluation if symptoms persist.

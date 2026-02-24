@@ -1,0 +1,40 @@
+
+Riverdale Pathology Lab
+Address: 29 Maple Drive, Marigold City - 479996
+Phone: +91-77157-94573
+Email: info@riverdale10.org
+Website: www.riverdale101.org
+Accreditation Code: RI-59572
+
+Report ID: RPT-0FF2A6E3
+Sample ID: SMP-26837
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2127
+
+Patient Name: W***
+Patient ID: UH-000654
+Age: 75 years
+Gender: Other
+
+Height: -
+Weight: 82.6 kg
+
+Blood Pressure: -
+Pulse Rate: 62 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 138 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.23 mg/dL
+BMI: -
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

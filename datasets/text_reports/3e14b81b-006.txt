@@ -1,0 +1,49 @@
+
+ClearRiver Diagnostics
+Address: 80 Sunrise Boulevard, Hillcrest - 415728
+Phone: +91-77287-27937
+Email: info@clearriver64.org
+Website: www.clearriver161.org
+Accreditation Code: CL-89610
+
+Report ID: RPT-463B0C62
+Sample ID: SMP-99426
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9733
+
+Patient Name: D***
+Patient ID: UH-000639
+Age: 28 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 120/83 mmHg
+Pulse Rate: 97 bpm
+Blood Glucose: 146 mg/dL
+
+Cholesterol Panel:
+  Total: 212 mg/dL
+  LDL: 124 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 192 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 0.88 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 81 mL/min
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

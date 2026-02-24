@@ -1,0 +1,45 @@
+
+Greencrest Clinical Institute
+Address: 54 Horizon Road, Eastwood - 475873
+Phone: +91-82037-41132
+Email: info@greencrest33.org
+Website: www.greencrest902.org
+Accreditation Code: GR-81712
+
+Report ID: RPT-C602165E
+Sample ID: SMP-36272
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7880
+
+Patient Name: X***
+Patient ID: UH-001061
+Age: 33 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 107/108 mmHg
+Pulse: 102 bpm
+Blood Sugar: 134 mg/dL
+
+Cholesterol Panel:
+  Total: 228 mg/dL
+  LDL: 159 mg/dL
+  HDL: -
+  Triglycerides: 125 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: -
+BMI: 18.6
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Clinical Notes:
+Patient advised to maintain hydration.

@@ -1,0 +1,39 @@
+
+NovaPath Pathology Lab
+Address: 48 Maple Drive, Eastwood - 427172
+Phone: +91-88904-18804
+Email: info@novapath76.org
+Website: www.novapath890.org
+Accreditation Code: NO-68461
+
+Report ID: RPT-6DDEF4B0
+Sample ID: SMP-15973
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2845
+
+Patient Name: W***
+Patient ID: UH-001404
+Age: 71
+Gender: Female
+
+Blood Pressure: 125/109 mmHg
+Pulse: 108 bpm
+Glucose: 152 mg/dL
+Height: 156.1 cm
+Weight: 68.9 kg
+Cholesterol Total: 238 mg/dL
+LDL: 137 mg/dL
+HDL: 41 mg/dL
+Triglycerides: 221 mg/dL
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 22.8
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 87 mL/min
+
+Summary:
+Continue medications.

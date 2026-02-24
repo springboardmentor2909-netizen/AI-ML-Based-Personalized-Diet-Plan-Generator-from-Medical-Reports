@@ -1,0 +1,40 @@
+
+Medisphere Diagnostics
+Address: 11 Evergreen Lane, Silverpoint - 402520
+Phone: +91-73247-81919
+Email: info@medisphere16.org
+Website: www.medisphere432.org
+Accreditation Code: ME-15168
+
+Report ID: RPT-BA5FC765
+Sample ID: SMP-21269
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8216
+
+Patient Name: U***
+Patient ID: UH-001194
+Age: 33 years
+Gender: Female
+
+Height: 169.6 cm
+Weight: 85.2 kg
+
+Blood Pressure: 106/99 mmHg
+Pulse: 64 bpm
+Blood Sugar (Random): 130 mg/dL
+
+Cholesterol Panel:
+  Total: 198 mg/dL
+  LDL: 116 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 213 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.09 mg/dL
+BMI: 23.0
+
+
+Summary:
+Results indicate minor deficiency.

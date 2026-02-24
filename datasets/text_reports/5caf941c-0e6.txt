@@ -1,0 +1,39 @@
+
+Everlight Pathology Lab
+Address: 8 Maple Drive, Eastwood - 413600
+Phone: +91-77456-63210
+Email: info@everlight36.org
+Website: www.everlight768.org
+Accreditation Code: EV-62022
+
+Report ID: RPT-D4566F7E
+Sample ID: SMP-49580
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5361
+
+Patient Name: O***
+Patient ID: UH-000558
+Age: 68 years
+Gender: Male
+
+Height: 176.9 cm
+Weight: -
+
+Blood Pressure: -
+Blood Glucose: 166 mg/dL
+
+Cholesterol Panel:
+  Total: 189 mg/dL
+  LDL: -
+  HDL: 46 mg/dL
+  Triglycerides: 164 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.13 mg/dL
+BMI: 21.7
+
+
+Doctor's Notes:
+Lipid profile requires monitoring.

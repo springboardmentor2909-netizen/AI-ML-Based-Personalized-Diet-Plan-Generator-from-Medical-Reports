@@ -1,0 +1,44 @@
+
+Everlight Pathology Lab
+Address: 8 Maple Drive, Eastwood - 413600
+Phone: +91-77456-63210
+Email: info@everlight36.org
+Website: www.everlight768.org
+Accreditation Code: EV-62022
+
+Report ID: RPT-6A114A8F
+Sample ID: SMP-61833
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4312
+
+Patient Name: M***
+Patient ID: UH-000539
+Age: 29 years
+Gender: Other
+
+Height: 171.1 cm
+Weight: 63.5 kg
+
+Blood Pressure: 141/84 mmHg
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 245 mg/dL
+  LDL: 137 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 0.89 mg/dL
+BMI: 25.6
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+
+Recommendation:
+Continue present medications.

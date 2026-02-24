@@ -1,0 +1,49 @@
+
+Medisphere Pathology Lab
+Address: 69 Riverbend Ave, Westlake - 452545
+Phone: +91-95398-40321
+Email: info@medisphere11.org
+Website: www.medisphere549.org
+Accreditation Code: ME-51725
+
+Report ID: RPT-F06AE0A8
+Sample ID: SMP-20929
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9389
+
+Patient Name: H***
+Patient ID: UH-000872
+Age: 27 years
+Gender: Other
+
+Height: 163.0 cm
+Weight: 76.0 kg
+
+Blood Pressure: 168/102 mmHg
+Pulse: 66 bpm
+Blood Glucose: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: -
+  HDL: 48 mg/dL
+  Triglycerides: 128 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: -
+BMI: -
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: 29 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Remark:
+Monitor BP at home regularly.

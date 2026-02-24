@@ -1,0 +1,35 @@
+
+Northlake Clinical Institute
+Address: 99 Alpine Street, Westlake - 484750
+Phone: +91-79203-88013
+Email: info@northlake58.org
+Website: www.northlake999.org
+Accreditation Code: NO-48764
+
+Report ID: RPT-58C58085
+Sample ID: SMP-53674
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2597
+
+Patient Name: N***
+Patient ID: UH-001547
+Age: 61
+Gender: Male
+
+Pulse (bpm): 103 bpm
+Glucose: 104 mg/dL
+Height: 184.9 cm
+Cholesterol Total: 210 mg/dL
+LDL: 142 mg/dL
+HDL: 60 mg/dL
+Triglycerides: 136 mg/dL
+Creatinine: 1.51 mg/dL
+
+LFT:
+  AST/SGOT: 40 U/L
+  ALT/SGPT: 23 U/L
+
+Recommendations:
+Reduce salt intake.

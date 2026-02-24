@@ -1,0 +1,39 @@
+
+Riverdale Clinical Institute
+Address: 81 Riverbend Ave, Westlake - 454782
+Phone: +91-99357-41561
+Email: info@riverdale33.org
+Website: www.riverdale838.org
+Accreditation Code: RI-26218
+
+Report ID: RPT-2C411479
+Sample ID: SMP-61282
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5740
+
+Patient Name: T***
+Patient ID: UH-001575
+Age: 21
+Gender: Male
+
+Blood Pressure: 132/73 mmHg
+Pulse (bpm): 69 bpm
+Blood Sugar: 134 mg/dL
+Height: 160.2 cm
+Weight: 69.3 kg
+Cholesterol Total: 254 mg/dL
+LDL: 103 mg/dL
+HDL: 39 mg/dL
+Triglycerides: 225 mg/dL
+Hemoglobin: 11.5 g/dL
+Creatinine: 1.11 mg/dL
+BMI: 32.5
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 98 mL/min
+
+Impression:
+Continue medications.

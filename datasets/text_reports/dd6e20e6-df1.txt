@@ -1,0 +1,36 @@
+
+PrimeCare Pathology Lab
+Address: 26 Evergreen Lane, Hillcrest - 459685
+Phone: +91-79923-48499
+Email: info@primecare21.org
+Website: www.primecare691.org
+Accreditation Code: PR-17144
+
+Report ID: RPT-B3F95305
+Sample ID: SMP-92381
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3970
+
+Patient Name: G***
+Patient ID: UH-000431
+Age: 24 years
+Gender: Female
+
+Blood Pressure: 145/73 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: 168 mg/dL
+  LDL: 129 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: 203 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: -
+BMI: 22.3
+
+
+Remarks:
+Continue present medications.

@@ -1,0 +1,40 @@
+
+BlueValley Pathology Lab
+Address: 19 Evergreen Lane, Northbay - 408259
+Phone: +91-79985-75884
+Email: info@bluevalley37.org
+Website: www.bluevalley476.org
+Accreditation Code: BL-85889
+
+Report ID: RPT-EC9C14F6
+Sample ID: SMP-73291
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6770
+
+Patient Name: W***
+Patient ID: UH-001200
+Age: 30 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 71 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 181 mg/dL
+  LDL: -
+  HDL: 35 mg/dL
+  Triglycerides: 136 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Recommendations:
+Follow-up in OPD advised.

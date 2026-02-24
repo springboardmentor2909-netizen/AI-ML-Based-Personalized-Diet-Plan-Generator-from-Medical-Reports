@@ -1,0 +1,40 @@
+
+NovaPath Clinical Institute
+Address: 46 Riverbend Ave, Marigold City - 433018
+Phone: +91-82744-26922
+Email: info@novapath47.org
+Website: www.novapath206.org
+Accreditation Code: NO-63480
+
+Report ID: RPT-8DB56EAD
+Sample ID: SMP-72914
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7351
+
+Patient Name: X***
+Patient ID: UH-001201
+Age: 82 years
+Gender: Other
+
+Height: 159.1 cm
+Weight: 60.2 kg
+
+Blood Pressure: -
+Pulse: 94 bpm
+Blood Glucose: 133 mg/dL
+
+Cholesterol Panel:
+  Total: 161 mg/dL
+  LDL: 115 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 153 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Advice:
+Maintain current therapy plan.

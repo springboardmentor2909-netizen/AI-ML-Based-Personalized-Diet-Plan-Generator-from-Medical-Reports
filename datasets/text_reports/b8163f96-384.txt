@@ -1,0 +1,40 @@
+
+Silver Oak Hospital
+Address: 98 Alpine Street, Westlake - 455068
+Phone: +91-87239-88926
+Email: info@silver oak81.org
+Website: www.silver oak754.org
+Accreditation Code: SI-25830
+
+Report ID: RPT-AB84D0ED
+Sample ID: SMP-51991
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4579
+
+Patient Name: K***
+Patient ID: UH-000984
+Age: 27 years
+Gender: Other
+
+Height: 177.4 cm
+Weight: 59.8 kg
+
+Blood Pressure: -
+Pulse Rate: 109 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.88 mg/dL
+BMI: 28.1
+
+
+Remark:
+Improvement noted. Keep current regimen.

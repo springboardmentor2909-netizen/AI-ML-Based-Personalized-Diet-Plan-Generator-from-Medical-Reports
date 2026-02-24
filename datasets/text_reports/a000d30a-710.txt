@@ -1,0 +1,49 @@
+
+Everlight Hospital
+Address: 32 Alpine Street, Northbay - 482003
+Phone: +91-74103-18728
+Email: info@everlight41.org
+Website: www.everlight172.org
+Accreditation Code: EV-90191
+
+Report ID: RPT-B69AFA5D
+Sample ID: SMP-80232
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7408
+
+Patient Name: J***
+Patient ID: UH-001182
+Age: 70 years
+Gender: Female
+
+Height: 167.1 cm
+Weight: 85.4 kg
+
+Blood Pressure: 141/79 mmHg
+Pulse (bpm): 92 bpm
+Blood Glucose: 157 mg/dL
+
+Cholesterol Panel:
+  Total: 166 mg/dL
+  LDL: 145 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 246 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 23.5
+
+LFT:
+  AST/SGOT: 15 U/L
+  ALT/SGPT: 34 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 86 mL/min
+
+
+Remark:
+Reduce salt intake.

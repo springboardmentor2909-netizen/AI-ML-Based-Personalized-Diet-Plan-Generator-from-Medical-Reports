@@ -1,0 +1,40 @@
+
+Everlight Hospital
+Address: 83 Alpine Street, Clearwater - 491721
+Phone: +91-76945-99317
+Email: info@everlight36.org
+Website: www.everlight608.org
+Accreditation Code: EV-37889
+
+Report ID: RPT-BF0459D6
+Sample ID: SMP-28353
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7926
+
+Patient Name: M***
+Patient ID: UH-001245
+Age: 62 years
+Gender: Male
+
+Height: 155.0 cm
+Weight: 53.5 kg
+
+Blood Pressure: 155/106 mmHg
+Pulse Rate: 87 bpm
+Blood Sugar: 110 mg/dL
+
+Cholesterol Panel:
+  Total: 153 mg/dL
+  LDL: 140 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 230 mg/dL
+
+Hemoglobin: 9.6 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 27.5
+
+
+Doctor's Comments:
+Mild elevation in glucose; advised diet control.

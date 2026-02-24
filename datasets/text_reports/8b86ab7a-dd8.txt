@@ -1,0 +1,39 @@
+
+Riverdale Hospital
+Address: 80 Riverbend Ave, Westlake - 400193
+Phone: +91-86447-81308
+Email: info@riverdale53.org
+Website: www.riverdale205.org
+Accreditation Code: RI-82720
+
+Report ID: RPT-88FA779A
+Sample ID: SMP-82683
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5285
+
+Patient Name: A***
+Patient ID: UH-000554
+Age: 20 years
+Gender: Other
+
+Height: 167.7 cm
+Weight: -
+
+Blood Pressure: 133/71 mmHg
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 57 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.4 g/dL
+Creatinine: -
+BMI: 30.1
+
+
+Advice:
+Continue present medications.

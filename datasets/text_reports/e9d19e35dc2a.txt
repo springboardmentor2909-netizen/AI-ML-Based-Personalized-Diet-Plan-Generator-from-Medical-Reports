@@ -1,0 +1,36 @@
+
+Medisphere Clinical Institute
+Address: 61 Horizon Road, Westlake - 407859
+Phone: +91-82520-12787
+Email: info@medisphere61.org
+Website: www.medisphere309.org
+Accreditation Code: ME-47273
+
+Report ID: RPT-DB73BCB2
+Sample ID: SMP-56992
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7674
+
+Patient Name: K***
+Patient ID: UH-001512
+Age: 28
+Gender: Female
+
+Blood Pressure: 117/95 mmHg
+Blood Glucose: 93 mg/dL
+Height: 169.9 cm
+Weight: 67.6 kg
+HDL: 58 mg/dL
+Triglycerides: 259 mg/dL
+Hemoglobin: 13.4 g/dL
+Creatinine: 1.17 mg/dL
+BMI: 21.8
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 69 mL/min
+
+Doctor's Notes:
+Monitor BP regularly.

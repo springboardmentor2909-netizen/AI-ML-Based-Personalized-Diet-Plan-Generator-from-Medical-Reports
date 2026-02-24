@@ -1,0 +1,45 @@
+
+Starhaven Diagnostics
+Address: 83 Alpine Street, Marigold City - 497788
+Phone: +91-90486-35272
+Email: info@starhaven95.org
+Website: www.starhaven190.org
+Accreditation Code: ST-50473
+
+Report ID: RPT-A196DAF2
+Sample ID: SMP-82886
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4300
+
+Patient Name: X***
+Patient ID: UH-001121
+Age: 68 years
+Gender: Male
+
+Height: 158.3 cm
+Weight: 87.6 kg
+
+Blood Pressure: 125/96 mmHg
+Pulse Rate: 88 bpm
+Glucose: 115 mg/dL
+
+Cholesterol Panel:
+  Total: 190 mg/dL
+  LDL: 139 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: 204 mg/dL
+
+Hemoglobin: 15.2 g/dL
+Creatinine: 0.9 mg/dL
+BMI: 18.6
+
+LFT:
+  AST/SGOT: 19 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Recommendation:
+Follow-up in OPD advised.

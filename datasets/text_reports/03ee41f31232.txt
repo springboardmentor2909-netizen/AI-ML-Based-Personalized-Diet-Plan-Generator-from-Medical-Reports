@@ -1,0 +1,36 @@
+
+Silver Oak Hospital
+Address: 9 Riverbend Ave, Marigold City - 426151
+Phone: +91-74345-51670
+Email: info@silver oak56.org
+Website: www.silver oak570.org
+Accreditation Code: SI-57258
+
+Report ID: RPT-D8E7E7F1
+Sample ID: SMP-14188
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2203
+
+Patient Name: S***
+Patient ID: UH-001549
+Age: 38
+Gender: Other
+
+Blood Pressure: 122/65 mmHg
+Glucose: 172 mg/dL
+Height: 161.3 cm
+Weight: 89.6 kg
+Cholesterol Total: 156 mg/dL
+HDL: 50 mg/dL
+Triglycerides: 242 mg/dL
+Hemoglobin: 15.5 g/dL
+BMI: 33.4
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: 11 U/L
+
+Summary:
+Condition stable.

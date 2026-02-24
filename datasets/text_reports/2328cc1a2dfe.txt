@@ -1,0 +1,31 @@
+
+Silver Oak Diagnostics
+Address: 92 Horizon Road, Northbay - 455847
+Phone: +91-94943-72804
+Email: info@silver oak10.org
+Website: www.silver oak621.org
+Accreditation Code: SI-69088
+
+Report ID: RPT-7C37343F
+Sample ID: SMP-55825
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3585
+
+Patient Name: M***
+Patient ID: UH-001383
+Age: 58
+Gender: Male
+
+Pulse (bpm): 108 bpm
+Blood Sugar (Random): 131 mg/dL
+Height: 171.4 cm
+LDL: 154 mg/dL
+HDL: 55 mg/dL
+Triglycerides: 279 mg/dL
+Creatinine: 1.35 mg/dL
+BMI: 35.2
+
+Recommendations:
+Increase daily walking.

@@ -1,0 +1,40 @@
+
+BlueValley Diagnostics
+Address: 48 Alpine Street, Westlake - 441083
+Phone: +91-84211-20024
+Email: info@bluevalley57.org
+Website: www.bluevalley138.org
+Accreditation Code: BL-70235
+
+Report ID: RPT-67F044A7
+Sample ID: SMP-35002
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7231
+
+Patient Name: G***
+Patient ID: UH-001479
+Age: 55
+Gender: Other
+
+Blood Pressure: 150/74 mmHg
+Pulse Rate: 66 bpm
+Glucose: 151 mg/dL
+Height: 155.9 cm
+Weight: 47.6 kg
+Cholesterol Total: 241 mg/dL
+LDL: 155 mg/dL
+HDL: 28 mg/dL
+Triglycerides: 264 mg/dL
+Hemoglobin: 13.0 g/dL
+Creatinine: 1.33 mg/dL
+BMI: 23.1
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: 13 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+Doctor's Notes:
+Condition stable.

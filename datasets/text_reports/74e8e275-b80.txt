@@ -1,0 +1,49 @@
+
+Greencrest Pathology Lab
+Address: 66 Horizon Road, Clearwater - 426022
+Phone: +91-85817-46910
+Email: info@greencrest75.org
+Website: www.greencrest471.org
+Accreditation Code: GR-48886
+
+Report ID: RPT-724836F5
+Sample ID: SMP-68550
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3729
+
+Patient Name: B***
+Patient ID: UH-000910
+Age: 69 years
+Gender: Other
+
+Height: 174.0 cm
+Weight: 76.0 kg
+
+Blood Pressure: 158/63 mmHg
+Pulse Rate: 67 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 254 mg/dL
+  LDL: 83 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 1.41 mg/dL
+BMI: 25.8
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.3 mg/dL
+
+KFT:
+  Urea: 41 mg/dL
+  eGFR: 79 mL/min
+
+
+Recommendations:
+Repeat test if clinically indicated.

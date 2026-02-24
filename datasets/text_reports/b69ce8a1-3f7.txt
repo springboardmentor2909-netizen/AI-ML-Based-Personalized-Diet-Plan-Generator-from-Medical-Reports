@@ -1,0 +1,40 @@
+
+Starhaven Clinical Institute
+Address: 46 Sunrise Boulevard, Eastwood - 453059
+Phone: +91-99950-74951
+Email: info@starhaven80.org
+Website: www.starhaven162.org
+Accreditation Code: ST-15681
+
+Report ID: RPT-504A53F4
+Sample ID: SMP-86054
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3460
+
+Patient Name: J***
+Patient ID: UH-001027
+Age: 77 years
+Gender: Male
+
+Height: 152.9 cm
+Weight: -
+
+Blood Pressure: 169/78 mmHg
+Pulse (bpm): -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 208 mg/dL
+  LDL: 88 mg/dL
+  HDL: 43 mg/dL
+  Triglycerides: 143 mg/dL
+
+Hemoglobin: 10.7 g/dL
+Creatinine: 1.33 mg/dL
+BMI: 30.4
+
+
+Remarks:
+Recommend rechecking lipids after 3 months.

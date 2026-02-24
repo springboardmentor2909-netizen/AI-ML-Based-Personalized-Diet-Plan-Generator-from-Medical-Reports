@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 86 Evergreen Lane, Meadowridge - 495147
+Phone: +91-99246-29897
+Email: info@bluevalley56.org
+Website: www.bluevalley290.org
+Accreditation Code: BL-71455
+
+Report ID: RPT-47D2B49B
+Sample ID: SMP-94465
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6963
+
+Patient Name: M***
+Patient ID: UH-000695
+Age: 29 years
+Gender: Female
+
+Height: -
+Weight: 59.1 kg
+
+Blood Pressure: 147/60 mmHg
+Pulse (bpm): 93 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 49 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 0.7 mg/dL
+BMI: 26.5
+
+
+Recommendations:
+Continue present medications.

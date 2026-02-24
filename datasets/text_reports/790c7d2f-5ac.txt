@@ -1,0 +1,45 @@
+
+Starhaven Diagnostics
+Address: 39 Maple Drive, Northbay - 450296
+Phone: +91-73654-65204
+Email: info@starhaven67.org
+Website: www.starhaven139.org
+Accreditation Code: ST-94058
+
+Report ID: RPT-56B069B9
+Sample ID: SMP-84414
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6328
+
+Patient Name: C***
+Patient ID: UH-001031
+Age: 66 years
+Gender: Other
+
+Height: 159.5 cm
+Weight: 89.2 kg
+
+Blood Pressure: 153/106 mmHg
+Pulse (bpm): 87 bpm
+Blood Sugar: 128 mg/dL
+
+Cholesterol Panel:
+  Total: 177 mg/dL
+  LDL: 104 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 190 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.36 mg/dL
+BMI: 24.0
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 40 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Remarks:
+Pt stable. Continue routine follow-up.

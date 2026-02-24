@@ -1,0 +1,29 @@
+
+BlueValley Medical Center
+Address: 99 Sunrise Boulevard, Hillcrest - 470911
+Phone: +91-79227-47739
+Email: info@bluevalley37.org
+Website: www.bluevalley345.org
+Accreditation Code: BL-90255
+
+Report ID: RPT-62E67235
+Sample ID: SMP-91185
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9424
+
+Patient Name: U***
+Patient ID: UH-001559
+Age: 20
+Gender: Female
+
+Blood Pressure: 140/83 mmHg
+Pulse Rate: 107 bpm
+Blood Sugar: 104 mg/dL
+Cholesterol Total: 174 mg/dL
+Hemoglobin: 10.7 g/dL
+BMI: 24.2
+
+Advice:
+Discussed results; patient understood.

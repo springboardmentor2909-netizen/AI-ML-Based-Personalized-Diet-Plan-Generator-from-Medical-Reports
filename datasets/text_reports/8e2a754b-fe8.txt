@@ -1,0 +1,40 @@
+
+BlueValley Pathology Lab
+Address: 19 Evergreen Lane, Northbay - 408259
+Phone: +91-79985-75884
+Email: info@bluevalley37.org
+Website: www.bluevalley476.org
+Accreditation Code: BL-85889
+
+Report ID: RPT-1CF0C787
+Sample ID: SMP-53574
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4803
+
+Patient Name: P***
+Patient ID: UH-001142
+Age: 34 years
+Gender: Male
+
+Height: 176.7 cm
+Weight: 83.5 kg
+
+Blood Pressure: 111/99 mmHg
+Pulse (bpm): -
+Blood Sugar (Random): 152 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 97 mg/dL
+  HDL: -
+  Triglycerides: 244 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 1.19 mg/dL
+BMI: 22.4
+
+
+Clinical Notes:
+Continue existing therapy.

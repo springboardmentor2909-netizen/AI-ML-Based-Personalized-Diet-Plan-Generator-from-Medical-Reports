@@ -1,0 +1,48 @@
+
+SolacePoint Hospital
+Address: 64 Riverbend Ave, Silverpoint - 417675
+Phone: +91-91591-25392
+Email: info@solacepoint22.org
+Website: www.solacepoint364.org
+Accreditation Code: SO-60365
+
+Report ID: RPT-77F8C7CE
+Sample ID: SMP-58508
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5328
+
+Patient Name: F***
+Patient ID: UH-000596
+Age: 25 years
+Gender: Other
+
+Height: -
+Weight: 52.6 kg
+
+Blood Pressure: 149/80 mmHg
+Glucose: 99 mg/dL
+
+Cholesterol Panel:
+  Total: 223 mg/dL
+  LDL: -
+  HDL: 42 mg/dL
+  Triglycerides: 188 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: -
+BMI: 33.5
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 110 mL/min
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

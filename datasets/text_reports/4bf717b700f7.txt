@@ -1,0 +1,30 @@
+
+Northlake Diagnostics
+Address: 28 Riverbend Ave, Northbay - 442169
+Phone: +91-72471-47887
+Email: info@northlake78.org
+Website: www.northlake955.org
+Accreditation Code: NO-45501
+
+Report ID: RPT-01E2EE18
+Sample ID: SMP-70799
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3101
+
+Patient Name: O***
+Patient ID: UH-001569
+Age: 46
+Gender: Female
+
+Blood Pressure: 138/66 mmHg
+Blood Sugar (Random): 159 mg/dL
+Cholesterol Total: 222 mg/dL
+LDL: 76 mg/dL
+Triglycerides: 274 mg/dL
+Hemoglobin: 13.1 g/dL
+BMI: 33.3
+
+Impression:
+Values improving.

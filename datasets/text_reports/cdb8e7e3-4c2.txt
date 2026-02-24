@@ -1,0 +1,44 @@
+
+SolacePoint Pathology Lab
+Address: 87 Horizon Road, Silverpoint - 417360
+Phone: +91-92343-92542
+Email: info@solacepoint84.org
+Website: www.solacepoint927.org
+Accreditation Code: SO-33304
+
+Report ID: RPT-C7B907A7
+Sample ID: SMP-52064
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3910
+
+Patient Name: P***
+Patient ID: UH-000543
+Age: 60 years
+Gender: Other
+
+Height: 149.9 cm
+Weight: 76.1 kg
+
+Blood Pressure: 138/106 mmHg
+Blood Sugar (Random): 107 mg/dL
+
+Cholesterol Panel:
+  Total: 189 mg/dL
+  LDL: 89 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 228 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 19.5
+
+LFT:
+  AST/SGOT: 39 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+
+Doctor's Notes:
+Follow-up recommended after 2 weeks.

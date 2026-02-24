@@ -1,0 +1,37 @@
+
+ClearRiver Pathology Lab
+Address: 19 Sunrise Boulevard, Hillcrest - 452706
+Phone: +91-77163-87040
+Email: info@clearriver20.org
+Website: www.clearriver512.org
+Accreditation Code: CL-34374
+
+Report ID: RPT-9615AD41
+Sample ID: SMP-21159
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6593
+
+Patient Name: U***
+Patient ID: UH-001312
+Age: 21
+Gender: Other
+
+Pulse (bpm): 93 bpm
+Blood Sugar: 125 mg/dL
+Height: 173.0 cm
+Weight: 79.0 kg
+Cholesterol Total: 229 mg/dL
+LDL: 130 mg/dL
+HDL: 56 mg/dL
+Triglycerides: 159 mg/dL
+Creatinine: 1.29 mg/dL
+BMI: 20.9
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: 82 mL/min
+
+Remarks:
+Medication adherence checked.

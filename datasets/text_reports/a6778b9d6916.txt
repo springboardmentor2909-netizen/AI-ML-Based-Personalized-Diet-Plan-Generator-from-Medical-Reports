@@ -1,0 +1,35 @@
+
+Silver Oak Hospital
+Address: 18 Sunrise Boulevard, Hillcrest - 426375
+Phone: +91-80865-48126
+Email: info@silver oak35.org
+Website: www.silver oak330.org
+Accreditation Code: SI-50363
+
+Report ID: RPT-C329E6E5
+Sample ID: SMP-15006
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9056
+
+Patient Name: C***
+Patient ID: UH-001528
+Age: 85
+Gender: Other
+
+Blood Pressure: 143/70 mmHg
+Pulse Rate: 106 bpm
+Glucose: 153 mg/dL
+Height: 162.1 cm
+Weight: 89.6 kg
+Cholesterol Total: 152 mg/dL
+LDL: 131 mg/dL
+HDL: 54 mg/dL
+Triglycerides: 159 mg/dL
+Hemoglobin: 12.2 g/dL
+Creatinine: 0.88 mg/dL
+BMI: 24.0
+
+Doctor's Notes:
+Discussed results; patient understood.

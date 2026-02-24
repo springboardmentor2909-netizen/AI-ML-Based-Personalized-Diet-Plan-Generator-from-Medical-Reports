@@ -1,0 +1,40 @@
+
+Medisphere Clinical Institute
+Address: 67 Maple Drive, Westlake - 449551
+Phone: +91-89962-78549
+Email: info@medisphere65.org
+Website: www.medisphere908.org
+Accreditation Code: ME-31649
+
+Report ID: RPT-01FC1C5D
+Sample ID: SMP-86071
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2788
+
+Patient Name: L***
+Patient ID: UH-000632
+Age: 37 years
+Gender: Female
+
+Height: 172.4 cm
+Weight: -
+
+Blood Pressure: 128/91 mmHg
+Pulse: 82 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 113 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 183 mg/dL
+
+Hemoglobin: 10.7 g/dL
+Creatinine: 0.91 mg/dL
+BMI: -
+
+
+Recommendation:
+Blood pressure within acceptable range.

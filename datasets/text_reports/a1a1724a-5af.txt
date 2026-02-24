@@ -1,0 +1,40 @@
+
+Medisphere Hospital
+Address: 20 Evergreen Lane, Clearwater - 464081
+Phone: +91-73241-69301
+Email: info@medisphere84.org
+Website: www.medisphere557.org
+Accreditation Code: ME-35463
+
+Report ID: RPT-4BE636B0
+Sample ID: SMP-38747
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6550
+
+Patient Name: G***
+Patient ID: UH-000602
+Age: 73 years
+Gender: Other
+
+Height: 149.9 cm
+Weight: -
+
+Blood Pressure: 120/98 mmHg
+Pulse Rate: 86 bpm
+Blood Sugar (Random): 88 mg/dL
+
+Cholesterol Panel:
+  Total: 237 mg/dL
+  LDL: 94 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 213 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: -
+BMI: 25.1
+
+
+Impression:
+Continue present medications.

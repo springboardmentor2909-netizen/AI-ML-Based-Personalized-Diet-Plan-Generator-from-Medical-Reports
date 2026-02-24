@@ -1,0 +1,40 @@
+
+Starhaven Pathology Lab
+Address: 19 Alpine Street, Silverpoint - 491425
+Phone: +91-88851-60653
+Email: info@starhaven79.org
+Website: www.starhaven682.org
+Accreditation Code: ST-64327
+
+Report ID: RPT-C8334FEA
+Sample ID: SMP-50850
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6682
+
+Patient Name: H***
+Patient ID: UH-001297
+Age: 25 years
+Gender: Female
+
+Height: 150.7 cm
+Weight: 52.7 kg
+
+Blood Pressure: 146/85 mmHg
+Pulse Rate: 75 bpm
+Glucose: 115 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 30 mg/dL
+  Triglycerides: 273 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.06 mg/dL
+BMI: 32.4
+
+
+Recommendation:
+Stable. Review in OPD.

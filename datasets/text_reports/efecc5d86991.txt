@@ -1,0 +1,44 @@
+
+Everlight Pathology Lab
+Address: 69 Riverbend Ave, Clearwater - 429448
+Phone: +91-87830-73629
+Email: info@everlight33.org
+Website: www.everlight485.org
+Accreditation Code: EV-35249
+
+Report ID: RPT-D7B7C8E4
+Sample ID: SMP-33354
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3104
+
+Patient Name: U***
+Patient ID: UH-001203
+Age: 19 years
+Gender: Male
+
+Height: 160.1 cm
+Weight: 74.0 kg
+
+Blood Pressure: 148/93 mmHg
+Pulse Rate: 66 bpm
+Glucose: 108 mg/dL
+
+Cholesterol Panel:
+  Total: 198 mg/dL
+  LDL: 98 mg/dL
+  HDL: 61 mg/dL
+  Triglycerides: 196 mg/dL
+
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.51 mg/dL
+BMI: 34.2
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 62 mL/min
+
+
+Recommendation:
+Retest if required clinically.

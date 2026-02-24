@@ -1,0 +1,40 @@
+
+Silver Oak Hospital
+Address: 53 Riverbend Ave, Hillcrest - 441881
+Phone: +91-86414-94659
+Email: info@silver oak60.org
+Website: www.silver oak310.org
+Accreditation Code: SI-67063
+
+Report ID: RPT-5F8D4103
+Sample ID: SMP-78315
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3775
+
+Patient Name: G***
+Patient ID: UH-001078
+Age: 29 years
+Gender: Female
+
+Height: 156.7 cm
+Weight: 49.9 kg
+
+Blood Pressure: 135/69 mmHg
+Pulse (bpm): 102 bpm
+Blood Sugar (Random): 165 mg/dL
+
+Cholesterol Panel:
+  Total: 231 mg/dL
+  LDL: 86 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 210 mg/dL
+
+Hemoglobin: 11.0 g/dL
+Creatinine: 0.81 mg/dL
+BMI: 30.1
+
+
+Doctor's Notes:
+Blood pressure requires monitoring.

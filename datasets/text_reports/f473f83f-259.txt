@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 83 Alpine Street, Marigold City - 497788
+Phone: +91-90486-35272
+Email: info@starhaven95.org
+Website: www.starhaven190.org
+Accreditation Code: ST-50473
+
+Report ID: RPT-1E154F29
+Sample ID: SMP-37455
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6527
+
+Patient Name: M***
+Patient ID: UH-001152
+Age: 39 years
+Gender: Female
+
+Height: -
+Weight: 70.6 kg
+
+Blood Pressure: -
+Pulse Rate: 79 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 87 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 21.3
+
+
+Doctor's Notes:
+Further evaluation if symptoms persist.

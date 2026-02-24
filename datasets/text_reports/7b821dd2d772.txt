@@ -1,0 +1,41 @@
+
+Silver Oak Hospital
+Address: 44 Riverbend Ave, Northbay - 494536
+Phone: +91-70915-40750
+Email: info@silver oak27.org
+Website: www.silver oak223.org
+Accreditation Code: SI-42918
+
+Report ID: RPT-7DBE872C
+Sample ID: SMP-50611
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1110
+
+Patient Name: E***
+Patient ID: UH-001330
+Age: 54
+Gender: Other
+
+Blood Pressure: 158/87 mmHg
+Pulse: 86 bpm
+Blood Sugar (Random): 79 mg/dL
+Height: 189.5 cm
+Weight: 59.5 kg
+LDL: 131 mg/dL
+HDL: 52 mg/dL
+Triglycerides: 149 mg/dL
+Hemoglobin: 12.6 g/dL
+Creatinine: 1.65 mg/dL
+
+LFT:
+  AST/SGOT: 26 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 74 mL/min
+
+Summary:
+General improvement observed.

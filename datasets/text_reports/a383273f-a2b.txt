@@ -1,0 +1,40 @@
+
+Riverdale Medical Center
+Address: 40 Alpine Street, Westlake - 472565
+Phone: +91-88399-75310
+Email: info@riverdale32.org
+Website: www.riverdale163.org
+Accreditation Code: RI-61815
+
+Report ID: RPT-72DFC13C
+Sample ID: SMP-72091
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3882
+
+Patient Name: J***
+Patient ID: UH-000494
+Age: 81 years
+Gender: Female
+
+Blood Pressure: 138/66 mmHg
+Blood Glucose: 124 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 143 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 204 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: 1.03 mg/dL
+BMI: 32.2
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 101 mL/min
+
+
+Remarks:
+Blood pressure stable today.

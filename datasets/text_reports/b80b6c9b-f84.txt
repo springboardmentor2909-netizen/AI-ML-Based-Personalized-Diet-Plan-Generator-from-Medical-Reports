@@ -1,0 +1,40 @@
+
+BlueValley Hospital
+Address: 11 Horizon Road, Hillcrest - 402409
+Phone: +91-84773-67184
+Email: info@bluevalley37.org
+Website: www.bluevalley380.org
+Accreditation Code: BL-58727
+
+Report ID: RPT-8532E549
+Sample ID: SMP-49106
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3345
+
+Patient Name: E***
+Patient ID: UH-001141
+Age: 65 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 229 mg/dL
+
+Hemoglobin: 15.2 g/dL
+Creatinine: -
+BMI: 30.1
+
+
+Remark:
+Increase daily fluid intake.

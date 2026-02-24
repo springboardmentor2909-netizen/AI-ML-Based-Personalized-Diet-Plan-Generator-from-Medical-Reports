@@ -1,0 +1,44 @@
+
+Greencrest Medical Center
+Address: 93 Evergreen Lane, Hillcrest - 483650
+Phone: +91-71577-99895
+Email: info@greencrest56.org
+Website: www.greencrest200.org
+Accreditation Code: GR-25622
+
+Report ID: RPT-EBE4FF5A
+Sample ID: SMP-26751
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3108
+
+Patient Name: A***
+Patient ID: UH-000909
+Age: 36 years
+Gender: Other
+
+Height: 159.4 cm
+Weight: -
+
+Blood Pressure: -
+Pulse: 108 bpm
+Blood Sugar: 169 mg/dL
+
+Cholesterol Panel:
+  Total: 249 mg/dL
+  LDL: -
+  HDL: 42 mg/dL
+  Triglycerides: 226 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.41 mg/dL
+BMI: 33.6
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 105 mL/min
+
+
+Doctor's Notes:
+Continue present medications.

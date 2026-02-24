@@ -1,0 +1,25 @@
+
+Greencrest Hospital
+Address: 83 Riverbend Ave, Marigold City - 472108
+Phone: +91-98216-36266
+Email: info@greencrest19.org
+Website: www.greencrest412.org
+Accreditation Code: GR-41521
+
+Report ID: RPT-8EEC37D1
+Sample ID: SMP-57840
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7246
+
+Patient Name: I***
+Patient ID: UH-001317
+Age: 77
+Gender: Other
+
+Pulse Rate: 106 bpm
+Blood Glucose: 176 mg/dL
+
+Impression:
+Stable condition; review in OPD.

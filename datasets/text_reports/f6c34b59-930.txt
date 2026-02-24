@@ -1,0 +1,40 @@
+
+Northlake Hospital
+Address: 73 Maple Drive, Silverpoint - 453738
+Phone: +91-70905-39327
+Email: info@northlake81.org
+Website: www.northlake645.org
+Accreditation Code: NO-69667
+
+Report ID: RPT-FE1F4230
+Sample ID: SMP-74418
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4347
+
+Patient Name: P***
+Patient ID: UH-000465
+Age: 29 years
+Gender: Male
+
+Blood Pressure: 132/94 mmHg
+Blood Sugar: 102 mg/dL
+
+Cholesterol Panel:
+  Total: 185 mg/dL
+  LDL: 88 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: 182 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: 1.18 mg/dL
+BMI: 25.1
+
+KFT:
+  Urea: 45 mg/dL
+  eGFR: 78 mL/min
+
+
+Impression:
+Glucose levels mildly elevated; lifestyle changes advised.

@@ -1,0 +1,44 @@
+
+Everlight Diagnostics
+Address: 85 Sunrise Boulevard, Meadowridge - 430506
+Phone: +91-91358-15438
+Email: info@everlight27.org
+Website: www.everlight502.org
+Accreditation Code: EV-46046
+
+Report ID: RPT-B2C81B58
+Sample ID: SMP-37734
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9382
+
+Patient Name: I***
+Patient ID: UH-001188
+Age: 85 years
+Gender: Male
+
+Height: 150.2 cm
+Weight: -
+
+Blood Pressure: 157/86 mmHg
+Pulse: 96 bpm
+Glucose: 159 mg/dL
+
+Cholesterol Panel:
+  Total: 180 mg/dL
+  LDL: 105 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 1.05 mg/dL
+BMI: 30.4
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: -
+
+
+Remark:
+Lipid profile indicates borderline elevation.

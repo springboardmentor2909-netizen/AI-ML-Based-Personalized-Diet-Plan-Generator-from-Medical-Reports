@@ -1,0 +1,49 @@
+
+ClearRiver Pathology Lab
+Address: 4 Horizon Road, Marigold City - 444191
+Phone: +91-72509-40067
+Email: info@clearriver44.org
+Website: www.clearriver646.org
+Accreditation Code: CL-51021
+
+Report ID: RPT-07CF0497
+Sample ID: SMP-73274
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8613
+
+Patient Name: T***
+Patient ID: UH-000647
+Age: 63 years
+Gender: Other
+
+Height: 148.5 cm
+Weight: 78.6 kg
+
+Blood Pressure: 128/93 mmHg
+Pulse: 66 bpm
+Glucose: 160 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: 121 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 126 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.97 mg/dL
+BMI: 22.2
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 80 mL/min
+
+
+Remark:
+Lipid profile requires monitoring.

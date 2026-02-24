@@ -1,0 +1,40 @@
+
+Medisphere Clinical Institute
+Address: 70 Riverbend Ave, Northbay - 432004
+Phone: +91-88967-71523
+Email: info@medisphere68.org
+Website: www.medisphere447.org
+Accreditation Code: ME-89623
+
+Report ID: RPT-68C430B1
+Sample ID: SMP-85473
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8484
+
+Patient Name: Y***
+Patient ID: UH-001258
+Age: 62 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: 83 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 255 mg/dL
+  LDL: -
+  HDL: 46 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Summary:
+Check BP at home twice daily.

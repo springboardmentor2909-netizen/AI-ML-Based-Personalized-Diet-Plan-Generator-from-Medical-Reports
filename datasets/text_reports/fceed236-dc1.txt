@@ -1,0 +1,40 @@
+
+SolacePoint Clinical Institute
+Address: 78 Sunrise Boulevard, Westlake - 474969
+Phone: +91-92686-86104
+Email: info@solacepoint65.org
+Website: www.solacepoint895.org
+Accreditation Code: SO-46788
+
+Report ID: RPT-74C14856
+Sample ID: SMP-37646
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5879
+
+Patient Name: Z***
+Patient ID: UH-000685
+Age: 21 years
+Gender: Male
+
+Height: 154.1 cm
+Weight: 62.9 kg
+
+Blood Pressure: 163/62 mmHg
+Pulse Rate: -
+Blood Glucose: 108 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 42 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.78 mg/dL
+BMI: -
+
+
+Recommendation:
+Glucose levels mildly elevated; lifestyle changes advised.

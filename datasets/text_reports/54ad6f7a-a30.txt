@@ -1,0 +1,44 @@
+
+Medisphere Medical Center
+Address: 10 Horizon Road, Meadowridge - 427883
+Phone: +91-98556-93503
+Email: info@medisphere51.org
+Website: www.medisphere786.org
+Accreditation Code: ME-47693
+
+Report ID: RPT-9F1A73DF
+Sample ID: SMP-11289
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8560
+
+Patient Name: B***
+Patient ID: UH-000538
+Age: 21 years
+Gender: Female
+
+Height: 164.0 cm
+Weight: 48.6 kg
+
+Blood Pressure: 132/81 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 222 mg/dL
+  LDL: 155 mg/dL
+  HDL: -
+  Triglycerides: 167 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.79 mg/dL
+BMI: 18.2
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 18 U/L
+  Bilirubin Total: -
+
+
+Remark:
+Lipid profile requires monitoring.

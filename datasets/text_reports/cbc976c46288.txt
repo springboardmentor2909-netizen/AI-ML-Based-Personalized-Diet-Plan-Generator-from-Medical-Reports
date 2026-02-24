@@ -1,0 +1,28 @@
+
+Riverdale Pathology Lab
+Address: 4 Horizon Road, Meadowridge - 471149
+Phone: +91-92815-52682
+Email: info@riverdale57.org
+Website: www.riverdale931.org
+Accreditation Code: RI-71165
+
+Report ID: RPT-7F803F99
+Sample ID: SMP-38111
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6968
+
+Patient Name: E***
+Patient ID: UH-001565
+Age: 33
+Gender: Male
+
+Blood Pressure: 136/76 mmHg
+Pulse (bpm): 75 bpm
+Weight: 68.0 kg
+HDL: 32 mg/dL
+Hemoglobin: 10.4 g/dL
+
+Recommendations:
+Hydration recommended.

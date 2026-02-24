@@ -1,0 +1,40 @@
+
+Silver Oak Diagnostics
+Address: 60 Horizon Road, Silverpoint - 429384
+Phone: +91-72901-15008
+Email: info@silver oak39.org
+Website: www.silver oak147.org
+Accreditation Code: SI-42833
+
+Report ID: RPT-A302B0F3
+Sample ID: SMP-15580
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3636
+
+Patient Name: J***
+Patient ID: UH-000696
+Age: 57 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 109 bpm
+Blood Sugar: 99 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 54 mg/dL
+  Triglycerides: 231 mg/dL
+
+Hemoglobin: 13.4 g/dL
+Creatinine: -
+BMI: 24.5
+
+
+Recommendation:
+Blood pressure within acceptable range.

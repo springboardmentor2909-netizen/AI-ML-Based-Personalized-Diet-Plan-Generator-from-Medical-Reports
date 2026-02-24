@@ -1,0 +1,36 @@
+
+BlueValley Clinical Institute
+Address: 45 Riverbend Ave, Northbay - 470287
+Phone: +91-85344-99523
+Email: info@bluevalley35.org
+Website: www.bluevalley959.org
+Accreditation Code: BL-27761
+
+Report ID: RPT-40C5F3E9
+Sample ID: SMP-49619
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8206
+
+Patient Name: C***
+Patient ID: UH-001329
+Age: 61
+Gender: Male
+
+Blood Pressure: 108/64 mmHg
+Pulse Rate: 78 bpm
+Glucose: 149 mg/dL
+Height: 180.5 cm
+Weight: 54.7 kg
+Cholesterol Total: 245 mg/dL
+LDL: 105 mg/dL
+HDL: 46 mg/dL
+Triglycerides: 255 mg/dL
+Hemoglobin: 11.2 g/dL
+
+KFT:
+  Urea: 21 mg/dL
+
+Recommendations:
+No signs of infection detected.

@@ -1,0 +1,40 @@
+
+BlueValley Hospital
+Address: 38 Evergreen Lane, Westlake - 429304
+Phone: +91-96459-14252
+Email: info@bluevalley53.org
+Website: www.bluevalley606.org
+Accreditation Code: BL-41923
+
+Report ID: RPT-B161835D
+Sample ID: SMP-58400
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3169
+
+Patient Name: N***
+Patient ID: UH-000951
+Age: 75 years
+Gender: Female
+
+Height: 175.0 cm
+Weight: 54.8 kg
+
+Blood Pressure: 110/81 mmHg
+Pulse Rate: 84 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 107 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 188 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.26 mg/dL
+BMI: 24.1
+
+
+Remarks:
+Infection markers normal. No antibiotics needed.

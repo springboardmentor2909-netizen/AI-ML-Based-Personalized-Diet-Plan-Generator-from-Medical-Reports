@@ -1,0 +1,40 @@
+
+ClearRiver Pathology Lab
+Address: 91 Maple Drive, Clearwater - 485894
+Phone: +91-95389-66129
+Email: info@clearriver83.org
+Website: www.clearriver303.org
+Accreditation Code: CL-11681
+
+Report ID: RPT-2F907AC6
+Sample ID: SMP-86694
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4900
+
+Patient Name: U***
+Patient ID: UH-000447
+Age: 74 years
+Gender: Male
+
+Blood Pressure: 140/87 mmHg
+Glucose: 121 mg/dL
+
+Cholesterol Panel:
+  Total: 192 mg/dL
+  LDL: 97 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 200 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 1.11 mg/dL
+BMI: 20.6
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 84 mL/min
+
+
+Clinical Notes:
+Continue present medications.

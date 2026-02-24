@@ -1,0 +1,44 @@
+
+Northlake Pathology Lab
+Address: 4 Maple Drive, Northbay - 477451
+Phone: +91-81981-56812
+Email: info@northlake10.org
+Website: www.northlake183.org
+Accreditation Code: NO-96296
+
+Report ID: RPT-4F0B822C
+Sample ID: SMP-81543
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5384
+
+Patient Name: K***
+Patient ID: UH-001021
+Age: 65 years
+Gender: Male
+
+Height: 183.4 cm
+Weight: 81.2 kg
+
+Blood Pressure: 119/101 mmHg
+Pulse (bpm): 62 bpm
+Blood Glucose: 155 mg/dL
+
+Cholesterol Panel:
+  Total: 208 mg/dL
+  LDL: 144 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 232 mg/dL
+
+Hemoglobin: 11.0 g/dL
+Creatinine: 1.17 mg/dL
+BMI: 20.0
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: 82 mL/min
+
+
+Remarks:
+Improvement noted. Keep current regimen.

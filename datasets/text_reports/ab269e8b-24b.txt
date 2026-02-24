@@ -1,0 +1,40 @@
+
+SolacePoint Pathology Lab
+Address: 80 Riverbend Ave, Meadowridge - 495789
+Phone: +91-73309-82418
+Email: info@solacepoint81.org
+Website: www.solacepoint737.org
+Accreditation Code: SO-61035
+
+Report ID: RPT-C1D024FB
+Sample ID: SMP-34669
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3086
+
+Patient Name: F***
+Patient ID: UH-000925
+Age: 74 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 106 bpm
+Blood Glucose: 84 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 108 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.7 g/dL
+Creatinine: -
+BMI: -
+
+
+Remark:
+Glucose slightly elevated; review diet and exercise.

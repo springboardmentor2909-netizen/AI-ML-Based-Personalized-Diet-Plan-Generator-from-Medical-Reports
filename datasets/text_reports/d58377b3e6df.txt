@@ -1,0 +1,45 @@
+
+Riverdale Diagnostics
+Address: 52 Maple Drive, Hillcrest - 455473
+Phone: +91-86432-44291
+Email: info@riverdale25.org
+Website: www.riverdale257.org
+Accreditation Code: RI-64927
+
+Report ID: RPT-28A95CD4
+Sample ID: SMP-57922
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1428
+
+Patient Name: Z***
+Patient ID: UH-001299
+Age: 36 years
+Gender: Female
+
+Height: -
+Weight: 60.7 kg
+
+Blood Pressure: 169/78 mmHg
+Pulse: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 103 mg/dL
+  HDL: 28 mg/dL
+  Triglycerides: 173 mg/dL
+
+Hemoglobin: 9.7 g/dL
+Creatinine: 1.25 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.5 mg/dL
+
+
+Clinical Notes:
+Follow-up recommended in 2 weeks.

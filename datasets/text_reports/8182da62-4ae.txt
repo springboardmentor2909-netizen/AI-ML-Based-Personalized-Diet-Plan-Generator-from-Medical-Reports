@@ -1,0 +1,40 @@
+
+Medisphere Hospital
+Address: 10 Horizon Road, Clearwater - 424803
+Phone: +91-84746-71727
+Email: info@medisphere71.org
+Website: www.medisphere333.org
+Accreditation Code: ME-94263
+
+Report ID: RPT-48A8DA7A
+Sample ID: SMP-20818
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4205
+
+Patient Name: Q***
+Patient ID: UH-001035
+Age: 66 years
+Gender: Male
+
+Height: 169.4 cm
+Weight: -
+
+Blood Pressure: 125/65 mmHg
+Pulse Rate: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 47 mg/dL
+  Triglycerides: 234 mg/dL
+
+Hemoglobin: 13.2 g/dL
+Creatinine: -
+BMI: 33.4
+
+
+Remarks:
+Sugar levels within acceptable range.

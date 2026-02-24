@@ -1,0 +1,27 @@
+
+PrimeCare Diagnostics
+Address: 11 Horizon Road, Hillcrest - 407906
+Phone: +91-95376-96101
+Email: info@primecare40.org
+Website: www.primecare185.org
+Accreditation Code: PR-85694
+
+Report ID: RPT-A9687BCD
+Sample ID: SMP-63496
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7910
+
+Patient Name: G***
+Patient ID: UH-001409
+Age: 30
+Gender: Other
+
+Weight: 92.1 kg
+LDL: 79 mg/dL
+HDL: 51 mg/dL
+Hemoglobin: 12.1 g/dL
+
+Remark:
+Values improving.

@@ -1,0 +1,49 @@
+
+BlueValley Hospital
+Address: 14 Evergreen Lane, Eastwood - 413485
+Phone: +91-81206-22893
+Email: info@bluevalley69.org
+Website: www.bluevalley938.org
+Accreditation Code: BL-10044
+
+Report ID: RPT-B305DDFA
+Sample ID: SMP-68881
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2463
+
+Patient Name: O***
+Patient ID: UH-001098
+Age: 29 years
+Gender: Male
+
+Height: 166.7 cm
+Weight: 70.7 kg
+
+Blood Pressure: 124/108 mmHg
+Pulse: 83 bpm
+Blood Sugar: 99 mg/dL
+
+Cholesterol Panel:
+  Total: 224 mg/dL
+  LDL: 130 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 148 mg/dL
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 0.94 mg/dL
+BMI: 27.9
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 42 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 118 mL/min
+
+
+Remark:
+Glucose slightly elevated; review diet and exercise.

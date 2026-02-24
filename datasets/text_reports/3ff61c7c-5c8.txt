@@ -1,0 +1,40 @@
+
+NovaPath Hospital
+Address: 22 Maple Drive, Clearwater - 441497
+Phone: +91-73642-72303
+Email: info@novapath94.org
+Website: www.novapath765.org
+Accreditation Code: NO-48790
+
+Report ID: RPT-14138BAE
+Sample ID: SMP-26335
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3363
+
+Patient Name: P***
+Patient ID: UH-000907
+Age: 31 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Glucose: 96 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 26.6
+
+
+Doctor's Comments:
+Pt stable. Continue routine follow-up.

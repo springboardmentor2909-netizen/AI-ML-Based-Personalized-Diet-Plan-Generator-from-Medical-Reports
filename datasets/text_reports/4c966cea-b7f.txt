@@ -1,0 +1,49 @@
+
+Medisphere Medical Center
+Address: 8 Evergreen Lane, Eastwood - 416215
+Phone: +91-71668-17682
+Email: info@medisphere47.org
+Website: www.medisphere393.org
+Accreditation Code: ME-95695
+
+Report ID: RPT-0592235A
+Sample ID: SMP-49254
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2745
+
+Patient Name: X***
+Patient ID: UH-000847
+Age: 72 years
+Gender: Male
+
+Height: 167.2 cm
+Weight: 74.8 kg
+
+Blood Pressure: 141/64 mmHg
+Pulse (bpm): 95 bpm
+Blood Sugar: 167 mg/dL
+
+Cholesterol Panel:
+  Total: 214 mg/dL
+  LDL: 142 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: 160 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: 0.96 mg/dL
+BMI: 27.0
+
+LFT:
+  AST/SGOT: 31 U/L
+  ALT/SGPT: 32 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 81 mL/min
+
+
+Remark:
+Diet modification essential.

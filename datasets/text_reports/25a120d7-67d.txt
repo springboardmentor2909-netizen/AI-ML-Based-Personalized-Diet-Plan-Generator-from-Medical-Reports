@@ -1,0 +1,40 @@
+
+ClearRiver Diagnostics
+Address: 25 Riverbend Ave, Northbay - 423798
+Phone: +91-92432-18012
+Email: info@clearriver16.org
+Website: www.clearriver692.org
+Accreditation Code: CL-89277
+
+Report ID: RPT-ACAAAE26
+Sample ID: SMP-95067
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8701
+
+Patient Name: E***
+Patient ID: UH-000682
+Age: 46 years
+Gender: Other
+
+Height: 152.9 cm
+Weight: 78.0 kg
+
+Blood Pressure: 134/67 mmHg
+Pulse (bpm): 105 bpm
+Glucose: 113 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: 90 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 163 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 0.86 mg/dL
+BMI: 28.5
+
+
+Doctor's Notes:
+Follow-up recommended after 2 weeks.

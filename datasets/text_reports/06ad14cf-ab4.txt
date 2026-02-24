@@ -1,0 +1,36 @@
+
+NovaPath Pathology Lab
+Address: 53 Sunrise Boulevard, Eastwood - 453742
+Phone: +91-89235-25445
+Email: info@novapath12.org
+Website: www.novapath714.org
+Accreditation Code: NO-32976
+
+Report ID: RPT-12869CE8
+Sample ID: SMP-47469
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2361
+
+Patient Name: U***
+Patient ID: UH-000442
+Age: 71 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 30.2
+
+
+Advice:
+Blood pressure stable today.

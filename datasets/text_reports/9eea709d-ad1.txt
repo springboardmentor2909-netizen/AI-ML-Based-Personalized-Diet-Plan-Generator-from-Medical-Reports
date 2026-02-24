@@ -1,0 +1,44 @@
+
+PrimeCare Medical Center
+Address: 56 Horizon Road, Northbay - 490789
+Phone: +91-73466-31748
+Email: info@primecare19.org
+Website: www.primecare587.org
+Accreditation Code: PR-14660
+
+Report ID: RPT-E382B32A
+Sample ID: SMP-33409
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8404
+
+Patient Name: V***
+Patient ID: UH-001153
+Age: 85 years
+Gender: Other
+
+Height: 188.0 cm
+Weight: 75.2 kg
+
+Blood Pressure: 100/107 mmHg
+Pulse (bpm): 72 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 196 mg/dL
+  LDL: 149 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 140 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: -
+BMI: 23.7
+
+KFT:
+  Urea: 37 mg/dL
+  eGFR: 119 mL/min
+
+
+Recommendations:
+No clinical deterioration.

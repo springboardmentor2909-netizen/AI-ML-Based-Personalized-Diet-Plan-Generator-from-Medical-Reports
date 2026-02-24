@@ -1,0 +1,44 @@
+
+PrimeCare Medical Center
+Address: 46 Alpine Street, Westlake - 433420
+Phone: +91-86411-97351
+Email: info@primecare71.org
+Website: www.primecare607.org
+Accreditation Code: PR-62754
+
+Report ID: RPT-6B7A40AC
+Sample ID: SMP-23045
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1917
+
+Patient Name: V***
+Patient ID: UH-001363
+Age: 52
+Gender: Female
+
+Blood Pressure: 162/74 mmHg
+Pulse (bpm): 99 bpm
+Blood Sugar: 121 mg/dL
+Height: 164.5 cm
+Weight: 83.0 kg
+Cholesterol Total: 205 mg/dL
+LDL: 120 mg/dL
+HDL: 51 mg/dL
+Triglycerides: 111 mg/dL
+Hemoglobin: 15.9 g/dL
+Creatinine: 0.67 mg/dL
+BMI: 21.1
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 114 mL/min
+
+Clinical Notes:
+Hydration needs to be increased.

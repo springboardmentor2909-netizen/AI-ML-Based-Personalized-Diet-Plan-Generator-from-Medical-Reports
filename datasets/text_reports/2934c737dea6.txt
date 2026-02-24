@@ -1,0 +1,37 @@
+
+PrimeCare Pathology Lab
+Address: 98 Alpine Street, Westlake - 482076
+Phone: +91-84195-18534
+Email: info@primecare80.org
+Website: www.primecare402.org
+Accreditation Code: PR-53020
+
+Report ID: RPT-F61B36D7
+Sample ID: SMP-11841
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5181
+
+Patient Name: W***
+Patient ID: UH-001395
+Age: 36
+Gender: Other
+
+Blood Pressure: 119/89 mmHg
+Pulse (bpm): 82 bpm
+Height: 151.0 cm
+Weight: 52.6 kg
+Cholesterol Total: 214 mg/dL
+HDL: 58 mg/dL
+Triglycerides: 278 mg/dL
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.52 mg/dL
+BMI: 32.3
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 46 U/L
+
+Impression:
+Reduce salt intake strictly.

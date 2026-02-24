@@ -1,0 +1,45 @@
+
+Everlight Clinical Institute
+Address: 87 Evergreen Lane, Clearwater - 457262
+Phone: +91-70358-40725
+Email: info@everlight52.org
+Website: www.everlight977.org
+Accreditation Code: EV-14674
+
+Report ID: RPT-68C80026
+Sample ID: SMP-80731
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-3459
+
+Patient Name: S***
+Patient ID: UH-001189
+Age: 42 years
+Gender: Other
+
+Height: 189.1 cm
+Weight: 79.1 kg
+
+Blood Pressure: 125/72 mmHg
+Pulse Rate: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 206 mg/dL
+  LDL: 91 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 205 mg/dL
+
+Hemoglobin: 10.6 g/dL
+Creatinine: -
+BMI: 22.3
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: 15 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Summary:
+Sugar values acceptable.

@@ -1,0 +1,44 @@
+
+SolacePoint Diagnostics
+Address: 52 Sunrise Boulevard, Clearwater - 436958
+Phone: +91-75294-87725
+Email: info@solacepoint43.org
+Website: www.solacepoint327.org
+Accreditation Code: SO-89778
+
+Report ID: RPT-5DC726F6
+Sample ID: SMP-51533
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4748
+
+Patient Name: K***
+Patient ID: UH-001122
+Age: 43 years
+Gender: Male
+
+Height: 167.6 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 108 bpm
+Blood Sugar: 155 mg/dL
+
+Cholesterol Panel:
+  Total: 257 mg/dL
+  LDL: 107 mg/dL
+  HDL: -
+  Triglycerides: 104 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: -
+
+
+Clinical Notes:
+Essential to improve diet quality.

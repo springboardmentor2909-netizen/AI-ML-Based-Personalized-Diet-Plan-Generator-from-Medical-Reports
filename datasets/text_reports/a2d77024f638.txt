@@ -1,0 +1,49 @@
+
+ClearRiver Pathology Lab
+Address: 3 Sunrise Boulevard, Marigold City - 493953
+Phone: +91-83265-84688
+Email: info@clearriver33.org
+Website: www.clearriver476.org
+Accreditation Code: CL-37728
+
+Report ID: RPT-39B40CC5
+Sample ID: SMP-61406
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3386
+
+Patient Name: G***
+Patient ID: UH-001208
+Age: 54 years
+Gender: Other
+
+Height: 174.7 cm
+Weight: 80.6 kg
+
+Blood Pressure: 148/61 mmHg
+Pulse: 108 bpm
+Blood Sugar: 156 mg/dL
+
+Cholesterol Panel:
+  Total: 184 mg/dL
+  LDL: 95 mg/dL
+  HDL: 36 mg/dL
+  Triglycerides: 198 mg/dL
+
+Hemoglobin: 9.8 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 26.1
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: 39 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 76 mL/min
+
+
+Impression:
+Retest if required clinically.

@@ -1,0 +1,39 @@
+
+Northlake Hospital
+Address: 28 Sunrise Boulevard, Meadowridge - 418517
+Phone: +91-93430-82153
+Email: info@northlake40.org
+Website: www.northlake955.org
+Accreditation Code: NO-86973
+
+Report ID: RPT-1D4FA905
+Sample ID: SMP-14855
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9198
+
+Patient Name: P***
+Patient ID: UH-000567
+Age: 69 years
+Gender: Other
+
+Height: 165.6 cm
+Weight: -
+
+Blood Pressure: 134/105 mmHg
+Blood Sugar (Random): 95 mg/dL
+
+Cholesterol Panel:
+  Total: 242 mg/dL
+  LDL: 93 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 206 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 1.43 mg/dL
+BMI: 21.6
+
+
+Remark:
+Blood pressure within acceptable range.

@@ -1,0 +1,36 @@
+
+Medisphere Hospital
+Address: 22 Riverbend Ave, Hillcrest - 499588
+Phone: +91-74225-32596
+Email: info@medisphere52.org
+Website: www.medisphere341.org
+Accreditation Code: ME-18636
+
+Report ID: RPT-C4A62C10
+Sample ID: SMP-16131
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7836
+
+Patient Name: N***
+Patient ID: UH-001347
+Age: 29
+Gender: Male
+
+Blood Pressure: 112/100 mmHg
+Height: 182.7 cm
+Weight: 66.3 kg
+Cholesterol Total: 152 mg/dL
+HDL: 45 mg/dL
+Triglycerides: 131 mg/dL
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.09 mg/dL
+BMI: 25.0
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 113 mL/min
+
+Remark:
+Patient instructed to drink more water.

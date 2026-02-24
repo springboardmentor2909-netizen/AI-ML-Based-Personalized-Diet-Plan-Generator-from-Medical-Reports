@@ -1,0 +1,40 @@
+
+SolacePoint Hospital
+Address: 78 Riverbend Ave, Eastwood - 411127
+Phone: +91-91373-24737
+Email: info@solacepoint21.org
+Website: www.solacepoint377.org
+Accreditation Code: SO-99649
+
+Report ID: RPT-6E5E1F9E
+Sample ID: SMP-36361
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4793
+
+Patient Name: W***
+Patient ID: UH-001006
+Age: 70 years
+Gender: Male
+
+Height: -
+Weight: 53.8 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 175 mg/dL
+  LDL: -
+  HDL: 37 mg/dL
+  Triglycerides: 122 mg/dL
+
+Hemoglobin: 10.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Remark:
+Vitals stable. No acute concerns.

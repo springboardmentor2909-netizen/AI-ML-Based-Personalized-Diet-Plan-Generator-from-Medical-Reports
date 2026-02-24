@@ -1,0 +1,29 @@
+
+ClearRiver Pathology Lab
+Address: 10 Sunrise Boulevard, Silverpoint - 459090
+Phone: +91-93289-14698
+Email: info@clearriver89.org
+Website: www.clearriver853.org
+Accreditation Code: CL-62047
+
+Report ID: RPT-E44039A8
+Sample ID: SMP-52971
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3470
+
+Patient Name: S***
+Patient ID: UH-001488
+Age: 62
+Gender: Female
+
+Blood Pressure: 133/110 mmHg
+Height: 147.1 cm
+Weight: 65.6 kg
+Triglycerides: 120 mg/dL
+Hemoglobin: 11.7 g/dL
+BMI: 29.0
+
+Doctor's Comments:
+Lifestyle modification suggested.

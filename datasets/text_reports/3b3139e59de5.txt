@@ -1,0 +1,41 @@
+
+Northlake Diagnostics
+Address: 6 Maple Drive, Silverpoint - 429940
+Phone: +91-73238-71185
+Email: info@northlake22.org
+Website: www.northlake560.org
+Accreditation Code: NO-41904
+
+Report ID: RPT-0FC10FD7
+Sample ID: SMP-11378
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7824
+
+Patient Name: E***
+Patient ID: UH-001421
+Age: 39
+Gender: Other
+
+Blood Pressure: 127/71 mmHg
+Pulse: 110 bpm
+Glucose: 110 mg/dL
+Height: 180.8 cm
+Cholesterol Total: 236 mg/dL
+LDL: 150 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 128 mg/dL
+Hemoglobin: 15.1 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 18.2
+
+LFT:
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 1.4 mg/dL
+
+KFT:
+  eGFR: 121 mL/min
+
+Impression:
+Monitor BP regularly.

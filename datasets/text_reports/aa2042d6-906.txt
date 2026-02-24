@@ -1,0 +1,45 @@
+
+BlueValley Medical Center
+Address: 27 Sunrise Boulevard, Meadowridge - 475012
+Phone: +91-97342-39041
+Email: info@bluevalley57.org
+Website: www.bluevalley570.org
+Accreditation Code: BL-48315
+
+Report ID: RPT-86828F20
+Sample ID: SMP-13163
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2771
+
+Patient Name: G***
+Patient ID: UH-001079
+Age: 44 years
+Gender: Female
+
+Height: 151.8 cm
+Weight: 67.3 kg
+
+Blood Pressure: 117/94 mmHg
+Pulse (bpm): 66 bpm
+Blood Sugar: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: 130 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 173 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 0.74 mg/dL
+BMI: 20.3
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 29 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+
+Impression:
+Monitor BP at home regularly.

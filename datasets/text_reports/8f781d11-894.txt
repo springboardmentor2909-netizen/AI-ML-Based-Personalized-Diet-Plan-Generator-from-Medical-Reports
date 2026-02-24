@@ -1,0 +1,40 @@
+
+Medisphere Hospital
+Address: 10 Horizon Road, Clearwater - 424803
+Phone: +91-84746-71727
+Email: info@medisphere71.org
+Website: www.medisphere333.org
+Accreditation Code: ME-94263
+
+Report ID: RPT-18C3BEA4
+Sample ID: SMP-53746
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9598
+
+Patient Name: D***
+Patient ID: UH-001028
+Age: 34 years
+Gender: Male
+
+Height: 146.7 cm
+Weight: 92.5 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Sugar: 92 mg/dL
+
+Cholesterol Panel:
+  Total: 160 mg/dL
+  LDL: 87 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 106 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.38 mg/dL
+BMI: -
+
+
+Remark:
+Advised patient to avoid salty foods.

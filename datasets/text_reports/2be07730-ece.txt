@@ -1,0 +1,40 @@
+
+Silver Oak Clinical Institute
+Address: 91 Riverbend Ave, Westlake - 482861
+Phone: +91-76859-60032
+Email: info@silver oak13.org
+Website: www.silver oak177.org
+Accreditation Code: SI-50864
+
+Report ID: RPT-73184879
+Sample ID: SMP-51953
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9583
+
+Patient Name: D***
+Patient ID: UH-000616
+Age: 43 years
+Gender: Other
+
+Height: 166.2 cm
+Weight: -
+
+Blood Pressure: 165/74 mmHg
+Pulse: 67 bpm
+Blood Sugar: 91 mg/dL
+
+Cholesterol Panel:
+  Total: 203 mg/dL
+  LDL: -
+  HDL: 54 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 31.6
+
+
+Doctor's Comments:
+Continue present medications.

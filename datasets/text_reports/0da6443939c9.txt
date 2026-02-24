@@ -1,0 +1,32 @@
+
+ClearRiver Medical Center
+Address: 34 Maple Drive, Meadowridge - 487355
+Phone: +91-74290-22046
+Email: info@clearriver95.org
+Website: www.clearriver923.org
+Accreditation Code: CL-10259
+
+Report ID: RPT-90C1AA31
+Sample ID: SMP-90094
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6814
+
+Patient Name: E***
+Patient ID: UH-001418
+Age: 23
+Gender: Male
+
+Blood Pressure: 113/60 mmHg
+Pulse Rate: 94 bpm
+Glucose: 133 mg/dL
+Height: 166.4 cm
+Weight: 63.2 kg
+Cholesterol Total: 228 mg/dL
+Triglycerides: 278 mg/dL
+Hemoglobin: 15.7 g/dL
+BMI: 26.1
+
+Summary:
+Monitor BP regularly.

@@ -1,0 +1,40 @@
+
+Everlight Hospital
+Address: 65 Alpine Street, Westlake - 419199
+Phone: +91-86376-66693
+Email: info@everlight30.org
+Website: www.everlight596.org
+Accreditation Code: EV-62289
+
+Report ID: RPT-8278552B
+Sample ID: SMP-94344
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7442
+
+Patient Name: E***
+Patient ID: UH-000418
+Age: 34 years
+Gender: Female
+
+Blood Pressure: 147/94 mmHg
+Glucose: 91 mg/dL
+
+Cholesterol Panel:
+  Total: 208 mg/dL
+  LDL: -
+  HDL: 33 mg/dL
+  Triglycerides: 182 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.44 mg/dL
+BMI: 24.2
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 116 mL/min
+
+
+Doctor's Notes:
+Lipid levels require monitoring.

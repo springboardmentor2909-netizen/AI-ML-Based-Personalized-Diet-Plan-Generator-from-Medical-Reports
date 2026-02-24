@@ -1,0 +1,49 @@
+
+Starhaven Diagnostics
+Address: 75 Sunrise Boulevard, Clearwater - 428446
+Phone: +91-75849-13104
+Email: info@starhaven38.org
+Website: www.starhaven939.org
+Accreditation Code: ST-51983
+
+Report ID: RPT-757A7ADB
+Sample ID: SMP-42240
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3016
+
+Patient Name: E***
+Patient ID: UH-001231
+Age: 23 years
+Gender: Male
+
+Height: 165.8 cm
+Weight: 78.6 kg
+
+Blood Pressure: 161/61 mmHg
+Pulse (bpm): 87 bpm
+Blood Sugar (Random): 172 mg/dL
+
+Cholesterol Panel:
+  Total: 199 mg/dL
+  LDL: 107 mg/dL
+  HDL: 63 mg/dL
+  Triglycerides: 202 mg/dL
+
+Hemoglobin: 15.2 g/dL
+Creatinine: 1.09 mg/dL
+BMI: 20.6
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 32 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 92 mL/min
+
+
+Doctor's Comments:
+Diet improvement essential.

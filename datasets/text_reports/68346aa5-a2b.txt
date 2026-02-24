@@ -1,0 +1,41 @@
+
+NovaPath Diagnostics
+Address: 38 Alpine Street, Marigold City - 429435
+Phone: +91-84683-98964
+Email: info@novapath69.org
+Website: www.novapath731.org
+Accreditation Code: NO-83270
+
+Report ID: RPT-DD6E29B2
+Sample ID: SMP-40373
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5938
+
+Patient Name: W***
+Patient ID: UH-000425
+Age: 79 years
+Gender: Female
+
+Blood Pressure: 130/82 mmHg
+Glucose: 113 mg/dL
+
+Cholesterol Panel:
+  Total: 175 mg/dL
+  LDL: 159 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 159 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 31.4
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: 40 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

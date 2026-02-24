@@ -1,0 +1,39 @@
+
+Northlake Hospital
+Address: 45 Sunrise Boulevard, Hillcrest - 402681
+Phone: +91-89750-33100
+Email: info@northlake75.org
+Website: www.northlake433.org
+Accreditation Code: NO-34457
+
+Report ID: RPT-F34D9BE8
+Sample ID: SMP-45571
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2197
+
+Patient Name: O***
+Patient ID: UH-001503
+Age: 42
+Gender: Female
+
+Blood Pressure: 128/72 mmHg
+Pulse Rate: 71 bpm
+Glucose: 111 mg/dL
+Height: 177.7 cm
+Weight: 83.7 kg
+Cholesterol Total: 210 mg/dL
+LDL: 122 mg/dL
+HDL: 64 mg/dL
+Triglycerides: 175 mg/dL
+Hemoglobin: 9.7 g/dL
+Creatinine: 1.26 mg/dL
+BMI: 21.1
+
+KFT:
+  Urea: 13 mg/dL
+  eGFR: 119 mL/min
+
+Clinical Notes:
+Discussed results; patient understood.

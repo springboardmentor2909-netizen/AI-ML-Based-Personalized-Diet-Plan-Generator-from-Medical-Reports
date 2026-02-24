@@ -1,0 +1,45 @@
+
+SolacePoint Diagnostics
+Address: 34 Alpine Street, Northbay - 485893
+Phone: +91-78025-68001
+Email: info@solacepoint90.org
+Website: www.solacepoint778.org
+Accreditation Code: SO-16383
+
+Report ID: RPT-C362E11D
+Sample ID: SMP-37864
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1338
+
+Patient Name: N***
+Patient ID: UH-001020
+Age: 73 years
+Gender: Other
+
+Height: 173.0 cm
+Weight: 68.8 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Glucose: 99 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 151 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 231 mg/dL
+
+Hemoglobin: 11.1 g/dL
+Creatinine: 1.2 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 35 U/L
+  Bilirubin Total: -
+
+
+Advice:
+Lifestyle counseling advised.

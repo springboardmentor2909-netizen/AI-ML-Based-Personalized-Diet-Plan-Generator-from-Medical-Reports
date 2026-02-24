@@ -1,0 +1,45 @@
+
+Silver Oak Hospital
+Address: 92 Evergreen Lane, Westlake - 441752
+Phone: +91-97277-41405
+Email: info@silver oak40.org
+Website: www.silver oak119.org
+Accreditation Code: SI-68853
+
+Report ID: RPT-EA0EDCC8
+Sample ID: SMP-91289
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5020
+
+Patient Name: R***
+Patient ID: UH-001259
+Age: 81 years
+Gender: Female
+
+Height: 174.0 cm
+Weight: 71.5 kg
+
+Blood Pressure: 145/67 mmHg
+Pulse (bpm): 69 bpm
+Blood Sugar (Random): 104 mg/dL
+
+Cholesterol Panel:
+  Total: 254 mg/dL
+  LDL: 138 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 179 mg/dL
+
+Hemoglobin: 9.7 g/dL
+Creatinine: 1.25 mg/dL
+BMI: 31.0
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Impression:
+Lifestyle modifications discussed.

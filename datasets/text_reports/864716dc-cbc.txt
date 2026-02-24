@@ -1,0 +1,45 @@
+
+Greencrest Pathology Lab
+Address: 29 Maple Drive, Hillcrest - 490259
+Phone: +91-88473-52230
+Email: info@greencrest48.org
+Website: www.greencrest288.org
+Accreditation Code: GR-48586
+
+Report ID: RPT-DF7170EC
+Sample ID: SMP-49386
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7575
+
+Patient Name: Y***
+Patient ID: UH-000667
+Age: 27 years
+Gender: Other
+
+Height: 156.0 cm
+Weight: 60.1 kg
+
+Blood Pressure: -
+Pulse: -
+Blood Sugar: 103 mg/dL
+
+Cholesterol Panel:
+  Total: 235 mg/dL
+  LDL: 97 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 203 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.47 mg/dL
+BMI: 27.5
+
+LFT:
+  AST/SGOT: 26 U/L
+  ALT/SGPT: 11 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+
+Impression:
+Continue present medications.

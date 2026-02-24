@@ -1,0 +1,49 @@
+
+Silver Oak Hospital
+Address: 92 Evergreen Lane, Westlake - 441752
+Phone: +91-97277-41405
+Email: info@silver oak40.org
+Website: www.silver oak119.org
+Accreditation Code: SI-68853
+
+Report ID: RPT-74B25DDB
+Sample ID: SMP-41495
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1933
+
+Patient Name: R***
+Patient ID: UH-001268
+Age: 57 years
+Gender: Male
+
+Height: 148.5 cm
+Weight: 92.7 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 159 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 126 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 21 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 29 mg/dL
+  eGFR: 77 mL/min
+
+
+Recommendations:
+Cholesterol borderline high; monitor regularly.

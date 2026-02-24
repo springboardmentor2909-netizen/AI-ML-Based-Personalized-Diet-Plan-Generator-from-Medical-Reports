@@ -1,0 +1,31 @@
+
+Everlight Hospital
+Address: 50 Riverbend Ave, Clearwater - 469457
+Phone: +91-85610-92206
+Email: info@everlight75.org
+Website: www.everlight196.org
+Accreditation Code: EV-87631
+
+Report ID: RPT-142C17BC
+Sample ID: SMP-65514
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4714
+
+Patient Name: X***
+Patient ID: UH-001434
+Age: 67
+Gender: Male
+
+Blood Pressure: 131/79 mmHg
+Pulse: 83 bpm
+Blood Sugar: 113 mg/dL
+Height: 162.4 cm
+Weight: 96.9 kg
+Cholesterol Total: 233 mg/dL
+LDL: 135 mg/dL
+HDL: 53 mg/dL
+
+Advice:
+Follow-up advised.

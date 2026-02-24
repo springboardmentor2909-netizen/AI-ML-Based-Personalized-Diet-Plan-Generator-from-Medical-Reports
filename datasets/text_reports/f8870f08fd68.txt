@@ -1,0 +1,44 @@
+
+SolacePoint Pathology Lab
+Address: 40 Riverbend Ave, Northbay - 420908
+Phone: +91-89339-36135
+Email: info@solacepoint10.org
+Website: www.solacepoint263.org
+Accreditation Code: SO-72984
+
+Report ID: RPT-CEDB5773
+Sample ID: SMP-18540
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4327
+
+Patient Name: L***
+Patient ID: UH-001500
+Age: 49
+Gender: Male
+
+Blood Pressure: 112/95 mmHg
+Pulse Rate: 95 bpm
+Blood Sugar (Random): 161 mg/dL
+Height: 173.3 cm
+Weight: 46.4 kg
+Cholesterol Total: 156 mg/dL
+LDL: 147 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 133 mg/dL
+Hemoglobin: 11.0 g/dL
+Creatinine: 0.82 mg/dL
+BMI: 25.7
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: 31 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 71 mL/min
+
+Remark:
+Lifestyle modification suggested.

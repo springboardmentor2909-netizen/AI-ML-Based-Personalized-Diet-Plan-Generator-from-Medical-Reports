@@ -1,0 +1,41 @@
+
+Riverdale Hospital
+Address: 23 Alpine Street, Marigold City - 431991
+Phone: +91-97560-57155
+Email: info@riverdale40.org
+Website: www.riverdale325.org
+Accreditation Code: RI-22519
+
+Report ID: RPT-A325D9E1
+Sample ID: SMP-32517
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1387
+
+Patient Name: X***
+Patient ID: UH-000407
+Age: 81 years
+Gender: Male
+
+Blood Pressure: 101/105 mmHg
+Blood Sugar (Random): 138 mg/dL
+
+Cholesterol Panel:
+  Total: 233 mg/dL
+  LDL: 82 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 227 mg/dL
+
+Hemoglobin: 11.3 g/dL
+Creatinine: -
+BMI: 31.7
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Recommendation:
+Blood pressure stable today.

@@ -1,0 +1,39 @@
+
+NovaPath Pathology Lab
+Address: 70 Alpine Street, Meadowridge - 447593
+Phone: +91-80006-69907
+Email: info@novapath26.org
+Website: www.novapath275.org
+Accreditation Code: NO-31026
+
+Report ID: RPT-CD5606B7
+Sample ID: SMP-62101
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9228
+
+Patient Name: N***
+Patient ID: UH-000525
+Age: 22 years
+Gender: Male
+
+Height: 158.7 cm
+Weight: 90.2 kg
+
+Blood Pressure: -
+Blood Sugar: 141 mg/dL
+
+Cholesterol Panel:
+  Total: 212 mg/dL
+  LDL: -
+  HDL: 43 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.4 g/dL
+Creatinine: -
+BMI: 27.9
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

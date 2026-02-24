@@ -1,0 +1,44 @@
+
+NovaPath Medical Center
+Address: 88 Horizon Road, Westlake - 482455
+Phone: +91-84642-22774
+Email: info@novapath71.org
+Website: www.novapath739.org
+Accreditation Code: NO-77111
+
+Report ID: RPT-99EE2440
+Sample ID: SMP-20313
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7634
+
+Patient Name: C***
+Patient ID: UH-001120
+Age: 33 years
+Gender: Other
+
+Height: 151.9 cm
+Weight: 74.4 kg
+
+Blood Pressure: 102/65 mmHg
+Pulse: 101 bpm
+Glucose: 164 mg/dL
+
+Cholesterol Panel:
+  Total: 163 mg/dL
+  LDL: 110 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 212 mg/dL
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.02 mg/dL
+BMI: 20.6
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 76 mL/min
+
+
+Remarks:
+Lab markers improved from last visit.

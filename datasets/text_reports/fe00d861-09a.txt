@@ -1,0 +1,40 @@
+
+Riverdale Medical Center
+Address: 57 Evergreen Lane, Clearwater - 476294
+Phone: +91-99041-96141
+Email: info@riverdale17.org
+Website: www.riverdale399.org
+Accreditation Code: RI-90477
+
+Report ID: RPT-A5925CF6
+Sample ID: SMP-18592
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9423
+
+Patient Name: C***
+Patient ID: UH-001087
+Age: 46 years
+Gender: Other
+
+Height: 155.3 cm
+Weight: 49.2 kg
+
+Blood Pressure: 134/82 mmHg
+Pulse: 110 bpm
+Blood Glucose: 99 mg/dL
+
+Cholesterol Panel:
+  Total: 204 mg/dL
+  LDL: 137 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 126 mg/dL
+
+Hemoglobin: 12.8 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 32.1
+
+
+Doctor's Comments:
+Hydration emphasized.

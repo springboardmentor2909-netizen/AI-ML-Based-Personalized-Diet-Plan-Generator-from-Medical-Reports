@@ -1,0 +1,49 @@
+
+Starhaven Clinical Institute
+Address: 44 Alpine Street, Northbay - 470346
+Phone: +91-93362-73288
+Email: info@starhaven54.org
+Website: www.starhaven957.org
+Accreditation Code: ST-96148
+
+Report ID: RPT-22DF38DC
+Sample ID: SMP-59576
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6681
+
+Patient Name: S***
+Patient ID: UH-000671
+Age: 80 years
+Gender: Other
+
+Height: 163.6 cm
+Weight: 85.8 kg
+
+Blood Pressure: -
+Pulse: 70 bpm
+Blood Sugar (Random): 96 mg/dL
+
+Cholesterol Panel:
+  Total: 217 mg/dL
+  LDL: 155 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 247 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 1.3 mg/dL
+BMI: 33.2
+
+LFT:
+  AST/SGOT: 27 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 17 mg/dL
+  eGFR: 119 mL/min
+
+
+Clinical Notes:
+Lipid profile requires monitoring.

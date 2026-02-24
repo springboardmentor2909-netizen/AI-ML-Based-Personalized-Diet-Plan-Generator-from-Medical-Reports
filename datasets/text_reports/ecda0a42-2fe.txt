@@ -1,0 +1,40 @@
+
+Northlake Medical Center
+Address: 72 Maple Drive, Silverpoint - 435061
+Phone: +91-73678-98039
+Email: info@northlake37.org
+Website: www.northlake270.org
+Accreditation Code: NO-68421
+
+Report ID: RPT-8C1F224B
+Sample ID: SMP-52087
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8111
+
+Patient Name: Z***
+Patient ID: UH-001158
+Age: 57 years
+Gender: Other
+
+Height: 185.2 cm
+Weight: 75.1 kg
+
+Blood Pressure: 128/85 mmHg
+Pulse: 85 bpm
+Blood Sugar (Random): 146 mg/dL
+
+Cholesterol Panel:
+  Total: 233 mg/dL
+  LDL: -
+  HDL: 35 mg/dL
+  Triglycerides: 205 mg/dL
+
+Hemoglobin: 10.5 g/dL
+Creatinine: 1.14 mg/dL
+BMI: 29.1
+
+
+Clinical Notes:
+Reassurance given.

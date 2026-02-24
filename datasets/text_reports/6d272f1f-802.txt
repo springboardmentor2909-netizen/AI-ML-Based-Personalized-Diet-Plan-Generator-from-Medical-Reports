@@ -1,0 +1,45 @@
+
+SolacePoint Clinical Institute
+Address: 11 Sunrise Boulevard, Marigold City - 425518
+Phone: +91-76098-33770
+Email: info@solacepoint27.org
+Website: www.solacepoint514.org
+Accreditation Code: SO-64960
+
+Report ID: RPT-BF8A6D51
+Sample ID: SMP-60731
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3605
+
+Patient Name: D***
+Patient ID: UH-000845
+Age: 50 years
+Gender: Male
+
+Height: -
+Weight: 45.8 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 224 mg/dL
+  LDL: 122 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 194 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 0.99 mg/dL
+BMI: 29.0
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Recommendations:
+Blood pressure requires monitoring.

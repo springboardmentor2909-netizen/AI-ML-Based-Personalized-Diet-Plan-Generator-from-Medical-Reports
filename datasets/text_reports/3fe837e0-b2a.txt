@@ -1,0 +1,40 @@
+
+BlueValley Pathology Lab
+Address: 29 Alpine Street, Marigold City - 415537
+Phone: +91-80460-35129
+Email: info@bluevalley73.org
+Website: www.bluevalley736.org
+Accreditation Code: BL-95470
+
+Report ID: RPT-C61D8A4F
+Sample ID: SMP-69473
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6712
+
+Patient Name: D***
+Patient ID: UH-000610
+Age: 84 years
+Gender: Other
+
+Height: 183.7 cm
+Weight: 77.8 kg
+
+Blood Pressure: 163/80 mmHg
+Pulse (bpm): 91 bpm
+Blood Sugar (Random): 127 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 119 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 210 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: 1.38 mg/dL
+BMI: 21.4
+
+
+Remarks:
+Lipid profile requires monitoring.

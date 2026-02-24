@@ -1,0 +1,40 @@
+
+SolacePoint Clinical Institute
+Address: 36 Alpine Street, Meadowridge - 404573
+Phone: +91-96354-18541
+Email: info@solacepoint42.org
+Website: www.solacepoint862.org
+Accreditation Code: SO-39102
+
+Report ID: RPT-4938915D
+Sample ID: SMP-69461
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6679
+
+Patient Name: X***
+Patient ID: UH-000497
+Age: 57 years
+Gender: Male
+
+Blood Pressure: 108/65 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 111 mg/dL
+  HDL: -
+  Triglycerides: 195 mg/dL
+
+Hemoglobin: 10.5 g/dL
+Creatinine: 0.94 mg/dL
+BMI: 25.0
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: 91 mL/min
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

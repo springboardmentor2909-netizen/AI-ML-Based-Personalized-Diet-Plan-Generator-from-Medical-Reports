@@ -1,0 +1,35 @@
+
+Medisphere Hospital
+Address: 22 Riverbend Ave, Hillcrest - 499588
+Phone: +91-74225-32596
+Email: info@medisphere52.org
+Website: www.medisphere341.org
+Accreditation Code: ME-18636
+
+Report ID: RPT-A122B889
+Sample ID: SMP-62210
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9065
+
+Patient Name: F***
+Patient ID: UH-001367
+Age: 20
+Gender: Male
+
+Blood Pressure: 117/87 mmHg
+Pulse (bpm): 94 bpm
+Blood Sugar: 78 mg/dL
+Height: 157.1 cm
+Weight: 74.8 kg
+Cholesterol Total: 241 mg/dL
+LDL: 70 mg/dL
+HDL: 63 mg/dL
+Triglycerides: 276 mg/dL
+Hemoglobin: 10.8 g/dL
+Creatinine: 1.03 mg/dL
+BMI: 28.8
+
+Doctor's Comments:
+Increase daily walking.

@@ -1,0 +1,35 @@
+
+Greencrest Diagnostics
+Address: 4 Maple Drive, Eastwood - 403918
+Phone: +91-72997-77726
+Email: info@greencrest45.org
+Website: www.greencrest103.org
+Accreditation Code: GR-13895
+
+Report ID: RPT-ED99D887
+Sample ID: SMP-14877
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1413
+
+Patient Name: O***
+Patient ID: UH-001526
+Age: 23
+Gender: Male
+
+Blood Pressure: 169/88 mmHg
+Pulse (bpm): 99 bpm
+Blood Glucose: 172 mg/dL
+Height: 152.5 cm
+Weight: 99.5 kg
+Cholesterol Total: 204 mg/dL
+LDL: 144 mg/dL
+HDL: 32 mg/dL
+Triglycerides: 114 mg/dL
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 25.2
+
+Remarks:
+Condition stable.

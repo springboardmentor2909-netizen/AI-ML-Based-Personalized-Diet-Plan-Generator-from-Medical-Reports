@@ -1,0 +1,39 @@
+
+SolacePoint Hospital
+Address: 6 Alpine Street, Meadowridge - 435737
+Phone: +91-98182-59763
+Email: info@solacepoint37.org
+Website: www.solacepoint698.org
+Accreditation Code: SO-60049
+
+Report ID: RPT-98CBAD7D
+Sample ID: SMP-49274
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4707
+
+Patient Name: E***
+Patient ID: UH-000599
+Age: 76 years
+Gender: Other
+
+Height: 154.7 cm
+Weight: -
+
+Blood Pressure: 115/83 mmHg
+Glucose: 124 mg/dL
+
+Cholesterol Panel:
+  Total: 160 mg/dL
+  LDL: -
+  HDL: 36 mg/dL
+  Triglycerides: 180 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: 1.44 mg/dL
+BMI: 21.2
+
+
+Remark:
+Lipid profile requires monitoring.

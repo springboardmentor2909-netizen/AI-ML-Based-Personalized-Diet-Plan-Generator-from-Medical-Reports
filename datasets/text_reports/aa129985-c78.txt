@@ -1,0 +1,40 @@
+
+Starhaven Hospital
+Address: 52 Horizon Road, Westlake - 450006
+Phone: +91-73437-87470
+Email: info@starhaven92.org
+Website: www.starhaven521.org
+Accreditation Code: ST-73186
+
+Report ID: RPT-4BDC304F
+Sample ID: SMP-51690
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9924
+
+Patient Name: O***
+Patient ID: UH-000814
+Age: 63 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 129/104 mmHg
+Pulse: 72 bpm
+Blood Sugar (Random): 104 mg/dL
+
+Cholesterol Panel:
+  Total: 174 mg/dL
+  LDL: -
+  HDL: 44 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.92 mg/dL
+BMI: -
+
+
+Impression:
+Continue present medications.

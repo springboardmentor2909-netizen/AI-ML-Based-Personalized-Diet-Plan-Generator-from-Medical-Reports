@@ -1,0 +1,45 @@
+
+SolacePoint Pathology Lab
+Address: 20 Riverbend Ave, Northbay - 419982
+Phone: +91-78808-88703
+Email: info@solacepoint19.org
+Website: www.solacepoint206.org
+Accreditation Code: SO-26061
+
+Report ID: RPT-39EABD64
+Sample ID: SMP-14782
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8199
+
+Patient Name: R***
+Patient ID: UH-000853
+Age: 64 years
+Gender: Other
+
+Height: 146.8 cm
+Weight: 58.6 kg
+
+Blood Pressure: 149/71 mmHg
+Pulse: 65 bpm
+Glucose: 91 mg/dL
+
+Cholesterol Panel:
+  Total: 241 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 239 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.97 mg/dL
+BMI: 20.7
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.6 mg/dL
+
+
+Remarks:
+Diet modification essential.

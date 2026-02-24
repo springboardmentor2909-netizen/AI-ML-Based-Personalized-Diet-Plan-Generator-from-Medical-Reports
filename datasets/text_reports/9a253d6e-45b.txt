@@ -1,0 +1,45 @@
+
+SolacePoint Pathology Lab
+Address: 34 Riverbend Ave, Hillcrest - 495864
+Phone: +91-74620-52876
+Email: info@solacepoint57.org
+Website: www.solacepoint655.org
+Accreditation Code: SO-58672
+
+Report ID: RPT-30E62ACA
+Sample ID: SMP-82626
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5746
+
+Patient Name: V***
+Patient ID: UH-000898
+Age: 19 years
+Gender: Female
+
+Height: 163.4 cm
+Weight: 49.4 kg
+
+Blood Pressure: 102/93 mmHg
+Pulse (bpm): 70 bpm
+Blood Glucose: 153 mg/dL
+
+Cholesterol Panel:
+  Total: 248 mg/dL
+  LDL: 103 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 228 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 27.8
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Impression:
+Possible dehydration; fluids advised.

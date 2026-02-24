@@ -1,0 +1,41 @@
+
+PrimeCare Pathology Lab
+Address: 26 Evergreen Lane, Hillcrest - 459685
+Phone: +91-79923-48499
+Email: info@primecare21.org
+Website: www.primecare691.org
+Accreditation Code: PR-17144
+
+Report ID: RPT-8EDF7F74
+Sample ID: SMP-12987
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1796
+
+Patient Name: K***
+Patient ID: UH-000424
+Age: 78 years
+Gender: Female
+
+Blood Pressure: 167/82 mmHg
+Blood Sugar (Random): 155 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 101 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 1.11 mg/dL
+BMI: 27.2
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: 0.7 mg/dL
+
+
+Remarks:
+Continue present medications.

@@ -1,0 +1,36 @@
+
+Riverdale Clinical Institute
+Address: 78 Sunrise Boulevard, Eastwood - 463889
+Phone: +91-79834-59433
+Email: info@riverdale64.org
+Website: www.riverdale500.org
+Accreditation Code: RI-47669
+
+Report ID: RPT-FB8193FC
+Sample ID: SMP-43895
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9862
+
+Patient Name: N***
+Patient ID: UH-000499
+Age: 58 years
+Gender: Male
+
+Blood Pressure: -
+Glucose: 85 mg/dL
+
+Cholesterol Panel:
+  Total: 218 mg/dL
+  LDL: 111 mg/dL
+  HDL: -
+  Triglycerides: 112 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Remark:
+Continue present medications.

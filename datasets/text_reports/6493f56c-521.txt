@@ -1,0 +1,40 @@
+
+NovaPath Clinical Institute
+Address: 1 Riverbend Ave, Eastwood - 418816
+Phone: +91-72720-47639
+Email: info@novapath10.org
+Website: www.novapath240.org
+Accreditation Code: NO-91254
+
+Report ID: RPT-0837A715
+Sample ID: SMP-25587
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1681
+
+Patient Name: J***
+Patient ID: UH-001041
+Age: 63 years
+Gender: Female
+
+Height: 152.2 cm
+Weight: 61.8 kg
+
+Blood Pressure: -
+Pulse: -
+Glucose: 147 mg/dL
+
+Cholesterol Panel:
+  Total: 174 mg/dL
+  LDL: 89 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.7 g/dL
+Creatinine: -
+BMI: -
+
+
+Summary:
+Cholesterol borderline. Consider dietary modification.

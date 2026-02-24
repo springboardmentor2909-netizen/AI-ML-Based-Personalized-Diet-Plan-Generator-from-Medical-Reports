@@ -1,0 +1,39 @@
+
+Northlake Diagnostics
+Address: 72 Horizon Road, Eastwood - 463541
+Phone: +91-84686-62960
+Email: info@northlake49.org
+Website: www.northlake115.org
+Accreditation Code: NO-46358
+
+Report ID: RPT-92D31ADA
+Sample ID: SMP-14083
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2461
+
+Patient Name: Y***
+Patient ID: UH-000592
+Age: 79 years
+Gender: Female
+
+Height: 172.0 cm
+Weight: -
+
+Blood Pressure: 169/88 mmHg
+Blood Glucose: 88 mg/dL
+
+Cholesterol Panel:
+  Total: 247 mg/dL
+  LDL: 93 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.72 mg/dL
+BMI: 31.1
+
+
+Doctor's Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

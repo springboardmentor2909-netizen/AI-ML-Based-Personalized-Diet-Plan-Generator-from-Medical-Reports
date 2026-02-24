@@ -1,0 +1,44 @@
+
+Greencrest Medical Center
+Address: 16 Riverbend Ave, Northbay - 466874
+Phone: +91-91439-42365
+Email: info@greencrest15.org
+Website: www.greencrest931.org
+Accreditation Code: GR-19678
+
+Report ID: RPT-C9EEB5A1
+Sample ID: SMP-13590
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9496
+
+Patient Name: Z***
+Patient ID: UH-001381
+Age: 73
+Gender: Male
+
+Blood Pressure: 117/64 mmHg
+Pulse (bpm): 84 bpm
+Blood Sugar: 155 mg/dL
+Height: 160.2 cm
+Weight: 53.5 kg
+Cholesterol Total: 212 mg/dL
+LDL: 105 mg/dL
+HDL: 48 mg/dL
+Triglycerides: 226 mg/dL
+Hemoglobin: 11.0 g/dL
+Creatinine: 0.76 mg/dL
+BMI: 25.6
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 48 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 45 mg/dL
+  eGFR: 68 mL/min
+
+Doctor's Comments:
+General improvement observed.

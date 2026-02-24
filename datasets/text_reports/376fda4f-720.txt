@@ -1,0 +1,40 @@
+
+SolacePoint Hospital
+Address: 26 Alpine Street, Northbay - 490825
+Phone: +91-82528-83240
+Email: info@solacepoint97.org
+Website: www.solacepoint210.org
+Accreditation Code: SO-39951
+
+Report ID: RPT-F6B05B0E
+Sample ID: SMP-52584
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6361
+
+Patient Name: L***
+Patient ID: UH-000903
+Age: 70 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 219 mg/dL
+  LDL: 100 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.2 g/dL
+Creatinine: 1.08 mg/dL
+BMI: 29.3
+
+
+Advice:
+Reassurance provided.

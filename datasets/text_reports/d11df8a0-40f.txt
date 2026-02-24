@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 85 Sunrise Boulevard, Westlake - 410012
+Phone: +91-83048-44108
+Email: info@starhaven70.org
+Website: www.starhaven591.org
+Accreditation Code: ST-96129
+
+Report ID: RPT-AD2F25C5
+Sample ID: SMP-65337
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-3838
+
+Patient Name: R***
+Patient ID: UH-001199
+Age: 27 years
+Gender: Male
+
+Height: -
+Weight: 93.8 kg
+
+Blood Pressure: -
+Pulse: 67 bpm
+Blood Glucose: 156 mg/dL
+
+Cholesterol Panel:
+  Total: 208 mg/dL
+  LDL: 118 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 15.4 g/dL
+Creatinine: 0.84 mg/dL
+BMI: -
+
+
+Doctor's Notes:
+No clinical deterioration.

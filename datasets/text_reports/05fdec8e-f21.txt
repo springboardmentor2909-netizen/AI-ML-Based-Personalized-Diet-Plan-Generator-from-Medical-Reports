@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 29 Maple Drive, Hillcrest - 490259
+Phone: +91-88473-52230
+Email: info@greencrest48.org
+Website: www.greencrest288.org
+Accreditation Code: GR-48586
+
+Report ID: RPT-24C1CCE4
+Sample ID: SMP-38216
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2642
+
+Patient Name: N***
+Patient ID: UH-000638
+Age: 36 years
+Gender: Female
+
+Height: -
+Weight: 82.3 kg
+
+Blood Pressure: -
+Pulse (bpm): 110 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 101 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Recommendation:
+Blood pressure within acceptable range.

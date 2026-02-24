@@ -1,0 +1,40 @@
+
+SolacePoint Hospital
+Address: 59 Riverbend Ave, Eastwood - 469645
+Phone: +91-71725-74790
+Email: info@solacepoint21.org
+Website: www.solacepoint383.org
+Accreditation Code: SO-35097
+
+Report ID: RPT-1E442A68
+Sample ID: SMP-45915
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6604
+
+Patient Name: U***
+Patient ID: UH-000693
+Age: 57 years
+Gender: Female
+
+Height: 156.8 cm
+Weight: 88.4 kg
+
+Blood Pressure: 102/62 mmHg
+Pulse: 82 bpm
+Blood Sugar (Random): 118 mg/dL
+
+Cholesterol Panel:
+  Total: 225 mg/dL
+  LDL: 151 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 150 mg/dL
+
+Hemoglobin: 12.3 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 33.0
+
+
+Doctor's Comments:
+Continue present medications.

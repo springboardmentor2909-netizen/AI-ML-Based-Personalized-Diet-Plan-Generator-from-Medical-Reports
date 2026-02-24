@@ -1,0 +1,45 @@
+
+BlueValley Hospital
+Address: 68 Evergreen Lane, Marigold City - 492573
+Phone: +91-89784-13203
+Email: info@bluevalley98.org
+Website: www.bluevalley381.org
+Accreditation Code: BL-91003
+
+Report ID: RPT-D696952F
+Sample ID: SMP-25342
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2227
+
+Patient Name: Y***
+Patient ID: UH-001040
+Age: 52 years
+Gender: Female
+
+Height: -
+Weight: 64.7 kg
+
+Blood Pressure: 143/91 mmHg
+Pulse (bpm): -
+Blood Sugar (Random): 100 mg/dL
+
+Cholesterol Panel:
+  Total: 245 mg/dL
+  LDL: 85 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: 230 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.12 mg/dL
+BMI: 29.3
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 20 U/L
+  Bilirubin Total: -
+
+
+Clinical Notes:
+Improvement noted. Keep current regimen.

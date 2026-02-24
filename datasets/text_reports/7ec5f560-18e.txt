@@ -1,0 +1,44 @@
+
+PrimeCare Pathology Lab
+Address: 63 Maple Drive, Silverpoint - 443166
+Phone: +91-80117-51143
+Email: info@primecare85.org
+Website: www.primecare247.org
+Accreditation Code: PR-80660
+
+Report ID: RPT-4430FF6A
+Sample ID: SMP-55797
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9218
+
+Patient Name: V***
+Patient ID: UH-001190
+Age: 36 years
+Gender: Other
+
+Height: 146.0 cm
+Weight: 80.5 kg
+
+Blood Pressure: 119/62 mmHg
+Pulse: 89 bpm
+Glucose: 121 mg/dL
+
+Cholesterol Panel:
+  Total: 184 mg/dL
+  LDL: 144 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: 125 mg/dL
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 1.03 mg/dL
+BMI: 30.8
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 76 mL/min
+
+
+Recommendations:
+Vitals stable. No acute symptoms.

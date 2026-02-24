@@ -1,0 +1,49 @@
+
+Medisphere Hospital
+Address: 20 Evergreen Lane, Clearwater - 464081
+Phone: +91-73241-69301
+Email: info@medisphere84.org
+Website: www.medisphere557.org
+Accreditation Code: ME-35463
+
+Report ID: RPT-7A3414C7
+Sample ID: SMP-46301
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8942
+
+Patient Name: F***
+Patient ID: UH-000658
+Age: 75 years
+Gender: Male
+
+Height: 152.7 cm
+Weight: 51.9 kg
+
+Blood Pressure: -
+Pulse Rate: 109 bpm
+Blood Sugar: 87 mg/dL
+
+Cholesterol Panel:
+  Total: 193 mg/dL
+  LDL: 118 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.2 g/dL
+Creatinine: 1.35 mg/dL
+BMI: 28.4
+
+LFT:
+  AST/SGOT: 26 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 103 mL/min
+
+
+Doctor's Comments:
+Lipid profile requires monitoring.

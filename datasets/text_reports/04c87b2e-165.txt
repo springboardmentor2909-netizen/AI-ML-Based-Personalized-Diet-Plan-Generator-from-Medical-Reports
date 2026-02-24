@@ -1,0 +1,44 @@
+
+NovaPath Diagnostics
+Address: 62 Horizon Road, Marigold City - 419902
+Phone: +91-74259-94470
+Email: info@novapath59.org
+Website: www.novapath553.org
+Accreditation Code: NO-36758
+
+Report ID: RPT-88CDEBF0
+Sample ID: SMP-44417
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1891
+
+Patient Name: R***
+Patient ID: UH-001168
+Age: 84 years
+Gender: Male
+
+Height: -
+Weight: 52.6 kg
+
+Blood Pressure: 154/95 mmHg
+Pulse: 93 bpm
+Glucose: 168 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 247 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 0.82 mg/dL
+BMI: 33.1
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: -
+
+
+Summary:
+General improvement noted.

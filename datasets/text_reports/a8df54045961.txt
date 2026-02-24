@@ -1,0 +1,40 @@
+
+Greencrest Hospital
+Address: 8 Alpine Street, Westlake - 479648
+Phone: +91-75919-25629
+Email: info@greencrest29.org
+Website: www.greencrest448.org
+Accreditation Code: GR-34631
+
+Report ID: RPT-A9890AD6
+Sample ID: SMP-13586
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6147
+
+Patient Name: I***
+Patient ID: UH-001507
+Age: 46
+Gender: Other
+
+Blood Pressure: 138/91 mmHg
+Pulse Rate: 97 bpm
+Glucose: 126 mg/dL
+Height: 160.8 cm
+Weight: 64.8 kg
+Cholesterol Total: 206 mg/dL
+LDL: 86 mg/dL
+HDL: 62 mg/dL
+Triglycerides: 110 mg/dL
+Hemoglobin: 15.2 g/dL
+Creatinine: 1.51 mg/dL
+BMI: 30.8
+
+LFT:
+  AST/SGOT: 33 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+Remark:
+Values improving.

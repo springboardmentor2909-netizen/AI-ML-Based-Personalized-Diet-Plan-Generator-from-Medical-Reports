@@ -1,0 +1,37 @@
+
+Medisphere Hospital
+Address: 44 Evergreen Lane, Meadowridge - 429376
+Phone: +91-75245-32873
+Email: info@medisphere46.org
+Website: www.medisphere711.org
+Accreditation Code: ME-43457
+
+Report ID: RPT-9376C910
+Sample ID: SMP-17021
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5549
+
+Patient Name: R***
+Patient ID: UH-001508
+Age: 43
+Gender: Female
+
+Blood Pressure: 134/105 mmHg
+Pulse Rate: 99 bpm
+Blood Sugar (Random): 140 mg/dL
+Weight: 47.9 kg
+Cholesterol Total: 213 mg/dL
+HDL: 33 mg/dL
+Triglycerides: 168 mg/dL
+Hemoglobin: 14.0 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 33.1
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 102 mL/min
+
+Impression:
+Continue medications.

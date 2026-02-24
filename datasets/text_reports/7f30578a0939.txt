@@ -1,0 +1,35 @@
+
+PrimeCare Medical Center
+Address: 36 Sunrise Boulevard, Silverpoint - 470612
+Phone: +91-88583-39430
+Email: info@primecare25.org
+Website: www.primecare706.org
+Accreditation Code: PR-69443
+
+Report ID: RPT-2530382A
+Sample ID: SMP-57653
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4141
+
+Patient Name: B***
+Patient ID: UH-001429
+Age: 32
+Gender: Male
+
+Blood Pressure: 111/81 mmHg
+Pulse Rate: 66 bpm
+Glucose: 180 mg/dL
+Height: 169.1 cm
+Weight: 96.5 kg
+Cholesterol Total: 257 mg/dL
+LDL: 103 mg/dL
+HDL: 36 mg/dL
+Triglycerides: 109 mg/dL
+Hemoglobin: 11.5 g/dL
+Creatinine: 0.63 mg/dL
+BMI: 32.1
+
+Impression:
+Values improving.

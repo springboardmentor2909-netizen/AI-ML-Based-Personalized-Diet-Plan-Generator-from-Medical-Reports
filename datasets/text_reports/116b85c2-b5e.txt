@@ -1,0 +1,40 @@
+
+SolacePoint Hospital
+Address: 79 Riverbend Ave, Eastwood - 421502
+Phone: +91-99625-24753
+Email: info@solacepoint52.org
+Website: www.solacepoint118.org
+Accreditation Code: SO-89195
+
+Report ID: RPT-F1CA80E8
+Sample ID: SMP-33439
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3696
+
+Patient Name: U***
+Patient ID: UH-001139
+Age: 36 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 103 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 188 mg/dL
+  LDL: 117 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 238 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.19 mg/dL
+BMI: -
+
+
+Doctor's Notes:
+Therapy maintaining adequate control.

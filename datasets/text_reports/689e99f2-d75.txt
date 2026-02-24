@@ -1,0 +1,44 @@
+
+BlueValley Medical Center
+Address: 96 Alpine Street, Marigold City - 459532
+Phone: +91-82071-57471
+Email: info@bluevalley35.org
+Website: www.bluevalley103.org
+Accreditation Code: BL-74400
+
+Report ID: RPT-11D9C3E6
+Sample ID: SMP-82358
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5085
+
+Patient Name: W***
+Patient ID: UH-000883
+Age: 45 years
+Gender: Male
+
+Height: 162.4 cm
+Weight: -
+
+Blood Pressure: 136/81 mmHg
+Pulse Rate: 110 bpm
+Blood Sugar: 121 mg/dL
+
+Cholesterol Panel:
+  Total: 233 mg/dL
+  LDL: -
+  HDL: 33 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 0.93 mg/dL
+BMI: 21.1
+
+KFT:
+  Urea: -
+  eGFR: 93 mL/min
+
+
+Clinical Notes:
+Cholesterol borderline. Consider dietary modification.

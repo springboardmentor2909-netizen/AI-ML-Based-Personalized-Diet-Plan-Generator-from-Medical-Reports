@@ -1,0 +1,35 @@
+
+SolacePoint Hospital
+Address: 33 Evergreen Lane, Silverpoint - 456382
+Phone: +91-82821-51722
+Email: info@solacepoint28.org
+Website: www.solacepoint484.org
+Accreditation Code: SO-65691
+
+Report ID: RPT-6454F3CD
+Sample ID: SMP-57359
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1858
+
+Patient Name: V***
+Patient ID: UH-001307
+Age: 48
+Gender: Female
+
+Blood Pressure: 129/77 mmHg
+Pulse (bpm): 109 bpm
+Height: 147.9 cm
+Cholesterol Total: 221 mg/dL
+LDL: 82 mg/dL
+HDL: 60 mg/dL
+Triglycerides: 181 mg/dL
+Creatinine: 1.61 mg/dL
+BMI: 23.9
+
+KFT:
+  Urea: 37 mg/dL
+
+Clinical Notes:
+Therapy response is satisfactory.

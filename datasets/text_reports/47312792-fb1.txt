@@ -1,0 +1,40 @@
+
+SolacePoint Pathology Lab
+Address: 45 Sunrise Boulevard, Westlake - 423628
+Phone: +91-87696-67688
+Email: info@solacepoint62.org
+Website: www.solacepoint254.org
+Accreditation Code: SO-56279
+
+Report ID: RPT-42F180EE
+Sample ID: SMP-40512
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2495
+
+Patient Name: S***
+Patient ID: UH-000985
+Age: 47 years
+Gender: Other
+
+Height: 158.2 cm
+Weight: 74.0 kg
+
+Blood Pressure: -
+Pulse Rate: 99 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 88 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Impression:
+Improvement noted. Keep current regimen.

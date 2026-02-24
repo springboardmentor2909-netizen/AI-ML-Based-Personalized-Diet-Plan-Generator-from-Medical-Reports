@@ -1,0 +1,45 @@
+
+NovaPath Diagnostics
+Address: 88 Sunrise Boulevard, Silverpoint - 420701
+Phone: +91-85455-47879
+Email: info@novapath85.org
+Website: www.novapath142.org
+Accreditation Code: NO-80500
+
+Report ID: RPT-21B1C929
+Sample ID: SMP-17375
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4492
+
+Patient Name: D***
+Patient ID: UH-001267
+Age: 46 years
+Gender: Other
+
+Height: 170.0 cm
+Weight: 55.2 kg
+
+Blood Pressure: 154/82 mmHg
+Pulse (bpm): 68 bpm
+Blood Sugar: 90 mg/dL
+
+Cholesterol Panel:
+  Total: 189 mg/dL
+  LDL: 118 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 255 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 0.93 mg/dL
+BMI: 25.0
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 30 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Clinical Notes:
+Retest if required clinically.

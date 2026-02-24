@@ -1,0 +1,30 @@
+
+Everlight Medical Center
+Address: 68 Horizon Road, Silverpoint - 461580
+Phone: +91-86201-32469
+Email: info@everlight47.org
+Website: www.everlight542.org
+Accreditation Code: EV-81787
+
+Report ID: RPT-9CE082DA
+Sample ID: SMP-63352
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9069
+
+Patient Name: G***
+Patient ID: UH-001444
+Age: 73
+Gender: Other
+
+Blood Pressure: 110/108 mmHg
+Pulse: 63 bpm
+Blood Sugar: 109 mg/dL
+Weight: 53.6 kg
+HDL: 41 mg/dL
+Triglycerides: 173 mg/dL
+Creatinine: 1.69 mg/dL
+
+Impression:
+Continue medications.

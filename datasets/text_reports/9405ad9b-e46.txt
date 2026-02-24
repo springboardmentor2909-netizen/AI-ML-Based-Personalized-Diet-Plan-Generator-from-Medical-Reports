@@ -1,0 +1,49 @@
+
+Greencrest Diagnostics
+Address: 64 Horizon Road, Marigold City - 434641
+Phone: +91-89207-80712
+Email: info@greencrest37.org
+Website: www.greencrest823.org
+Accreditation Code: GR-71488
+
+Report ID: RPT-F99C4FA4
+Sample ID: SMP-48778
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5923
+
+Patient Name: U***
+Patient ID: UH-000947
+Age: 20 years
+Gender: Male
+
+Height: 189.8 cm
+Weight: 68.2 kg
+
+Blood Pressure: 149/108 mmHg
+Pulse (bpm): 89 bpm
+Glucose: 162 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 158 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 143 mg/dL
+
+Hemoglobin: 11.0 g/dL
+Creatinine: 0.96 mg/dL
+BMI: 31.1
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 18 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 31 mg/dL
+  eGFR: 119 mL/min
+
+
+Summary:
+Sugar levels within acceptable range.

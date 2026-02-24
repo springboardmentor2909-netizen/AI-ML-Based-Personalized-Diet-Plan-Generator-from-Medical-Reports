@@ -1,0 +1,40 @@
+
+Everlight Pathology Lab
+Address: 63 Alpine Street, Northbay - 445487
+Phone: +91-77167-40376
+Email: info@everlight59.org
+Website: www.everlight225.org
+Accreditation Code: EV-40840
+
+Report ID: RPT-7FCB02D5
+Sample ID: SMP-58751
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9109
+
+Patient Name: R***
+Patient ID: UH-000699
+Age: 33 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 255 mg/dL
+  LDL: 110 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 11.9 g/dL
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Blood pressure within acceptable range.

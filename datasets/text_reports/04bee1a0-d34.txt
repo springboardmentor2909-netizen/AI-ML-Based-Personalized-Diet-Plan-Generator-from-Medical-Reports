@@ -1,0 +1,39 @@
+
+NovaPath Diagnostics
+Address: 30 Sunrise Boulevard, Eastwood - 460689
+Phone: +91-94638-28469
+Email: info@novapath37.org
+Website: www.novapath811.org
+Accreditation Code: NO-96168
+
+Report ID: RPT-59ECA559
+Sample ID: SMP-84691
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-2184
+
+Patient Name: E***
+Patient ID: UH-000537
+Age: 56 years
+Gender: Female
+
+Height: 167.4 cm
+Weight: 52.9 kg
+
+Blood Pressure: 155/78 mmHg
+Blood Sugar (Random): 98 mg/dL
+
+Cholesterol Panel:
+  Total: 248 mg/dL
+  LDL: 114 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 116 mg/dL
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 1.41 mg/dL
+BMI: 31.1
+
+
+Impression:
+Follow-up recommended after 2 weeks.

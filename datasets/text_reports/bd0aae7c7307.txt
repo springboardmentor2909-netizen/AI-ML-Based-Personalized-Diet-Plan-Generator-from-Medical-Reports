@@ -1,0 +1,45 @@
+
+Greencrest Clinical Institute
+Address: 19 Evergreen Lane, Silverpoint - 410325
+Phone: +91-71390-56581
+Email: info@greencrest73.org
+Website: www.greencrest460.org
+Accreditation Code: GR-21344
+
+Report ID: RPT-E6EE3B30
+Sample ID: SMP-97054
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6686
+
+Patient Name: D***
+Patient ID: UH-001280
+Age: 76 years
+Gender: Male
+
+Height: 169.9 cm
+Weight: 85.4 kg
+
+Blood Pressure: 168/98 mmHg
+Pulse (bpm): 103 bpm
+Glucose: 159 mg/dL
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 154 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 271 mg/dL
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 0.98 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: 38 U/L
+  Bilirubin Total: 1.4 mg/dL
+
+
+Recommendation:
+Maintain current therapy plan.

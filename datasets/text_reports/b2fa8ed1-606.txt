@@ -1,0 +1,40 @@
+
+BlueValley Diagnostics
+Address: 19 Evergreen Lane, Clearwater - 458333
+Phone: +91-83004-22133
+Email: info@bluevalley56.org
+Website: www.bluevalley372.org
+Accreditation Code: BL-79205
+
+Report ID: RPT-329E54E4
+Sample ID: SMP-29327
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6700
+
+Patient Name: C***
+Patient ID: UH-000463
+Age: 62 years
+Gender: Female
+
+Blood Pressure: 144/79 mmHg
+Blood Sugar (Random): 131 mg/dL
+
+Cholesterol Panel:
+  Total: 198 mg/dL
+  LDL: 154 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 191 mg/dL
+
+Hemoglobin: 11.5 g/dL
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 70 mL/min
+
+
+Doctor's Notes:
+Lipid levels require monitoring.

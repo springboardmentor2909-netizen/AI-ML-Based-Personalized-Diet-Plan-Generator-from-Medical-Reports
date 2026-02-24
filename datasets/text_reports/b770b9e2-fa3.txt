@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 83 Alpine Street, Marigold City - 497788
+Phone: +91-90486-35272
+Email: info@starhaven95.org
+Website: www.starhaven190.org
+Accreditation Code: ST-50473
+
+Report ID: RPT-FA47BA62
+Sample ID: SMP-20171
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5005
+
+Patient Name: G***
+Patient ID: UH-001165
+Age: 43 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 233 mg/dL
+
+Hemoglobin: 11.3 g/dL
+Creatinine: -
+BMI: -
+
+
+Advice:
+Discussed results; patient understood.

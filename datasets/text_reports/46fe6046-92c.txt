@@ -1,0 +1,49 @@
+
+Medisphere Clinical Institute
+Address: 21 Maple Drive, Eastwood - 458728
+Phone: +91-80715-68601
+Email: info@medisphere80.org
+Website: www.medisphere643.org
+Accreditation Code: ME-19613
+
+Report ID: RPT-FA305352
+Sample ID: SMP-84804
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9601
+
+Patient Name: H***
+Patient ID: UH-001171
+Age: 19 years
+Gender: Other
+
+Height: 146.7 cm
+Weight: 54.5 kg
+
+Blood Pressure: 123/81 mmHg
+Pulse (bpm): 94 bpm
+Blood Sugar: 138 mg/dL
+
+Cholesterol Panel:
+  Total: 166 mg/dL
+  LDL: 86 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: 224 mg/dL
+
+Hemoglobin: 11.1 g/dL
+Creatinine: 1.34 mg/dL
+BMI: 32.9
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 103 mL/min
+
+
+Doctor's Comments:
+Possible dehydration; take more fluids.

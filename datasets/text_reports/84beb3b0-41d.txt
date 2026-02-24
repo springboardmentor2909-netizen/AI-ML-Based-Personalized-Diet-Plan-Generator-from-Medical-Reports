@@ -1,0 +1,39 @@
+
+Everlight Pathology Lab
+Address: 90 Riverbend Ave, Meadowridge - 418816
+Phone: +91-83624-40123
+Email: info@everlight80.org
+Website: www.everlight350.org
+Accreditation Code: EV-25490
+
+Report ID: RPT-EE32B019
+Sample ID: SMP-59687
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5123
+
+Patient Name: W***
+Patient ID: UH-000565
+Age: 49 years
+Gender: Male
+
+Height: 165.2 cm
+Weight: 69.3 kg
+
+Blood Pressure: 163/100 mmHg
+Blood Sugar: 92 mg/dL
+
+Cholesterol Panel:
+  Total: 221 mg/dL
+  LDL: 123 mg/dL
+  HDL: 43 mg/dL
+  Triglycerides: 207 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 0.74 mg/dL
+BMI: -
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

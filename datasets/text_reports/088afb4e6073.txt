@@ -1,0 +1,49 @@
+
+Riverdale Hospital
+Address: 89 Riverbend Ave, Clearwater - 455380
+Phone: +91-72946-68113
+Email: info@riverdale88.org
+Website: www.riverdale333.org
+Accreditation Code: RI-29653
+
+Report ID: RPT-2AF53989
+Sample ID: SMP-62425
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1509
+
+Patient Name: Q***
+Patient ID: UH-001236
+Age: 61 years
+Gender: Female
+
+Height: 147.8 cm
+Weight: 76.6 kg
+
+Blood Pressure: 105/80 mmHg
+Pulse (bpm): 79 bpm
+Blood Sugar (Random): 156 mg/dL
+
+Cholesterol Panel:
+  Total: 191 mg/dL
+  LDL: 78 mg/dL
+  HDL: 29 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.42 mg/dL
+BMI: 34.8
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 40 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 14 mg/dL
+  eGFR: -
+
+
+Recommendation:
+Encouraged brisk walking.

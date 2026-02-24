@@ -1,0 +1,36 @@
+
+Northlake Pathology Lab
+Address: 54 Maple Drive, Eastwood - 423196
+Phone: +91-74845-49639
+Email: info@northlake95.org
+Website: www.northlake636.org
+Accreditation Code: NO-62757
+
+Report ID: RPT-47F83740
+Sample ID: SMP-51249
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9256
+
+Patient Name: A***
+Patient ID: UH-000446
+Age: 32 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar: 115 mg/dL
+
+Cholesterol Panel:
+  Total: 185 mg/dL
+  LDL: 139 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.78 mg/dL
+BMI: -
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

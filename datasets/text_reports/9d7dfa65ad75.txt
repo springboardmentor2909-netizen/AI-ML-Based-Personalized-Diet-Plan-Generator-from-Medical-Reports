@@ -1,0 +1,35 @@
+
+SolacePoint Diagnostics
+Address: 68 Riverbend Ave, Northbay - 435347
+Phone: +91-98468-68428
+Email: info@solacepoint91.org
+Website: www.solacepoint770.org
+Accreditation Code: SO-13819
+
+Report ID: RPT-2F7E1B3F
+Sample ID: SMP-48973
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7161
+
+Patient Name: L***
+Patient ID: UH-001452
+Age: 45
+Gender: Female
+
+Blood Pressure: 162/91 mmHg
+Pulse: 62 bpm
+Glucose: 132 mg/dL
+Height: 179.3 cm
+Weight: 79.8 kg
+Cholesterol Total: 239 mg/dL
+LDL: 147 mg/dL
+HDL: 40 mg/dL
+Triglycerides: 176 mg/dL
+Hemoglobin: 10.5 g/dL
+Creatinine: 0.85 mg/dL
+BMI: 23.6
+
+Summary:
+Patient reassured.

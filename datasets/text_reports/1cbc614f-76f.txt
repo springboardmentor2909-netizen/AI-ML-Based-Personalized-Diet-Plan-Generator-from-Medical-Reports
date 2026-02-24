@@ -1,0 +1,44 @@
+
+Medisphere Pathology Lab
+Address: 69 Riverbend Ave, Westlake - 452545
+Phone: +91-95398-40321
+Email: info@medisphere11.org
+Website: www.medisphere549.org
+Accreditation Code: ME-51725
+
+Report ID: RPT-800087D9
+Sample ID: SMP-47305
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4086
+
+Patient Name: C***
+Patient ID: UH-000873
+Age: 30 years
+Gender: Female
+
+Height: 169.9 cm
+Weight: 75.4 kg
+
+Blood Pressure: 102/105 mmHg
+Pulse: 62 bpm
+Blood Sugar: 107 mg/dL
+
+Cholesterol Panel:
+  Total: 251 mg/dL
+  LDL: 84 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: 156 mg/dL
+
+Hemoglobin: 15.2 g/dL
+Creatinine: 1.31 mg/dL
+BMI: 31.4
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 119 mL/min
+
+
+Clinical Notes:
+Patient advised to maintain hydration.

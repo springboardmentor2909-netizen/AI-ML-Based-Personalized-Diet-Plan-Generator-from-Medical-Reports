@@ -1,0 +1,45 @@
+
+ClearRiver Pathology Lab
+Address: 90 Riverbend Ave, Meadowridge - 424567
+Phone: +91-75857-51793
+Email: info@clearriver93.org
+Website: www.clearriver313.org
+Accreditation Code: CL-10153
+
+Report ID: RPT-794BDA37
+Sample ID: SMP-61935
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6316
+
+Patient Name: C***
+Patient ID: UH-001057
+Age: 83 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 104 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: 81 mg/dL
+  HDL: -
+  Triglycerides: 104 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 0.91 mg/dL
+BMI: 28.2
+
+LFT:
+  AST/SGOT: 14 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Advice:
+Monitor BP at home regularly.

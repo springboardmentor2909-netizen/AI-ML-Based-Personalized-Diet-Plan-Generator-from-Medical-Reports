@@ -1,0 +1,49 @@
+
+ClearRiver Diagnostics
+Address: 82 Maple Drive, Clearwater - 443015
+Phone: +91-94668-23078
+Email: info@clearriver12.org
+Website: www.clearriver506.org
+Accreditation Code: CL-97180
+
+Report ID: RPT-9199CD56
+Sample ID: SMP-91939
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1501
+
+Patient Name: I***
+Patient ID: UH-001086
+Age: 58 years
+Gender: Male
+
+Height: 149.3 cm
+Weight: 81.2 kg
+
+Blood Pressure: 114/94 mmHg
+Pulse (bpm): 60 bpm
+Blood Glucose: 146 mg/dL
+
+Cholesterol Panel:
+  Total: 188 mg/dL
+  LDL: 147 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 240 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.26 mg/dL
+BMI: 29.4
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 34 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 90 mL/min
+
+
+Impression:
+Recommend rechecking lipids after 3 months.

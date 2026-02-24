@@ -1,0 +1,40 @@
+
+Starhaven Clinical Institute
+Address: 55 Evergreen Lane, Meadowridge - 448536
+Phone: +91-97260-89713
+Email: info@starhaven78.org
+Website: www.starhaven148.org
+Accreditation Code: ST-11579
+
+Report ID: RPT-ECA434B0
+Sample ID: SMP-70946
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3535
+
+Patient Name: S***
+Patient ID: UH-001240
+Age: 44 years
+Gender: Female
+
+Height: -
+Weight: 96.2 kg
+
+Blood Pressure: 151/61 mmHg
+Pulse (bpm): -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.64 mg/dL
+BMI: 18.2
+
+
+Remarks:
+Cholesterol borderline high; monitor regularly.

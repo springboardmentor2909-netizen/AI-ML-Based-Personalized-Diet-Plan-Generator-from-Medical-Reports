@@ -1,0 +1,39 @@
+
+Everlight Medical Center
+Address: 75 Evergreen Lane, Clearwater - 430661
+Phone: +91-82782-83453
+Email: info@everlight82.org
+Website: www.everlight901.org
+Accreditation Code: EV-41786
+
+Report ID: RPT-61B261A1
+Sample ID: SMP-24685
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7680
+
+Patient Name: W***
+Patient ID: UH-001400
+Age: 80
+Gender: Other
+
+Blood Pressure: 161/93 mmHg
+Pulse: 101 bpm
+Blood Glucose: 139 mg/dL
+Height: 167.7 cm
+Weight: 87.1 kg
+Cholesterol Total: 228 mg/dL
+LDL: 86 mg/dL
+HDL: 35 mg/dL
+Triglycerides: 212 mg/dL
+Hemoglobin: 16.0 g/dL
+Creatinine: 1.35 mg/dL
+BMI: 27.6
+
+KFT:
+  Urea: 25 mg/dL
+  eGFR: 83 mL/min
+
+Doctor's Comments:
+Major dietary change required.

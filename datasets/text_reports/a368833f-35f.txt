@@ -1,0 +1,40 @@
+
+Medisphere Diagnostics
+Address: 33 Horizon Road, Eastwood - 456269
+Phone: +91-97246-93358
+Email: info@medisphere87.org
+Website: www.medisphere471.org
+Accreditation Code: ME-27802
+
+Report ID: RPT-19343A03
+Sample ID: SMP-11453
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8251
+
+Patient Name: N***
+Patient ID: UH-001095
+Age: 56 years
+Gender: Female
+
+Height: 182.4 cm
+Weight: 69.5 kg
+
+Blood Pressure: 113/93 mmHg
+Pulse Rate: 70 bpm
+Blood Glucose: 90 mg/dL
+
+Cholesterol Panel:
+  Total: 184 mg/dL
+  LDL: 97 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 169 mg/dL
+
+Hemoglobin: 14.0 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 22.0
+
+
+Summary:
+Needs follow-up in OPD.

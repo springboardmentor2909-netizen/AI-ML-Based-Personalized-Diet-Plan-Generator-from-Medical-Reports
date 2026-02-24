@@ -1,0 +1,39 @@
+
+BlueValley Diagnostics
+Address: 11 Alpine Street, Hillcrest - 463700
+Phone: +91-89469-40547
+Email: info@bluevalley30.org
+Website: www.bluevalley398.org
+Accreditation Code: BL-20877
+
+Report ID: RPT-F3DE12A6
+Sample ID: SMP-54646
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2679
+
+Patient Name: X***
+Patient ID: UH-001456
+Age: 84
+Gender: Male
+
+Blood Pressure: 133/73 mmHg
+Pulse Rate: 71 bpm
+Blood Glucose: 94 mg/dL
+Height: 175.0 cm
+Weight: 77.2 kg
+Cholesterol Total: 245 mg/dL
+LDL: 135 mg/dL
+HDL: 33 mg/dL
+Triglycerides: 150 mg/dL
+Hemoglobin: 12.9 g/dL
+Creatinine: 1.5 mg/dL
+BMI: 20.1
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 115 mL/min
+
+Clinical Notes:
+Values improving.

@@ -1,0 +1,40 @@
+
+Everlight Diagnostics
+Address: 85 Sunrise Boulevard, Meadowridge - 430506
+Phone: +91-91358-15438
+Email: info@everlight27.org
+Website: www.everlight502.org
+Accreditation Code: EV-46046
+
+Report ID: RPT-25B54729
+Sample ID: SMP-53281
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2546
+
+Patient Name: S***
+Patient ID: UH-001146
+Age: 72 years
+Gender: Female
+
+Height: -
+Weight: 53.5 kg
+
+Blood Pressure: -
+Pulse (bpm): 109 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 260 mg/dL
+  LDL: -
+  HDL: 42 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.1 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendation:
+Encouraged improved hydration.

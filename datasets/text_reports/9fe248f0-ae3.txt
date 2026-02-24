@@ -1,0 +1,44 @@
+
+SolacePoint Clinical Institute
+Address: 61 Alpine Street, Clearwater - 427122
+Phone: +91-89685-25680
+Email: info@solacepoint77.org
+Website: www.solacepoint287.org
+Accreditation Code: SO-81549
+
+Report ID: RPT-3AB1EE1A
+Sample ID: SMP-70203
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9481
+
+Patient Name: R***
+Patient ID: UH-001076
+Age: 18 years
+Gender: Other
+
+Height: 165.2 cm
+Weight: 68.4 kg
+
+Blood Pressure: 143/100 mmHg
+Pulse Rate: 75 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 142 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: 140 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 27.1
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: 113 mL/min
+
+
+Remarks:
+Suggest further evaluation if symptoms persist.

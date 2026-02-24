@@ -1,0 +1,44 @@
+
+Silver Oak Clinical Institute
+Address: 34 Maple Drive, Clearwater - 455310
+Phone: +91-85657-71035
+Email: info@silver oak79.org
+Website: www.silver oak565.org
+Accreditation Code: SI-57246
+
+Report ID: RPT-BDC33BB8
+Sample ID: SMP-67408
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9532
+
+Patient Name: W***
+Patient ID: UH-000962
+Age: 78 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 163/62 mmHg
+Pulse: 98 bpm
+Blood Sugar: 136 mg/dL
+
+Cholesterol Panel:
+  Total: 244 mg/dL
+  LDL: 137 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 199 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 18.3
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: -
+
+
+Remark:
+Advised patient to avoid salty foods.

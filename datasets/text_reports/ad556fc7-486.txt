@@ -1,0 +1,49 @@
+
+NovaPath Pathology Lab
+Address: 51 Sunrise Boulevard, Meadowridge - 452714
+Phone: +91-94180-73014
+Email: info@novapath30.org
+Website: www.novapath104.org
+Accreditation Code: NO-69820
+
+Report ID: RPT-56A73CFD
+Sample ID: SMP-89422
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7091
+
+Patient Name: H***
+Patient ID: UH-000812
+Age: 24 years
+Gender: Female
+
+Height: -
+Weight: 89.4 kg
+
+Blood Pressure: -
+Pulse Rate: 63 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 207 mg/dL
+  LDL: 145 mg/dL
+  HDL: -
+  Triglycerides: 206 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.97 mg/dL
+BMI: 25.1
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Doctor's Notes:
+Improvement noted. Keep current regimen.

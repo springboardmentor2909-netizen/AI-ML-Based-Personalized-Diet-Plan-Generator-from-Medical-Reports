@@ -1,0 +1,39 @@
+
+Everlight Medical Center
+Address: 33 Alpine Street, Westlake - 490144
+Phone: +91-99939-64032
+Email: info@everlight67.org
+Website: www.everlight783.org
+Accreditation Code: EV-48295
+
+Report ID: RPT-1F42F4BC
+Sample ID: SMP-99627
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7497
+
+Patient Name: H***
+Patient ID: UH-001414
+Age: 61
+Gender: Female
+
+Blood Pressure: 123/99 mmHg
+Pulse (bpm): 68 bpm
+Blood Sugar (Random): 90 mg/dL
+Height: 183.2 cm
+Weight: 75.1 kg
+Cholesterol Total: 196 mg/dL
+LDL: 91 mg/dL
+HDL: 43 mg/dL
+Triglycerides: 147 mg/dL
+Hemoglobin: 10.3 g/dL
+Creatinine: 1.12 mg/dL
+BMI: 24.1
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 120 mL/min
+
+Recommendations:
+Follow-up advised.

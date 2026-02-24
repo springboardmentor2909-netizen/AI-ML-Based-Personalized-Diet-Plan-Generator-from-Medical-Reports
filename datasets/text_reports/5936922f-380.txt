@@ -1,0 +1,44 @@
+
+PrimeCare Hospital
+Address: 74 Riverbend Ave, Eastwood - 449982
+Phone: +91-97168-73125
+Email: info@primecare68.org
+Website: www.primecare628.org
+Accreditation Code: PR-47217
+
+Report ID: RPT-91958139
+Sample ID: SMP-88876
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3682
+
+Patient Name: A***
+Patient ID: UH-001180
+Age: 77 years
+Gender: Other
+
+Height: 189.2 cm
+Weight: 86.7 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Glucose: -
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: 84 mg/dL
+  HDL: 43 mg/dL
+  Triglycerides: 208 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: 1.19 mg/dL
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: 89 mL/min
+
+
+Advice:
+Repeat test if clinically required.

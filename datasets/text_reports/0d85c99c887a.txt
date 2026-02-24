@@ -1,0 +1,28 @@
+
+Northlake Pathology Lab
+Address: 92 Riverbend Ave, Clearwater - 498378
+Phone: +91-95671-84612
+Email: info@northlake59.org
+Website: www.northlake676.org
+Accreditation Code: NO-32007
+
+Report ID: RPT-DB5C3E00
+Sample ID: SMP-63417
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7578
+
+Patient Name: G***
+Patient ID: UH-001550
+Age: 45
+Gender: Other
+
+Blood Pressure: 121/65 mmHg
+Pulse: 76 bpm
+Blood Sugar: 153 mg/dL
+Cholesterol Total: 221 mg/dL
+Hemoglobin: 12.8 g/dL
+
+Advice:
+Discussed results; patient understood.

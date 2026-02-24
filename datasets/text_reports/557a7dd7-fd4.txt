@@ -1,0 +1,39 @@
+
+Medisphere Diagnostics
+Address: 80 Evergreen Lane, Eastwood - 450286
+Phone: +91-89421-74026
+Email: info@medisphere10.org
+Website: www.medisphere781.org
+Accreditation Code: ME-35208
+
+Report ID: RPT-74AA0C4F
+Sample ID: SMP-95258
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4850
+
+Patient Name: H***
+Patient ID: UH-000518
+Age: 70 years
+Gender: Male
+
+Height: 161.1 cm
+Weight: -
+
+Blood Pressure: 137/64 mmHg
+Blood Glucose: 168 mg/dL
+
+Cholesterol Panel:
+  Total: 189 mg/dL
+  LDL: -
+  HDL: 39 mg/dL
+  Triglycerides: 166 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Recommendations:
+Glucose levels mildly elevated; lifestyle changes advised.

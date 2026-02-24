@@ -1,0 +1,36 @@
+
+NovaPath Pathology Lab
+Address: 28 Evergreen Lane, Northbay - 453597
+Phone: +91-74623-48986
+Email: info@novapath59.org
+Website: www.novapath417.org
+Accreditation Code: NO-56249
+
+Report ID: RPT-BA6C27BF
+Sample ID: SMP-73788
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8042
+
+Patient Name: I***
+Patient ID: UH-000428
+Age: 83 years
+Gender: Other
+
+Blood Pressure: 140/98 mmHg
+Blood Sugar (Random): 169 mg/dL
+
+Cholesterol Panel:
+  Total: 170 mg/dL
+  LDL: 119 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.8 mg/dL
+BMI: 19.1
+
+
+Remark:
+Lipid levels require monitoring.

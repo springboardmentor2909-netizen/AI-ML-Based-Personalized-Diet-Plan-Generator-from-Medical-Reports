@@ -1,0 +1,44 @@
+
+Greencrest Clinical Institute
+Address: 80 Horizon Road, Marigold City - 401895
+Phone: +91-92480-56045
+Email: info@greencrest42.org
+Website: www.greencrest444.org
+Accreditation Code: GR-77582
+
+Report ID: RPT-36A9D547
+Sample ID: SMP-84290
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5334
+
+Patient Name: B***
+Patient ID: UH-000893
+Age: 83 years
+Gender: Other
+
+Height: 174.0 cm
+Weight: 62.7 kg
+
+Blood Pressure: 162/104 mmHg
+Pulse (bpm): 101 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 179 mg/dL
+  LDL: 153 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 1.3 mg/dL
+BMI: 22.5
+
+KFT:
+  Urea: 17 mg/dL
+  eGFR: 113 mL/min
+
+
+Summary:
+Sugar levels within acceptable range.

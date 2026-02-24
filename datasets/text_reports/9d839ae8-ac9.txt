@@ -1,0 +1,43 @@
+
+SolacePoint Diagnostics
+Address: 42 Sunrise Boulevard, Marigold City - 475725
+Phone: +91-70035-46945
+Email: info@solacepoint53.org
+Website: www.solacepoint818.org
+Accreditation Code: SO-82036
+
+Report ID: RPT-48A469F8
+Sample ID: SMP-41659
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5298
+
+Patient Name: J***
+Patient ID: UH-000509
+Age: 74 years
+Gender: Female
+
+Height: 176.8 cm
+Weight: -
+
+Blood Pressure: 152/85 mmHg
+Glucose: 155 mg/dL
+
+Cholesterol Panel:
+  Total: 230 mg/dL
+  LDL: -
+  HDL: 31 mg/dL
+  Triglycerides: 128 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: -
+BMI: 26.3
+
+KFT:
+  Urea: -
+  eGFR: 112 mL/min
+
+
+Summary:
+Blood pressure within acceptable range.

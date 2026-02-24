@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 5 Horizon Road, Hillcrest - 464455
+Phone: +91-70791-58824
+Email: info@starhaven78.org
+Website: www.starhaven476.org
+Accreditation Code: ST-92064
+
+Report ID: RPT-47AD44E6
+Sample ID: SMP-38360
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5496
+
+Patient Name: S***
+Patient ID: UH-000834
+Age: 75 years
+Gender: Male
+
+Height: 182.8 cm
+Weight: 89.9 kg
+
+Blood Pressure: 125/61 mmHg
+Pulse (bpm): 64 bpm
+Blood Sugar (Random): 98 mg/dL
+
+Cholesterol Panel:
+  Total: 196 mg/dL
+  LDL: 114 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: 250 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 0.81 mg/dL
+BMI: 22.2
+
+
+Clinical Notes:
+Reassurance provided.

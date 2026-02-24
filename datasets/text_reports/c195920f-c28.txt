@@ -1,0 +1,45 @@
+
+Starhaven Medical Center
+Address: 12 Maple Drive, Meadowridge - 452142
+Phone: +91-93385-82687
+Email: info@starhaven52.org
+Website: www.starhaven880.org
+Accreditation Code: ST-26927
+
+Report ID: RPT-73A3EEA0
+Sample ID: SMP-37928
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8498
+
+Patient Name: M***
+Patient ID: UH-000823
+Age: 55 years
+Gender: Other
+
+Height: 170.7 cm
+Weight: 77.3 kg
+
+Blood Pressure: 156/79 mmHg
+Pulse (bpm): 93 bpm
+Blood Sugar (Random): 111 mg/dL
+
+Cholesterol Panel:
+  Total: 217 mg/dL
+  LDL: 137 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 193 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: 1.1 mg/dL
+BMI: 19.4
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: 21 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Impression:
+Patient advised to maintain hydration.

@@ -1,0 +1,40 @@
+
+PrimeCare Diagnostics
+Address: 93 Horizon Road, Clearwater - 463071
+Phone: +91-82800-93387
+Email: info@primecare51.org
+Website: www.primecare163.org
+Accreditation Code: PR-80685
+
+Report ID: RPT-0E94A3C2
+Sample ID: SMP-71836
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9765
+
+Patient Name: K***
+Patient ID: UH-000640
+Age: 18 years
+Gender: Male
+
+Height: -
+Weight: 73.8 kg
+
+Blood Pressure: 106/63 mmHg
+Pulse (bpm): 90 bpm
+Blood Sugar (Random): 99 mg/dL
+
+Cholesterol Panel:
+  Total: 187 mg/dL
+  LDL: 159 mg/dL
+  HDL: -
+  Triglycerides: 165 mg/dL
+
+Hemoglobin: 11.5 g/dL
+Creatinine: 0.9 mg/dL
+BMI: 20.5
+
+
+Remarks:
+Continue present medications.

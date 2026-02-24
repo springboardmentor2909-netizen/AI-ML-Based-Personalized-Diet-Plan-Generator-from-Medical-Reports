@@ -1,0 +1,36 @@
+
+BlueValley Diagnostics
+Address: 11 Alpine Street, Hillcrest - 463700
+Phone: +91-89469-40547
+Email: info@bluevalley30.org
+Website: www.bluevalley398.org
+Accreditation Code: BL-20877
+
+Report ID: RPT-09989333
+Sample ID: SMP-96697
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6224
+
+Patient Name: Y***
+Patient ID: UH-001492
+Age: 34
+Gender: Other
+
+Blood Pressure: 150/99 mmHg
+Blood Sugar (Random): 79 mg/dL
+Height: 170.6 cm
+Weight: 66.8 kg
+LDL: 160 mg/dL
+Triglycerides: 168 mg/dL
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.29 mg/dL
+BMI: 31.6
+
+LFT:
+  ALT/SGPT: 20 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+Recommendation:
+Values improving.

@@ -1,0 +1,40 @@
+
+BlueValley Hospital
+Address: 68 Evergreen Lane, Marigold City - 492573
+Phone: +91-89784-13203
+Email: info@bluevalley98.org
+Website: www.bluevalley381.org
+Accreditation Code: BL-91003
+
+Report ID: RPT-074BC359
+Sample ID: SMP-47519
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8220
+
+Patient Name: N***
+Patient ID: UH-001066
+Age: 22 years
+Gender: Male
+
+Height: 150.2 cm
+Weight: -
+
+Blood Pressure: -
+Pulse: 72 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 213 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 219 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Clinical Notes:
+Blood pressure requires monitoring.

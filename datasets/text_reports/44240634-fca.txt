@@ -1,0 +1,44 @@
+
+SolacePoint Pathology Lab
+Address: 68 Alpine Street, Westlake - 494469
+Phone: +91-93349-63223
+Email: info@solacepoint86.org
+Website: www.solacepoint748.org
+Accreditation Code: SO-11685
+
+Report ID: RPT-E0C90F0A
+Sample ID: SMP-98979
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7292
+
+Patient Name: J***
+Patient ID: UH-000677
+Age: 35 years
+Gender: Male
+
+Height: 162.6 cm
+Weight: 60.7 kg
+
+Blood Pressure: 129/66 mmHg
+Pulse: 98 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: -
+  HDL: 54 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.9 mg/dL
+BMI: 21.8
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 99 mL/min
+
+
+Impression:
+Lipid profile requires monitoring.

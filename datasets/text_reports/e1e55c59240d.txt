@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 63 Horizon Road, Northbay - 482720
+Phone: +91-85083-20483
+Email: info@bluevalley61.org
+Website: www.bluevalley165.org
+Accreditation Code: BL-42808
+
+Report ID: RPT-66D8C5B5
+Sample ID: SMP-93746
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5496
+
+Patient Name: Z***
+Patient ID: UH-001264
+Age: 83 years
+Gender: Male
+
+Height: -
+Weight: 62.0 kg
+
+Blood Pressure: -
+Pulse: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 137 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 155 mg/dL
+
+Hemoglobin: 10.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendation:
+Cholesterol borderline high; monitor regularly.

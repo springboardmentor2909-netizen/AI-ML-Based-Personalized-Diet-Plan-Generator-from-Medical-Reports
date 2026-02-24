@@ -1,0 +1,43 @@
+
+Everlight Medical Center
+Address: 47 Riverbend Ave, Westlake - 409799
+Phone: +91-92331-49925
+Email: info@everlight92.org
+Website: www.everlight581.org
+Accreditation Code: EV-36247
+
+Report ID: RPT-A0DD19BC
+Sample ID: SMP-17260
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5548
+
+Patient Name: L***
+Patient ID: UH-000590
+Age: 41 years
+Gender: Male
+
+Height: 171.8 cm
+Weight: 90.5 kg
+
+Blood Pressure: 142/110 mmHg
+Blood Glucose: 107 mg/dL
+
+Cholesterol Panel:
+  Total: 224 mg/dL
+  LDL: 83 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 142 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: -
+BMI: 21.4
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: -
+
+
+Summary:
+Blood pressure within acceptable range.

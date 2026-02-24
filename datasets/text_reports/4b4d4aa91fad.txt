@@ -1,0 +1,31 @@
+
+Everlight Medical Center
+Address: 68 Horizon Road, Silverpoint - 461580
+Phone: +91-86201-32469
+Email: info@everlight47.org
+Website: www.everlight542.org
+Accreditation Code: EV-81787
+
+Report ID: RPT-2E5195EB
+Sample ID: SMP-56811
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4694
+
+Patient Name: Y***
+Patient ID: UH-001438
+Age: 61
+Gender: Female
+
+Blood Pressure: 105/104 mmHg
+Pulse: 75 bpm
+Weight: 45.1 kg
+Cholesterol Total: 240 mg/dL
+HDL: 43 mg/dL
+Hemoglobin: 16.0 g/dL
+Creatinine: 0.73 mg/dL
+BMI: 21.1
+
+Impression:
+Patient reassured.

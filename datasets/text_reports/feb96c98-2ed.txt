@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 41 Sunrise Boulevard, Marigold City - 485362
+Phone: +91-80981-22809
+Email: info@greencrest47.org
+Website: www.greencrest878.org
+Accreditation Code: GR-96095
+
+Report ID: RPT-994F5AD7
+Sample ID: SMP-79703
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7064
+
+Patient Name: P***
+Patient ID: UH-000805
+Age: 85 years
+Gender: Other
+
+Height: 172.8 cm
+Weight: 61.9 kg
+
+Blood Pressure: 159/76 mmHg
+Pulse Rate: 104 bpm
+Glucose: 94 mg/dL
+
+Cholesterol Panel:
+  Total: 198 mg/dL
+  LDL: 106 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 0.83 mg/dL
+BMI: 20.5
+
+
+Doctor's Notes:
+Hydration emphasized.

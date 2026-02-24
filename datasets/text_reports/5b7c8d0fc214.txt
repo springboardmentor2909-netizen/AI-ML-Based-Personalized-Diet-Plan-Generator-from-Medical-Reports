@@ -1,0 +1,32 @@
+
+Riverdale Medical Center
+Address: 82 Evergreen Lane, Eastwood - 443782
+Phone: +91-94823-27865
+Email: info@riverdale34.org
+Website: www.riverdale853.org
+Accreditation Code: RI-10484
+
+Report ID: RPT-525E203B
+Sample ID: SMP-33985
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 06:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8561
+
+Patient Name: S***
+Patient ID: UH-001454
+Age: 35
+Gender: Male
+
+Blood Pressure: 143/65 mmHg
+Pulse: 93 bpm
+Weight: 97.9 kg
+Cholesterol Total: 212 mg/dL
+LDL: 70 mg/dL
+Triglycerides: 239 mg/dL
+Hemoglobin: 14.4 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 21.9
+
+Doctor's Comments:
+Hydration recommended.

@@ -1,0 +1,40 @@
+
+NovaPath Diagnostics
+Address: 69 Maple Drive, Northbay - 478665
+Phone: +91-91226-33185
+Email: info@novapath22.org
+Website: www.novapath826.org
+Accreditation Code: NO-34693
+
+Report ID: RPT-E392550F
+Sample ID: SMP-85274
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5542
+
+Patient Name: P***
+Patient ID: UH-001030
+Age: 50 years
+Gender: Female
+
+Height: -
+Weight: 74.4 kg
+
+Blood Pressure: -
+Pulse (bpm): 85 bpm
+Blood Sugar: 119 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 129 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.01 mg/dL
+BMI: -
+
+
+Remark:
+Pt stable. Continue routine follow-up.

@@ -1,0 +1,44 @@
+
+Greencrest Clinical Institute
+Address: 64 Alpine Street, Meadowridge - 445635
+Phone: +91-80419-99007
+Email: info@greencrest32.org
+Website: www.greencrest862.org
+Accreditation Code: GR-11290
+
+Report ID: RPT-6DF99A44
+Sample ID: SMP-91832
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1633
+
+Patient Name: V***
+Patient ID: UH-000878
+Age: 44 years
+Gender: Female
+
+Height: 186.4 cm
+Weight: 81.5 kg
+
+Blood Pressure: 166/77 mmHg
+Pulse Rate: 108 bpm
+Blood Sugar: 100 mg/dL
+
+Cholesterol Panel:
+  Total: 220 mg/dL
+  LDL: 140 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 242 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 0.96 mg/dL
+BMI: 32.1
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 96 mL/min
+
+
+Summary:
+Advised patient to avoid salty foods.

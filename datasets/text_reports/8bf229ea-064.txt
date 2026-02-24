@@ -1,0 +1,44 @@
+
+Starhaven Diagnostics
+Address: 39 Maple Drive, Northbay - 450296
+Phone: +91-73654-65204
+Email: info@starhaven67.org
+Website: www.starhaven139.org
+Accreditation Code: ST-94058
+
+Report ID: RPT-1BD4DEC0
+Sample ID: SMP-50354
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5665
+
+Patient Name: H***
+Patient ID: UH-001017
+Age: 61 years
+Gender: Male
+
+Height: 151.3 cm
+Weight: 94.2 kg
+
+Blood Pressure: 167/74 mmHg
+Pulse (bpm): 84 bpm
+Blood Sugar (Random): 139 mg/dL
+
+Cholesterol Panel:
+  Total: 160 mg/dL
+  LDL: 98 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 181 mg/dL
+
+Hemoglobin: 13.5 g/dL
+Creatinine: 0.86 mg/dL
+BMI: 30.1
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: 74 mL/min
+
+
+Impression:
+Consider ECG if palpitations recur.

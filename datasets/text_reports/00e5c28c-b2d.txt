@@ -1,0 +1,45 @@
+
+Everlight Hospital
+Address: 2 Sunrise Boulevard, Westlake - 402263
+Phone: +91-70029-39145
+Email: info@everlight71.org
+Website: www.everlight147.org
+Accreditation Code: EV-41185
+
+Report ID: RPT-215ADBB8
+Sample ID: SMP-85415
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6249
+
+Patient Name: U***
+Patient ID: UH-000426
+Age: 57 years
+Gender: Male
+
+Blood Pressure: 163/72 mmHg
+Blood Glucose: 84 mg/dL
+
+Cholesterol Panel:
+  Total: 162 mg/dL
+  LDL: 106 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.8 g/dL
+Creatinine: -
+BMI: 19.4
+
+LFT:
+  AST/SGOT: 40 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: -
+  eGFR: 79 mL/min
+
+
+Remarks:
+Blood pressure stable today.

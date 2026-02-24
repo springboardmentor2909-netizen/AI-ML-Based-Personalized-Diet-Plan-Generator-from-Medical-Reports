@@ -1,0 +1,44 @@
+
+PrimeCare Pathology Lab
+Address: 89 Alpine Street, Eastwood - 412364
+Phone: +91-75296-21857
+Email: info@primecare17.org
+Website: www.primecare321.org
+Accreditation Code: PR-61212
+
+Report ID: RPT-D92D09FD
+Sample ID: SMP-71732
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5676
+
+Patient Name: E***
+Patient ID: UH-001564
+Age: 37
+Gender: Female
+
+Blood Pressure: 147/97 mmHg
+Pulse: 108 bpm
+Blood Sugar (Random): 79 mg/dL
+Height: 186.9 cm
+Weight: 69.5 kg
+Cholesterol Total: 226 mg/dL
+LDL: 85 mg/dL
+HDL: 62 mg/dL
+Triglycerides: 248 mg/dL
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.63 mg/dL
+BMI: 34.7
+
+LFT:
+  AST/SGOT: 39 U/L
+  ALT/SGPT: 12 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 77 mL/min
+
+Summary:
+Condition stable.

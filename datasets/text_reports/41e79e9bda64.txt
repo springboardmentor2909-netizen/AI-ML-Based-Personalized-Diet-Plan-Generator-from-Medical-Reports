@@ -1,0 +1,29 @@
+
+ClearRiver Pathology Lab
+Address: 19 Sunrise Boulevard, Hillcrest - 452706
+Phone: +91-77163-87040
+Email: info@clearriver20.org
+Website: www.clearriver512.org
+Accreditation Code: CL-34374
+
+Report ID: RPT-BD917A74
+Sample ID: SMP-99952
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3313
+
+Patient Name: J***
+Patient ID: UH-001376
+Age: 62
+Gender: Other
+
+Pulse Rate: 104 bpm
+Height: 145.9 cm
+Weight: 47.8 kg
+HDL: 51 mg/dL
+Triglycerides: 182 mg/dL
+BMI: 30.7
+
+Doctor's Notes:
+Repeat tests if clinically required.

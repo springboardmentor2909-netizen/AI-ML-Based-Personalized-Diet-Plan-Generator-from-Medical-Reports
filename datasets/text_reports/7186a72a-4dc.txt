@@ -1,0 +1,36 @@
+
+SolacePoint Diagnostics
+Address: 11 Alpine Street, Westlake - 481864
+Phone: +91-92482-84944
+Email: info@solacepoint24.org
+Website: www.solacepoint944.org
+Accreditation Code: SO-49514
+
+Report ID: RPT-3EF25CED
+Sample ID: SMP-98739
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6360
+
+Patient Name: Y***
+Patient ID: UH-000470
+Age: 21 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 36 mg/dL
+  Triglycerides: 203 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Advice:
+Continue present medications.

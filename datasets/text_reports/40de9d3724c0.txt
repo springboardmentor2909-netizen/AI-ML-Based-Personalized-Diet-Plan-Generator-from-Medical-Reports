@@ -1,0 +1,28 @@
+
+Medisphere Clinical Institute
+Address: 61 Horizon Road, Westlake - 407859
+Phone: +91-82520-12787
+Email: info@medisphere61.org
+Website: www.medisphere309.org
+Accreditation Code: ME-47273
+
+Report ID: RPT-206B25AF
+Sample ID: SMP-40986
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7612
+
+Patient Name: L***
+Patient ID: UH-001524
+Age: 79
+Gender: Other
+
+Pulse: 93 bpm
+Blood Glucose: 141 mg/dL
+LDL: 123 mg/dL
+Triglycerides: 176 mg/dL
+Creatinine: 0.67 mg/dL
+
+Clinical Notes:
+Follow-up advised.

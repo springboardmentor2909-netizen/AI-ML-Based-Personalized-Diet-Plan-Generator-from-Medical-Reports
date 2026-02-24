@@ -1,0 +1,45 @@
+
+Starhaven Diagnostics
+Address: 53 Sunrise Boulevard, Marigold City - 488338
+Phone: +91-90083-53064
+Email: info@starhaven96.org
+Website: www.starhaven585.org
+Accreditation Code: ST-87599
+
+Report ID: RPT-BF84413C
+Sample ID: SMP-53043
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5244
+
+Patient Name: H***
+Patient ID: UH-001127
+Age: 47 years
+Gender: Female
+
+Height: 147.5 cm
+Weight: -
+
+Blood Pressure: 123/64 mmHg
+Pulse Rate: 81 bpm
+Blood Glucose: 80 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 85 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 188 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.24 mg/dL
+BMI: 33.0
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: 20 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Doctor's Notes:
+Continue existing therapy.

@@ -1,0 +1,40 @@
+
+Silver Oak Hospital
+Address: 16 Maple Drive, Hillcrest - 460001
+Phone: +91-83726-70599
+Email: info@silver oak15.org
+Website: www.silver oak265.org
+Accreditation Code: SI-25237
+
+Report ID: RPT-6E032445
+Sample ID: SMP-28381
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5980
+
+Patient Name: H***
+Patient ID: UH-001211
+Age: 66 years
+Gender: Other
+
+Height: 149.6 cm
+Weight: 88.2 kg
+
+Blood Pressure: 139/103 mmHg
+Pulse: 61 bpm
+Blood Sugar: 159 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: 132 mg/dL
+  HDL: 47 mg/dL
+  Triglycerides: 178 mg/dL
+
+Hemoglobin: 10.6 g/dL
+Creatinine: 1.59 mg/dL
+BMI: 25.0
+
+
+Remarks:
+Increase physical movement.

@@ -1,0 +1,40 @@
+
+ClearRiver Pathology Lab
+Address: 69 Maple Drive, Westlake - 443768
+Phone: +91-74725-40735
+Email: info@clearriver10.org
+Website: www.clearriver410.org
+Accreditation Code: CL-31364
+
+Report ID: RPT-CE45E654
+Sample ID: SMP-15047
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8627
+
+Patient Name: I***
+Patient ID: UH-000905
+Age: 53 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: 81 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 104 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Doctor's Notes:
+Lifestyle counseling advised.

@@ -1,0 +1,40 @@
+
+NovaPath Hospital
+Address: 80 Maple Drive, Clearwater - 401476
+Phone: +91-78918-60144
+Email: info@novapath64.org
+Website: www.novapath899.org
+Accreditation Code: NO-52624
+
+Report ID: RPT-069FD971
+Sample ID: SMP-99149
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8781
+
+Patient Name: A***
+Patient ID: UH-000986
+Age: 59 years
+Gender: Other
+
+Height: -
+Weight: 70.8 kg
+
+Blood Pressure: -
+Pulse (bpm): 75 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 215 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 30.0
+
+
+Summary:
+Hydration emphasized.

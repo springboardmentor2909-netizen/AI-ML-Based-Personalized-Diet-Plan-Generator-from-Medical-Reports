@@ -1,0 +1,45 @@
+
+SolacePoint Medical Center
+Address: 89 Evergreen Lane, Marigold City - 417275
+Phone: +91-87454-36571
+Email: info@solacepoint44.org
+Website: www.solacepoint868.org
+Accreditation Code: SO-68576
+
+Report ID: RPT-D6E33C4E
+Sample ID: SMP-44357
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8919
+
+Patient Name: J***
+Patient ID: UH-000963
+Age: 63 years
+Gender: Female
+
+Height: 146.1 cm
+Weight: 57.4 kg
+
+Blood Pressure: 112/83 mmHg
+Pulse (bpm): 70 bpm
+Blood Glucose: 96 mg/dL
+
+Cholesterol Panel:
+  Total: 246 mg/dL
+  LDL: 113 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 202 mg/dL
+
+Hemoglobin: 11.4 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 33.2
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 41 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Advice:
+Glucose slightly elevated; review diet and exercise.

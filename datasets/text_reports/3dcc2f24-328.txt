@@ -1,0 +1,45 @@
+
+Medisphere Hospital
+Address: 20 Evergreen Lane, Clearwater - 464081
+Phone: +91-73241-69301
+Email: info@medisphere84.org
+Website: www.medisphere557.org
+Accreditation Code: ME-35463
+
+Report ID: RPT-4C54AE08
+Sample ID: SMP-45544
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4249
+
+Patient Name: O***
+Patient ID: UH-000634
+Age: 70 years
+Gender: Other
+
+Height: 146.3 cm
+Weight: 67.0 kg
+
+Blood Pressure: 131/88 mmHg
+Pulse: 77 bpm
+Blood Glucose: 119 mg/dL
+
+Cholesterol Panel:
+  Total: 234 mg/dL
+  LDL: 132 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: 13.4 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 18.5
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: 45 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Summary:
+Lipid profile requires monitoring.

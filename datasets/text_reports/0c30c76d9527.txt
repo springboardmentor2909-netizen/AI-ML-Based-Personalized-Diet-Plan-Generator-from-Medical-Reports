@@ -1,0 +1,33 @@
+
+Riverdale Diagnostics
+Address: 39 Maple Drive, Meadowridge - 433753
+Phone: +91-99953-70928
+Email: info@riverdale55.org
+Website: www.riverdale670.org
+Accreditation Code: RI-28518
+
+Report ID: RPT-F1C3533D
+Sample ID: SMP-55784
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8337
+
+Patient Name: O***
+Patient ID: UH-001328
+Age: 25
+Gender: Male
+
+Blood Pressure: 113/98 mmHg
+Pulse: 68 bpm
+Blood Sugar (Random): 129 mg/dL
+Height: 145.4 cm
+Weight: 48.3 kg
+Cholesterol Total: 185 mg/dL
+LDL: 107 mg/dL
+HDL: 61 mg/dL
+Triglycerides: 265 mg/dL
+Hemoglobin: 13.3 g/dL
+
+Doctor's Comments:
+Major dietary change required.

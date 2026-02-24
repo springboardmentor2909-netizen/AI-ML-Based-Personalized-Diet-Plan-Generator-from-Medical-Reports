@@ -1,0 +1,36 @@
+
+Everlight Hospital
+Address: 9 Alpine Street, Marigold City - 408002
+Phone: +91-96423-92747
+Email: info@everlight17.org
+Website: www.everlight933.org
+Accreditation Code: EV-14406
+
+Report ID: RPT-4962E88B
+Sample ID: SMP-81635
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9971
+
+Patient Name: G***
+Patient ID: UH-000498
+Age: 74 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar (Random): 135 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.4 g/dL
+Creatinine: -
+BMI: 21.3
+
+
+Doctor's Notes:
+Lipid levels require monitoring.

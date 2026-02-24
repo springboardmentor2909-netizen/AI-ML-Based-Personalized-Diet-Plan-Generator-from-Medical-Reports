@@ -1,0 +1,37 @@
+
+ClearRiver Diagnostics
+Address: 54 Evergreen Lane, Meadowridge - 431062
+Phone: +91-92001-41770
+Email: info@clearriver87.org
+Website: www.clearriver152.org
+Accreditation Code: CL-32504
+
+Report ID: RPT-5A2973A7
+Sample ID: SMP-89081
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9332
+
+Patient Name: I***
+Patient ID: UH-001361
+Age: 34
+Gender: Other
+
+Blood Pressure: 168/100 mmHg
+Pulse: 78 bpm
+Blood Sugar: 107 mg/dL
+Height: 161.8 cm
+Cholesterol Total: 150 mg/dL
+LDL: 90 mg/dL
+HDL: 39 mg/dL
+Triglycerides: 125 mg/dL
+Hemoglobin: 12.8 g/dL
+Creatinine: 0.73 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 90 mL/min
+
+Doctor's Comments:
+Minor vitamin deficiency probable.

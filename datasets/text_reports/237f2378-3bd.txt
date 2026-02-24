@@ -1,0 +1,45 @@
+
+NovaPath Diagnostics
+Address: 62 Horizon Road, Marigold City - 419902
+Phone: +91-74259-94470
+Email: info@novapath59.org
+Website: www.novapath553.org
+Accreditation Code: NO-36758
+
+Report ID: RPT-270A86BD
+Sample ID: SMP-42698
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3974
+
+Patient Name: O***
+Patient ID: UH-001143
+Age: 79 years
+Gender: Other
+
+Height: 167.3 cm
+Weight: -
+
+Blood Pressure: 136/88 mmHg
+Pulse Rate: 67 bpm
+Blood Glucose: 163 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 149 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: 212 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.05 mg/dL
+BMI: 25.3
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.8 mg/dL
+
+
+Recommendations:
+Encouraged improved hydration.

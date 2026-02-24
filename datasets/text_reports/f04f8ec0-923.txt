@@ -1,0 +1,40 @@
+
+PrimeCare Clinical Institute
+Address: 47 Alpine Street, Westlake - 419164
+Phone: +91-93898-55832
+Email: info@primecare19.org
+Website: www.primecare591.org
+Accreditation Code: PR-60996
+
+Report ID: RPT-70692988
+Sample ID: SMP-86670
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3630
+
+Patient Name: O***
+Patient ID: UH-001075
+Age: 81 years
+Gender: Female
+
+Height: 172.6 cm
+Weight: 61.5 kg
+
+Blood Pressure: 141/75 mmHg
+Pulse (bpm): -
+Blood Glucose: 100 mg/dL
+
+Cholesterol Panel:
+  Total: 250 mg/dL
+  LDL: 139 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 185 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.33 mg/dL
+BMI: 18.9
+
+
+Remark:
+Repeat test if clinically indicated.

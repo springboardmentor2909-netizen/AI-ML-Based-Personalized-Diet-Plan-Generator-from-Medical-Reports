@@ -1,0 +1,48 @@
+
+Riverdale Diagnostics
+Address: 93 Horizon Road, Hillcrest - 480836
+Phone: +91-94241-43849
+Email: info@riverdale25.org
+Website: www.riverdale183.org
+Accreditation Code: RI-98138
+
+Report ID: RPT-F92AB19D
+Sample ID: SMP-36592
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5753
+
+Patient Name: U***
+Patient ID: UH-000522
+Age: 77 years
+Gender: Male
+
+Height: -
+Weight: 60.3 kg
+
+Blood Pressure: 145/61 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 145 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 129 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.49 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 38 U/L
+  ALT/SGPT: 44 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 111 mL/min
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

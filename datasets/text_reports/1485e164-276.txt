@@ -1,0 +1,49 @@
+
+Greencrest Medical Center
+Address: 39 Alpine Street, Silverpoint - 487880
+Phone: +91-95165-97405
+Email: info@greencrest22.org
+Website: www.greencrest164.org
+Accreditation Code: GR-60564
+
+Report ID: RPT-54E57144
+Sample ID: SMP-49475
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7892
+
+Patient Name: V***
+Patient ID: UH-000830
+Age: 81 years
+Gender: Other
+
+Height: 168.7 cm
+Weight: 59.8 kg
+
+Blood Pressure: 167/98 mmHg
+Pulse: 85 bpm
+Blood Sugar: 129 mg/dL
+
+Cholesterol Panel:
+  Total: 241 mg/dL
+  LDL: 110 mg/dL
+  HDL: -
+  Triglycerides: 174 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.06 mg/dL
+BMI: 31.4
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 15 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 32 mg/dL
+  eGFR: 114 mL/min
+
+
+Doctor's Notes:
+Monitor BP at home regularly.

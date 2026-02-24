@@ -1,0 +1,40 @@
+
+Silver Oak Pathology Lab
+Address: 20 Sunrise Boulevard, Silverpoint - 437614
+Phone: +91-98403-29588
+Email: info@silver oak24.org
+Website: www.silver oak154.org
+Accreditation Code: SI-19411
+
+Report ID: RPT-E2469CDF
+Sample ID: SMP-12022
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6363
+
+Patient Name: J***
+Patient ID: UH-000486
+Age: 81 years
+Gender: Female
+
+Blood Pressure: 165/78 mmHg
+Blood Sugar (Random): 106 mg/dL
+
+Cholesterol Panel:
+  Total: 189 mg/dL
+  LDL: 144 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 107 mg/dL
+
+Hemoglobin: 13.0 g/dL
+Creatinine: 0.78 mg/dL
+BMI: 22.3
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 73 mL/min
+
+
+Clinical Notes:
+Continue present medications.

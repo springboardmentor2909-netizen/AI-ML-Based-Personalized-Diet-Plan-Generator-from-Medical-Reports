@@ -1,0 +1,39 @@
+
+ClearRiver Pathology Lab
+Address: 61 Horizon Road, Eastwood - 439581
+Phone: +91-78799-57960
+Email: info@clearriver81.org
+Website: www.clearriver477.org
+Accreditation Code: CL-76664
+
+Report ID: RPT-4621D7F3
+Sample ID: SMP-90788
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2982
+
+Patient Name: K***
+Patient ID: UH-000521
+Age: 74 years
+Gender: Other
+
+Height: 166.4 cm
+Weight: 45.7 kg
+
+Blood Pressure: -
+Glucose: 128 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 105 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 201 mg/dL
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.44 mg/dL
+BMI: -
+
+
+Recommendations:
+Continue present medications.

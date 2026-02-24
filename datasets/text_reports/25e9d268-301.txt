@@ -1,0 +1,39 @@
+
+Silver Oak Medical Center
+Address: 45 Sunrise Boulevard, Westlake - 444797
+Phone: +91-78674-12920
+Email: info@silver oak80.org
+Website: www.silver oak498.org
+Accreditation Code: SI-57823
+
+Report ID: RPT-F51A148D
+Sample ID: SMP-51876
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3827
+
+Patient Name: O***
+Patient ID: UH-000561
+Age: 84 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 169/86 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 171 mg/dL
+  LDL: 140 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.3 g/dL
+Creatinine: -
+BMI: -
+
+
+Recommendation:
+Lipid profile requires monitoring.

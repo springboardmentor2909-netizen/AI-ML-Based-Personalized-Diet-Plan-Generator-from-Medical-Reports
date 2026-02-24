@@ -1,0 +1,48 @@
+
+Everlight Pathology Lab
+Address: 90 Riverbend Ave, Meadowridge - 418816
+Phone: +91-83624-40123
+Email: info@everlight80.org
+Website: www.everlight350.org
+Accreditation Code: EV-25490
+
+Report ID: RPT-B221A72B
+Sample ID: SMP-76347
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7074
+
+Patient Name: M***
+Patient ID: UH-000548
+Age: 38 years
+Gender: Female
+
+Height: 167.3 cm
+Weight: 73.1 kg
+
+Blood Pressure: -
+Glucose: 131 mg/dL
+
+Cholesterol Panel:
+  Total: 254 mg/dL
+  LDL: 137 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 1.41 mg/dL
+BMI: 33.1
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 106 mL/min
+
+
+Summary:
+Continue present medications.

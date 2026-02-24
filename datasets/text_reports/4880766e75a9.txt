@@ -1,0 +1,44 @@
+
+Riverdale Medical Center
+Address: 76 Evergreen Lane, Meadowridge - 473762
+Phone: +91-79134-15975
+Email: info@riverdale88.org
+Website: www.riverdale463.org
+Accreditation Code: RI-19381
+
+Report ID: RPT-AB807FB8
+Sample ID: SMP-86575
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3552
+
+Patient Name: P***
+Patient ID: UH-001343
+Age: 66
+Gender: Male
+
+Blood Pressure: 129/63 mmHg
+Pulse (bpm): 90 bpm
+Blood Glucose: 167 mg/dL
+Height: 180.0 cm
+Weight: 70.0 kg
+Cholesterol Total: 222 mg/dL
+LDL: 94 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 201 mg/dL
+Hemoglobin: 15.2 g/dL
+Creatinine: 1.65 mg/dL
+BMI: 25.7
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 119 mL/min
+
+Remark:
+Lifestyle changes discussed with patient.

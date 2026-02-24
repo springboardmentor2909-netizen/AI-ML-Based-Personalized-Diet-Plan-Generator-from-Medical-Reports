@@ -1,0 +1,40 @@
+
+Northlake Hospital
+Address: 34 Riverbend Ave, Silverpoint - 428070
+Phone: +91-81151-68556
+Email: info@northlake33.org
+Website: www.northlake974.org
+Accreditation Code: NO-48255
+
+Report ID: RPT-411B55A1
+Sample ID: SMP-74860
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1080
+
+Patient Name: R***
+Patient ID: UH-000674
+Age: 83 years
+Gender: Other
+
+Height: 182.4 cm
+Weight: -
+
+Blood Pressure: 149/105 mmHg
+Pulse (bpm): 106 bpm
+Blood Sugar (Random): 135 mg/dL
+
+Cholesterol Panel:
+  Total: 172 mg/dL
+  LDL: 140 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.5 mg/dL
+BMI: 23.3
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

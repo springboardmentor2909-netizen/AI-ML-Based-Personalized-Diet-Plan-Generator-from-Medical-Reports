@@ -1,0 +1,43 @@
+
+Medisphere Medical Center
+Address: 4 Sunrise Boulevard, Meadowridge - 455700
+Phone: +91-95411-10362
+Email: info@medisphere28.org
+Website: www.medisphere877.org
+Accreditation Code: ME-32730
+
+Report ID: RPT-1C8C1351
+Sample ID: SMP-81760
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3365
+
+Patient Name: G***
+Patient ID: UH-000519
+Age: 51 years
+Gender: Male
+
+Height: 172.9 cm
+Weight: 91.8 kg
+
+Blood Pressure: 166/74 mmHg
+Blood Glucose: 113 mg/dL
+
+Cholesterol Panel:
+  Total: 224 mg/dL
+  LDL: 105 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 138 mg/dL
+
+Hemoglobin: 11.5 g/dL
+Creatinine: 1.45 mg/dL
+BMI: 25.9
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 65 mL/min
+
+
+Doctor's Comments:
+Glucose levels mildly elevated; lifestyle changes advised.

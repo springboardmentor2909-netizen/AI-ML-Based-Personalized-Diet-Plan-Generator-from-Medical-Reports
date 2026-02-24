@@ -1,0 +1,39 @@
+
+Riverdale Pathology Lab
+Address: 82 Evergreen Lane, Hillcrest - 432532
+Phone: +91-72583-60407
+Email: info@riverdale56.org
+Website: www.riverdale653.org
+Accreditation Code: RI-83350
+
+Report ID: RPT-5D94F668
+Sample ID: SMP-76153
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4451
+
+Patient Name: C***
+Patient ID: UH-000501
+Age: 35 years
+Gender: Male
+
+Height: -
+Weight: 69.6 kg
+
+Blood Pressure: 147/107 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 160 mg/dL
+  LDL: 104 mg/dL
+  HDL: 45 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

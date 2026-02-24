@@ -1,0 +1,30 @@
+
+Northlake Diagnostics
+Address: 35 Evergreen Lane, Westlake - 491679
+Phone: +91-92610-80747
+Email: info@northlake16.org
+Website: www.northlake412.org
+Accreditation Code: NO-22950
+
+Report ID: RPT-C9B36B76
+Sample ID: SMP-83831
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 09:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3236
+
+Patient Name: Z***
+Patient ID: UH-001483
+Age: 72
+Gender: Female
+
+Pulse: 102 bpm
+Height: 152.2 cm
+Cholesterol Total: 172 mg/dL
+LDL: 106 mg/dL
+Triglycerides: 155 mg/dL
+Creatinine: 1.57 mg/dL
+BMI: 22.9
+
+Clinical Notes:
+Patient reassured.

@@ -1,0 +1,44 @@
+
+NovaPath Diagnostics
+Address: 66 Riverbend Ave, Northbay - 443765
+Phone: +91-80664-29656
+Email: info@novapath27.org
+Website: www.novapath762.org
+Accreditation Code: NO-82887
+
+Report ID: RPT-C903C6FF
+Sample ID: SMP-41084
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6000
+
+Patient Name: X***
+Patient ID: UH-001311
+Age: 37
+Gender: Female
+
+Blood Pressure: 134/72 mmHg
+Pulse (bpm): 67 bpm
+Glucose: 114 mg/dL
+Height: 159.9 cm
+Weight: 99.9 kg
+Cholesterol Total: 228 mg/dL
+LDL: 104 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 222 mg/dL
+Hemoglobin: 12.7 g/dL
+Creatinine: 0.95 mg/dL
+BMI: 32.8
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 103 mL/min
+
+Clinical Notes:
+Encouraged regular physical activity.

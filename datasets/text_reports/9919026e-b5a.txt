@@ -1,0 +1,36 @@
+
+Everlight Hospital
+Address: 2 Sunrise Boulevard, Westlake - 402263
+Phone: +91-70029-39145
+Email: info@everlight71.org
+Website: www.everlight147.org
+Accreditation Code: EV-41185
+
+Report ID: RPT-444945E5
+Sample ID: SMP-90280
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6628
+
+Patient Name: L***
+Patient ID: UH-000460
+Age: 64 years
+Gender: Female
+
+Blood Pressure: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 57 mg/dL
+  Triglycerides: 227 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 29.7
+
+
+Recommendations:
+Glucose levels mildly elevated; lifestyle changes advised.

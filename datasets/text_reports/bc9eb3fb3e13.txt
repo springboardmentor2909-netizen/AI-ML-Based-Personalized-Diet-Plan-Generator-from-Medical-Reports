@@ -1,0 +1,33 @@
+
+ClearRiver Clinical Institute
+Address: 58 Alpine Street, Hillcrest - 404124
+Phone: +91-88376-38875
+Email: info@clearriver62.org
+Website: www.clearriver965.org
+Accreditation Code: CL-20215
+
+Report ID: RPT-ACD7C56E
+Sample ID: SMP-63764
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4327
+
+Patient Name: H***
+Patient ID: UH-001554
+Age: 34
+Gender: Other
+
+Blood Pressure: 106/99 mmHg
+Blood Glucose: 167 mg/dL
+Height: 178.1 cm
+Weight: 97.0 kg
+Cholesterol Total: 192 mg/dL
+HDL: 57 mg/dL
+Triglycerides: 205 mg/dL
+Hemoglobin: 15.2 g/dL
+Creatinine: 1.38 mg/dL
+BMI: 25.5
+
+Remarks:
+Discussed results; patient understood.

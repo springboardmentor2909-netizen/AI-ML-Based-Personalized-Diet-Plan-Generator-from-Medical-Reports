@@ -1,0 +1,31 @@
+
+Medisphere Diagnostics
+Address: 22 Alpine Street, Clearwater - 448657
+Phone: +91-81310-58174
+Email: info@medisphere43.org
+Website: www.medisphere220.org
+Accreditation Code: ME-10513
+
+Report ID: RPT-E173B848
+Sample ID: SMP-14580
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7015
+
+Patient Name: G***
+Patient ID: UH-001499
+Age: 35
+Gender: Female
+
+Blood Pressure: 109/77 mmHg
+Pulse: 107 bpm
+Height: 146.1 cm
+Weight: 77.3 kg
+Cholesterol Total: 188 mg/dL
+HDL: 41 mg/dL
+Hemoglobin: 15.1 g/dL
+BMI: 34.2
+
+Advice:
+Continue medications.

@@ -1,0 +1,44 @@
+
+Starhaven Medical Center
+Address: 77 Maple Drive, Northbay - 480415
+Phone: +91-77992-29673
+Email: info@starhaven15.org
+Website: www.starhaven742.org
+Accreditation Code: ST-20567
+
+Report ID: RPT-49D628C1
+Sample ID: SMP-83219
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9219
+
+Patient Name: L***
+Patient ID: UH-001151
+Age: 52 years
+Gender: Male
+
+Height: 161.5 cm
+Weight: 45.1 kg
+
+Blood Pressure: 167/86 mmHg
+Pulse (bpm): 84 bpm
+Blood Sugar (Random): 123 mg/dL
+
+Cholesterol Panel:
+  Total: 199 mg/dL
+  LDL: 137 mg/dL
+  HDL: 36 mg/dL
+  Triglycerides: 121 mg/dL
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 31.9
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 113 mL/min
+
+
+Clinical Notes:
+Follow-up in OPD advised.

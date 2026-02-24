@@ -1,0 +1,45 @@
+
+SolacePoint Medical Center
+Address: 63 Alpine Street, Hillcrest - 413437
+Phone: +91-87128-32589
+Email: info@solacepoint37.org
+Website: www.solacepoint208.org
+Accreditation Code: SO-40096
+
+Report ID: RPT-06222B64
+Sample ID: SMP-52191
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7817
+
+Patient Name: O***
+Patient ID: UH-000936
+Age: 54 years
+Gender: Female
+
+Height: -
+Weight: 45.3 kg
+
+Blood Pressure: 169/91 mmHg
+Pulse (bpm): 63 bpm
+Blood Glucose: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 176 mg/dL
+  LDL: 97 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 1.28 mg/dL
+BMI: 20.7
+
+LFT:
+  AST/SGOT: 35 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Impression:
+Sugar levels within acceptable range.

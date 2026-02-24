@@ -1,0 +1,33 @@
+
+ClearRiver Pathology Lab
+Address: 72 Evergreen Lane, Meadowridge - 456005
+Phone: +91-71524-30833
+Email: info@clearriver68.org
+Website: www.clearriver456.org
+Accreditation Code: CL-71233
+
+Report ID: RPT-21A294DC
+Sample ID: SMP-21949
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2335
+
+Patient Name: Y***
+Patient ID: UH-001504
+Age: 71
+Gender: Male
+
+Blood Pressure: 120/103 mmHg
+Pulse (bpm): 79 bpm
+Glucose: 146 mg/dL
+Height: 170.3 cm
+Weight: 61.5 kg
+Cholesterol Total: 166 mg/dL
+LDL: 114 mg/dL
+Triglycerides: 94 mg/dL
+Hemoglobin: 13.6 g/dL
+BMI: 23.4
+
+Advice:
+Repeat lipid panel in future.

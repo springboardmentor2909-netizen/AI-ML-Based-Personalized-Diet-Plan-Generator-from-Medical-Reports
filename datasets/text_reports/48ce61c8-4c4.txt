@@ -1,0 +1,41 @@
+
+SolacePoint Clinical Institute
+Address: 46 Maple Drive, Eastwood - 463566
+Phone: +91-81287-80481
+Email: info@solacepoint71.org
+Website: www.solacepoint189.org
+Accreditation Code: SO-48405
+
+Report ID: RPT-9D4F3FA5
+Sample ID: SMP-94407
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6715
+
+Patient Name: V***
+Patient ID: UH-000472
+Age: 49 years
+Gender: Other
+
+Blood Pressure: 135/65 mmHg
+Glucose: 95 mg/dL
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: 110 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.74 mg/dL
+BMI: 25.8
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: 45 U/L
+  Bilirubin Total: -
+
+
+Clinical Notes:
+Lipid levels require monitoring.

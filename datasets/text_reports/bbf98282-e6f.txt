@@ -1,0 +1,40 @@
+
+Greencrest Medical Center
+Address: 54 Riverbend Ave, Meadowridge - 485161
+Phone: +91-78060-11209
+Email: info@greencrest11.org
+Website: www.greencrest178.org
+Accreditation Code: GR-65444
+
+Report ID: RPT-DF9469D5
+Sample ID: SMP-48198
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5944
+
+Patient Name: J***
+Patient ID: UH-000622
+Age: 85 years
+Gender: Female
+
+Height: 176.2 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 116 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.29 mg/dL
+BMI: 30.4
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

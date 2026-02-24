@@ -1,0 +1,45 @@
+
+Starhaven Clinical Institute
+Address: 80 Alpine Street, Eastwood - 439060
+Phone: +91-73973-66451
+Email: info@starhaven17.org
+Website: www.starhaven512.org
+Accreditation Code: ST-67687
+
+Report ID: RPT-0E063EE0
+Sample ID: SMP-63400
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5315
+
+Patient Name: M***
+Patient ID: UH-001131
+Age: 60 years
+Gender: Female
+
+Height: 183.3 cm
+Weight: 46.9 kg
+
+Blood Pressure: 123/100 mmHg
+Pulse (bpm): 100 bpm
+Blood Glucose: 129 mg/dL
+
+Cholesterol Panel:
+  Total: 179 mg/dL
+  LDL: 134 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 221 mg/dL
+
+Hemoglobin: 10.8 g/dL
+Creatinine: 0.75 mg/dL
+BMI: 18.9
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Remarks:
+Blood sugar trending upward; review lifestyle changes.

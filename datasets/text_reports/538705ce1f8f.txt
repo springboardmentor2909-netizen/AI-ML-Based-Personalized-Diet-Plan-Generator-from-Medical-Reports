@@ -1,0 +1,37 @@
+
+PrimeCare Pathology Lab
+Address: 38 Alpine Street, Meadowridge - 402947
+Phone: +91-81411-95307
+Email: info@primecare26.org
+Website: www.primecare600.org
+Accreditation Code: PR-37963
+
+Report ID: RPT-555BC710
+Sample ID: SMP-64597
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1259
+
+Patient Name: V***
+Patient ID: UH-001315
+Age: 80
+Gender: Female
+
+Blood Pressure: 170/100 mmHg
+Pulse Rate: 100 bpm
+Blood Sugar: 97 mg/dL
+Cholesterol Total: 171 mg/dL
+LDL: 98 mg/dL
+HDL: 40 mg/dL
+Triglycerides: 258 mg/dL
+Hemoglobin: 12.3 g/dL
+BMI: 35.2
+
+LFT:
+  AST/SGOT: 40 U/L
+  ALT/SGPT: 22 U/L
+  Bilirubin Total: 0.3 mg/dL
+
+Advice:
+Cholesterol borderline; monitor periodically.

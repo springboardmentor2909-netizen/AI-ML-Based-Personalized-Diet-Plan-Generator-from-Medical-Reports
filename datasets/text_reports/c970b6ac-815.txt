@@ -1,0 +1,45 @@
+
+Medisphere Clinical Institute
+Address: 41 Alpine Street, Clearwater - 485158
+Phone: +91-99077-22028
+Email: info@medisphere27.org
+Website: www.medisphere194.org
+Accreditation Code: ME-62992
+
+Report ID: RPT-278FAF31
+Sample ID: SMP-30398
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6207
+
+Patient Name: P***
+Patient ID: UH-000930
+Age: 44 years
+Gender: Female
+
+Height: 165.8 cm
+Weight: 86.5 kg
+
+Blood Pressure: 110/106 mmHg
+Pulse: 63 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 227 mg/dL
+  LDL: 133 mg/dL
+  HDL: -
+  Triglycerides: 100 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.79 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+
+Doctor's Notes:
+Patient advised to maintain hydration.

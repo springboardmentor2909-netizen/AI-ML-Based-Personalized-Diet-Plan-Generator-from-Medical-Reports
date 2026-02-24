@@ -1,0 +1,45 @@
+
+Starhaven Medical Center
+Address: 77 Maple Drive, Northbay - 480415
+Phone: +91-77992-29673
+Email: info@starhaven15.org
+Website: www.starhaven742.org
+Accreditation Code: ST-20567
+
+Report ID: RPT-B7DA06C4
+Sample ID: SMP-44152
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7234
+
+Patient Name: Y***
+Patient ID: UH-001149
+Age: 66 years
+Gender: Female
+
+Height: -
+Weight: 76.3 kg
+
+Blood Pressure: 136/75 mmHg
+Pulse Rate: 60 bpm
+Blood Glucose: 87 mg/dL
+
+Cholesterol Panel:
+  Total: 177 mg/dL
+  LDL: 143 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 130 mg/dL
+
+Hemoglobin: 10.8 g/dL
+Creatinine: 0.92 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Impression:
+Blood sugar trending upward; review lifestyle changes.

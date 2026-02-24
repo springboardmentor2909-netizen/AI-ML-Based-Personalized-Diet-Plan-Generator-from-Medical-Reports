@@ -1,0 +1,45 @@
+
+PrimeCare Clinical Institute
+Address: 12 Evergreen Lane, Marigold City - 422245
+Phone: +91-81679-48807
+Email: info@primecare25.org
+Website: www.primecare608.org
+Accreditation Code: PR-12598
+
+Report ID: RPT-2FB8DFE2
+Sample ID: SMP-23509
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6977
+
+Patient Name: L***
+Patient ID: UH-000815
+Age: 45 years
+Gender: Other
+
+Height: 148.6 cm
+Weight: 46.9 kg
+
+Blood Pressure: 111/86 mmHg
+Pulse: 82 bpm
+Blood Glucose: 157 mg/dL
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: 152 mg/dL
+  HDL: 36 mg/dL
+  Triglycerides: 250 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 0.94 mg/dL
+BMI: 21.7
+
+LFT:
+  AST/SGOT: 31 U/L
+  ALT/SGPT: 15 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Doctor's Comments:
+Continue present medications.

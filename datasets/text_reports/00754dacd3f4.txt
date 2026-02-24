@@ -1,0 +1,32 @@
+
+Riverdale Hospital
+Address: 74 Riverbend Ave, Northbay - 410330
+Phone: +91-74143-43323
+Email: info@riverdale11.org
+Website: www.riverdale425.org
+Accreditation Code: RI-84270
+
+Report ID: RPT-93DBB90F
+Sample ID: SMP-70385
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9802
+
+Patient Name: N***
+Patient ID: UH-001399
+Age: 72
+Gender: Other
+
+Blood Pressure: 114/90 mmHg
+Pulse: 100 bpm
+Height: 186.6 cm
+Weight: 51.0 kg
+Cholesterol Total: 260 mg/dL
+LDL: 159 mg/dL
+HDL: 56 mg/dL
+Hemoglobin: 11.1 g/dL
+BMI: 24.5
+
+Recommendation:
+Vitals normal; continue medications.

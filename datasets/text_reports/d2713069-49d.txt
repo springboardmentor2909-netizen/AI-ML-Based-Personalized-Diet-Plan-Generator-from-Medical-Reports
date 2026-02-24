@@ -1,0 +1,40 @@
+
+Silver Oak Clinical Institute
+Address: 67 Sunrise Boulevard, Northbay - 435134
+Phone: +91-99033-57394
+Email: info@silver oak22.org
+Website: www.silver oak370.org
+Accreditation Code: SI-73051
+
+Report ID: RPT-EADB52AD
+Sample ID: SMP-40757
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6617
+
+Patient Name: R***
+Patient ID: UH-000641
+Age: 59 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: 105 bpm
+Blood Glucose: 134 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 149 mg/dL
+  HDL: 54 mg/dL
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.35 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Follow-up recommended after 2 weeks.

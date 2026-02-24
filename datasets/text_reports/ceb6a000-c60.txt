@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 84 Alpine Street, Meadowridge - 457714
+Phone: +91-73517-76346
+Email: info@bluevalley68.org
+Website: www.bluevalley527.org
+Accreditation Code: BL-26156
+
+Report ID: RPT-B46A3EDF
+Sample ID: SMP-52726
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2448
+
+Patient Name: F***
+Patient ID: UH-000423
+Age: 57 years
+Gender: Other
+
+Blood Pressure: 170/104 mmHg
+Blood Sugar: 88 mg/dL
+
+Cholesterol Panel:
+  Total: 198 mg/dL
+  LDL: 135 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 230 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.79 mg/dL
+BMI: 30.6
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Recommendations:
+Lipid levels require monitoring.

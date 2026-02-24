@@ -1,0 +1,44 @@
+
+Riverdale Pathology Lab
+Address: 81 Sunrise Boulevard, Meadowridge - 445742
+Phone: +91-96789-20955
+Email: info@riverdale43.org
+Website: www.riverdale662.org
+Accreditation Code: RI-86952
+
+Report ID: RPT-1279564B
+Sample ID: SMP-51039
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-1776
+
+Patient Name: S***
+Patient ID: UH-001026
+Age: 76 years
+Gender: Female
+
+Height: 170.6 cm
+Weight: 87.5 kg
+
+Blood Pressure: 128/94 mmHg
+Pulse Rate: 76 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 48 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.45 mg/dL
+BMI: 33.9
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 81 mL/min
+
+
+Impression:
+Cholesterol borderline. Consider dietary modification.

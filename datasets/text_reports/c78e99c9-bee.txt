@@ -1,0 +1,45 @@
+
+Starhaven Medical Center
+Address: 36 Alpine Street, Hillcrest - 422285
+Phone: +91-99904-24855
+Email: info@starhaven42.org
+Website: www.starhaven675.org
+Accreditation Code: ST-59299
+
+Report ID: RPT-4AF4B7D6
+Sample ID: SMP-58632
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9635
+
+Patient Name: E***
+Patient ID: UH-000837
+Age: 70 years
+Gender: Other
+
+Height: 156.4 cm
+Weight: 72.6 kg
+
+Blood Pressure: 146/67 mmHg
+Pulse (bpm): 65 bpm
+Blood Glucose: 82 mg/dL
+
+Cholesterol Panel:
+  Total: 198 mg/dL
+  LDL: -
+  HDL: 54 mg/dL
+  Triglycerides: 247 mg/dL
+
+Hemoglobin: 11.1 g/dL
+Creatinine: 1.26 mg/dL
+BMI: 29.0
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: 0.7 mg/dL
+
+
+Advice:
+Increase physical activity.

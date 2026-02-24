@@ -1,0 +1,44 @@
+
+SolacePoint Medical Center
+Address: 40 Evergreen Lane, Marigold City - 446645
+Phone: +91-76793-47754
+Email: info@solacepoint35.org
+Website: www.solacepoint740.org
+Accreditation Code: SO-81032
+
+Report ID: RPT-B3A5EDE0
+Sample ID: SMP-79712
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2370
+
+Patient Name: S***
+Patient ID: UH-001478
+Age: 79
+Gender: Male
+
+Blood Pressure: 111/96 mmHg
+Pulse Rate: 62 bpm
+Glucose: 168 mg/dL
+Height: 153.2 cm
+Weight: 57.9 kg
+Cholesterol Total: 168 mg/dL
+LDL: 86 mg/dL
+HDL: 42 mg/dL
+Triglycerides: 132 mg/dL
+Hemoglobin: 9.9 g/dL
+Creatinine: 1.2 mg/dL
+BMI: 28.9
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 28 mg/dL
+  eGFR: 76 mL/min
+
+Remarks:
+Follow-up advised.

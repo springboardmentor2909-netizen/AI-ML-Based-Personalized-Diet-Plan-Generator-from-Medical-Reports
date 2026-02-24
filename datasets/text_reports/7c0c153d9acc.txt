@@ -1,0 +1,35 @@
+
+Silver Oak Clinical Institute
+Address: 16 Riverbend Ave, Meadowridge - 457808
+Phone: +91-73837-71188
+Email: info@silver oak36.org
+Website: www.silver oak506.org
+Accreditation Code: SI-60848
+
+Report ID: RPT-C37FB156
+Sample ID: SMP-84972
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3921
+
+Patient Name: N***
+Patient ID: UH-001310
+Age: 25
+Gender: Male
+
+Blood Pressure: 107/100 mmHg
+Pulse (bpm): 76 bpm
+Blood Sugar (Random): 119 mg/dL
+Height: 185.2 cm
+Weight: 73.1 kg
+Cholesterol Total: 203 mg/dL
+LDL: 142 mg/dL
+HDL: 44 mg/dL
+Triglycerides: 168 mg/dL
+Hemoglobin: 15.8 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 29.5
+
+Clinical Notes:
+Vitals normal; continue medications.

@@ -1,0 +1,49 @@
+
+ClearRiver Pathology Lab
+Address: 84 Sunrise Boulevard, Westlake - 479048
+Phone: +91-73754-52643
+Email: info@clearriver89.org
+Website: www.clearriver281.org
+Accreditation Code: CL-26054
+
+Report ID: RPT-1A7DB2FB
+Sample ID: SMP-94080
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2052
+
+Patient Name: I***
+Patient ID: UH-001287
+Age: 78 years
+Gender: Male
+
+Height: 181.1 cm
+Weight: 91.3 kg
+
+Blood Pressure: 153/88 mmHg
+Pulse (bpm): 66 bpm
+Glucose: 150 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 29 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.8 g/dL
+Creatinine: -
+BMI: 17.3
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 72 mL/min
+
+
+Doctor's Comments:
+Suggest improving sleep cycle.

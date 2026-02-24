@@ -1,0 +1,45 @@
+
+ClearRiver Diagnostics
+Address: 4 Maple Drive, Eastwood - 450655
+Phone: +91-76747-26026
+Email: info@clearriver61.org
+Website: www.clearriver649.org
+Accreditation Code: CL-33238
+
+Report ID: RPT-2BD01A02
+Sample ID: SMP-52904
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3201
+
+Patient Name: U***
+Patient ID: UH-000973
+Age: 32 years
+Gender: Male
+
+Height: 157.0 cm
+Weight: 84.3 kg
+
+Blood Pressure: 106/96 mmHg
+Pulse Rate: 63 bpm
+Blood Glucose: 140 mg/dL
+
+Cholesterol Panel:
+  Total: 228 mg/dL
+  LDL: 82 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 233 mg/dL
+
+Hemoglobin: 13.6 g/dL
+Creatinine: 0.75 mg/dL
+BMI: 20.2
+
+LFT:
+  AST/SGOT: 18 U/L
+  ALT/SGPT: 44 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Remarks:
+Pt stable. Continue routine follow-up.

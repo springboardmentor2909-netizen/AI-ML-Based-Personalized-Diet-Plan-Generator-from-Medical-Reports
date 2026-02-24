@@ -1,0 +1,41 @@
+
+SolacePoint Diagnostics
+Address: 42 Sunrise Boulevard, Meadowridge - 426256
+Phone: +91-70179-93560
+Email: info@solacepoint27.org
+Website: www.solacepoint480.org
+Accreditation Code: SO-22944
+
+Report ID: RPT-401F9376
+Sample ID: SMP-36721
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8895
+
+Patient Name: A***
+Patient ID: UH-000432
+Age: 82 years
+Gender: Other
+
+Blood Pressure: 152/105 mmHg
+Blood Glucose: 135 mg/dL
+
+Cholesterol Panel:
+  Total: 169 mg/dL
+  LDL: -
+  HDL: 40 mg/dL
+  Triglycerides: 224 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.99 mg/dL
+BMI: 19.9
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

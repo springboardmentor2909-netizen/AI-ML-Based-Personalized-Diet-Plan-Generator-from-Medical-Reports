@@ -1,0 +1,28 @@
+
+Riverdale Medical Center
+Address: 76 Evergreen Lane, Meadowridge - 473762
+Phone: +91-79134-15975
+Email: info@riverdale88.org
+Website: www.riverdale463.org
+Accreditation Code: RI-19381
+
+Report ID: RPT-D9EBE9DF
+Sample ID: SMP-29354
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7242
+
+Patient Name: I***
+Patient ID: UH-001353
+Age: 81
+Gender: Male
+
+Height: 172.8 cm
+Triglycerides: 235 mg/dL
+Hemoglobin: 9.7 g/dL
+Creatinine: 0.86 mg/dL
+BMI: 20.8
+
+Remarks:
+Values improved compared to previous results.

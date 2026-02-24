@@ -1,0 +1,40 @@
+
+PrimeCare Clinical Institute
+Address: 26 Sunrise Boulevard, Northbay - 439751
+Phone: +91-88621-65807
+Email: info@primecare65.org
+Website: www.primecare758.org
+Accreditation Code: PR-27830
+
+Report ID: RPT-68C7FE67
+Sample ID: SMP-55098
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 10:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3961
+
+Patient Name: K***
+Patient ID: UH-000859
+Age: 50 years
+Gender: Male
+
+Height: 185.3 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Glucose: 127 mg/dL
+
+Cholesterol Panel:
+  Total: 212 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.9 mg/dL
+BMI: -
+
+
+Clinical Notes:
+Repeat test if clinically indicated.

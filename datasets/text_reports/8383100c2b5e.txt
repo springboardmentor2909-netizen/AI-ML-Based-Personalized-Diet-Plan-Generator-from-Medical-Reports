@@ -1,0 +1,33 @@
+
+NovaPath Pathology Lab
+Address: 87 Alpine Street, Meadowridge - 497161
+Phone: +91-85121-49292
+Email: info@novapath66.org
+Website: www.novapath613.org
+Accreditation Code: NO-85280
+
+Report ID: RPT-A3AAE94D
+Sample ID: SMP-73219
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9881
+
+Patient Name: R***
+Patient ID: UH-001351
+Age: 75
+Gender: Male
+
+Blood Pressure: 136/72 mmHg
+Blood Sugar: 136 mg/dL
+Height: 175.5 cm
+Weight: 68.8 kg
+Cholesterol Total: 177 mg/dL
+LDL: 97 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 169 mg/dL
+Hemoglobin: 15.2 g/dL
+BMI: 32.0
+
+Summary:
+Recheck lipid levels after 3 months.

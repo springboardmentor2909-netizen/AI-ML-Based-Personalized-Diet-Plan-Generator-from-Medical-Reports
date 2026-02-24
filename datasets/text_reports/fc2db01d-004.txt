@@ -1,0 +1,49 @@
+
+BlueValley Medical Center
+Address: 3 Horizon Road, Clearwater - 476433
+Phone: +91-76157-20354
+Email: info@bluevalley94.org
+Website: www.bluevalley505.org
+Accreditation Code: BL-68226
+
+Report ID: RPT-3BEC690E
+Sample ID: SMP-69321
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2887
+
+Patient Name: A***
+Patient ID: UH-000972
+Age: 69 years
+Gender: Female
+
+Height: 146.3 cm
+Weight: 81.2 kg
+
+Blood Pressure: 124/61 mmHg
+Pulse (bpm): 60 bpm
+Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: 167 mg/dL
+  LDL: 133 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 11.2 g/dL
+Creatinine: -
+BMI: 25.2
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 65 mL/min
+
+
+Doctor's Notes:
+Hydration emphasized.

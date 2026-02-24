@@ -1,0 +1,35 @@
+
+Starhaven Pathology Lab
+Address: 45 Sunrise Boulevard, Meadowridge - 468516
+Phone: +91-90871-65767
+Email: info@starhaven77.org
+Website: www.starhaven467.org
+Accreditation Code: ST-66458
+
+Report ID: RPT-F0982B94
+Sample ID: SMP-56723
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8132
+
+Patient Name: Q***
+Patient ID: UH-001427
+Age: 76
+Gender: Male
+
+Blood Pressure: 130/83 mmHg
+Pulse Rate: 75 bpm
+Blood Sugar: 117 mg/dL
+Height: 188.1 cm
+Weight: 91.5 kg
+Cholesterol Total: 213 mg/dL
+LDL: 98 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 116 mg/dL
+Hemoglobin: 11.7 g/dL
+Creatinine: 0.81 mg/dL
+BMI: 27.1
+
+Advice:
+Hydration recommended.

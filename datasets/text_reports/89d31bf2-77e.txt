@@ -1,0 +1,44 @@
+
+PrimeCare Pathology Lab
+Address: 22 Evergreen Lane, Westlake - 400590
+Phone: +91-76571-74037
+Email: info@primecare99.org
+Website: www.primecare202.org
+Accreditation Code: PR-99725
+
+Report ID: RPT-B35C9ED5
+Sample ID: SMP-38244
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-9819
+
+Patient Name: T***
+Patient ID: UH-001126
+Age: 51 years
+Gender: Male
+
+Height: 182.9 cm
+Weight: -
+
+Blood Pressure: 129/90 mmHg
+Pulse (bpm): 80 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 91 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 154 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.07 mg/dL
+BMI: 19.8
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: 84 mL/min
+
+
+Impression:
+No signs of active infection.

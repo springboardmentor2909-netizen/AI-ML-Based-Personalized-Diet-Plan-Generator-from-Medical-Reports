@@ -1,0 +1,39 @@
+
+Silver Oak Diagnostics
+Address: 4 Sunrise Boulevard, Silverpoint - 475474
+Phone: +91-83169-32683
+Email: info@silver oak63.org
+Website: www.silver oak419.org
+Accreditation Code: SI-35158
+
+Report ID: RPT-5A9A255A
+Sample ID: SMP-51707
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 08:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6954
+
+Patient Name: T***
+Patient ID: UH-000531
+Age: 33 years
+Gender: Other
+
+Height: 178.1 cm
+Weight: -
+
+Blood Pressure: 161/74 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 91 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.02 mg/dL
+BMI: 26.7
+
+
+Doctor's Comments:
+Continue present medications.

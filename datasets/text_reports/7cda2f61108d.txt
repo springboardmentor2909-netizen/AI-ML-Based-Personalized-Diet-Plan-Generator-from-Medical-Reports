@@ -1,0 +1,40 @@
+
+Medisphere Clinical Institute
+Address: 70 Riverbend Ave, Northbay - 432004
+Phone: +91-88967-71523
+Email: info@medisphere68.org
+Website: www.medisphere447.org
+Accreditation Code: ME-89623
+
+Report ID: RPT-7C9F6153
+Sample ID: SMP-94170
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2944
+
+Patient Name: U***
+Patient ID: UH-001209
+Age: 67 years
+Gender: Female
+
+Height: -
+Weight: 72.8 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar: 136 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 9.5 g/dL
+Creatinine: -
+BMI: -
+
+
+Summary:
+Maintain current therapy plan.

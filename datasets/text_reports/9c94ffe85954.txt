@@ -1,0 +1,30 @@
+
+Everlight Hospital
+Address: 37 Maple Drive, Meadowridge - 420615
+Phone: +91-94948-78889
+Email: info@everlight68.org
+Website: www.everlight908.org
+Accreditation Code: EV-93395
+
+Report ID: RPT-4C01E11B
+Sample ID: SMP-66176
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6253
+
+Patient Name: T***
+Patient ID: UH-001405
+Age: 39
+Gender: Male
+
+Blood Sugar (Random): 163 mg/dL
+Weight: 89.0 kg
+Cholesterol Total: 234 mg/dL
+Triglycerides: 145 mg/dL
+Hemoglobin: 10.6 g/dL
+Creatinine: 1.6 mg/dL
+BMI: 19.4
+
+Remark:
+Patient reassured.

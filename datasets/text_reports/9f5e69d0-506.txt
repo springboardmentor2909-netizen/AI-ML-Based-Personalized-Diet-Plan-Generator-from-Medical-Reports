@@ -1,0 +1,45 @@
+
+Medisphere Hospital
+Address: 9 Alpine Street, Silverpoint - 437026
+Phone: +91-78321-82638
+Email: info@medisphere97.org
+Website: www.medisphere643.org
+Accreditation Code: ME-75900
+
+Report ID: RPT-4F62ABFB
+Sample ID: SMP-94085
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8917
+
+Patient Name: H***
+Patient ID: UH-000912
+Age: 46 years
+Gender: Female
+
+Height: 172.7 cm
+Weight: 61.9 kg
+
+Blood Pressure: 117/62 mmHg
+Pulse: 75 bpm
+Blood Sugar (Random): 110 mg/dL
+
+Cholesterol Panel:
+  Total: 173 mg/dL
+  LDL: 136 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 244 mg/dL
+
+Hemoglobin: 11.6 g/dL
+Creatinine: -
+BMI: 30.3
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Doctor's Notes:
+Infection markers normal. No antibiotics needed.

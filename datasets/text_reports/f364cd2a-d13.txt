@@ -1,0 +1,48 @@
+
+NovaPath Hospital
+Address: 78 Sunrise Boulevard, Clearwater - 401595
+Phone: +91-79264-75525
+Email: info@novapath11.org
+Website: www.novapath298.org
+Accreditation Code: NO-64846
+
+Report ID: RPT-C3269DDD
+Sample ID: SMP-22361
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3853
+
+Patient Name: X***
+Patient ID: UH-000589
+Age: 22 years
+Gender: Male
+
+Height: 151.8 cm
+Weight: 51.1 kg
+
+Blood Pressure: 110/79 mmHg
+Glucose: 165 mg/dL
+
+Cholesterol Panel:
+  Total: 232 mg/dL
+  LDL: 94 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: 173 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 22.1
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 38 mg/dL
+  eGFR: 72 mL/min
+
+
+Doctor's Notes:
+Lipid profile requires monitoring.

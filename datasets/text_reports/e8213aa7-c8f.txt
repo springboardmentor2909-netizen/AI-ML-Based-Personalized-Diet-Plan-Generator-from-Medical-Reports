@@ -1,0 +1,49 @@
+
+SolacePoint Diagnostics
+Address: 34 Sunrise Boulevard, Marigold City - 492155
+Phone: +91-92347-13951
+Email: info@solacepoint94.org
+Website: www.solacepoint457.org
+Accreditation Code: SO-80904
+
+Report ID: RPT-E6236103
+Sample ID: SMP-85214
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4119
+
+Patient Name: M***
+Patient ID: UH-000901
+Age: 33 years
+Gender: Female
+
+Height: 151.7 cm
+Weight: 61.6 kg
+
+Blood Pressure: 170/106 mmHg
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 246 mg/dL
+  LDL: 125 mg/dL
+  HDL: -
+  Triglycerides: 168 mg/dL
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 0.99 mg/dL
+BMI: 30.3
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: 45 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: 83 mL/min
+
+
+Impression:
+Pt stable. Continue routine follow-up.

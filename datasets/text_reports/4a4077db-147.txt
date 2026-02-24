@@ -1,0 +1,45 @@
+
+Northlake Hospital
+Address: 90 Evergreen Lane, Clearwater - 409244
+Phone: +91-85172-93372
+Email: info@northlake82.org
+Website: www.northlake616.org
+Accreditation Code: NO-98655
+
+Report ID: RPT-86ECFE9B
+Sample ID: SMP-36964
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8531
+
+Patient Name: Y***
+Patient ID: UH-001106
+Age: 77 years
+Gender: Male
+
+Height: 150.4 cm
+Weight: 50.6 kg
+
+Blood Pressure: 160/97 mmHg
+Pulse (bpm): 102 bpm
+Glucose: 158 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 150 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 227 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.33 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 22 U/L
+  ALT/SGPT: 44 U/L
+  Bilirubin Total: -
+
+
+Recommendation:
+Blood sugar trending upward; review lifestyle changes.

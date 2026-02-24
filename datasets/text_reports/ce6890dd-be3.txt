@@ -1,0 +1,44 @@
+
+Northlake Pathology Lab
+Address: 71 Sunrise Boulevard, Clearwater - 445535
+Phone: +91-92210-50643
+Email: info@northlake10.org
+Website: www.northlake449.org
+Accreditation Code: NO-68505
+
+Report ID: RPT-C2BE9E6F
+Sample ID: SMP-54732
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9669
+
+Patient Name: M***
+Patient ID: UH-000650
+Age: 32 years
+Gender: Male
+
+Height: 148.1 cm
+Weight: 70.5 kg
+
+Blood Pressure: 142/106 mmHg
+Pulse: 100 bpm
+Blood Sugar (Random): 106 mg/dL
+
+Cholesterol Panel:
+  Total: 251 mg/dL
+  LDL: 80 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 152 mg/dL
+
+Hemoglobin: 12.1 g/dL
+Creatinine: 1.01 mg/dL
+BMI: 25.8
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 67 mL/min
+
+
+Clinical Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

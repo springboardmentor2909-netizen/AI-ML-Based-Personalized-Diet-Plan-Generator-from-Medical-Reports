@@ -1,0 +1,48 @@
+
+Riverdale Medical Center
+Address: 87 Sunrise Boulevard, Marigold City - 418308
+Phone: +91-77875-45080
+Email: info@riverdale99.org
+Website: www.riverdale911.org
+Accreditation Code: RI-25853
+
+Report ID: RPT-F6C35755
+Sample ID: SMP-23526
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 09:40
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4397
+
+Patient Name: B***
+Patient ID: UH-000504
+Age: 19 years
+Gender: Female
+
+Height: 163.5 cm
+Weight: 91.8 kg
+
+Blood Pressure: 149/70 mmHg
+Glucose: 137 mg/dL
+
+Cholesterol Panel:
+  Total: 190 mg/dL
+  LDL: 85 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.1 g/dL
+Creatinine: -
+BMI: 33.8
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 28 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 114 mL/min
+
+
+Advice:
+Blood pressure within acceptable range.

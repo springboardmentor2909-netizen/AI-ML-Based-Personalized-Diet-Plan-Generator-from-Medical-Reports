@@ -1,0 +1,49 @@
+
+ClearRiver Hospital
+Address: 52 Riverbend Ave, Marigold City - 480624
+Phone: +91-72508-79027
+Email: info@clearriver23.org
+Website: www.clearriver563.org
+Accreditation Code: CL-82381
+
+Report ID: RPT-96401E4F
+Sample ID: SMP-73821
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2999
+
+Patient Name: B***
+Patient ID: UH-001073
+Age: 29 years
+Gender: Other
+
+Height: 180.0 cm
+Weight: 94.7 kg
+
+Blood Pressure: 119/78 mmHg
+Pulse Rate: 80 bpm
+Blood Sugar: 87 mg/dL
+
+Cholesterol Panel:
+  Total: 180 mg/dL
+  LDL: 82 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 235 mg/dL
+
+Hemoglobin: 14.7 g/dL
+Creatinine: 0.83 mg/dL
+BMI: 30.7
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: 11 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 63 mL/min
+
+
+Remarks:
+Diet modification essential.

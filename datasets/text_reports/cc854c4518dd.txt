@@ -1,0 +1,28 @@
+
+Riverdale Hospital
+Address: 7 Alpine Street, Marigold City - 479255
+Phone: +91-99139-44819
+Email: info@riverdale81.org
+Website: www.riverdale345.org
+Accreditation Code: RI-64344
+
+Report ID: RPT-65C9FF7C
+Sample ID: SMP-12102
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7702
+
+Patient Name: M***
+Patient ID: UH-001302
+Age: 83
+Gender: Other
+
+Weight: 89.4 kg
+LDL: 114 mg/dL
+HDL: 48 mg/dL
+Creatinine: 0.94 mg/dL
+BMI: 28.2
+
+Doctor's Comments:
+Patient reassured.

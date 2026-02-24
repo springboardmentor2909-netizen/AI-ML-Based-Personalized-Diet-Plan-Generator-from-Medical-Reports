@@ -1,0 +1,44 @@
+
+ClearRiver Diagnostics
+Address: 89 Riverbend Ave, Meadowridge - 420655
+Phone: +91-97927-79218
+Email: info@clearriver10.org
+Website: www.clearriver763.org
+Accreditation Code: CL-17278
+
+Report ID: RPT-0875B1AF
+Sample ID: SMP-43387
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1962
+
+Patient Name: X***
+Patient ID: UH-000862
+Age: 23 years
+Gender: Female
+
+Height: 176.2 cm
+Weight: 85.8 kg
+
+Blood Pressure: 167/88 mmHg
+Pulse Rate: 79 bpm
+Blood Sugar (Random): 93 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 44 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 10.7 g/dL
+Creatinine: 1.4 mg/dL
+BMI: 33.5
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 104 mL/min
+
+
+Doctor's Notes:
+Pathology values consistent with mild deficiency.

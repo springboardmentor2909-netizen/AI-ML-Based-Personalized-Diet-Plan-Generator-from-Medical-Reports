@@ -1,0 +1,44 @@
+
+Silver Oak Pathology Lab
+Address: 44 Alpine Street, Hillcrest - 493916
+Phone: +91-85522-47476
+Email: info@silver oak56.org
+Website: www.silver oak141.org
+Accreditation Code: SI-83872
+
+Report ID: RPT-FDF147CA
+Sample ID: SMP-53152
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5007
+
+Patient Name: C***
+Patient ID: UH-001069
+Age: 78 years
+Gender: Other
+
+Height: 163.6 cm
+Weight: 82.0 kg
+
+Blood Pressure: 123/72 mmHg
+Pulse (bpm): -
+Glucose: 128 mg/dL
+
+Cholesterol Panel:
+  Total: 204 mg/dL
+  LDL: -
+  HDL: 32 mg/dL
+  Triglycerides: 131 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Advice:
+Possible dehydration; fluids advised.

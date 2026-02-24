@@ -1,0 +1,45 @@
+
+Silver Oak Clinical Institute
+Address: 71 Evergreen Lane, Meadowridge - 415813
+Phone: +91-83093-11962
+Email: info@silver oak28.org
+Website: www.silver oak855.org
+Accreditation Code: SI-76936
+
+Report ID: RPT-11D977BC
+Sample ID: SMP-31351
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2714
+
+Patient Name: I***
+Patient ID: UH-000673
+Age: 58 years
+Gender: Male
+
+Height: 147.4 cm
+Weight: 93.6 kg
+
+Blood Pressure: 160/90 mmHg
+Pulse Rate: 68 bpm
+Glucose: 118 mg/dL
+
+Cholesterol Panel:
+  Total: 162 mg/dL
+  LDL: 83 mg/dL
+  HDL: 46 mg/dL
+  Triglycerides: 228 mg/dL
+
+Hemoglobin: 10.7 g/dL
+Creatinine: 0.94 mg/dL
+BMI: 22.7
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 20 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Remark:
+Glucose levels mildly elevated; lifestyle changes advised.

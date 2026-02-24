@@ -1,0 +1,35 @@
+
+SolacePoint Pathology Lab
+Address: 16 Horizon Road, Marigold City - 480647
+Phone: +91-88809-67295
+Email: info@solacepoint89.org
+Website: www.solacepoint789.org
+Accreditation Code: SO-76567
+
+Report ID: RPT-88C17C57
+Sample ID: SMP-54467
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6098
+
+Patient Name: B***
+Patient ID: UH-001396
+Age: 63
+Gender: Male
+
+Blood Glucose: 162 mg/dL
+Height: 179.0 cm
+Cholesterol Total: 233 mg/dL
+Triglycerides: 267 mg/dL
+Creatinine: 1.59 mg/dL
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 15 U/L
+
+KFT:
+  Urea: 40 mg/dL
+
+Recommendations:
+Values improved compared to previous results.

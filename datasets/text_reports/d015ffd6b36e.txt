@@ -1,0 +1,35 @@
+
+Medisphere Clinical Institute
+Address: 37 Riverbend Ave, Clearwater - 421035
+Phone: +91-87470-22344
+Email: info@medisphere79.org
+Website: www.medisphere694.org
+Accreditation Code: ME-64360
+
+Report ID: RPT-A79A0390
+Sample ID: SMP-30225
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9062
+
+Patient Name: M***
+Patient ID: UH-001368
+Age: 22
+Gender: Male
+
+Blood Pressure: 101/86 mmHg
+Pulse: 100 bpm
+Height: 168.3 cm
+Weight: 71.7 kg
+Cholesterol Total: 254 mg/dL
+LDL: 96 mg/dL
+Triglycerides: 195 mg/dL
+Creatinine: 1.53 mg/dL
+
+KFT:
+  Urea: 22 mg/dL
+  eGFR: 100 mL/min
+
+Recommendations:
+Explained results clearly; patient agreed.

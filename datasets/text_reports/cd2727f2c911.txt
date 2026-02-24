@@ -1,0 +1,39 @@
+
+Greencrest Diagnostics
+Address: 91 Maple Drive, Meadowridge - 456759
+Phone: +91-89450-56399
+Email: info@greencrest32.org
+Website: www.greencrest222.org
+Accreditation Code: GR-49862
+
+Report ID: RPT-6E3AABB5
+Sample ID: SMP-35771
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4791
+
+Patient Name: P***
+Patient ID: UH-001495
+Age: 85
+Gender: Other
+
+Blood Pressure: 124/99 mmHg
+Pulse Rate: 68 bpm
+Blood Sugar: 143 mg/dL
+Height: 177.7 cm
+Weight: 70.7 kg
+Cholesterol Total: 213 mg/dL
+LDL: 126 mg/dL
+HDL: 54 mg/dL
+Triglycerides: 155 mg/dL
+Hemoglobin: 14.8 g/dL
+Creatinine: 0.7 mg/dL
+BMI: 18.8
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 83 mL/min
+
+Clinical Notes:
+Check lipid panel again later.

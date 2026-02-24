@@ -1,0 +1,40 @@
+
+SolacePoint Hospital
+Address: 72 Sunrise Boulevard, Meadowridge - 470166
+Phone: +91-94149-21806
+Email: info@solacepoint25.org
+Website: www.solacepoint854.org
+Accreditation Code: SO-96484
+
+Report ID: RPT-9D147E90
+Sample ID: SMP-23127
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-8272
+
+Patient Name: S***
+Patient ID: UH-000633
+Age: 32 years
+Gender: Other
+
+Height: 148.4 cm
+Weight: 55.8 kg
+
+Blood Pressure: 122/73 mmHg
+Pulse: 70 bpm
+Glucose: 131 mg/dL
+
+Cholesterol Panel:
+  Total: 238 mg/dL
+  LDL: -
+  HDL: 36 mg/dL
+  Triglycerides: 197 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: -
+BMI: 30.3
+
+
+Summary:
+Glucose levels mildly elevated; lifestyle changes advised.

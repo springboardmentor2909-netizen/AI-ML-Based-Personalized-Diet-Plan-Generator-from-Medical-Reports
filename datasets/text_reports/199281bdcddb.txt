@@ -1,0 +1,30 @@
+
+ClearRiver Clinical Institute
+Address: 64 Sunrise Boulevard, Marigold City - 432203
+Phone: +91-98031-55205
+Email: info@clearriver85.org
+Website: www.clearriver734.org
+Accreditation Code: CL-19827
+
+Report ID: RPT-21DA7BEE
+Sample ID: SMP-97219
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4655
+
+Patient Name: Q***
+Patient ID: UH-001369
+Age: 68
+Gender: Female
+
+Blood Pressure: 114/82 mmHg
+Pulse: 103 bpm
+Weight: 45.9 kg
+Cholesterol Total: 252 mg/dL
+LDL: 146 mg/dL
+HDL: 47 mg/dL
+Hemoglobin: 9.7 g/dL
+
+Recommendation:
+Repeat tests if clinically required.

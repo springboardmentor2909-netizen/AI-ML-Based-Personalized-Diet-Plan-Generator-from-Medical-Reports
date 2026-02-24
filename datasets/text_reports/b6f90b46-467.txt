@@ -1,0 +1,40 @@
+
+SolacePoint Diagnostics
+Address: 33 Horizon Road, Silverpoint - 414813
+Phone: +91-88536-72278
+Email: info@solacepoint65.org
+Website: www.solacepoint663.org
+Accreditation Code: SO-28300
+
+Report ID: RPT-77322EF5
+Sample ID: SMP-65300
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3653
+
+Patient Name: D***
+Patient ID: UH-001170
+Age: 20 years
+Gender: Other
+
+Height: 151.8 cm
+Weight: -
+
+Blood Pressure: 143/105 mmHg
+Pulse: 95 bpm
+Blood Sugar: 100 mg/dL
+
+Cholesterol Panel:
+  Total: 183 mg/dL
+  LDL: 131 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 136 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 1.2 mg/dL
+BMI: 28.7
+
+
+Doctor's Comments:
+Lipid profile indicates borderline elevation.

@@ -1,0 +1,39 @@
+
+PrimeCare Pathology Lab
+Address: 89 Alpine Street, Eastwood - 412364
+Phone: +91-75296-21857
+Email: info@primecare17.org
+Website: www.primecare321.org
+Accreditation Code: PR-61212
+
+Report ID: RPT-F846853A
+Sample ID: SMP-53710
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6164
+
+Patient Name: X***
+Patient ID: UH-001567
+Age: 76
+Gender: Other
+
+Blood Pressure: 132/103 mmHg
+Pulse (bpm): 84 bpm
+Glucose: 100 mg/dL
+Height: 177.9 cm
+Weight: 68.6 kg
+Cholesterol Total: 174 mg/dL
+LDL: 141 mg/dL
+HDL: 38 mg/dL
+Triglycerides: 143 mg/dL
+Hemoglobin: 13.4 g/dL
+Creatinine: 1.17 mg/dL
+BMI: 17.4
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 80 mL/min
+
+Doctor's Notes:
+Patient reassured.

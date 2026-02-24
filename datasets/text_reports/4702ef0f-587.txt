@@ -1,0 +1,49 @@
+
+NovaPath Clinical Institute
+Address: 1 Riverbend Ave, Eastwood - 418816
+Phone: +91-72720-47639
+Email: info@novapath10.org
+Website: www.novapath240.org
+Accreditation Code: NO-91254
+
+Report ID: RPT-E46588C9
+Sample ID: SMP-37785
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5924
+
+Patient Name: F***
+Patient ID: UH-001044
+Age: 50 years
+Gender: Other
+
+Height: 186.3 cm
+Weight: 54.9 kg
+
+Blood Pressure: 111/67 mmHg
+Pulse: 88 bpm
+Blood Glucose: 118 mg/dL
+
+Cholesterol Panel:
+  Total: 232 mg/dL
+  LDL: 141 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 1.12 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: 20 mg/dL
+  eGFR: -
+
+
+Advice:
+Discussed with patient. Understood.

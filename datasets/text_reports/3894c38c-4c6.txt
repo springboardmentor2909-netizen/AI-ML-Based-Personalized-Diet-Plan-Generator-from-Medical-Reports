@@ -1,0 +1,40 @@
+
+PrimeCare Hospital
+Address: 61 Sunrise Boulevard, Westlake - 422720
+Phone: +91-76061-43355
+Email: info@primecare78.org
+Website: www.primecare229.org
+Accreditation Code: PR-93790
+
+Report ID: RPT-E76C8523
+Sample ID: SMP-72209
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4702
+
+Patient Name: P***
+Patient ID: UH-000809
+Age: 83 years
+Gender: Other
+
+Height: 188.3 cm
+Weight: -
+
+Blood Pressure: 157/79 mmHg
+Pulse: 88 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 186 mg/dL
+  LDL: 149 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 199 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: -
+BMI: 21.0
+
+
+Doctor's Comments:
+Medication adherence reviewed.

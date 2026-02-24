@@ -1,0 +1,40 @@
+
+ClearRiver Pathology Lab
+Address: 15 Riverbend Ave, Clearwater - 433897
+Phone: +91-82581-32162
+Email: info@clearriver59.org
+Website: www.clearriver400.org
+Accreditation Code: CL-36750
+
+Report ID: RPT-2C98D95B
+Sample ID: SMP-72992
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2797
+
+Patient Name: V***
+Patient ID: UH-001003
+Age: 21 years
+Gender: Male
+
+Height: 186.5 cm
+Weight: -
+
+Blood Pressure: 134/94 mmHg
+Pulse Rate: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 117 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.81 mg/dL
+BMI: 25.7
+
+
+Doctor's Comments:
+Follow-up recommended after 2 weeks.

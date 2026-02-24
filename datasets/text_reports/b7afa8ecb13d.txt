@@ -1,0 +1,40 @@
+
+Riverdale Medical Center
+Address: 85 Evergreen Lane, Hillcrest - 469792
+Phone: +91-81445-68750
+Email: info@riverdale86.org
+Website: www.riverdale278.org
+Accreditation Code: RI-21901
+
+Report ID: RPT-74EBAF67
+Sample ID: SMP-49087
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-9755
+
+Patient Name: D***
+Patient ID: UH-001265
+Age: 31 years
+Gender: Male
+
+Height: -
+Weight: 74.0 kg
+
+Blood Pressure: -
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 114 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.92 mg/dL
+BMI: 22.2
+
+
+Advice:
+No indication of bacterial infection.

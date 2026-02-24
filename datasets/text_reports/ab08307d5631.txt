@@ -1,0 +1,36 @@
+
+Northlake Diagnostics
+Address: 28 Riverbend Ave, Northbay - 442169
+Phone: +91-72471-47887
+Email: info@northlake78.org
+Website: www.northlake955.org
+Accreditation Code: NO-45501
+
+Report ID: RPT-C6A94D50
+Sample ID: SMP-84074
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1712
+
+Patient Name: O***
+Patient ID: UH-001509
+Age: 30
+Gender: Female
+
+Blood Pressure: 137/99 mmHg
+Pulse Rate: 72 bpm
+Blood Sugar (Random): 180 mg/dL
+Weight: 89.9 kg
+LDL: 143 mg/dL
+HDL: 31 mg/dL
+Triglycerides: 133 mg/dL
+Creatinine: 0.9 mg/dL
+BMI: 33.6
+
+LFT:
+  AST/SGOT: 26 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+Recommendation:
+Repeat lipid panel in future.

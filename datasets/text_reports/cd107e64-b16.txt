@@ -1,0 +1,40 @@
+
+NovaPath Hospital
+Address: 81 Alpine Street, Clearwater - 490797
+Phone: +91-73360-66638
+Email: info@novapath82.org
+Website: www.novapath122.org
+Accreditation Code: NO-83514
+
+Report ID: RPT-F75BA30D
+Sample ID: SMP-70573
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7718
+
+Patient Name: W***
+Patient ID: UH-000692
+Age: 35 years
+Gender: Male
+
+Height: -
+Weight: 73.1 kg
+
+Blood Pressure: -
+Pulse: 61 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 139 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 15.4 g/dL
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Follow-up recommended after 2 weeks.

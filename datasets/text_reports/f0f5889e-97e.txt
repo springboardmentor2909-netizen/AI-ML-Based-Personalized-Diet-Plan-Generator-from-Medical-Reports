@@ -1,0 +1,40 @@
+
+ClearRiver Pathology Lab
+Address: 15 Riverbend Ave, Clearwater - 433897
+Phone: +91-82581-32162
+Email: info@clearriver59.org
+Website: www.clearriver400.org
+Accreditation Code: CL-36750
+
+Report ID: RPT-CBBB5984
+Sample ID: SMP-86670
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2662
+
+Patient Name: R***
+Patient ID: UH-001015
+Age: 57 years
+Gender: Male
+
+Height: 160.1 cm
+Weight: -
+
+Blood Pressure: 163/99 mmHg
+Pulse Rate: 108 bpm
+Glucose: 167 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 136 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 0.81 mg/dL
+BMI: 25.1
+
+
+Impression:
+Pathology values consistent with mild deficiency.

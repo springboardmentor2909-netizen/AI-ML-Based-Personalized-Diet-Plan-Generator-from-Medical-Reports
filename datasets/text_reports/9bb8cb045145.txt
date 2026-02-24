@@ -1,0 +1,36 @@
+
+ClearRiver Pathology Lab
+Address: 10 Sunrise Boulevard, Silverpoint - 459090
+Phone: +91-93289-14698
+Email: info@clearriver89.org
+Website: www.clearriver853.org
+Accreditation Code: CL-62047
+
+Report ID: RPT-D4019BA0
+Sample ID: SMP-56557
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 08:58
+Referring Doctor: Dr. Khan
+OPD No.: OPD-5610
+
+Patient Name: A***
+Patient ID: UH-001491
+Age: 24
+Gender: Female
+
+Blood Pressure: 122/81 mmHg
+Pulse: 66 bpm
+Glucose: 78 mg/dL
+Height: 172.2 cm
+Weight: 83.8 kg
+HDL: 51 mg/dL
+Triglycerides: 245 mg/dL
+Hemoglobin: 13.7 g/dL
+BMI: 23.1
+
+LFT:
+  AST/SGOT: 16 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+Summary:
+Lifestyle modification suggested.

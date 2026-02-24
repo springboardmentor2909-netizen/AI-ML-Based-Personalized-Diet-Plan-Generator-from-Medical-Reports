@@ -1,0 +1,39 @@
+
+Northlake Medical Center
+Address: 85 Sunrise Boulevard, Hillcrest - 409495
+Phone: +91-78983-36182
+Email: info@northlake38.org
+Website: www.northlake937.org
+Accreditation Code: NO-70569
+
+Report ID: RPT-BA3845D3
+Sample ID: SMP-47806
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3774
+
+Patient Name: U***
+Patient ID: UH-000593
+Age: 21 years
+Gender: Male
+
+Height: -
+Weight: 45.8 kg
+
+Blood Pressure: -
+Blood Sugar: 91 mg/dL
+
+Cholesterol Panel:
+  Total: 185 mg/dL
+  LDL: -
+  HDL: 38 mg/dL
+  Triglycerides: 152 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.24 mg/dL
+BMI: 28.4
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

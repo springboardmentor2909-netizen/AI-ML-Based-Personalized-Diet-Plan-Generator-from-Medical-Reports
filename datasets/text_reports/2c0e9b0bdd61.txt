@@ -1,0 +1,36 @@
+
+PrimeCare Clinical Institute
+Address: 20 Sunrise Boulevard, Marigold City - 424685
+Phone: +91-93776-59798
+Email: info@primecare37.org
+Website: www.primecare801.org
+Accreditation Code: PR-20632
+
+Report ID: RPT-EE5368FD
+Sample ID: SMP-23119
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4515
+
+Patient Name: L***
+Patient ID: UH-001570
+Age: 69
+Gender: Other
+
+Blood Pressure: 120/105 mmHg
+Pulse Rate: 84 bpm
+Height: 148.6 cm
+Cholesterol Total: 218 mg/dL
+HDL: 38 mg/dL
+Triglycerides: 226 mg/dL
+Hemoglobin: 10.0 g/dL
+Creatinine: 0.85 mg/dL
+BMI: 33.3
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 111 mL/min
+
+Remarks:
+Follow-up advised.

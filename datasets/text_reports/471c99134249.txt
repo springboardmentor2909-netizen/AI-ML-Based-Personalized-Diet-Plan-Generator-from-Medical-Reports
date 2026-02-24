@@ -1,0 +1,49 @@
+
+Riverdale Medical Center
+Address: 83 Riverbend Ave, Eastwood - 433587
+Phone: +91-76551-25226
+Email: info@riverdale22.org
+Website: www.riverdale231.org
+Accreditation Code: RI-62659
+
+Report ID: RPT-67F78FD8
+Sample ID: SMP-51147
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8659
+
+Patient Name: I***
+Patient ID: UH-001257
+Age: 25 years
+Gender: Other
+
+Height: 158.8 cm
+Weight: 87.2 kg
+
+Blood Pressure: 154/66 mmHg
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: 135 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 234 mg/dL
+
+Hemoglobin: 11.5 g/dL
+Creatinine: -
+BMI: 20.1
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: 23 mg/dL
+  eGFR: 70 mL/min
+
+
+Impression:
+Reassured patient.

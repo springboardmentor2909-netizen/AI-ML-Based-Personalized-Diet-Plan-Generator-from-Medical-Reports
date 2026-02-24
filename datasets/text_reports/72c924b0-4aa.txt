@@ -1,0 +1,49 @@
+
+SolacePoint Diagnostics
+Address: 34 Sunrise Boulevard, Marigold City - 492155
+Phone: +91-92347-13951
+Email: info@solacepoint94.org
+Website: www.solacepoint457.org
+Accreditation Code: SO-80904
+
+Report ID: RPT-C31B8477
+Sample ID: SMP-89670
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7037
+
+Patient Name: D***
+Patient ID: UH-000991
+Age: 83 years
+Gender: Female
+
+Height: 161.9 cm
+Weight: -
+
+Blood Pressure: 119/100 mmHg
+Pulse: 92 bpm
+Blood Sugar (Random): 82 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 30 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.23 mg/dL
+BMI: 29.8
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 87 mL/min
+
+
+Impression:
+Pathology values consistent with mild deficiency.

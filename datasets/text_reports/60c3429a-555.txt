@@ -1,0 +1,49 @@
+
+Starhaven Medical Center
+Address: 16 Alpine Street, Meadowridge - 411612
+Phone: +91-85075-39880
+Email: info@starhaven49.org
+Website: www.starhaven774.org
+Accreditation Code: ST-77803
+
+Report ID: RPT-33F56A8E
+Sample ID: SMP-77864
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2349
+
+Patient Name: R***
+Patient ID: UH-000680
+Age: 63 years
+Gender: Male
+
+Height: 180.5 cm
+Weight: -
+
+Blood Pressure: 113/106 mmHg
+Pulse Rate: 97 bpm
+Glucose: 156 mg/dL
+
+Cholesterol Panel:
+  Total: 216 mg/dL
+  LDL: 103 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 176 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+LFT:
+  AST/SGOT: 20 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 91 mL/min
+
+
+Recommendations:
+Lipid profile requires monitoring.

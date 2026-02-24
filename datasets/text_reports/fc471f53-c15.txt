@@ -1,0 +1,44 @@
+
+BlueValley Medical Center
+Address: 31 Sunrise Boulevard, Hillcrest - 473733
+Phone: +91-83392-80958
+Email: info@bluevalley49.org
+Website: www.bluevalley649.org
+Accreditation Code: BL-39257
+
+Report ID: RPT-A716BD4A
+Sample ID: SMP-26073
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5515
+
+Patient Name: Y***
+Patient ID: UH-000858
+Age: 31 years
+Gender: Other
+
+Height: -
+Weight: 79.2 kg
+
+Blood Pressure: 111/92 mmHg
+Pulse (bpm): 80 bpm
+Glucose: 103 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 102 mg/dL
+  HDL: 33 mg/dL
+  Triglycerides: 223 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 0.8 mg/dL
+BMI: 28.5
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: 106 mL/min
+
+
+Advice:
+Discussed with patient. Understood.

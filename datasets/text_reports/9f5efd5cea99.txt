@@ -1,0 +1,40 @@
+
+BlueValley Clinical Institute
+Address: 54 Evergreen Lane, Meadowridge - 436704
+Phone: +91-78976-45740
+Email: info@bluevalley69.org
+Website: www.bluevalley818.org
+Accreditation Code: BL-96134
+
+Report ID: RPT-E3AD852B
+Sample ID: SMP-97041
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3592
+
+Patient Name: H***
+Patient ID: UH-001225
+Age: 85 years
+Gender: Female
+
+Height: -
+Weight: 88.1 kg
+
+Blood Pressure: -
+Pulse: 103 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 83 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 9.7 g/dL
+Creatinine: -
+BMI: 26.6
+
+
+Doctor's Comments:
+No indication of bacterial infection.

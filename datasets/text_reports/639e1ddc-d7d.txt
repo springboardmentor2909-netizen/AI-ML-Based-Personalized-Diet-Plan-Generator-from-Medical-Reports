@@ -1,0 +1,45 @@
+
+BlueValley Medical Center
+Address: 99 Sunrise Boulevard, Clearwater - 454426
+Phone: +91-99835-19922
+Email: info@bluevalley59.org
+Website: www.bluevalley198.org
+Accreditation Code: BL-13892
+
+Report ID: RPT-AA4FAD12
+Sample ID: SMP-33812
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3684
+
+Patient Name: G***
+Patient ID: UH-001063
+Age: 63 years
+Gender: Female
+
+Height: 184.6 cm
+Weight: 46.6 kg
+
+Blood Pressure: 119/110 mmHg
+Pulse (bpm): 88 bpm
+Blood Sugar (Random): 146 mg/dL
+
+Cholesterol Panel:
+  Total: 252 mg/dL
+  LDL: 130 mg/dL
+  HDL: 43 mg/dL
+  Triglycerides: 121 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 1.04 mg/dL
+BMI: 18.8
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 34 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+
+Doctor's Comments:
+Blood pressure requires monitoring.

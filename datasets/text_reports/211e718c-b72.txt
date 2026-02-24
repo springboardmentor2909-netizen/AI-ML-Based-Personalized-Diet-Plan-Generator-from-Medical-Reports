@@ -1,0 +1,36 @@
+
+Riverdale Hospital
+Address: 23 Alpine Street, Marigold City - 431991
+Phone: +91-97560-57155
+Email: info@riverdale40.org
+Website: www.riverdale325.org
+Accreditation Code: RI-22519
+
+Report ID: RPT-A10B7102
+Sample ID: SMP-39220
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-3397
+
+Patient Name: D***
+Patient ID: UH-000436
+Age: 32 years
+Gender: Female
+
+Blood Pressure: 114/97 mmHg
+Glucose: 108 mg/dL
+
+Cholesterol Panel:
+  Total: 204 mg/dL
+  LDL: -
+  HDL: 52 mg/dL
+  Triglycerides: 194 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.88 mg/dL
+BMI: -
+
+
+Recommendation:
+Continue present medications.

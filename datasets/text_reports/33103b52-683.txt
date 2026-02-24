@@ -1,0 +1,49 @@
+
+BlueValley Medical Center
+Address: 86 Evergreen Lane, Meadowridge - 495147
+Phone: +91-99246-29897
+Email: info@bluevalley56.org
+Website: www.bluevalley290.org
+Accreditation Code: BL-71455
+
+Report ID: RPT-3739BA3A
+Sample ID: SMP-43266
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3950
+
+Patient Name: V***
+Patient ID: UH-000629
+Age: 85 years
+Gender: Female
+
+Height: 188.1 cm
+Weight: 57.7 kg
+
+Blood Pressure: 110/109 mmHg
+Pulse: 108 bpm
+Glucose: 139 mg/dL
+
+Cholesterol Panel:
+  Total: 184 mg/dL
+  LDL: 92 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: 146 mg/dL
+
+Hemoglobin: 14.8 g/dL
+Creatinine: 0.94 mg/dL
+BMI: 32.4
+
+LFT:
+  AST/SGOT: 15 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: 79 mL/min
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

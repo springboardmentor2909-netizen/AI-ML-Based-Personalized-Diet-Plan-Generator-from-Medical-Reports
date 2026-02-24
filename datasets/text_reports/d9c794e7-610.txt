@@ -1,0 +1,40 @@
+
+ClearRiver Medical Center
+Address: 99 Evergreen Lane, Hillcrest - 482654
+Phone: +91-98111-73772
+Email: info@clearriver98.org
+Website: www.clearriver726.org
+Accreditation Code: CL-94794
+
+Report ID: RPT-D12DB0EB
+Sample ID: SMP-38283
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9516
+
+Patient Name: H***
+Patient ID: UH-000842
+Age: 61 years
+Gender: Male
+
+Height: 160.0 cm
+Weight: 49.4 kg
+
+Blood Pressure: 143/72 mmHg
+Pulse: 73 bpm
+Blood Sugar: 109 mg/dL
+
+Cholesterol Panel:
+  Total: 260 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 14.4 g/dL
+Creatinine: 0.79 mg/dL
+BMI: -
+
+
+Remarks:
+Patient advised to maintain hydration.

@@ -1,0 +1,40 @@
+
+Riverdale Medical Center
+Address: 50 Riverbend Ave, Westlake - 499590
+Phone: +91-95770-78910
+Email: info@riverdale83.org
+Website: www.riverdale564.org
+Accreditation Code: RI-69678
+
+Report ID: RPT-D866E180
+Sample ID: SMP-11113
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-6204
+
+Patient Name: H***
+Patient ID: UH-000468
+Age: 80 years
+Gender: Other
+
+Blood Pressure: 163/94 mmHg
+Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 116 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 23.2
+
+KFT:
+  Urea: 41 mg/dL
+  eGFR: 98 mL/min
+
+
+Remarks:
+Lipid levels require monitoring.

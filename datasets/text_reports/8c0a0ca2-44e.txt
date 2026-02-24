@@ -1,0 +1,36 @@
+
+Everlight Hospital
+Address: 77 Alpine Street, Silverpoint - 465408
+Phone: +91-78436-91344
+Email: info@everlight21.org
+Website: www.everlight685.org
+Accreditation Code: EV-57781
+
+Report ID: RPT-E9CCFD42
+Sample ID: SMP-83899
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-4071
+
+Patient Name: C***
+Patient ID: UH-000466
+Age: 83 years
+Gender: Male
+
+Blood Pressure: 158/67 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Remarks:
+Blood pressure stable today.

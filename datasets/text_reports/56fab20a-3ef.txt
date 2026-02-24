@@ -1,0 +1,40 @@
+
+Northlake Diagnostics
+Address: 63 Horizon Road, Clearwater - 467720
+Phone: +91-83602-12085
+Email: info@northlake91.org
+Website: www.northlake806.org
+Accreditation Code: NO-23781
+
+Report ID: RPT-178E9A64
+Sample ID: SMP-26094
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5841
+
+Patient Name: I***
+Patient ID: UH-001091
+Age: 28 years
+Gender: Female
+
+Height: 157.9 cm
+Weight: 94.4 kg
+
+Blood Pressure: 133/61 mmHg
+Pulse Rate: 68 bpm
+Blood Sugar (Random): 135 mg/dL
+
+Cholesterol Panel:
+  Total: 202 mg/dL
+  LDL: 137 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 201 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: 0.74 mg/dL
+BMI: 20.4
+
+
+Recommendations:
+Consider ECG if palpitations recur.

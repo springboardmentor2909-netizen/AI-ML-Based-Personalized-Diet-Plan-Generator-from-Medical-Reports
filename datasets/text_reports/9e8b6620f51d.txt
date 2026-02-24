@@ -1,0 +1,39 @@
+
+Northlake Clinical Institute
+Address: 99 Alpine Street, Westlake - 484750
+Phone: +91-79203-88013
+Email: info@northlake58.org
+Website: www.northlake999.org
+Accreditation Code: NO-48764
+
+Report ID: RPT-44BB3DC8
+Sample ID: SMP-16422
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9428
+
+Patient Name: J***
+Patient ID: UH-001543
+Age: 45
+Gender: Female
+
+Blood Pressure: 162/87 mmHg
+Pulse: 105 bpm
+Glucose: 95 mg/dL
+Height: 145.9 cm
+Weight: 71.2 kg
+Cholesterol Total: 227 mg/dL
+LDL: 109 mg/dL
+HDL: 43 mg/dL
+Hemoglobin: 14.3 g/dL
+Creatinine: 1.19 mg/dL
+BMI: 19.3
+
+LFT:
+  AST/SGOT: 27 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+Doctor's Comments:
+Values improving.

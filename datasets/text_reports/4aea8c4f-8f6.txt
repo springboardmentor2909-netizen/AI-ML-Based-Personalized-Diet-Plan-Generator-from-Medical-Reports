@@ -1,0 +1,39 @@
+
+SolacePoint Medical Center
+Address: 75 Evergreen Lane, Meadowridge - 413358
+Phone: +91-97664-92969
+Email: info@solacepoint45.org
+Website: www.solacepoint105.org
+Accreditation Code: SO-85147
+
+Report ID: RPT-CDB7CD73
+Sample ID: SMP-42162
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 07:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3718
+
+Patient Name: E***
+Patient ID: UH-000545
+Age: 35 years
+Gender: Other
+
+Height: 188.7 cm
+Weight: 74.5 kg
+
+Blood Pressure: 134/107 mmHg
+Glucose: 110 mg/dL
+
+Cholesterol Panel:
+  Total: 197 mg/dL
+  LDL: 149 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 131 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 23.1
+
+
+Doctor's Comments:
+Glucose levels mildly elevated; lifestyle changes advised.

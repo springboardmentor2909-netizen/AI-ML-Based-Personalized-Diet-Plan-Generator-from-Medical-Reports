@@ -1,0 +1,35 @@
+
+Greencrest Hospital
+Address: 67 Horizon Road, Eastwood - 450666
+Phone: +91-76168-60006
+Email: info@greencrest23.org
+Website: www.greencrest461.org
+Accreditation Code: GR-65227
+
+Report ID: RPT-1D37CD5F
+Sample ID: SMP-38055
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3248
+
+Patient Name: X***
+Patient ID: UH-001397
+Age: 42
+Gender: Female
+
+Blood Pressure: 105/91 mmHg
+Pulse: 65 bpm
+Blood Sugar: 127 mg/dL
+Height: 166.1 cm
+Weight: 70.3 kg
+Cholesterol Total: 166 mg/dL
+LDL: 119 mg/dL
+HDL: 64 mg/dL
+Triglycerides: 102 mg/dL
+Hemoglobin: 13.2 g/dL
+Creatinine: 1.14 mg/dL
+BMI: 20.4
+
+Recommendations:
+Increase daily walking.

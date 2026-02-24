@@ -1,0 +1,28 @@
+
+Greencrest Medical Center
+Address: 97 Maple Drive, Hillcrest - 418614
+Phone: +91-84864-98694
+Email: info@greencrest69.org
+Website: www.greencrest850.org
+Accreditation Code: GR-83021
+
+Report ID: RPT-45B435CE
+Sample ID: SMP-96916
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9122
+
+Patient Name: O***
+Patient ID: UH-001335
+Age: 60
+Gender: Other
+
+Height: 187.3 cm
+Cholesterol Total: 157 mg/dL
+LDL: 103 mg/dL
+Hemoglobin: 11.2 g/dL
+BMI: 31.0
+
+Recommendation:
+Increase daily walking.

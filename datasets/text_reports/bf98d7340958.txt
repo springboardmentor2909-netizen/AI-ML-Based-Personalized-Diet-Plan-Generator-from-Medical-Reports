@@ -1,0 +1,45 @@
+
+Starhaven Pathology Lab
+Address: 19 Alpine Street, Silverpoint - 491425
+Phone: +91-88851-60653
+Email: info@starhaven79.org
+Website: www.starhaven682.org
+Accreditation Code: ST-64327
+
+Report ID: RPT-8C941D1B
+Sample ID: SMP-69188
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9524
+
+Patient Name: I***
+Patient ID: UH-001255
+Age: 47 years
+Gender: Female
+
+Height: 167.5 cm
+Weight: 73.1 kg
+
+Blood Pressure: 139/68 mmHg
+Pulse: 88 bpm
+Blood Sugar (Random): 113 mg/dL
+
+Cholesterol Panel:
+  Total: 150 mg/dL
+  LDL: 83 mg/dL
+  HDL: 35 mg/dL
+  Triglycerides: 166 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.41 mg/dL
+BMI: 20.6
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Advice:
+Increase physical movement.

@@ -1,0 +1,49 @@
+
+ClearRiver Clinical Institute
+Address: 76 Horizon Road, Clearwater - 473488
+Phone: +91-81016-13015
+Email: info@clearriver49.org
+Website: www.clearriver503.org
+Accreditation Code: CL-12118
+
+Report ID: RPT-B0B0D891
+Sample ID: SMP-74179
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8446
+
+Patient Name: T***
+Patient ID: UH-001049
+Age: 30 years
+Gender: Female
+
+Height: 155.6 cm
+Weight: -
+
+Blood Pressure: 133/83 mmHg
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 95 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 198 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.14 mg/dL
+BMI: 24.8
+
+LFT:
+  AST/SGOT: 31 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 84 mL/min
+
+
+Recommendation:
+Encouraged moderate daily activity.

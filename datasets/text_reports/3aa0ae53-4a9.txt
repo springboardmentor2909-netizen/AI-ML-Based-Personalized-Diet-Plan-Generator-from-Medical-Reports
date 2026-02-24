@@ -1,0 +1,40 @@
+
+Northlake Diagnostics
+Address: 85 Riverbend Ave, Marigold City - 428819
+Phone: +91-80474-85076
+Email: info@northlake59.org
+Website: www.northlake553.org
+Accreditation Code: NO-42974
+
+Report ID: RPT-329D664E
+Sample ID: SMP-18446
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-4051
+
+Patient Name: B***
+Patient ID: UH-000861
+Age: 31 years
+Gender: Other
+
+Height: 186.2 cm
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 209 mg/dL
+  LDL: -
+  HDL: 42 mg/dL
+  Triglycerides: 100 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 1.25 mg/dL
+BMI: -
+
+
+Clinical Notes:
+Repeat test if clinically indicated.

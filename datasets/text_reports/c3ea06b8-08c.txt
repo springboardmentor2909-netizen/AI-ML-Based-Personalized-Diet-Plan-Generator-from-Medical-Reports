@@ -1,0 +1,40 @@
+
+NovaPath Pathology Lab
+Address: 44 Maple Drive, Meadowridge - 454424
+Phone: +91-75051-29052
+Email: info@novapath11.org
+Website: www.novapath612.org
+Accreditation Code: NO-25206
+
+Report ID: RPT-19077876
+Sample ID: SMP-88373
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9105
+
+Patient Name: O***
+Patient ID: UH-000897
+Age: 28 years
+Gender: Female
+
+Height: 160.5 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 101 bpm
+Glucose: 83 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 122 mg/dL
+  HDL: 37 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.2 g/dL
+Creatinine: -
+BMI: 24.2
+
+
+Doctor's Comments:
+Discussed with patient. Understood.

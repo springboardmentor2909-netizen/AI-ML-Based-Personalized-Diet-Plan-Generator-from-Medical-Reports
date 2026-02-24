@@ -1,0 +1,48 @@
+
+Northlake Medical Center
+Address: 85 Sunrise Boulevard, Hillcrest - 409495
+Phone: +91-78983-36182
+Email: info@northlake38.org
+Website: www.northlake937.org
+Accreditation Code: NO-70569
+
+Report ID: RPT-1C736D83
+Sample ID: SMP-28021
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 06:40
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1003
+
+Patient Name: Z***
+Patient ID: UH-000575
+Age: 82 years
+Gender: Male
+
+Height: 188.7 cm
+Weight: 56.3 kg
+
+Blood Pressure: 147/77 mmHg
+Blood Sugar: 166 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 111 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: 170 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 0.83 mg/dL
+BMI: 19.1
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 120 mL/min
+
+
+Advice:
+Continue present medications.

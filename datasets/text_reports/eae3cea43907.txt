@@ -1,0 +1,44 @@
+
+Greencrest Hospital
+Address: 86 Maple Drive, Clearwater - 406068
+Phone: +91-88853-36769
+Email: info@greencrest14.org
+Website: www.greencrest803.org
+Accreditation Code: GR-10245
+
+Report ID: RPT-565BE9F9
+Sample ID: SMP-29649
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-9432
+
+Patient Name: A***
+Patient ID: UH-001394
+Age: 44
+Gender: Other
+
+Blood Pressure: 112/107 mmHg
+Pulse (bpm): 84 bpm
+Glucose: 81 mg/dL
+Height: 171.3 cm
+Weight: 62.2 kg
+Cholesterol Total: 248 mg/dL
+LDL: 159 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 143 mg/dL
+Hemoglobin: 9.7 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 32.3
+
+LFT:
+  AST/SGOT: 40 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 12 mg/dL
+  eGFR: 70 mL/min
+
+Clinical Notes:
+Further tests if symptoms increase.

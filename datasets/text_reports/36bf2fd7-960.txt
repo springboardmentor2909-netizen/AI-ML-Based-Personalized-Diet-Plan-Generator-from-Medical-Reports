@@ -1,0 +1,39 @@
+
+Greencrest Hospital
+Address: 45 Maple Drive, Meadowridge - 401447
+Phone: +91-88675-56083
+Email: info@greencrest32.org
+Website: www.greencrest444.org
+Accreditation Code: GR-38140
+
+Report ID: RPT-BC93388B
+Sample ID: SMP-15799
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8304
+
+Patient Name: E***
+Patient ID: UH-000598
+Age: 18 years
+Gender: Other
+
+Height: 175.7 cm
+Weight: 49.9 kg
+
+Blood Pressure: 157/80 mmHg
+Blood Sugar (Random): 98 mg/dL
+
+Cholesterol Panel:
+  Total: 250 mg/dL
+  LDL: 106 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 200 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 1.5 mg/dL
+BMI: 23.8
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

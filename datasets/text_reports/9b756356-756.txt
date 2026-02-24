@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 59 Maple Drive, Silverpoint - 456861
+Phone: +91-96219-56603
+Email: info@greencrest12.org
+Website: www.greencrest309.org
+Accreditation Code: GR-17612
+
+Report ID: RPT-83E71DD0
+Sample ID: SMP-97168
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 07:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2660
+
+Patient Name: F***
+Patient ID: UH-000844
+Age: 61 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Blood Sugar (Random): 150 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 12.1 g/dL
+Creatinine: -
+BMI: 29.6
+
+
+Summary:
+Medication adherence reviewed.

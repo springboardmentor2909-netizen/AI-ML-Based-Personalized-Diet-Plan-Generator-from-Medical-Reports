@@ -1,0 +1,44 @@
+
+PrimeCare Diagnostics
+Address: 73 Sunrise Boulevard, Westlake - 415840
+Phone: +91-79085-28191
+Email: info@primecare40.org
+Website: www.primecare434.org
+Accreditation Code: PR-34339
+
+Report ID: RPT-3EBAFB4D
+Sample ID: SMP-81779
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 09:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-4461
+
+Patient Name: B***
+Patient ID: UH-000956
+Age: 53 years
+Gender: Male
+
+Height: 157.7 cm
+Weight: 57.8 kg
+
+Blood Pressure: 142/92 mmHg
+Pulse Rate: -
+Blood Glucose: 119 mg/dL
+
+Cholesterol Panel:
+  Total: 226 mg/dL
+  LDL: 90 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 133 mg/dL
+
+Hemoglobin: 11.1 g/dL
+Creatinine: 1.34 mg/dL
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: 60 mL/min
+
+
+Doctor's Comments:
+Repeat test if clinically indicated.

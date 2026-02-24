@@ -1,0 +1,40 @@
+
+BlueValley Clinical Institute
+Address: 4 Alpine Street, Marigold City - 494477
+Phone: +91-99781-49494
+Email: info@bluevalley39.org
+Website: www.bluevalley673.org
+Accreditation Code: BL-25400
+
+Report ID: RPT-7A6825B2
+Sample ID: SMP-51431
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4497
+
+Patient Name: I***
+Patient ID: UH-000828
+Age: 72 years
+Gender: Male
+
+Height: -
+Weight: 81.6 kg
+
+Blood Pressure: 145/93 mmHg
+Pulse (bpm): -
+Glucose: 147 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 133 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Doctor's Notes:
+Reassurance provided.

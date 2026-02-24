@@ -1,0 +1,40 @@
+
+ClearRiver Pathology Lab
+Address: 88 Riverbend Ave, Meadowridge - 410991
+Phone: +91-80838-93010
+Email: info@clearriver63.org
+Website: www.clearriver871.org
+Accreditation Code: CL-13450
+
+Report ID: RPT-6376AD59
+Sample ID: SMP-54810
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1822
+
+Patient Name: Z***
+Patient ID: UH-001487
+Age: 18
+Gender: Male
+
+Blood Pressure: 119/70 mmHg
+Pulse Rate: 72 bpm
+Glucose: 91 mg/dL
+Height: 180.3 cm
+Weight: 63.1 kg
+Cholesterol Total: 215 mg/dL
+LDL: 90 mg/dL
+HDL: 60 mg/dL
+Triglycerides: 257 mg/dL
+Hemoglobin: 13.8 g/dL
+Creatinine: 1.54 mg/dL
+BMI: 29.9
+
+LFT:
+  AST/SGOT: 16 U/L
+  ALT/SGPT: 25 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+Recommendations:
+Mild elevation in glucose.

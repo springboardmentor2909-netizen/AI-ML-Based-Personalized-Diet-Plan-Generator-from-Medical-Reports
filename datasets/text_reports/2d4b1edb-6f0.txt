@@ -1,0 +1,36 @@
+
+Northlake Hospital
+Address: 73 Maple Drive, Silverpoint - 453738
+Phone: +91-70905-39327
+Email: info@northlake81.org
+Website: www.northlake645.org
+Accreditation Code: NO-69667
+
+Report ID: RPT-1F161EDA
+Sample ID: SMP-39296
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6494
+
+Patient Name: S***
+Patient ID: UH-000481
+Age: 40 years
+Gender: Female
+
+Blood Pressure: -
+Blood Sugar (Random): 128 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 135 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.84 mg/dL
+BMI: -
+
+
+Doctor's Notes:
+Blood pressure stable today.

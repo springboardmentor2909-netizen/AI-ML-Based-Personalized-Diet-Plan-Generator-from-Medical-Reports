@@ -1,0 +1,40 @@
+
+Northlake Diagnostics
+Address: 89 Riverbend Ave, Eastwood - 444051
+Phone: +91-86158-39815
+Email: info@northlake35.org
+Website: www.northlake434.org
+Accreditation Code: NO-94979
+
+Report ID: RPT-2FBF65DB
+Sample ID: SMP-54847
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4969
+
+Patient Name: T***
+Patient ID: UH-001128
+Age: 47 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 124/90 mmHg
+Pulse (bpm): 66 bpm
+Blood Sugar: 131 mg/dL
+
+Cholesterol Panel:
+  Total: 260 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 13.4 g/dL
+Creatinine: -
+BMI: -
+
+
+Clinical Notes:
+Reduce salt intake.

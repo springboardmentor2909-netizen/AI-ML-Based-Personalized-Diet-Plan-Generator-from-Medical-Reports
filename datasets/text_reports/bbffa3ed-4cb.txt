@@ -1,0 +1,49 @@
+
+Riverdale Medical Center
+Address: 28 Riverbend Ave, Meadowridge - 440675
+Phone: +91-88345-21328
+Email: info@riverdale72.org
+Website: www.riverdale397.org
+Accreditation Code: RI-91765
+
+Report ID: RPT-A1F310E4
+Sample ID: SMP-81091
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3804
+
+Patient Name: H***
+Patient ID: UH-000681
+Age: 36 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: 141/88 mmHg
+Pulse: 69 bpm
+Blood Sugar: 109 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 87 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 201 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: -
+BMI: 20.7
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 33 mg/dL
+  eGFR: -
+
+
+Summary:
+Follow-up recommended after 2 weeks.

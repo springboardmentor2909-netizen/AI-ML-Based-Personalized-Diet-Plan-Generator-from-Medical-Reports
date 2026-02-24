@@ -1,0 +1,27 @@
+
+Everlight Diagnostics
+Address: 86 Horizon Road, Hillcrest - 481954
+Phone: +91-81302-52829
+Email: info@everlight88.org
+Website: www.everlight442.org
+Accreditation Code: EV-32404
+
+Report ID: RPT-52763D12
+Sample ID: SMP-96493
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4132
+
+Patient Name: L***
+Patient ID: UH-001498
+Age: 23
+Gender: Other
+
+Blood Pressure: 145/67 mmHg
+Blood Glucose: 155 mg/dL
+Height: 185.9 cm
+BMI: 33.7
+
+Clinical Notes:
+Condition stable.

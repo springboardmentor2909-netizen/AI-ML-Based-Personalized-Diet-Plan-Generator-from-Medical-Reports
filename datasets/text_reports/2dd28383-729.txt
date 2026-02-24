@@ -1,0 +1,45 @@
+
+Northlake Diagnostics
+Address: 63 Horizon Road, Clearwater - 467720
+Phone: +91-83602-12085
+Email: info@northlake91.org
+Website: www.northlake806.org
+Accreditation Code: NO-23781
+
+Report ID: RPT-5D7FD9B4
+Sample ID: SMP-77017
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2988
+
+Patient Name: Y***
+Patient ID: UH-001039
+Age: 83 years
+Gender: Other
+
+Height: 184.5 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 109 bpm
+Blood Sugar: 145 mg/dL
+
+Cholesterol Panel:
+  Total: 206 mg/dL
+  LDL: 136 mg/dL
+  HDL: 44 mg/dL
+  Triglycerides: 122 mg/dL
+
+Hemoglobin: 11.4 g/dL
+Creatinine: 1.23 mg/dL
+BMI: 26.3
+
+LFT:
+  AST/SGOT: 37 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.9 mg/dL
+
+
+Advice:
+Discussed with patient. Understood.

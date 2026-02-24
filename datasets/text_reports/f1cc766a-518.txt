@@ -1,0 +1,40 @@
+
+NovaPath Hospital
+Address: 9 Sunrise Boulevard, Eastwood - 488532
+Phone: +91-84602-75913
+Email: info@novapath31.org
+Website: www.novapath624.org
+Accreditation Code: NO-45413
+
+Report ID: RPT-FD2592E5
+Sample ID: SMP-51957
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1376
+
+Patient Name: A***
+Patient ID: UH-000908
+Age: 84 years
+Gender: Female
+
+Height: 181.4 cm
+Weight: 89.0 kg
+
+Blood Pressure: -
+Pulse Rate: 90 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 42 mg/dL
+  Triglycerides: 235 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 1.02 mg/dL
+BMI: 29.4
+
+
+Advice:
+Vitals stable. No acute concerns.

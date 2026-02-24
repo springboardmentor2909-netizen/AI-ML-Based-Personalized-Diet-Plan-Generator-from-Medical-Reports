@@ -1,0 +1,40 @@
+
+Starhaven Hospital
+Address: 65 Evergreen Lane, Eastwood - 468301
+Phone: +91-87380-43135
+Email: info@starhaven72.org
+Website: www.starhaven488.org
+Accreditation Code: ST-58509
+
+Report ID: RPT-C0CE2CD8
+Sample ID: SMP-60763
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7406
+
+Patient Name: G***
+Patient ID: UH-001573
+Age: 64
+Gender: Male
+
+Blood Pressure: 150/89 mmHg
+Pulse Rate: 110 bpm
+Glucose: 122 mg/dL
+Height: 173.2 cm
+Weight: 46.5 kg
+Cholesterol Total: 250 mg/dL
+LDL: 81 mg/dL
+HDL: 60 mg/dL
+Triglycerides: 239 mg/dL
+Hemoglobin: 11.1 g/dL
+Creatinine: 0.63 mg/dL
+BMI: 32.6
+
+LFT:
+  AST/SGOT: 41 U/L
+  ALT/SGPT: 27 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+Remark:
+Reduce salt intake.

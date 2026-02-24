@@ -1,0 +1,40 @@
+
+SolacePoint Diagnostics
+Address: 41 Horizon Road, Hillcrest - 496981
+Phone: +91-70853-28871
+Email: info@solacepoint70.org
+Website: www.solacepoint614.org
+Accreditation Code: SO-49423
+
+Report ID: RPT-DC2E30F4
+Sample ID: SMP-66916
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 09:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-3289
+
+Patient Name: E***
+Patient ID: UH-000885
+Age: 61 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 70 bpm
+Blood Sugar: 119 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 30 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Summary:
+Encouraged moderate daily activity.

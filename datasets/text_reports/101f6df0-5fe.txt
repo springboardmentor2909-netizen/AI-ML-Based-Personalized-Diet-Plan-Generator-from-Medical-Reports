@@ -1,0 +1,40 @@
+
+Everlight Diagnostics
+Address: 40 Sunrise Boulevard, Eastwood - 460637
+Phone: +91-85929-97655
+Email: info@everlight42.org
+Website: www.everlight824.org
+Accreditation Code: EV-66199
+
+Report ID: RPT-57F597DD
+Sample ID: SMP-29065
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5244
+
+Patient Name: D***
+Patient ID: UH-000894
+Age: 68 years
+Gender: Male
+
+Height: 151.5 cm
+Weight: 61.9 kg
+
+Blood Pressure: 168/97 mmHg
+Pulse (bpm): 85 bpm
+Blood Sugar (Random): 155 mg/dL
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 154 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 145 mg/dL
+
+Hemoglobin: 12.0 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 22.0
+
+
+Summary:
+Cholesterol borderline. Consider dietary modification.

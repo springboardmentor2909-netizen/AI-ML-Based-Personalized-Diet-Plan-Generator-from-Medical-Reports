@@ -1,0 +1,45 @@
+
+PrimeCare Pathology Lab
+Address: 26 Evergreen Lane, Hillcrest - 459685
+Phone: +91-79923-48499
+Email: info@primecare21.org
+Website: www.primecare691.org
+Accreditation Code: PR-17144
+
+Report ID: RPT-0A6DAD57
+Sample ID: SMP-85168
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7339
+
+Patient Name: O***
+Patient ID: UH-000473
+Age: 71 years
+Gender: Female
+
+Blood Pressure: -
+Blood Sugar: 133 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 117 mg/dL
+  HDL: 52 mg/dL
+  Triglycerides: 231 mg/dL
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 0.79 mg/dL
+BMI: 23.6
+
+LFT:
+  AST/SGOT: 40 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: -
+
+KFT:
+  Urea: 21 mg/dL
+  eGFR: 74 mL/min
+
+
+Impression:
+Lipid levels require monitoring.

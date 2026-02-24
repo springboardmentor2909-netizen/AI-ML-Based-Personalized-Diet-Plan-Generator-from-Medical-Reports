@@ -1,0 +1,36 @@
+
+Everlight Hospital
+Address: 77 Alpine Street, Silverpoint - 465408
+Phone: +91-78436-91344
+Email: info@everlight21.org
+Website: www.everlight685.org
+Accreditation Code: EV-57781
+
+Report ID: RPT-2DD63950
+Sample ID: SMP-29804
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7074
+
+Patient Name: T***
+Patient ID: UH-000478
+Age: 80 years
+Gender: Female
+
+Blood Pressure: 146/93 mmHg
+Blood Sugar: 95 mg/dL
+
+Cholesterol Panel:
+  Total: 245 mg/dL
+  LDL: 93 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 12.5 g/dL
+Creatinine: -
+BMI: 26.8
+
+
+Recommendation:
+Glucose levels mildly elevated; lifestyle changes advised.

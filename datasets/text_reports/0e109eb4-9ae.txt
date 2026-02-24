@@ -1,0 +1,44 @@
+
+Silver Oak Clinical Institute
+Address: 57 Riverbend Ave, Marigold City - 489474
+Phone: +91-70211-72050
+Email: info@silver oak64.org
+Website: www.silver oak749.org
+Accreditation Code: SI-23377
+
+Report ID: RPT-4D3C7B25
+Sample ID: SMP-27040
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5646
+
+Patient Name: V***
+Patient ID: UH-001059
+Age: 46 years
+Gender: Female
+
+Height: -
+Weight: 94.3 kg
+
+Blood Pressure: 164/90 mmHg
+Pulse Rate: 108 bpm
+Blood Glucose: 144 mg/dL
+
+Cholesterol Panel:
+  Total: 190 mg/dL
+  LDL: 89 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 174 mg/dL
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 1.44 mg/dL
+BMI: 18.4
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 106 mL/min
+
+
+Recommendations:
+Pt stable. Continue routine follow-up.

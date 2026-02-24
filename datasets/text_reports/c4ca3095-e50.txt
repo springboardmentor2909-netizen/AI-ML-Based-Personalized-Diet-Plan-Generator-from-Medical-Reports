@@ -1,0 +1,49 @@
+
+NovaPath Medical Center
+Address: 13 Maple Drive, Westlake - 485053
+Phone: +91-86514-58113
+Email: info@novapath92.org
+Website: www.novapath852.org
+Accreditation Code: NO-62039
+
+Report ID: RPT-27AF45B8
+Sample ID: SMP-85819
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5250
+
+Patient Name: G***
+Patient ID: UH-001062
+Age: 78 years
+Gender: Female
+
+Height: 146.6 cm
+Weight: 59.0 kg
+
+Blood Pressure: 131/82 mmHg
+Pulse: 67 bpm
+Glucose: 115 mg/dL
+
+Cholesterol Panel:
+  Total: 249 mg/dL
+  LDL: 121 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 178 mg/dL
+
+Hemoglobin: 13.3 g/dL
+Creatinine: 0.81 mg/dL
+BMI: 22.5
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 14 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 68 mL/min
+
+
+Advice:
+Sugar levels within acceptable range.

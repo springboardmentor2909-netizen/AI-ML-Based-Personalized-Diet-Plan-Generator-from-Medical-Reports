@@ -1,0 +1,32 @@
+
+NovaPath Pathology Lab
+Address: 84 Alpine Street, Eastwood - 454453
+Phone: +91-71226-47345
+Email: info@novapath48.org
+Website: www.novapath307.org
+Accreditation Code: NO-40341
+
+Report ID: RPT-E329CAFC
+Sample ID: SMP-83986
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Khan
+OPD No.: OPD-9365
+
+Patient Name: W***
+Patient ID: UH-001331
+Age: 63
+Gender: Male
+
+Blood Pressure: 164/94 mmHg
+Blood Sugar (Random): 75 mg/dL
+Height: 146.9 cm
+Weight: 47.0 kg
+Cholesterol Total: 258 mg/dL
+LDL: 88 mg/dL
+Triglycerides: 237 mg/dL
+Hemoglobin: 11.3 g/dL
+Creatinine: 1.11 mg/dL
+
+Remarks:
+Mild anemia; increase iron intake.

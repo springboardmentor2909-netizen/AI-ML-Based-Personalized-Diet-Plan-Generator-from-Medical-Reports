@@ -1,0 +1,40 @@
+
+Starhaven Hospital
+Address: 34 Horizon Road, Meadowridge - 484601
+Phone: +91-71886-15824
+Email: info@starhaven57.org
+Website: www.starhaven308.org
+Accreditation Code: ST-36306
+
+Report ID: RPT-33D56169
+Sample ID: SMP-16990
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7255
+
+Patient Name: T***
+Patient ID: UH-000620
+Age: 26 years
+Gender: Male
+
+Height: 153.9 cm
+Weight: -
+
+Blood Pressure: -
+Pulse: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 90 mg/dL
+  HDL: -
+  Triglycerides: 150 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Doctor's Notes:
+Blood pressure within acceptable range.

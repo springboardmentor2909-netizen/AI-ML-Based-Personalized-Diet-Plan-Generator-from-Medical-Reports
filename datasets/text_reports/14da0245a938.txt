@@ -1,0 +1,40 @@
+
+BlueValley Pathology Lab
+Address: 65 Maple Drive, Meadowridge - 430599
+Phone: +91-76663-32860
+Email: info@bluevalley89.org
+Website: www.bluevalley106.org
+Accreditation Code: BL-76148
+
+Report ID: RPT-E35DCB42
+Sample ID: SMP-41366
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-2895
+
+Patient Name: F***
+Patient ID: UH-001207
+Age: 64 years
+Gender: Other
+
+Height: 160.9 cm
+Weight: 55.3 kg
+
+Blood Pressure: -
+Pulse (bpm): 102 bpm
+Blood Sugar (Random): 86 mg/dL
+
+Cholesterol Panel:
+  Total: 212 mg/dL
+  LDL: 141 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 237 mg/dL
+
+Hemoglobin: 10.0 g/dL
+Creatinine: 0.99 mg/dL
+BMI: 19.4
+
+
+Doctor's Notes:
+Advised ECG if symptoms persist.

@@ -1,0 +1,15 @@
+feature
+age_norm
+height_cm_norm
+weight_kg_norm
+pulse_norm
+glucose_norm
+cholesterol_total_norm
+ldl_norm
+hdl_norm
+triglycerides_norm
+hemoglobin_norm
+creatinine_norm
+bp_systolic_norm
+bp_diastolic_norm
+gender_encoded

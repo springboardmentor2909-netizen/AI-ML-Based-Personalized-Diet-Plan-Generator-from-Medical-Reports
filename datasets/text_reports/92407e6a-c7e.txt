@@ -1,0 +1,40 @@
+
+Everlight Hospital
+Address: 77 Alpine Street, Silverpoint - 465408
+Phone: +91-78436-91344
+Email: info@everlight21.org
+Website: www.everlight685.org
+Accreditation Code: EV-57781
+
+Report ID: RPT-DC09017A
+Sample ID: SMP-46907
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-2512
+
+Patient Name: L***
+Patient ID: UH-000458
+Age: 74 years
+Gender: Male
+
+Blood Pressure: 142/80 mmHg
+Blood Sugar: 170 mg/dL
+
+Cholesterol Panel:
+  Total: 244 mg/dL
+  LDL: 108 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 116 mg/dL
+
+Hemoglobin: 11.6 g/dL
+Creatinine: 0.75 mg/dL
+BMI: 29.9
+
+KFT:
+  Urea: 35 mg/dL
+  eGFR: 66 mL/min
+
+
+Impression:
+Continue present medications.

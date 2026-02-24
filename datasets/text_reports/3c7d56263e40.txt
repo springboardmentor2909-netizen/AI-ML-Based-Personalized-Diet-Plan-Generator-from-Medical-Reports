@@ -1,0 +1,40 @@
+
+BlueValley Clinical Institute
+Address: 95 Sunrise Boulevard, Silverpoint - 460249
+Phone: +91-80513-81953
+Email: info@bluevalley68.org
+Website: www.bluevalley194.org
+Accreditation Code: BL-39831
+
+Report ID: RPT-77BDD208
+Sample ID: SMP-14626
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-3140
+
+Patient Name: I***
+Patient ID: UH-001212
+Age: 45 years
+Gender: Male
+
+Height: 151.1 cm
+Weight: -
+
+Blood Pressure: 160/87 mmHg
+Pulse (bpm): 62 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 140 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 25.0
+
+
+Remark:
+Patient advised to hydrate adequately.

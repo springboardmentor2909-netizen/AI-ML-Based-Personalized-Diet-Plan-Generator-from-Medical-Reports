@@ -1,0 +1,40 @@
+
+SolacePoint Medical Center
+Address: 35 Maple Drive, Marigold City - 408445
+Phone: +91-99216-72391
+Email: info@solacepoint73.org
+Website: www.solacepoint301.org
+Accreditation Code: SO-65611
+
+Report ID: RPT-B8FCDF57
+Sample ID: SMP-71742
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1429
+
+Patient Name: I***
+Patient ID: UH-000913
+Age: 34 years
+Gender: Female
+
+Height: -
+Weight: 94.8 kg
+
+Blood Pressure: 140/106 mmHg
+Pulse (bpm): 85 bpm
+Blood Sugar (Random): 122 mg/dL
+
+Cholesterol Panel:
+  Total: 216 mg/dL
+  LDL: -
+  HDL: 31 mg/dL
+  Triglycerides: 192 mg/dL
+
+Hemoglobin: 13.1 g/dL
+Creatinine: 1.25 mg/dL
+BMI: 27.6
+
+
+Clinical Notes:
+Encouraged moderate daily activity.

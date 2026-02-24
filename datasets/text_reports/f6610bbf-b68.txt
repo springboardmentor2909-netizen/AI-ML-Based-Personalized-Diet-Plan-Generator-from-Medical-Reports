@@ -1,0 +1,40 @@
+
+SolacePoint Diagnostics
+Address: 96 Riverbend Ave, Clearwater - 488567
+Phone: +91-99737-15876
+Email: info@solacepoint67.org
+Website: www.solacepoint943.org
+Accreditation Code: SO-14941
+
+Report ID: RPT-33B8E9CB
+Sample ID: SMP-23777
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8914
+
+Patient Name: D***
+Patient ID: UH-001048
+Age: 61 years
+Gender: Female
+
+Height: 172.8 cm
+Weight: 57.3 kg
+
+Blood Pressure: 159/110 mmHg
+Pulse: 74 bpm
+Blood Glucose: 134 mg/dL
+
+Cholesterol Panel:
+  Total: 195 mg/dL
+  LDL: 111 mg/dL
+  HDL: 57 mg/dL
+  Triglycerides: 249 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: 0.95 mg/dL
+BMI: 25.8
+
+
+Impression:
+Discussed with patient. Understood.

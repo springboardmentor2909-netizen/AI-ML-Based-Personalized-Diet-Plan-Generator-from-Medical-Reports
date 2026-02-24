@@ -1,0 +1,36 @@
+
+PrimeCare Pathology Lab
+Address: 6 Riverbend Ave, Marigold City - 439363
+Phone: +91-70271-45778
+Email: info@primecare48.org
+Website: www.primecare219.org
+Accreditation Code: PR-59445
+
+Report ID: RPT-9C284CEA
+Sample ID: SMP-98613
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Patel
+OPD No.: OPD-2130
+
+Patient Name: V***
+Patient ID: UH-001522
+Age: 53
+Gender: Male
+
+Blood Pressure: 112/79 mmHg
+Pulse (bpm): 101 bpm
+Blood Sugar (Random): 94 mg/dL
+Height: 165.5 cm
+Cholesterol Total: 157 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 258 mg/dL
+Creatinine: 1.48 mg/dL
+BMI: 19.9
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 60 mL/min
+
+Doctor's Notes:
+Follow-up advised.

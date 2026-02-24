@@ -1,0 +1,44 @@
+
+Northlake Medical Center
+Address: 72 Maple Drive, Silverpoint - 435061
+Phone: +91-73678-98039
+Email: info@northlake37.org
+Website: www.northlake270.org
+Accreditation Code: NO-68421
+
+Report ID: RPT-DAD02572
+Sample ID: SMP-26910
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-2088
+
+Patient Name: W***
+Patient ID: UH-001145
+Age: 31 years
+Gender: Male
+
+Height: 161.1 cm
+Weight: -
+
+Blood Pressure: 125/63 mmHg
+Pulse (bpm): 92 bpm
+Glucose: 147 mg/dL
+
+Cholesterol Panel:
+  Total: 228 mg/dL
+  LDL: -
+  HDL: 49 mg/dL
+  Triglycerides: 146 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.36 mg/dL
+BMI: 27.9
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 60 mL/min
+
+
+Recommendations:
+Results indicate minor deficiency.

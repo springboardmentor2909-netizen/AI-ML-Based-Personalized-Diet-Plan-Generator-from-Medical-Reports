@@ -1,0 +1,49 @@
+
+Starhaven Hospital
+Address: 66 Sunrise Boulevard, Marigold City - 486349
+Phone: +91-90870-89258
+Email: info@starhaven41.org
+Website: www.starhaven546.org
+Accreditation Code: ST-79140
+
+Report ID: RPT-02934068
+Sample ID: SMP-31310
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 05:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3787
+
+Patient Name: H***
+Patient ID: UH-000623
+Age: 40 years
+Gender: Female
+
+Height: 166.1 cm
+Weight: 63.6 kg
+
+Blood Pressure: 150/92 mmHg
+Pulse Rate: 101 bpm
+Glucose: 107 mg/dL
+
+Cholesterol Panel:
+  Total: 173 mg/dL
+  LDL: 124 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: 131 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 0.91 mg/dL
+BMI: 23.3
+
+LFT:
+  AST/SGOT: 39 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 30 mg/dL
+  eGFR: 75 mL/min
+
+
+Remarks:
+Continue present medications.

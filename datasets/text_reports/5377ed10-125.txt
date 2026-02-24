@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 85 Sunrise Boulevard, Westlake - 410012
+Phone: +91-83048-44108
+Email: info@starhaven70.org
+Website: www.starhaven591.org
+Accreditation Code: ST-96129
+
+Report ID: RPT-F6DC64FE
+Sample ID: SMP-32918
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8927
+
+Patient Name: C***
+Patient ID: UH-001191
+Age: 20 years
+Gender: Male
+
+Height: 164.8 cm
+Weight: 88.2 kg
+
+Blood Pressure: 140/101 mmHg
+Pulse: 62 bpm
+Blood Glucose: 139 mg/dL
+
+Cholesterol Panel:
+  Total: 230 mg/dL
+  LDL: 88 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: 166 mg/dL
+
+Hemoglobin: 15.0 g/dL
+Creatinine: 1.39 mg/dL
+BMI: 23.9
+
+
+Recommendations:
+Results indicate minor deficiency.

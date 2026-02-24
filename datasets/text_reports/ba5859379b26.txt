@@ -1,0 +1,31 @@
+
+Riverdale Hospital
+Address: 77 Alpine Street, Silverpoint - 435808
+Phone: +91-99270-44233
+Email: info@riverdale78.org
+Website: www.riverdale889.org
+Accreditation Code: RI-54267
+
+Report ID: RPT-F76CBB17
+Sample ID: SMP-92355
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 07:55
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6233
+
+Patient Name: P***
+Patient ID: UH-001309
+Age: 69
+Gender: Female
+
+Pulse (bpm): 92 bpm
+Blood Glucose: 162 mg/dL
+Weight: 72.2 kg
+Cholesterol Total: 195 mg/dL
+LDL: 77 mg/dL
+Triglycerides: 168 mg/dL
+Hemoglobin: 13.4 g/dL
+BMI: 24.2
+
+Recommendation:
+Cholesterol borderline; monitor periodically.

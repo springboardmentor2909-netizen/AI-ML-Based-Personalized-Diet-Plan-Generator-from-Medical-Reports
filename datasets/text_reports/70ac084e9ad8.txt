@@ -1,0 +1,40 @@
+
+NovaPath Medical Center
+Address: 8 Evergreen Lane, Silverpoint - 438003
+Phone: +91-99286-68673
+Email: info@novapath39.org
+Website: www.novapath289.org
+Accreditation Code: NO-54029
+
+Report ID: RPT-C00CCF8F
+Sample ID: SMP-81246
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3802
+
+Patient Name: C***
+Patient ID: UH-001254
+Age: 51 years
+Gender: Other
+
+Height: 174.5 cm
+Weight: 97.1 kg
+
+Blood Pressure: -
+Pulse (bpm): 63 bpm
+Blood Glucose: 162 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 144 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.06 mg/dL
+BMI: 26.1
+
+
+Recommendations:
+Further evaluation if symptoms worsen.

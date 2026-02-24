@@ -1,0 +1,41 @@
+
+BlueValley Pathology Lab
+Address: 55 Alpine Street, Eastwood - 411869
+Phone: +91-78915-85534
+Email: info@bluevalley27.org
+Website: www.bluevalley614.org
+Accreditation Code: BL-19985
+
+Report ID: RPT-ED2B7B12
+Sample ID: SMP-54259
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3956
+
+Patient Name: O***
+Patient ID: UH-000405
+Age: 35 years
+Gender: Male
+
+Blood Pressure: 124/62 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 203 mg/dL
+  LDL: 96 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: 193 mg/dL
+
+Hemoglobin: 12.7 g/dL
+Creatinine: 1.22 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 34 U/L
+  ALT/SGPT: 21 U/L
+  Bilirubin Total: -
+
+
+Doctor's Notes:
+Continue present medications.

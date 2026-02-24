@@ -1,0 +1,44 @@
+
+SolacePoint Medical Center
+Address: 24 Riverbend Ave, Silverpoint - 498593
+Phone: +91-85467-40561
+Email: info@solacepoint92.org
+Website: www.solacepoint405.org
+Accreditation Code: SO-38616
+
+Report ID: RPT-5E932734
+Sample ID: SMP-67357
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8856
+
+Patient Name: O***
+Patient ID: UH-000941
+Age: 35 years
+Gender: Female
+
+Height: 151.1 cm
+Weight: 75.3 kg
+
+Blood Pressure: 135/97 mmHg
+Pulse Rate: -
+Blood Glucose: 123 mg/dL
+
+Cholesterol Panel:
+  Total: 236 mg/dL
+  LDL: 136 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 138 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.94 mg/dL
+BMI: 21.8
+
+KFT:
+  Urea: 15 mg/dL
+  eGFR: 61 mL/min
+
+
+Remarks:
+Adequate control maintained.

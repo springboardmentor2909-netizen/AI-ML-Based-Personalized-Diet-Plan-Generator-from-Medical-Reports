@@ -1,0 +1,44 @@
+
+Medisphere Clinical Institute
+Address: 67 Maple Drive, Westlake - 449551
+Phone: +91-89962-78549
+Email: info@medisphere65.org
+Website: www.medisphere908.org
+Accreditation Code: ME-31649
+
+Report ID: RPT-A9B2DA12
+Sample ID: SMP-70125
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7763
+
+Patient Name: Q***
+Patient ID: UH-000664
+Age: 75 years
+Gender: Other
+
+Height: 158.0 cm
+Weight: 61.9 kg
+
+Blood Pressure: 162/69 mmHg
+Pulse (bpm): 79 bpm
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 58 mg/dL
+  Triglycerides: 148 mg/dL
+
+Hemoglobin: 15.2 g/dL
+Creatinine: 0.9 mg/dL
+BMI: 28.3
+
+KFT:
+  Urea: 42 mg/dL
+  eGFR: -
+
+
+Summary:
+Follow-up recommended after 2 weeks.

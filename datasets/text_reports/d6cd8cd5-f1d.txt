@@ -1,0 +1,45 @@
+
+Northlake Pathology Lab
+Address: 44 Riverbend Ave, Eastwood - 463347
+Phone: +91-83959-74786
+Email: info@northlake82.org
+Website: www.northlake347.org
+Accreditation Code: NO-99298
+
+Report ID: RPT-E4A08D0C
+Sample ID: SMP-28524
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3950
+
+Patient Name: A***
+Patient ID: UH-001074
+Age: 22 years
+Gender: Female
+
+Height: 159.4 cm
+Weight: -
+
+Blood Pressure: 125/96 mmHg
+Pulse: 91 bpm
+Glucose: 108 mg/dL
+
+Cholesterol Panel:
+  Total: 216 mg/dL
+  LDL: 108 mg/dL
+  HDL: 58 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.0 g/dL
+Creatinine: 1.27 mg/dL
+BMI: 25.7
+
+LFT:
+  AST/SGOT: 23 U/L
+  ALT/SGPT: 20 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

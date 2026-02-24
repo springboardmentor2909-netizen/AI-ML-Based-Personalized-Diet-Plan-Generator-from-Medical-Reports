@@ -1,0 +1,44 @@
+
+BlueValley Medical Center
+Address: 54 Maple Drive, Marigold City - 412537
+Phone: +91-84317-43007
+Email: info@bluevalley54.org
+Website: www.bluevalley523.org
+Accreditation Code: BL-40981
+
+Report ID: RPT-A953EB25
+Sample ID: SMP-91311
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-6480
+
+Patient Name: Q***
+Patient ID: UH-001273
+Age: 60 years
+Gender: Other
+
+Height: 181.5 cm
+Weight: -
+
+Blood Pressure: 162/74 mmHg
+Pulse: -
+Blood Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: 223 mg/dL
+  LDL: 134 mg/dL
+  HDL: 42 mg/dL
+  Triglycerides: 162 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.52 mg/dL
+BMI: 32.2
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 95 mL/min
+
+
+Recommendations:
+Diet improvement essential.

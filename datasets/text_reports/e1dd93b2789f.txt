@@ -1,0 +1,26 @@
+
+Silver Oak Medical Center
+Address: 55 Horizon Road, Meadowridge - 421914
+Phone: +91-94778-56675
+Email: info@silver oak70.org
+Website: www.silver oak981.org
+Accreditation Code: SI-48974
+
+Report ID: RPT-1ADC1F71
+Sample ID: SMP-16554
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3155
+
+Patient Name: U***
+Patient ID: UH-001380
+Age: 52
+Gender: Male
+
+Blood Pressure: 154/100 mmHg
+Pulse (bpm): 87 bpm
+Hemoglobin: 13.7 g/dL
+
+Recommendations:
+Improve sleep hygiene.

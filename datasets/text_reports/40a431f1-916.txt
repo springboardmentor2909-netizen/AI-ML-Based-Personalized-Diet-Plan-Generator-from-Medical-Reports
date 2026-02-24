@@ -1,0 +1,40 @@
+
+ClearRiver Medical Center
+Address: 64 Evergreen Lane, Eastwood - 422637
+Phone: +91-84452-57727
+Email: info@clearriver29.org
+Website: www.clearriver403.org
+Accreditation Code: CL-17209
+
+Report ID: RPT-69808FA3
+Sample ID: SMP-72795
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 10:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-8635
+
+Patient Name: O***
+Patient ID: UH-000694
+Age: 46 years
+Gender: Female
+
+Height: 155.4 cm
+Weight: 78.3 kg
+
+Blood Pressure: 162/77 mmHg
+Pulse: -
+Glucose: 109 mg/dL
+
+Cholesterol Panel:
+  Total: 177 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 128 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 33.3
+
+
+Recommendation:
+Follow-up recommended after 2 weeks.

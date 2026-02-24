@@ -1,0 +1,40 @@
+
+ClearRiver Hospital
+Address: 78 Evergreen Lane, Clearwater - 408908
+Phone: +91-89120-93859
+Email: info@clearriver68.org
+Website: www.clearriver823.org
+Accreditation Code: CL-22950
+
+Report ID: RPT-57202A94
+Sample ID: SMP-49046
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-3312
+
+Patient Name: E***
+Patient ID: UH-000678
+Age: 71 years
+Gender: Other
+
+Height: 186.5 cm
+Weight: 59.0 kg
+
+Blood Pressure: 118/90 mmHg
+Pulse (bpm): 96 bpm
+Blood Sugar (Random): 82 mg/dL
+
+Cholesterol Panel:
+  Total: 177 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 20.4
+
+
+Recommendations:
+Lipid profile requires monitoring.

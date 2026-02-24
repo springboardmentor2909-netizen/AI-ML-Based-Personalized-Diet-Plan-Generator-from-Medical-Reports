@@ -1,0 +1,40 @@
+
+ClearRiver Pathology Lab
+Address: 23 Sunrise Boulevard, Silverpoint - 420466
+Phone: +91-74177-98632
+Email: info@clearriver23.org
+Website: www.clearriver271.org
+Accreditation Code: CL-77845
+
+Report ID: RPT-AC82B65D
+Sample ID: SMP-72446
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-3546
+
+Patient Name: B***
+Patient ID: UH-001365
+Age: 24
+Gender: Female
+
+Blood Pressure: 157/65 mmHg
+Pulse: 93 bpm
+Blood Sugar: 111 mg/dL
+Height: 146.2 cm
+Weight: 65.2 kg
+Cholesterol Total: 211 mg/dL
+LDL: 73 mg/dL
+HDL: 54 mg/dL
+Triglycerides: 215 mg/dL
+Hemoglobin: 13.6 g/dL
+Creatinine: 1.31 mg/dL
+BMI: 23.1
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+Doctor's Notes:
+BP slightly high; observe.

@@ -1,0 +1,39 @@
+
+Greencrest Clinical Institute
+Address: 61 Maple Drive, Hillcrest - 455128
+Phone: +91-86330-10175
+Email: info@greencrest89.org
+Website: www.greencrest507.org
+Accreditation Code: GR-27865
+
+Report ID: RPT-F0C115E8
+Sample ID: SMP-10969
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4557
+
+Patient Name: E***
+Patient ID: UH-001354
+Age: 55
+Gender: Other
+
+Blood Pressure: 145/110 mmHg
+Pulse Rate: 91 bpm
+Blood Glucose: 85 mg/dL
+Height: 163.2 cm
+Weight: 75.0 kg
+Cholesterol Total: 150 mg/dL
+LDL: 143 mg/dL
+HDL: 33 mg/dL
+Triglycerides: 174 mg/dL
+Hemoglobin: 11.4 g/dL
+Creatinine: 0.68 mg/dL
+BMI: 35.0
+
+KFT:
+  Urea: 14 mg/dL
+  eGFR: 110 mL/min
+
+Recommendation:
+Continue same medication dosage.

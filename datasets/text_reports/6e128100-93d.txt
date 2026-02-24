@@ -1,0 +1,43 @@
+
+Everlight Pathology Lab
+Address: 75 Maple Drive, Marigold City - 425580
+Phone: +91-85506-82311
+Email: info@everlight70.org
+Website: www.everlight825.org
+Accreditation Code: EV-47441
+
+Report ID: RPT-2B206624
+Sample ID: SMP-19885
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 10:40
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8288
+
+Patient Name: K***
+Patient ID: UH-000576
+Age: 63 years
+Gender: Other
+
+Height: 145.5 cm
+Weight: 71.1 kg
+
+Blood Pressure: 143/72 mmHg
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 168 mg/dL
+  LDL: -
+  HDL: 32 mg/dL
+  Triglycerides: 162 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 0.92 mg/dL
+BMI: -
+
+KFT:
+  Urea: -
+  eGFR: 102 mL/min
+
+
+Doctor's Notes:
+Lipid profile requires monitoring.

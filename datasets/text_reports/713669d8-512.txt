@@ -1,0 +1,49 @@
+
+BlueValley Hospital
+Address: 72 Horizon Road, Meadowridge - 490760
+Phone: +91-70696-15570
+Email: info@bluevalley79.org
+Website: www.bluevalley337.org
+Accreditation Code: BL-21375
+
+Report ID: RPT-07E3C1CC
+Sample ID: SMP-19350
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6916
+
+Patient Name: N***
+Patient ID: UH-000876
+Age: 44 years
+Gender: Female
+
+Height: 171.5 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: 98 bpm
+Blood Sugar: 97 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.84 mg/dL
+BMI: 31.0
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: -
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 45 mg/dL
+  eGFR: 61 mL/min
+
+
+Doctor's Comments:
+Pt stable. Continue routine follow-up.

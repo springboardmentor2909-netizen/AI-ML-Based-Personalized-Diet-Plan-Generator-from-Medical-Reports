@@ -1,0 +1,45 @@
+
+SolacePoint Pathology Lab
+Address: 92 Horizon Road, Westlake - 435280
+Phone: +91-95554-87358
+Email: info@solacepoint44.org
+Website: www.solacepoint679.org
+Accreditation Code: SO-15223
+
+Report ID: RPT-C2F97812
+Sample ID: SMP-74430
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-1014
+
+Patient Name: Z***
+Patient ID: UH-001164
+Age: 40 years
+Gender: Male
+
+Height: 149.9 cm
+Weight: 55.7 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 165 mg/dL
+  LDL: 160 mg/dL
+  HDL: -
+  Triglycerides: 127 mg/dL
+
+Hemoglobin: 11.8 g/dL
+Creatinine: 1.37 mg/dL
+BMI: 26.8
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 31 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+
+Recommendation:
+Encouraged improved hydration.

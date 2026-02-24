@@ -1,0 +1,40 @@
+
+SolacePoint Pathology Lab
+Address: 82 Riverbend Ave, Silverpoint - 473653
+Phone: +91-77842-61500
+Email: info@solacepoint30.org
+Website: www.solacepoint677.org
+Accreditation Code: SO-17950
+
+Report ID: RPT-EEF33762
+Sample ID: SMP-72876
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-4562
+
+Patient Name: I***
+Patient ID: UH-001485
+Age: 71
+Gender: Other
+
+Blood Pressure: 159/74 mmHg
+Pulse: 74 bpm
+Blood Glucose: 160 mg/dL
+Height: 189.0 cm
+Weight: 94.9 kg
+Cholesterol Total: 164 mg/dL
+LDL: 100 mg/dL
+HDL: 57 mg/dL
+Triglycerides: 240 mg/dL
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.45 mg/dL
+BMI: 35.0
+
+LFT:
+  AST/SGOT: 10 U/L
+  ALT/SGPT: 10 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+Remarks:
+Values improving.

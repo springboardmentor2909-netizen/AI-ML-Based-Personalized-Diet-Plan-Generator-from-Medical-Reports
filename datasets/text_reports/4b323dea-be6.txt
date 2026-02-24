@@ -1,0 +1,49 @@
+
+Everlight Hospital
+Address: 9 Maple Drive, Meadowridge - 450843
+Phone: +91-72228-80779
+Email: info@everlight34.org
+Website: www.everlight421.org
+Accreditation Code: EV-85504
+
+Report ID: RPT-4B5EB0D6
+Sample ID: SMP-48107
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-3179
+
+Patient Name: U***
+Patient ID: UH-000617
+Age: 39 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: 151/60 mmHg
+Pulse (bpm): -
+Blood Sugar: 121 mg/dL
+
+Cholesterol Panel:
+  Total: 163 mg/dL
+  LDL: 108 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 114 mg/dL
+
+Hemoglobin: 10.7 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 25.8
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 0.5 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 90 mL/min
+
+
+Clinical Notes:
+Continue present medications.

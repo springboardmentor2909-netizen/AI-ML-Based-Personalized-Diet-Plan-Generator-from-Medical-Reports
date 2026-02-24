@@ -1,0 +1,40 @@
+
+PrimeCare Diagnostics
+Address: 71 Alpine Street, Marigold City - 452933
+Phone: +91-90287-15239
+Email: info@primecare62.org
+Website: www.primecare604.org
+Accreditation Code: PR-97828
+
+Report ID: RPT-6CFB15CF
+Sample ID: SMP-13455
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 05:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-9373
+
+Patient Name: K***
+Patient ID: UH-001169
+Age: 73 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: 19.4
+
+
+Summary:
+BP requires regular monitoring.

@@ -1,0 +1,45 @@
+
+Silver Oak Hospital
+Address: 53 Riverbend Ave, Hillcrest - 441881
+Phone: +91-86414-94659
+Email: info@silver oak60.org
+Website: www.silver oak310.org
+Accreditation Code: SI-67063
+
+Report ID: RPT-4B49F1F7
+Sample ID: SMP-76273
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3403
+
+Patient Name: J***
+Patient ID: UH-001070
+Age: 81 years
+Gender: Male
+
+Height: 185.6 cm
+Weight: -
+
+Blood Pressure: 157/73 mmHg
+Pulse: 106 bpm
+Glucose: 166 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 83 mg/dL
+  HDL: 36 mg/dL
+  Triglycerides: 111 mg/dL
+
+Hemoglobin: 12.4 g/dL
+Creatinine: 1.27 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: 17 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 0.7 mg/dL
+
+
+Doctor's Comments:
+Discussed with patient. Understood.

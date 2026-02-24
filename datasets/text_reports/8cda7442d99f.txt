@@ -1,0 +1,44 @@
+
+Starhaven Medical Center
+Address: 94 Alpine Street, Hillcrest - 480043
+Phone: +91-97797-75402
+Email: info@starhaven46.org
+Website: www.starhaven807.org
+Accreditation Code: ST-77588
+
+Report ID: RPT-FD546FE1
+Sample ID: SMP-98440
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 06:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5995
+
+Patient Name: S***
+Patient ID: UH-001279
+Age: 23 years
+Gender: Female
+
+Height: 176.0 cm
+Weight: 70.8 kg
+
+Blood Pressure: 128/95 mmHg
+Pulse Rate: 63 bpm
+Blood Glucose: 128 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 71 mg/dL
+  HDL: 53 mg/dL
+  Triglycerides: 277 mg/dL
+
+Hemoglobin: 15.6 g/dL
+Creatinine: 1.59 mg/dL
+BMI: 32.8
+
+KFT:
+  Urea: -
+  eGFR: 70 mL/min
+
+
+Doctor's Notes:
+Condition improving.

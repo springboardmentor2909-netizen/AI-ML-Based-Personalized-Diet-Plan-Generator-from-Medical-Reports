@@ -1,0 +1,40 @@
+
+Everlight Diagnostics
+Address: 64 Horizon Road, Northbay - 443945
+Phone: +91-79955-79483
+Email: info@everlight16.org
+Website: www.everlight565.org
+Accreditation Code: EV-68673
+
+Report ID: RPT-33430A87
+Sample ID: SMP-87740
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5700
+
+Patient Name: G***
+Patient ID: UH-001058
+Age: 34 years
+Gender: Female
+
+Height: 185.1 cm
+Weight: 48.2 kg
+
+Blood Pressure: 122/79 mmHg
+Pulse (bpm): 61 bpm
+Glucose: 105 mg/dL
+
+Cholesterol Panel:
+  Total: 223 mg/dL
+  LDL: 120 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 183 mg/dL
+
+Hemoglobin: 14.1 g/dL
+Creatinine: 1.18 mg/dL
+BMI: 29.7
+
+
+Clinical Notes:
+Infection markers normal. No antibiotics needed.

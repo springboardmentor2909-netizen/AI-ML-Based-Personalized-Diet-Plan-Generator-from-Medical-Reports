@@ -1,0 +1,49 @@
+
+Greencrest Pathology Lab
+Address: 71 Evergreen Lane, Clearwater - 490562
+Phone: +91-77690-51574
+Email: info@greencrest59.org
+Website: www.greencrest679.org
+Accreditation Code: GR-33882
+
+Report ID: RPT-C5A9015A
+Sample ID: SMP-30013
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-8597
+
+Patient Name: D***
+Patient ID: UH-001135
+Age: 52 years
+Gender: Female
+
+Height: 180.7 cm
+Weight: 66.7 kg
+
+Blood Pressure: 156/71 mmHg
+Pulse (bpm): -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 171 mg/dL
+  LDL: 130 mg/dL
+  HDL: 59 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 1.46 mg/dL
+BMI: 23.1
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 38 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 72 mL/min
+
+
+Recommendations:
+Further evaluation if symptoms persist.

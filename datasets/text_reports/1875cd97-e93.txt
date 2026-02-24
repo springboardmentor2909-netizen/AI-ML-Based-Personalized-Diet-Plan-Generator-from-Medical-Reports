@@ -1,0 +1,44 @@
+
+NovaPath Medical Center
+Address: 13 Maple Drive, Westlake - 485053
+Phone: +91-86514-58113
+Email: info@novapath92.org
+Website: www.novapath852.org
+Accreditation Code: NO-62039
+
+Report ID: RPT-115FFB3C
+Sample ID: SMP-79661
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-3570
+
+Patient Name: I***
+Patient ID: UH-001053
+Age: 47 years
+Gender: Male
+
+Height: 173.2 cm
+Weight: 48.3 kg
+
+Blood Pressure: 159/61 mmHg
+Pulse: 93 bpm
+Glucose: 87 mg/dL
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 131 mg/dL
+  HDL: 31 mg/dL
+  Triglycerides: 199 mg/dL
+
+Hemoglobin: 12.2 g/dL
+Creatinine: 0.72 mg/dL
+BMI: 29.1
+
+KFT:
+  Urea: 44 mg/dL
+  eGFR: 89 mL/min
+
+
+Remark:
+Improvement noted. Keep current regimen.

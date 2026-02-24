@@ -1,0 +1,38 @@
+
+Greencrest Clinical Institute
+Address: 3 Alpine Street, Meadowridge - 446264
+Phone: +91-71650-43177
+Email: info@greencrest16.org
+Website: www.greencrest930.org
+Accreditation Code: GR-39411
+
+Report ID: RPT-51BCF6BF
+Sample ID: SMP-97235
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 06:00
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4085
+
+Patient Name: E***
+Patient ID: UH-001571
+Age: 27
+Gender: Male
+
+Blood Pressure: 143/86 mmHg
+Pulse: 81 bpm
+Glucose: 114 mg/dL
+Height: 152.2 cm
+Weight: 80.6 kg
+Cholesterol Total: 195 mg/dL
+HDL: 58 mg/dL
+Hemoglobin: 10.2 g/dL
+Creatinine: 1.63 mg/dL
+BMI: 35.8
+
+LFT:
+  AST/SGOT: 39 U/L
+  ALT/SGPT: 41 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+Recommendation:
+Reduce salt intake.

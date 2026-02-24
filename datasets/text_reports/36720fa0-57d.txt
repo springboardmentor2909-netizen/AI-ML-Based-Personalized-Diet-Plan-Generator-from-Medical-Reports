@@ -1,0 +1,40 @@
+
+PrimeCare Medical Center
+Address: 33 Horizon Road, Silverpoint - 436363
+Phone: +91-79910-77024
+Email: info@primecare60.org
+Website: www.primecare957.org
+Accreditation Code: PR-80469
+
+Report ID: RPT-6D19DFB3
+Sample ID: SMP-13020
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4746
+
+Patient Name: W***
+Patient ID: UH-001192
+Age: 41 years
+Gender: Female
+
+Height: -
+Weight: -
+
+Blood Pressure: 170/86 mmHg
+Pulse Rate: 68 bpm
+Glucose: 148 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: -
+  Triglycerides: 217 mg/dL
+
+Hemoglobin: 14.2 g/dL
+Creatinine: 0.88 mg/dL
+BMI: 26.0
+
+
+Recommendation:
+Discussed results; patient understood.

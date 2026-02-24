@@ -1,0 +1,36 @@
+
+Starhaven Hospital
+Address: 4 Horizon Road, Clearwater - 416191
+Phone: +91-96276-67032
+Email: info@starhaven62.org
+Website: www.starhaven266.org
+Accreditation Code: ST-36195
+
+Report ID: RPT-C1AC5496
+Sample ID: SMP-84351
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-1194
+
+Patient Name: J***
+Patient ID: UH-000462
+Age: 62 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 254 mg/dL
+  LDL: 87 mg/dL
+  HDL: 34 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Clinical Notes:
+Lipid levels require monitoring.

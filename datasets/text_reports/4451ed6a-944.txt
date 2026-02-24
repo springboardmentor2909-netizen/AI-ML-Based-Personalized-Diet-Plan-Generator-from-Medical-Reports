@@ -1,0 +1,40 @@
+
+Greencrest Clinical Institute
+Address: 29 Sunrise Boulevard, Hillcrest - 483639
+Phone: +91-96764-38472
+Email: info@greencrest51.org
+Website: www.greencrest539.org
+Accreditation Code: GR-32526
+
+Report ID: RPT-9EE9D1A1
+Sample ID: SMP-98108
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1232
+
+Patient Name: A***
+Patient ID: UH-000817
+Age: 82 years
+Gender: Male
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 122 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.99 mg/dL
+BMI: 24.4
+
+
+Remark:
+Consider ECG if palpitations recur.

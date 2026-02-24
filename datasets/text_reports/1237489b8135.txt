@@ -1,0 +1,36 @@
+
+ClearRiver Hospital
+Address: 9 Horizon Road, Clearwater - 479456
+Phone: +91-73529-58553
+Email: info@clearriver30.org
+Website: www.clearriver461.org
+Accreditation Code: CL-62194
+
+Report ID: RPT-6D80512C
+Sample ID: SMP-22250
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 10:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5238
+
+Patient Name: M***
+Patient ID: UH-001449
+Age: 24
+Gender: Female
+
+Blood Pressure: 107/90 mmHg
+Pulse Rate: 103 bpm
+Blood Sugar: 99 mg/dL
+Height: 149.2 cm
+Weight: 93.4 kg
+Cholesterol Total: 220 mg/dL
+HDL: 39 mg/dL
+Triglycerides: 216 mg/dL
+Creatinine: 1.27 mg/dL
+BMI: 31.1
+
+KFT:
+  eGFR: 98 mL/min
+
+Summary:
+Mild elevation in glucose.

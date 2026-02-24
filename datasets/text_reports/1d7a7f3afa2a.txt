@@ -1,0 +1,36 @@
+
+Starhaven Hospital
+Address: 77 Horizon Road, Westlake - 478017
+Phone: +91-84576-25099
+Email: info@starhaven79.org
+Website: www.starhaven165.org
+Accreditation Code: ST-63330
+
+Report ID: RPT-B9F95EFD
+Sample ID: SMP-58848
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 07:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2399
+
+Patient Name: Z***
+Patient ID: UH-001552
+Age: 55
+Gender: Female
+
+Blood Pressure: 162/86 mmHg
+Pulse Rate: 96 bpm
+Weight: 74.6 kg
+Cholesterol Total: 181 mg/dL
+HDL: 49 mg/dL
+Triglycerides: 224 mg/dL
+Hemoglobin: 10.5 g/dL
+Creatinine: 1.58 mg/dL
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: 36 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+Clinical Notes:
+Increase physical activity.

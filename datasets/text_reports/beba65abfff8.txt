@@ -1,0 +1,49 @@
+
+Greencrest Diagnostics
+Address: 87 Maple Drive, Marigold City - 441796
+Phone: +91-86410-15063
+Email: info@greencrest78.org
+Website: www.greencrest970.org
+Accreditation Code: GR-15192
+
+Report ID: RPT-F634D9C9
+Sample ID: SMP-74346
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 08:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7604
+
+Patient Name: B***
+Patient ID: UH-001220
+Age: 78 years
+Gender: Other
+
+Height: 178.5 cm
+Weight: 45.4 kg
+
+Blood Pressure: 155/94 mmHg
+Pulse: 77 bpm
+Blood Sugar (Random): 150 mg/dL
+
+Cholesterol Panel:
+  Total: 184 mg/dL
+  LDL: 98 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: 189 mg/dL
+
+Hemoglobin: 9.9 g/dL
+Creatinine: 1.43 mg/dL
+BMI: 24.4
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 48 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 117 mL/min
+
+
+Doctor's Notes:
+Follow-up recommended in 2 weeks.

@@ -1,0 +1,40 @@
+
+ClearRiver Medical Center
+Address: 98 Evergreen Lane, Northbay - 404590
+Phone: +91-89453-76700
+Email: info@clearriver45.org
+Website: www.clearriver271.org
+Accreditation Code: CL-88381
+
+Report ID: RPT-A7B09633
+Sample ID: SMP-61677
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5589
+
+Patient Name: X***
+Patient ID: UH-001008
+Age: 35 years
+Gender: Female
+
+Height: 148.7 cm
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Glucose: 153 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 142 mg/dL
+  HDL: 51 mg/dL
+  Triglycerides: 135 mg/dL
+
+Hemoglobin: 13.3 g/dL
+Creatinine: -
+BMI: -
+
+
+Clinical Notes:
+Adequate control maintained.

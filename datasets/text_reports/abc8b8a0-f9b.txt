@@ -1,0 +1,45 @@
+
+Riverdale Pathology Lab
+Address: 73 Maple Drive, Hillcrest - 422646
+Phone: +91-75791-51321
+Email: info@riverdale77.org
+Website: www.riverdale542.org
+Accreditation Code: RI-41023
+
+Report ID: RPT-88B17038
+Sample ID: SMP-15150
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1841
+
+Patient Name: G***
+Patient ID: UH-001104
+Age: 56 years
+Gender: Other
+
+Height: 172.3 cm
+Weight: 65.7 kg
+
+Blood Pressure: 138/74 mmHg
+Pulse Rate: 61 bpm
+Blood Sugar: 169 mg/dL
+
+Cholesterol Panel:
+  Total: 218 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 177 mg/dL
+
+Hemoglobin: 12.3 g/dL
+Creatinine: 1.27 mg/dL
+BMI: 30.0
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 19 U/L
+  Bilirubin Total: -
+
+
+Clinical Notes:
+No signs of active infection.

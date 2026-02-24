@@ -1,0 +1,28 @@
+
+Everlight Medical Center
+Address: 33 Alpine Street, Westlake - 490144
+Phone: +91-99939-64032
+Email: info@everlight67.org
+Website: www.everlight783.org
+Accreditation Code: EV-48295
+
+Report ID: RPT-DA049948
+Sample ID: SMP-28910
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9632
+
+Patient Name: E***
+Patient ID: UH-001441
+Age: 75
+Gender: Male
+
+LDL: 135 mg/dL
+HDL: 43 mg/dL
+Triglycerides: 216 mg/dL
+Creatinine: 1.57 mg/dL
+BMI: 35.8
+
+Doctor's Notes:
+Follow-up advised.

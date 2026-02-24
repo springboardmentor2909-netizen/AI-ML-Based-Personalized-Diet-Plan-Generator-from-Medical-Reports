@@ -1,0 +1,45 @@
+
+Starhaven Pathology Lab
+Address: 94 Evergreen Lane, Hillcrest - 466819
+Phone: +91-81338-98268
+Email: info@starhaven38.org
+Website: www.starhaven593.org
+Accreditation Code: ST-46668
+
+Report ID: RPT-971FACAA
+Sample ID: SMP-28381
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 07:52
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7792
+
+Patient Name: A***
+Patient ID: UH-001251
+Age: 23 years
+Gender: Other
+
+Height: 147.9 cm
+Weight: 47.7 kg
+
+Blood Pressure: 158/107 mmHg
+Pulse: 78 bpm
+Blood Sugar (Random): 132 mg/dL
+
+Cholesterol Panel:
+  Total: 224 mg/dL
+  LDL: 153 mg/dL
+  HDL: 39 mg/dL
+  Triglycerides: 96 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 0.97 mg/dL
+BMI: 34.7
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 21 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+
+Doctor's Notes:
+Further evaluation if symptoms worsen.

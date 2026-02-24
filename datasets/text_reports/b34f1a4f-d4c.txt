@@ -1,0 +1,40 @@
+
+SolacePoint Hospital
+Address: 22 Horizon Road, Clearwater - 488393
+Phone: +91-85680-94229
+Email: info@solacepoint18.org
+Website: www.solacepoint119.org
+Accreditation Code: SO-72057
+
+Report ID: RPT-E28CD4A4
+Sample ID: SMP-97014
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 05:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-8800
+
+Patient Name: W***
+Patient ID: UH-000944
+Age: 29 years
+Gender: Other
+
+Height: 161.2 cm
+Weight: 46.1 kg
+
+Blood Pressure: 110/89 mmHg
+Pulse: 92 bpm
+Glucose: 121 mg/dL
+
+Cholesterol Panel:
+  Total: 257 mg/dL
+  LDL: 102 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 123 mg/dL
+
+Hemoglobin: 11.3 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 29.9
+
+
+Advice:
+Recommend rechecking lipids after 3 months.

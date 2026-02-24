@@ -1,0 +1,42 @@
+
+Riverdale Hospital
+Address: 7 Alpine Street, Marigold City - 479255
+Phone: +91-99139-44819
+Email: info@riverdale81.org
+Website: www.riverdale345.org
+Accreditation Code: RI-64344
+
+Report ID: RPT-2624AC26
+Sample ID: SMP-76830
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Patel
+OPD No.: OPD-6330
+
+Patient Name: E***
+Patient ID: UH-001378
+Age: 62
+Gender: Female
+
+Blood Pressure: 121/90 mmHg
+Pulse: 80 bpm
+Blood Sugar: 133 mg/dL
+Cholesterol Total: 165 mg/dL
+LDL: 128 mg/dL
+HDL: 35 mg/dL
+Triglycerides: 236 mg/dL
+Hemoglobin: 14.2 g/dL
+Creatinine: 0.8 mg/dL
+BMI: 31.5
+
+LFT:
+  AST/SGOT: 12 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: 30 mg/dL
+  eGFR: 94 mL/min
+
+Remark:
+Increase daily walking.

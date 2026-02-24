@@ -1,0 +1,40 @@
+
+Northlake Clinical Institute
+Address: 59 Sunrise Boulevard, Westlake - 470851
+Phone: +91-76590-17157
+Email: info@northlake53.org
+Website: www.northlake198.org
+Accreditation Code: NO-86342
+
+Report ID: RPT-2072A4C4
+Sample ID: SMP-13098
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5935
+
+Patient Name: X***
+Patient ID: UH-000917
+Age: 75 years
+Gender: Other
+
+Height: -
+Weight: 91.9 kg
+
+Blood Pressure: 128/97 mmHg
+Pulse Rate: 73 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 153 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.05 mg/dL
+BMI: 26.9
+
+
+Doctor's Notes:
+Vitals stable. No acute concerns.

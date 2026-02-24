@@ -1,0 +1,44 @@
+
+Everlight Medical Center
+Address: 64 Maple Drive, Hillcrest - 402462
+Phone: +91-74357-28070
+Email: info@everlight50.org
+Website: www.everlight266.org
+Accreditation Code: EV-69998
+
+Report ID: RPT-E96AF541
+Sample ID: SMP-37824
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5745
+
+Patient Name: B***
+Patient ID: UH-001532
+Age: 77
+Gender: Female
+
+Blood Pressure: 138/61 mmHg
+Pulse: 86 bpm
+Blood Sugar (Random): 180 mg/dL
+Height: 161.7 cm
+Weight: 93.6 kg
+Cholesterol Total: 186 mg/dL
+LDL: 83 mg/dL
+HDL: 29 mg/dL
+Triglycerides: 204 mg/dL
+Hemoglobin: 14.9 g/dL
+Creatinine: 1.66 mg/dL
+BMI: 32.5
+
+LFT:
+  AST/SGOT: 29 U/L
+  ALT/SGPT: 26 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 60 mL/min
+
+Doctor's Notes:
+Repeat lipid panel in future.

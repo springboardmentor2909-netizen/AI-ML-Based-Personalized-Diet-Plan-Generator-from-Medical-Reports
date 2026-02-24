@@ -1,0 +1,40 @@
+
+PrimeCare Pathology Lab
+Address: 22 Evergreen Lane, Westlake - 400590
+Phone: +91-76571-74037
+Email: info@primecare99.org
+Website: www.primecare202.org
+Accreditation Code: PR-99725
+
+Report ID: RPT-8F6D1EF1
+Sample ID: SMP-81809
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-5562
+
+Patient Name: L***
+Patient ID: UH-001172
+Age: 20 years
+Gender: Other
+
+Height: 151.5 cm
+Weight: 83.2 kg
+
+Blood Pressure: 125/66 mmHg
+Pulse Rate: -
+Blood Sugar: 84 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 116 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.1 mg/dL
+BMI: -
+
+
+Recommendation:
+BP requires regular monitoring.

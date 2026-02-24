@@ -1,0 +1,45 @@
+
+BlueValley Medical Center
+Address: 61 Horizon Road, Meadowridge - 411441
+Phone: +91-79408-22859
+Email: info@bluevalley90.org
+Website: www.bluevalley859.org
+Accreditation Code: BL-25477
+
+Report ID: RPT-A2C06EA0
+Sample ID: SMP-76470
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 08:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-7705
+
+Patient Name: E***
+Patient ID: UH-001004
+Age: 22 years
+Gender: Other
+
+Height: -
+Weight: 62.3 kg
+
+Blood Pressure: 104/104 mmHg
+Pulse (bpm): 85 bpm
+Glucose: 115 mg/dL
+
+Cholesterol Panel:
+  Total: 252 mg/dL
+  LDL: -
+  HDL: 31 mg/dL
+  Triglycerides: 240 mg/dL
+
+Hemoglobin: 11.4 g/dL
+Creatinine: 0.72 mg/dL
+BMI: 30.7
+
+LFT:
+  AST/SGOT: 24 U/L
+  ALT/SGPT: 24 U/L
+  Bilirubin Total: 0.4 mg/dL
+
+
+Impression:
+Diet modification essential.

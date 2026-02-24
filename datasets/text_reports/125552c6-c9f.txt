@@ -1,0 +1,44 @@
+
+NovaPath Hospital
+Address: 58 Alpine Street, Marigold City - 474868
+Phone: +91-78879-77203
+Email: info@novapath80.org
+Website: www.novapath496.org
+Accreditation Code: NO-17745
+
+Report ID: RPT-B98D8761
+Sample ID: SMP-68801
+Collection Time: 11/12/2025 04:40
+Reporting Time: 11/12/2025 05:40
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-3657
+
+Patient Name: U***
+Patient ID: UH-000553
+Age: 49 years
+Gender: Female
+
+Height: 184.3 cm
+Weight: 77.3 kg
+
+Blood Pressure: 142/70 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 46 mg/dL
+  Triglycerides: 139 mg/dL
+
+Hemoglobin: 12.9 g/dL
+Creatinine: -
+BMI: 25.6
+
+LFT:
+  AST/SGOT: 19 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Recommendations:
+Blood pressure within acceptable range.

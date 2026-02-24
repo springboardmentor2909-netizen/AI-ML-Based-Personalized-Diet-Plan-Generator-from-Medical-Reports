@@ -1,0 +1,49 @@
+
+Starhaven Pathology Lab
+Address: 92 Horizon Road, Clearwater - 455867
+Phone: +91-73627-82457
+Email: info@starhaven30.org
+Website: www.starhaven654.org
+Accreditation Code: ST-33406
+
+Report ID: RPT-05A02CAD
+Sample ID: SMP-40323
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5913
+
+Patient Name: K***
+Patient ID: UH-001043
+Age: 40 years
+Gender: Female
+
+Height: 182.1 cm
+Weight: 75.7 kg
+
+Blood Pressure: -
+Pulse: 82 bpm
+Blood Sugar: 156 mg/dL
+
+Cholesterol Panel:
+  Total: 257 mg/dL
+  LDL: 109 mg/dL
+  HDL: 56 mg/dL
+  Triglycerides: 171 mg/dL
+
+Hemoglobin: 11.9 g/dL
+Creatinine: 1.42 mg/dL
+BMI: 30.7
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 18 U/L
+  Bilirubin Total: 0.9 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 67 mL/min
+
+
+Remarks:
+Medication adherence reviewed.

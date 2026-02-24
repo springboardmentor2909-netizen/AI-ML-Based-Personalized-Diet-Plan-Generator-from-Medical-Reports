@@ -1,0 +1,40 @@
+
+BlueValley Medical Center
+Address: 63 Horizon Road, Northbay - 482720
+Phone: +91-85083-20483
+Email: info@bluevalley61.org
+Website: www.bluevalley165.org
+Accreditation Code: BL-42808
+
+Report ID: RPT-A3C74498
+Sample ID: SMP-72292
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5601
+
+Patient Name: S***
+Patient ID: UH-001242
+Age: 29 years
+Gender: Male
+
+Height: -
+Weight: 89.1 kg
+
+Blood Pressure: -
+Pulse: -
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 119 mg/dL
+  HDL: -
+  Triglycerides: 252 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 0.64 mg/dL
+BMI: -
+
+
+Impression:
+Lifestyle modifications discussed.

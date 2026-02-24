@@ -1,0 +1,27 @@
+
+Medisphere Pathology Lab
+Address: 12 Riverbend Ave, Westlake - 473381
+Phone: +91-96674-17261
+Email: info@medisphere11.org
+Website: www.medisphere280.org
+Accreditation Code: ME-39626
+
+Report ID: RPT-EE697AB2
+Sample ID: SMP-22118
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-6725
+
+Patient Name: R***
+Patient ID: UH-001334
+Age: 56
+Gender: Female
+
+Height: 162.1 cm
+LDL: 88 mg/dL
+HDL: 31 mg/dL
+BMI: 18.3
+
+Advice:
+No signs of infection detected.

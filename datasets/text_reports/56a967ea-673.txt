@@ -1,0 +1,45 @@
+
+Northlake Hospital
+Address: 98 Maple Drive, Hillcrest - 439295
+Phone: +91-99761-95299
+Email: info@northlake40.org
+Website: www.northlake226.org
+Accreditation Code: NO-15191
+
+Report ID: RPT-9FCCFD86
+Sample ID: SMP-83798
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 06:48
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7282
+
+Patient Name: I***
+Patient ID: UH-000924
+Age: 55 years
+Gender: Other
+
+Height: 181.4 cm
+Weight: 59.7 kg
+
+Blood Pressure: 126/90 mmHg
+Pulse: 90 bpm
+Blood Glucose: 150 mg/dL
+
+Cholesterol Panel:
+  Total: 200 mg/dL
+  LDL: 92 mg/dL
+  HDL: 32 mg/dL
+  Triglycerides: 234 mg/dL
+
+Hemoglobin: 11.1 g/dL
+Creatinine: 1.43 mg/dL
+BMI: 25.6
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 10 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+
+Summary:
+Vitals stable. No acute concerns.

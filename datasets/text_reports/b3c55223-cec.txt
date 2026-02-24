@@ -1,0 +1,45 @@
+
+ClearRiver Clinical Institute
+Address: 2 Maple Drive, Northbay - 477817
+Phone: +91-94119-23270
+Email: info@clearriver96.org
+Website: www.clearriver157.org
+Accreditation Code: CL-47665
+
+Report ID: RPT-F7269818
+Sample ID: SMP-30531
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7953
+
+Patient Name: Z***
+Patient ID: UH-000848
+Age: 42 years
+Gender: Female
+
+Height: 146.0 cm
+Weight: 58.2 kg
+
+Blood Pressure: 169/86 mmHg
+Pulse: 83 bpm
+Glucose: 156 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 120 mg/dL
+  HDL: -
+  Triglycerides: 102 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: 24.1
+
+LFT:
+  AST/SGOT: 31 U/L
+  ALT/SGPT: -
+  Bilirubin Total: 1.2 mg/dL
+
+
+Remark:
+Discussed with patient. Understood.

@@ -1,0 +1,39 @@
+
+Starhaven Pathology Lab
+Address: 16 Horizon Road, Eastwood - 416280
+Phone: +91-76975-86887
+Email: info@starhaven15.org
+Website: www.starhaven120.org
+Accreditation Code: ST-52681
+
+Report ID: RPT-33A3DE0E
+Sample ID: SMP-87953
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8081
+
+Patient Name: U***
+Patient ID: UH-001523
+Age: 33
+Gender: Other
+
+Blood Pressure: 118/64 mmHg
+Pulse (bpm): 101 bpm
+Blood Sugar (Random): 109 mg/dL
+Height: 162.9 cm
+Weight: 67.0 kg
+Cholesterol Total: 171 mg/dL
+LDL: 114 mg/dL
+HDL: 56 mg/dL
+Triglycerides: 121 mg/dL
+Hemoglobin: 12.8 g/dL
+Creatinine: 0.73 mg/dL
+BMI: 26.2
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 68 mL/min
+
+Recommendation:
+Continue medications.

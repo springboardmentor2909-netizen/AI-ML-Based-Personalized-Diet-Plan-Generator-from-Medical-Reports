@@ -1,0 +1,40 @@
+
+Greencrest Pathology Lab
+Address: 29 Maple Drive, Hillcrest - 490259
+Phone: +91-88473-52230
+Email: info@greencrest48.org
+Website: www.greencrest288.org
+Accreditation Code: GR-48586
+
+Report ID: RPT-5FD28E5A
+Sample ID: SMP-97754
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5947
+
+Patient Name: H***
+Patient ID: UH-000606
+Age: 35 years
+Gender: Male
+
+Height: 161.0 cm
+Weight: 70.8 kg
+
+Blood Pressure: -
+Pulse (bpm): 65 bpm
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: -
+  HDL: 43 mg/dL
+  Triglycerides: 184 mg/dL
+
+Hemoglobin: 12.5 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 27.3
+
+
+Doctor's Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

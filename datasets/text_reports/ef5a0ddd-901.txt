@@ -1,0 +1,36 @@
+
+Riverdale Diagnostics
+Address: 14 Maple Drive, Meadowridge - 425325
+Phone: +91-92162-30525
+Email: info@riverdale77.org
+Website: www.riverdale143.org
+Accreditation Code: RI-64166
+
+Report ID: RPT-7AA5DD4B
+Sample ID: SMP-70303
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-5288
+
+Patient Name: M***
+Patient ID: UH-000413
+Age: 31 years
+Gender: Female
+
+Blood Pressure: 127/105 mmHg
+Blood Glucose: 156 mg/dL
+
+Cholesterol Panel:
+  Total: 176 mg/dL
+  LDL: 107 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: 193 mg/dL
+
+Hemoglobin: 14.9 g/dL
+Creatinine: 1.38 mg/dL
+BMI: 30.0
+
+
+Advice:
+Follow-up recommended after 2 weeks.

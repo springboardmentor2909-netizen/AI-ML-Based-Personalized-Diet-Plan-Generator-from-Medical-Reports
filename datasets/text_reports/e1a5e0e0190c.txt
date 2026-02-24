@@ -1,0 +1,32 @@
+
+ClearRiver Hospital
+Address: 55 Evergreen Lane, Silverpoint - 413564
+Phone: +91-82070-73646
+Email: info@clearriver38.org
+Website: www.clearriver458.org
+Accreditation Code: CL-10100
+
+Report ID: RPT-D91D0111
+Sample ID: SMP-49982
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6309
+
+Patient Name: O***
+Patient ID: UH-001379
+Age: 37
+Gender: Other
+
+Blood Pressure: 103/63 mmHg
+Glucose: 143 mg/dL
+Height: 173.3 cm
+Cholesterol Total: 158 mg/dL
+LDL: 133 mg/dL
+HDL: 45 mg/dL
+Triglycerides: 157 mg/dL
+Hemoglobin: 12.4 g/dL
+BMI: 20.9
+
+Doctor's Notes:
+Medication adherence checked.

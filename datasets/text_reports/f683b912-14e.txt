@@ -1,0 +1,36 @@
+
+NovaPath Pathology Lab
+Address: 53 Sunrise Boulevard, Eastwood - 453742
+Phone: +91-89235-25445
+Email: info@novapath12.org
+Website: www.novapath714.org
+Accreditation Code: NO-32976
+
+Report ID: RPT-64A7468B
+Sample ID: SMP-64631
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-5619
+
+Patient Name: R***
+Patient ID: UH-000441
+Age: 81 years
+Gender: Male
+
+Blood Pressure: 110/64 mmHg
+Blood Sugar: 106 mg/dL
+
+Cholesterol Panel:
+  Total: 172 mg/dL
+  LDL: 107 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 103 mg/dL
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 0.89 mg/dL
+BMI: 18.9
+
+
+Advice:
+Glucose levels mildly elevated; lifestyle changes advised.

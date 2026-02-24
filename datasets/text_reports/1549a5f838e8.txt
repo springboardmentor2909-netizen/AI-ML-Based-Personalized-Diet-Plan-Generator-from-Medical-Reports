@@ -1,0 +1,44 @@
+
+Everlight Clinical Institute
+Address: 1 Riverbend Ave, Marigold City - 420808
+Phone: +91-77760-71191
+Email: info@everlight34.org
+Website: www.everlight502.org
+Accreditation Code: EV-99364
+
+Report ID: RPT-BFA7BDE3
+Sample ID: SMP-17006
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 06:55
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6804
+
+Patient Name: C***
+Patient ID: UH-001373
+Age: 63
+Gender: Male
+
+Blood Pressure: 124/61 mmHg
+Pulse Rate: 76 bpm
+Blood Sugar (Random): 102 mg/dL
+Height: 175.8 cm
+Weight: 84.2 kg
+Cholesterol Total: 199 mg/dL
+LDL: 97 mg/dL
+HDL: 41 mg/dL
+Triglycerides: 174 mg/dL
+Hemoglobin: 15.0 g/dL
+Creatinine: 0.99 mg/dL
+BMI: 28.3
+
+LFT:
+  AST/SGOT: 21 U/L
+  ALT/SGPT: 10 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 43 mg/dL
+  eGFR: 65 mL/min
+
+Remarks:
+Further tests if symptoms increase.

@@ -1,0 +1,40 @@
+
+Starhaven Diagnostics
+Address: 8 Riverbend Ave, Marigold City - 494602
+Phone: +91-98369-47432
+Email: info@starhaven74.org
+Website: www.starhaven871.org
+Accreditation Code: ST-93062
+
+Report ID: RPT-4AD8318E
+Sample ID: SMP-24269
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 06:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-4383
+
+Patient Name: L***
+Patient ID: UH-001084
+Age: 59 years
+Gender: Male
+
+Height: -
+Weight: 69.6 kg
+
+Blood Pressure: 116/62 mmHg
+Pulse (bpm): 67 bpm
+Glucose: 155 mg/dL
+
+Cholesterol Panel:
+  Total: 238 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 152 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.43 mg/dL
+BMI: -
+
+
+Doctor's Comments:
+Continue present medications.

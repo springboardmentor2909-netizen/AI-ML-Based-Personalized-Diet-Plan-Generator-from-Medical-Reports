@@ -1,0 +1,41 @@
+
+SolacePoint Diagnostics
+Address: 40 Evergreen Lane, Clearwater - 452552
+Phone: +91-92661-69524
+Email: info@solacepoint84.org
+Website: www.solacepoint591.org
+Accreditation Code: SO-17732
+
+Report ID: RPT-A36230EE
+Sample ID: SMP-16963
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 10:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9927
+
+Patient Name: S***
+Patient ID: UH-001548
+Age: 84
+Gender: Female
+
+Blood Pressure: 112/102 mmHg
+Pulse (bpm): 109 bpm
+Blood Sugar (Random): 130 mg/dL
+Height: 150.3 cm
+Weight: 72.8 kg
+Cholesterol Total: 207 mg/dL
+LDL: 72 mg/dL
+HDL: 32 mg/dL
+Triglycerides: 163 mg/dL
+Hemoglobin: 11.2 g/dL
+BMI: 21.3
+
+LFT:
+  Bilirubin Total: 0.4 mg/dL
+
+KFT:
+  Urea: 18 mg/dL
+  eGFR: 125 mL/min
+
+Doctor's Comments:
+Follow-up advised.

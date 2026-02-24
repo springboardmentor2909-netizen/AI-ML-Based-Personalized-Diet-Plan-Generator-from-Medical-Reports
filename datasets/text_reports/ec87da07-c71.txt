@@ -1,0 +1,49 @@
+
+Northlake Diagnostics
+Address: 15 Sunrise Boulevard, Clearwater - 492315
+Phone: +91-76576-75170
+Email: info@northlake64.org
+Website: www.northlake513.org
+Accreditation Code: NO-58643
+
+Report ID: RPT-BE06B472
+Sample ID: SMP-86950
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Rao
+OPD No.: OPD-9363
+
+Patient Name: V***
+Patient ID: UH-000864
+Age: 85 years
+Gender: Male
+
+Height: 183.7 cm
+Weight: 80.6 kg
+
+Blood Pressure: 150/63 mmHg
+Pulse (bpm): 86 bpm
+Blood Sugar: 110 mg/dL
+
+Cholesterol Panel:
+  Total: 195 mg/dL
+  LDL: 115 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 198 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: 0.98 mg/dL
+BMI: 31.1
+
+LFT:
+  AST/SGOT: 36 U/L
+  ALT/SGPT: 19 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+KFT:
+  Urea: 34 mg/dL
+  eGFR: 101 mL/min
+
+
+Doctor's Comments:
+No clinical signs of deterioration.

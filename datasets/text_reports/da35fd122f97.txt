@@ -1,0 +1,40 @@
+
+Northlake Hospital
+Address: 71 Riverbend Ave, Westlake - 439518
+Phone: +91-86798-15982
+Email: info@northlake65.org
+Website: www.northlake562.org
+Accreditation Code: NO-32168
+
+Report ID: RPT-56E76FEB
+Sample ID: SMP-58859
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 05:52
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4653
+
+Patient Name: K***
+Patient ID: UH-001284
+Age: 75 years
+Gender: Other
+
+Height: 163.3 cm
+Weight: 47.4 kg
+
+Blood Pressure: 147/94 mmHg
+Pulse (bpm): 84 bpm
+Blood Sugar (Random): 83 mg/dL
+
+Cholesterol Panel:
+  Total: 194 mg/dL
+  LDL: 145 mg/dL
+  HDL: 60 mg/dL
+  Triglycerides: 255 mg/dL
+
+Hemoglobin: 11.2 g/dL
+Creatinine: 1.03 mg/dL
+BMI: 28.3
+
+
+Advice:
+Minor deficiency suspected.

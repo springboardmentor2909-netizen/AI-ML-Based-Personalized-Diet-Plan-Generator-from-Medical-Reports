@@ -1,0 +1,49 @@
+
+Everlight Medical Center
+Address: 75 Maple Drive, Marigold City - 468228
+Phone: +91-99667-56152
+Email: info@everlight74.org
+Website: www.everlight180.org
+Accreditation Code: EV-45421
+
+Report ID: RPT-00BF1526
+Sample ID: SMP-28551
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 08:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-1826
+
+Patient Name: F***
+Patient ID: UH-000672
+Age: 70 years
+Gender: Female
+
+Height: 185.3 cm
+Weight: 75.8 kg
+
+Blood Pressure: 149/105 mmHg
+Pulse Rate: -
+Blood Sugar (Random): 162 mg/dL
+
+Cholesterol Panel:
+  Total: 214 mg/dL
+  LDL: 160 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 166 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.77 mg/dL
+BMI: 25.3
+
+LFT:
+  AST/SGOT: 11 U/L
+  ALT/SGPT: -
+  Bilirubin Total: -
+
+KFT:
+  Urea: 45 mg/dL
+  eGFR: 78 mL/min
+
+
+Remarks:
+Follow-up recommended after 2 weeks.

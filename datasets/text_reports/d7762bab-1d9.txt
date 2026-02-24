@@ -1,0 +1,40 @@
+
+BlueValley Clinical Institute
+Address: 8 Maple Drive, Clearwater - 495107
+Phone: +91-79482-49135
+Email: info@bluevalley76.org
+Website: www.bluevalley863.org
+Accreditation Code: BL-94168
+
+Report ID: RPT-5E211BCD
+Sample ID: SMP-11433
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Rao
+OPD No.: OPD-6913
+
+Patient Name: J***
+Patient ID: UH-001173
+Age: 73 years
+Gender: Male
+
+Height: 160.9 cm
+Weight: 56.3 kg
+
+Blood Pressure: 155/75 mmHg
+Pulse Rate: 66 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: 211 mg/dL
+  LDL: -
+  HDL: 37 mg/dL
+  Triglycerides: 160 mg/dL
+
+Hemoglobin: 13.8 g/dL
+Creatinine: 0.93 mg/dL
+BMI: 23.8
+
+
+Recommendations:
+Lipid profile indicates borderline elevation.

@@ -1,0 +1,40 @@
+
+Greencrest Medical Center
+Address: 66 Riverbend Ave, Silverpoint - 481110
+Phone: +91-82821-83380
+Email: info@greencrest51.org
+Website: www.greencrest817.org
+Accreditation Code: GR-59316
+
+Report ID: RPT-12F2DAD9
+Sample ID: SMP-40225
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 08:45
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-4733
+
+Patient Name: O***
+Patient ID: UH-000810
+Age: 51 years
+Gender: Female
+
+Height: 151.3 cm
+Weight: 88.5 kg
+
+Blood Pressure: 165/103 mmHg
+Pulse (bpm): 61 bpm
+Blood Sugar (Random): 137 mg/dL
+
+Cholesterol Panel:
+  Total: 247 mg/dL
+  LDL: 114 mg/dL
+  HDL: 55 mg/dL
+  Triglycerides: 185 mg/dL
+
+Hemoglobin: 13.2 g/dL
+Creatinine: 1.29 mg/dL
+BMI: 20.9
+
+
+Doctor's Notes:
+Vitals stable. No acute concerns.

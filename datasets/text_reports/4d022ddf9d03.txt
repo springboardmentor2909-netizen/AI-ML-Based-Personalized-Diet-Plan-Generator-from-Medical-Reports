@@ -1,0 +1,34 @@
+
+PrimeCare Pathology Lab
+Address: 84 Horizon Road, Northbay - 498128
+Phone: +91-98467-14021
+Email: info@primecare90.org
+Website: www.primecare397.org
+Accreditation Code: PR-98485
+
+Report ID: RPT-969FB9EF
+Sample ID: SMP-26381
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 11:00
+Referring Doctor: Dr. Rao
+OPD No.: OPD-1095
+
+Patient Name: O***
+Patient ID: UH-001553
+Age: 73
+Gender: Other
+
+Blood Pressure: 103/81 mmHg
+Pulse (bpm): 104 bpm
+Cholesterol Total: 251 mg/dL
+LDL: 126 mg/dL
+HDL: 56 mg/dL
+Hemoglobin: 10.1 g/dL
+BMI: 33.7
+
+KFT:
+  Urea: 16 mg/dL
+  eGFR: 106 mL/min
+
+Doctor's Comments:
+Discussed results; patient understood.

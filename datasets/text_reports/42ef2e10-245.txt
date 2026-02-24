@@ -1,0 +1,40 @@
+
+NovaPath Diagnostics
+Address: 84 Sunrise Boulevard, Northbay - 477485
+Phone: +91-88011-70994
+Email: info@novapath86.org
+Website: www.novapath142.org
+Accreditation Code: NO-61122
+
+Report ID: RPT-ACB6E5F0
+Sample ID: SMP-65964
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4783
+
+Patient Name: A***
+Patient ID: UH-000483
+Age: 59 years
+Gender: Male
+
+Blood Pressure: 114/94 mmHg
+Glucose: -
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: 123 mg/dL
+  HDL: -
+  Triglycerides: 167 mg/dL
+
+Hemoglobin: 14.6 g/dL
+Creatinine: 0.89 mg/dL
+BMI: 31.2
+
+KFT:
+  Urea: 19 mg/dL
+  eGFR: 67 mL/min
+
+
+Doctor's Comments:
+Glucose levels mildly elevated; lifestyle changes advised.

@@ -1,0 +1,36 @@
+
+Starhaven Clinical Institute
+Address: 20 Riverbend Ave, Clearwater - 426769
+Phone: +91-98218-73480
+Email: info@starhaven42.org
+Website: www.starhaven684.org
+Accreditation Code: ST-34747
+
+Report ID: RPT-50404329
+Sample ID: SMP-80658
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Khan
+OPD No.: OPD-6350
+
+Patient Name: S***
+Patient ID: UH-000430
+Age: 67 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 93 mg/dL
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 1.07 mg/dL
+BMI: -
+
+
+Doctor's Notes:
+Follow-up recommended after 2 weeks.

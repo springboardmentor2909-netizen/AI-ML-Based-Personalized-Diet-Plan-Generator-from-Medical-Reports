@@ -1,0 +1,49 @@
+
+Silver Oak Medical Center
+Address: 39 Maple Drive, Marigold City - 414686
+Phone: +91-88063-41458
+Email: info@silver oak35.org
+Website: www.silver oak382.org
+Accreditation Code: SI-73495
+
+Report ID: RPT-C17F137F
+Sample ID: SMP-35650
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 06:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7000
+
+Patient Name: E***
+Patient ID: UH-000867
+Age: 58 years
+Gender: Male
+
+Height: 158.8 cm
+Weight: 84.5 kg
+
+Blood Pressure: 159/107 mmHg
+Pulse (bpm): 86 bpm
+Blood Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: 134 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 226 mg/dL
+
+Hemoglobin: 14.3 g/dL
+Creatinine: 0.72 mg/dL
+BMI: 19.8
+
+LFT:
+  AST/SGOT: 26 U/L
+  ALT/SGPT: 43 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 28 mg/dL
+  eGFR: 76 mL/min
+
+
+Doctor's Comments:
+Glucose slightly elevated; review diet and exercise.

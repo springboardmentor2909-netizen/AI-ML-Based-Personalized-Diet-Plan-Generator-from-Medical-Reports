@@ -1,0 +1,40 @@
+
+Northlake Pathology Lab
+Address: 40 Alpine Street, Silverpoint - 479519
+Phone: +91-91061-33538
+Email: info@northlake15.org
+Website: www.northlake870.org
+Accreditation Code: NO-94062
+
+Report ID: RPT-1E513958
+Sample ID: SMP-97657
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 06:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-1645
+
+Patient Name: W***
+Patient ID: UH-000485
+Age: 57 years
+Gender: Male
+
+Blood Pressure: 104/66 mmHg
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 222 mg/dL
+  LDL: 85 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 225 mg/dL
+
+Hemoglobin: 11.3 g/dL
+Creatinine: 1.07 mg/dL
+BMI: 25.4
+
+KFT:
+  Urea: 27 mg/dL
+  eGFR: 97 mL/min
+
+
+Remark:
+Continue present medications.

@@ -1,0 +1,35 @@
+
+Everlight Hospital
+Address: 94 Horizon Road, Silverpoint - 413444
+Phone: +91-99904-30311
+Email: info@everlight14.org
+Website: www.everlight170.org
+Accreditation Code: EV-53159
+
+Report ID: RPT-33FE8C32
+Sample ID: SMP-93505
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 05:55
+Referring Doctor: Dr. Rao
+OPD No.: OPD-7037
+
+Patient Name: Z***
+Patient ID: UH-001340
+Age: 53
+Gender: Female
+
+Blood Pressure: 111/71 mmHg
+Pulse (bpm): 91 bpm
+Blood Glucose: 143 mg/dL
+Height: 164.3 cm
+Weight: 68.6 kg
+Cholesterol Total: 155 mg/dL
+LDL: 118 mg/dL
+HDL: 31 mg/dL
+Triglycerides: 186 mg/dL
+Hemoglobin: 9.8 g/dL
+Creatinine: 1.33 mg/dL
+BMI: 33.6
+
+Doctor's Comments:
+General improvement observed.

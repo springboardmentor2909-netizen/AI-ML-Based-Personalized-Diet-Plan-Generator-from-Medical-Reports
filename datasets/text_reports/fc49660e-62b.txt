@@ -1,0 +1,40 @@
+
+Silver Oak Clinical Institute
+Address: 42 Horizon Road, Northbay - 470855
+Phone: +91-71401-31657
+Email: info@silver oak87.org
+Website: www.silver oak177.org
+Accreditation Code: SI-40373
+
+Report ID: RPT-9B59DBC5
+Sample ID: SMP-43874
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-2283
+
+Patient Name: U***
+Patient ID: UH-000942
+Age: 42 years
+Gender: Male
+
+Height: 168.5 cm
+Weight: -
+
+Blood Pressure: 128/88 mmHg
+Pulse (bpm): -
+Blood Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: 208 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: -
+
+Hemoglobin: 10.7 g/dL
+Creatinine: 1.34 mg/dL
+BMI: -
+
+
+Recommendations:
+Lifestyle counseling advised.

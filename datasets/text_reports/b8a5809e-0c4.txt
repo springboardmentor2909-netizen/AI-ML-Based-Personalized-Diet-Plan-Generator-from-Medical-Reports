@@ -1,0 +1,45 @@
+
+Greencrest Hospital
+Address: 6 Horizon Road, Northbay - 494799
+Phone: +91-93339-15307
+Email: info@greencrest39.org
+Website: www.greencrest623.org
+Accreditation Code: GR-95028
+
+Report ID: RPT-32D90CFD
+Sample ID: SMP-42605
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-4387
+
+Patient Name: V***
+Patient ID: UH-000402
+Age: 56 years
+Gender: Other
+
+Blood Pressure: 103/90 mmHg
+Blood Glucose: 145 mg/dL
+
+Cholesterol Panel:
+  Total: 215 mg/dL
+  LDL: 158 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 223 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 30.6
+
+LFT:
+  AST/SGOT: 31 U/L
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 75 mL/min
+
+
+Clinical Notes:
+Glucose levels mildly elevated; lifestyle changes advised.

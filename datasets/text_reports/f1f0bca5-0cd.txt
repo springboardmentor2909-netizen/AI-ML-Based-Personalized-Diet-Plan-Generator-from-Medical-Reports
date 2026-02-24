@@ -1,0 +1,40 @@
+
+Starhaven Clinical Institute
+Address: 79 Riverbend Ave, Eastwood - 480343
+Phone: +91-86647-62390
+Email: info@starhaven22.org
+Website: www.starhaven734.org
+Accreditation Code: ST-87447
+
+Report ID: RPT-E8D18E30
+Sample ID: SMP-11844
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 07:48
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-2185
+
+Patient Name: Z***
+Patient ID: UH-000955
+Age: 42 years
+Gender: Male
+
+Height: 173.2 cm
+Weight: 90.0 kg
+
+Blood Pressure: 107/79 mmHg
+Pulse: 94 bpm
+Blood Glucose: 120 mg/dL
+
+Cholesterol Panel:
+  Total: 187 mg/dL
+  LDL: 80 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 183 mg/dL
+
+Hemoglobin: 15.4 g/dL
+Creatinine: 1.15 mg/dL
+BMI: 26.2
+
+
+Impression:
+Infection markers normal. No antibiotics needed.

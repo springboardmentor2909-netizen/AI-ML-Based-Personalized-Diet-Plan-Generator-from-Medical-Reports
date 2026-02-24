@@ -1,0 +1,35 @@
+
+Northlake Hospital
+Address: 85 Maple Drive, Clearwater - 447876
+Phone: +91-95002-96142
+Email: info@northlake60.org
+Website: www.northlake403.org
+Accreditation Code: NO-19597
+
+Report ID: RPT-90429BE9
+Sample ID: SMP-33721
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-8357
+
+Patient Name: K***
+Patient ID: UH-001435
+Age: 59
+Gender: Male
+
+Pulse (bpm): 108 bpm
+Blood Sugar: 91 mg/dL
+Height: 156.3 cm
+Cholesterol Total: 186 mg/dL
+LDL: 120 mg/dL
+Triglycerides: 110 mg/dL
+Creatinine: 0.74 mg/dL
+BMI: 21.2
+
+KFT:
+  Urea: 40 mg/dL
+  eGFR: 65 mL/min
+
+Doctor's Comments:
+Mild elevation in glucose.

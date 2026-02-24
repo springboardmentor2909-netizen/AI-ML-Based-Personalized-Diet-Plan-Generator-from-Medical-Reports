@@ -1,0 +1,40 @@
+
+BlueValley Clinical Institute
+Address: 45 Riverbend Ave, Northbay - 470287
+Phone: +91-85344-99523
+Email: info@bluevalley35.org
+Website: www.bluevalley959.org
+Accreditation Code: BL-27761
+
+Report ID: RPT-4D4B870A
+Sample ID: SMP-97559
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 08:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5448
+
+Patient Name: X***
+Patient ID: UH-001305
+Age: 39
+Gender: Male
+
+Blood Pressure: 163/69 mmHg
+Blood Sugar: 153 mg/dL
+Weight: 78.0 kg
+LDL: 142 mg/dL
+HDL: 31 mg/dL
+Triglycerides: 241 mg/dL
+Creatinine: 1.7 mg/dL
+BMI: 29.5
+
+LFT:
+  AST/SGOT: 25 U/L
+  ALT/SGPT: 39 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 63 mL/min
+
+Doctor's Comments:
+Mild anemia; increase iron intake.

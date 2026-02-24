@@ -1,0 +1,49 @@
+
+Silver Oak Pathology Lab
+Address: 44 Alpine Street, Hillcrest - 493916
+Phone: +91-85522-47476
+Email: info@silver oak56.org
+Website: www.silver oak141.org
+Accreditation Code: SI-83872
+
+Report ID: RPT-F760C412
+Sample ID: SMP-45675
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5888
+
+Patient Name: V***
+Patient ID: UH-001054
+Age: 25 years
+Gender: Female
+
+Height: -
+Weight: 89.5 kg
+
+Blood Pressure: 143/65 mmHg
+Pulse: 72 bpm
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: 158 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: 191 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: 0.87 mg/dL
+BMI: 25.1
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 17 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 97 mL/min
+
+
+Doctor's Comments:
+Pathology values consistent with mild deficiency.

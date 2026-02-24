@@ -1,0 +1,36 @@
+
+Silver Oak Hospital
+Address: 54 Evergreen Lane, Eastwood - 476312
+Phone: +91-84288-48641
+Email: info@silver oak32.org
+Website: www.silver oak543.org
+Accreditation Code: SI-67523
+
+Report ID: RPT-F70685D2
+Sample ID: SMP-84476
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-7191
+
+Patient Name: J***
+Patient ID: UH-000444
+Age: 71 years
+Gender: Female
+
+Blood Pressure: -
+Blood Sugar (Random): -
+
+Cholesterol Panel:
+  Total: -
+  LDL: 101 mg/dL
+  HDL: 48 mg/dL
+  Triglycerides: 130 mg/dL
+
+Hemoglobin: -
+Creatinine: 1.5 mg/dL
+BMI: 32.9
+
+
+Recommendation:
+Lipid levels require monitoring.

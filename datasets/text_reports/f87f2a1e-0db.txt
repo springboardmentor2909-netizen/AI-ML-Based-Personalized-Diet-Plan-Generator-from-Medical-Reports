@@ -1,0 +1,49 @@
+
+PrimeCare Clinical Institute
+Address: 12 Evergreen Lane, Marigold City - 422245
+Phone: +91-81679-48807
+Email: info@primecare25.org
+Website: www.primecare608.org
+Accreditation Code: PR-12598
+
+Report ID: RPT-BB9C2459
+Sample ID: SMP-50916
+Collection Time: 11/12/2025 04:45
+Reporting Time: 11/12/2025 05:45
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5018
+
+Patient Name: K***
+Patient ID: UH-000843
+Age: 56 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Glucose: 138 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 133 mg/dL
+  HDL: -
+  Triglycerides: 215 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.22 mg/dL
+BMI: 30.0
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 12 U/L
+  Bilirubin Total: 1.3 mg/dL
+
+KFT:
+  Urea: 24 mg/dL
+  eGFR: 109 mL/min
+
+
+Clinical Notes:
+Suggest further evaluation if symptoms persist.

@@ -1,0 +1,44 @@
+
+Riverdale Pathology Lab
+Address: 96 Evergreen Lane, Hillcrest - 487862
+Phone: +91-71278-48753
+Email: info@riverdale66.org
+Website: www.riverdale863.org
+Accreditation Code: RI-33647
+
+Report ID: RPT-948950F3
+Sample ID: SMP-82044
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 09:42
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-7932
+
+Patient Name: V***
+Patient ID: UH-000604
+Age: 64 years
+Gender: Male
+
+Height: 172.9 cm
+Weight: 93.6 kg
+
+Blood Pressure: 109/71 mmHg
+Pulse (bpm): 99 bpm
+Blood Sugar: 122 mg/dL
+
+Cholesterol Panel:
+  Total: 247 mg/dL
+  LDL: 120 mg/dL
+  HDL: 30 mg/dL
+  Triglycerides: 160 mg/dL
+
+Hemoglobin: 14.5 g/dL
+Creatinine: 1.11 mg/dL
+BMI: 25.3
+
+KFT:
+  Urea: 39 mg/dL
+  eGFR: 91 mL/min
+
+
+Recommendations:
+Continue present medications.

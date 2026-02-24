@@ -1,0 +1,45 @@
+
+NovaPath Hospital
+Address: 41 Maple Drive, Meadowridge - 487363
+Phone: +91-73841-69285
+Email: info@novapath19.org
+Website: www.novapath256.org
+Accreditation Code: NO-73239
+
+Report ID: RPT-B14C33DF
+Sample ID: SMP-75635
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 09:37
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6504
+
+Patient Name: W***
+Patient ID: UH-000439
+Age: 64 years
+Gender: Male
+
+Blood Pressure: -
+Blood Sugar: 106 mg/dL
+
+Cholesterol Panel:
+  Total: 177 mg/dL
+  LDL: 138 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: 204 mg/dL
+
+Hemoglobin: 12.6 g/dL
+Creatinine: 0.72 mg/dL
+BMI: 27.9
+
+LFT:
+  AST/SGOT: 13 U/L
+  ALT/SGPT: 33 U/L
+  Bilirubin Total: 0.8 mg/dL
+
+KFT:
+  Urea: -
+  eGFR: 102 mL/min
+
+
+Remarks:
+Glucose levels mildly elevated; lifestyle changes advised.

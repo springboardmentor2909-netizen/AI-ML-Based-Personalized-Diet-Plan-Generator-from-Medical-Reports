@@ -1,0 +1,45 @@
+
+ClearRiver Clinical Institute
+Address: 88 Riverbend Ave, Clearwater - 451001
+Phone: +91-71348-38001
+Email: info@clearriver52.org
+Website: www.clearriver719.org
+Accreditation Code: CL-85781
+
+Report ID: RPT-53585852
+Sample ID: SMP-84718
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 10:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-5993
+
+Patient Name: G***
+Patient ID: UH-001129
+Age: 23 years
+Gender: Female
+
+Height: 156.8 cm
+Weight: 48.6 kg
+
+Blood Pressure: 104/104 mmHg
+Pulse: 86 bpm
+Blood Sugar: 151 mg/dL
+
+Cholesterol Panel:
+  Total: 193 mg/dL
+  LDL: -
+  HDL: -
+  Triglycerides: 162 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.83 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 18 U/L
+  Bilirubin Total: 1.0 mg/dL
+
+
+Recommendations:
+Further evaluation if symptoms persist.

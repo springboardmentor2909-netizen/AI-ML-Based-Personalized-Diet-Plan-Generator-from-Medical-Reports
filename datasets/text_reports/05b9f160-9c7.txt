@@ -1,0 +1,44 @@
+
+ClearRiver Medical Center
+Address: 56 Riverbend Ave, Meadowridge - 443949
+Phone: +91-94304-28618
+Email: info@clearriver88.org
+Website: www.clearriver554.org
+Accreditation Code: CL-14683
+
+Report ID: RPT-47139305
+Sample ID: SMP-14983
+Collection Time: 11/12/2025 04:48
+Reporting Time: 11/12/2025 08:48
+Referring Doctor: Dr. Sharma
+OPD No.: OPD-9941
+
+Patient Name: V***
+Patient ID: UH-000943
+Age: 47 years
+Gender: Other
+
+Height: 180.7 cm
+Weight: 71.4 kg
+
+Blood Pressure: 105/85 mmHg
+Pulse: 73 bpm
+Blood Glucose: 89 mg/dL
+
+Cholesterol Panel:
+  Total: 239 mg/dL
+  LDL: -
+  HDL: 37 mg/dL
+  Triglycerides: 193 mg/dL
+
+Hemoglobin: 10.9 g/dL
+Creatinine: -
+BMI: -
+
+KFT:
+  Urea: 36 mg/dL
+  eGFR: -
+
+
+Advice:
+Consider ECG if palpitations recur.

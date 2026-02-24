@@ -1,0 +1,49 @@
+
+Starhaven Hospital
+Address: 66 Sunrise Boulevard, Marigold City - 486349
+Phone: +91-90870-89258
+Email: info@starhaven41.org
+Website: www.starhaven546.org
+Accreditation Code: ST-79140
+
+Report ID: RPT-D23EBB7F
+Sample ID: SMP-71828
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 07:42
+Referring Doctor: Dr. Patel
+OPD No.: OPD-7178
+
+Patient Name: O***
+Patient ID: UH-000613
+Age: 42 years
+Gender: Other
+
+Height: 162.7 cm
+Weight: 71.7 kg
+
+Blood Pressure: 116/86 mmHg
+Pulse Rate: 75 bpm
+Glucose: -
+
+Cholesterol Panel:
+  Total: -
+  LDL: -
+  HDL: 48 mg/dL
+  Triglycerides: 116 mg/dL
+
+Hemoglobin: 13.9 g/dL
+Creatinine: -
+BMI: 31.1
+
+LFT:
+  AST/SGOT: 30 U/L
+  ALT/SGPT: 23 U/L
+  Bilirubin Total: 0.6 mg/dL
+
+KFT:
+  Urea: 25 mg/dL
+  eGFR: -
+
+
+Recommendations:
+Lipid profile requires monitoring.

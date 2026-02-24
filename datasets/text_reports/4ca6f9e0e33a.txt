@@ -1,0 +1,32 @@
+
+ClearRiver Medical Center
+Address: 82 Maple Drive, Silverpoint - 477832
+Phone: +91-77531-73861
+Email: info@clearriver23.org
+Website: www.clearriver927.org
+Accreditation Code: CL-70229
+
+Report ID: RPT-FFA79D81
+Sample ID: SMP-99845
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-5598
+
+Patient Name: Y***
+Patient ID: UH-001344
+Age: 76
+Gender: Male
+
+Pulse: 64 bpm
+Glucose: 120 mg/dL
+Height: 150.9 cm
+Weight: 49.4 kg
+Cholesterol Total: 244 mg/dL
+LDL: 135 mg/dL
+Triglycerides: 107 mg/dL
+Creatinine: 1.61 mg/dL
+BMI: 30.7
+
+Clinical Notes:
+Recheck lipid levels after 3 months.

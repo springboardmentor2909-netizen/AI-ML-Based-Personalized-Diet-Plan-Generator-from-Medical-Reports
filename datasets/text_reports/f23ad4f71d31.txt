@@ -1,0 +1,30 @@
+
+SolacePoint Pathology Lab
+Address: 93 Riverbend Ave, Meadowridge - 459286
+Phone: +91-91311-44790
+Email: info@solacepoint76.org
+Website: www.solacepoint980.org
+Accreditation Code: SO-66243
+
+Report ID: RPT-CACB1CF7
+Sample ID: SMP-44970
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 09:55
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-8329
+
+Patient Name: T***
+Patient ID: UH-001320
+Age: 29
+Gender: Male
+
+Blood Pressure: 143/98 mmHg
+Blood Glucose: 157 mg/dL
+Weight: 92.2 kg
+LDL: 129 mg/dL
+HDL: 53 mg/dL
+Triglycerides: 255 mg/dL
+BMI: 30.9
+
+Advice:
+Explained results clearly; patient agreed.

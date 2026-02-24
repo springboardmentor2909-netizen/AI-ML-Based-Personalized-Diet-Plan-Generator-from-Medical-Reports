@@ -1,0 +1,39 @@
+
+Riverdale Clinical Institute
+Address: 12 Alpine Street, Hillcrest - 478744
+Phone: +91-98326-12695
+Email: info@riverdale55.org
+Website: www.riverdale983.org
+Accreditation Code: RI-15899
+
+Report ID: RPT-2AE1AA2C
+Sample ID: SMP-70085
+Collection Time: 11/12/2025 04:55
+Reporting Time: 11/12/2025 10:55
+Referring Doctor: Dr. Ansari
+OPD No.: OPD-1360
+
+Patient Name: K***
+Patient ID: UH-001375
+Age: 58
+Gender: Male
+
+Blood Pressure: 122/67 mmHg
+Pulse: 76 bpm
+Blood Glucose: 143 mg/dL
+Height: 150.0 cm
+Weight: 79.9 kg
+Cholesterol Total: 207 mg/dL
+HDL: 59 mg/dL
+Triglycerides: 200 mg/dL
+Hemoglobin: 12.6 g/dL
+Creatinine: 1.65 mg/dL
+BMI: 24.0
+
+LFT:
+  AST/SGOT: 28 U/L
+  ALT/SGPT: 16 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+Impression:
+Improve sleep hygiene.

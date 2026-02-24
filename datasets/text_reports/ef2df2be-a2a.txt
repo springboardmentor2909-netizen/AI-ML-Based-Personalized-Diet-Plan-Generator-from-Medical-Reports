@@ -1,0 +1,40 @@
+
+NovaPath Diagnostics
+Address: 71 Horizon Road, Westlake - 438130
+Phone: +91-89680-40973
+Email: info@novapath86.org
+Website: www.novapath714.org
+Accreditation Code: NO-40456
+
+Report ID: RPT-7A4ECEC7
+Sample ID: SMP-93671
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-2222
+
+Patient Name: S***
+Patient ID: UH-001179
+Age: 27 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 104/107 mmHg
+Pulse: 65 bpm
+Blood Sugar: 117 mg/dL
+
+Cholesterol Panel:
+  Total: 243 mg/dL
+  LDL: 94 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: 248 mg/dL
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Summary:
+Sugar values acceptable.

@@ -1,0 +1,36 @@
+
+Riverdale Hospital
+Address: 81 Alpine Street, Marigold City - 411311
+Phone: +91-75014-70567
+Email: info@riverdale51.org
+Website: www.riverdale859.org
+Accreditation Code: RI-53984
+
+Report ID: RPT-CF6E8DBD
+Sample ID: SMP-24939
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 08:37
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-9640
+
+Patient Name: J***
+Patient ID: UH-000489
+Age: 65 years
+Gender: Male
+
+Blood Pressure: 112/102 mmHg
+Blood Sugar (Random): 108 mg/dL
+
+Cholesterol Panel:
+  Total: 224 mg/dL
+  LDL: 140 mg/dL
+  HDL: 38 mg/dL
+  Triglycerides: 240 mg/dL
+
+Hemoglobin: 13.4 g/dL
+Creatinine: 1.47 mg/dL
+BMI: 26.9
+
+
+Recommendation:
+Lipid levels require monitoring.

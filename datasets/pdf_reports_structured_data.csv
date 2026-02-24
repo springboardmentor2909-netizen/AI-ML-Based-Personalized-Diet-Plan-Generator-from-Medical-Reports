@@ -1,0 +1,785 @@
+report_id,age,gender,height_cm,weight_kg,bmi,pulse,glucose,cholesterol_total,ldl,hdl,triglycerides,hemoglobin,creatinine,bp,doctor_comments
+1,74,Female,162.9,77.7,29.3,128.0,127.0,,,,,13.5,1.53,128/76,Borderline creatinine; monitor renal function.
+2,47,Female,187.1,101.4,18.5,127.0,127.0,,186.0,62.0,,10.4,,,Triglycerides high; avoid oily food.
+3,47,Female,191.6,87.9,18.4,118.0,73.0,164.0,,42.0,121.0,13.2,,118/81,Stable condition; continue monitoring regularly.
+4,57,Male,180.1,65.4,34.4,132.0,127.0,,125.0,,,13.7,,132/74,
+5,30,Male,187.0,52.9,27.9,131.0,127.0,,,,,10.4,0.82,131/93,Overall renal function acceptable.
+6,82,Male,147.7,56.7,24.0,147.0,142.0,240.0,152.0,69.0,253.0,12.8,,147/87,No medical concerns at this moment.
+7,67,Female,176.8,107.9,26.3,141.0,70.0,,87.0,37.0,230.0,11.9,,141/90,CBC suggests borderline values; follow-up advised.
+8,51,Female,149.8,47.7,21.3,127.0,127.0,312.0,180.0,55.0,,10.3,,124/84,
+9,61,Male,188.7,104.3,25.6,147.0,127.0,207.0,118.0,42.0,238.0,13.9,,147/83,Monitor BP weekly.
+10,74,Male,191.6,106.7,29.8,119.0,127.0,,,,,14.4,1.15,119/75,
+11,20,Male,162.3,63.3,29.5,113.0,127.0,320.0,80.0,49.0,230.0,17.1,,113/95,Postnmeal sugar high; avoid sweets.
+12,33,Female,,,23.0,192.0,91.0,170.0,151.0,47.0,220.0,14.9,,141/94,Good overall health profile. Maintain current lifestyle habits.
+13,54,Female,174.2,60.0,34.8,127.0,127.0,306.0,,,186.0,13.3,,148/75,LDL borderline; add fiber-rich meals.
+14,44,Male,149.5,74.4,31.5,144.0,127.0,,,,,12.8,1.77,144/84,Borderline creatinine; monitor renal function.
+15,49,Male,185.6,59.3,32.5,139.0,127.0,272.0,135.0,,135.0,13.3,,139/73,Early insulin resistance suspected.
+16,21,Female,176.3,83.2,33.7,116.0,127.0,,,,,17.4,1.62,116/82,
+17,74,Female,183.5,60.1,34.9,150.0,127.0,197.0,85.0,52.0,307.0,,,150/93,CBC slightly off; retest in 1 month.
+18,23,Female,175.3,46.2,34.2,150.0,125.0,313.0,118.0,53.0,277.0,13.7,,115/96,Monitor BP weekly.
+19,71,Female,191.3,104.5,26.3,127.0,127.0,,206.0,,,17.4,,147/92,Stable condition; continue monitoring.
+20,37,Male,188.2,59.3,32.4,116.0,127.0,,,,,17.0,1.28,116/98,
+21,61,Male,153.4,77.6,18.8,143.0,123.0,294.0,105.0,74.0,164.0,15.2,,143/88,General health good; annual review advised.
+22,63,Male,166.7,105.0,37.8,129.0,127.0,,,,,14.0,1.52,129/90,Slight rise in creatinine; repeat test advised.
+23,66,Female,184.2,67.2,31.2,114.0,127.0,,,,,16.0,1.3,114/82,Creatinine normal; maintain hydration.
+24,66,Male,194.1,97.8,26.0,121.0,127.0,,,,,10.9,0.77,121/88,Renal parameters within normal limits.
+25,80,Female,177.0,57.7,18.4,127.0,127.0,,107.0,54.0,313.0,,,130/81,
+26,81,Male,152.7,54.9,25.6,141.0,92.0,189.0,,44.0,212.0,11.3,,141/91,Triglycerides elevated; avoid fried foods.
+27,40,Male,,,18.8,139.0,134.0,219.0,118.0,57.0,99.0,13.6,,139/82,Overall stable. Slight elevation in lipids; recommend low-fat diet and regular exercise.
+28,47,Female,165.6,61.0,18.8,82.0,117.0,,82.0,34.0,302.0,15.7,,,
+29,64,Female,173.0,70.9,23.7,127.0,127.0,306.0,,41.0,,17.4,,147/77,Possible early insulin resistance; recheck soon.
+30,27,Male,174.5,87.5,23.3,126.0,127.0,,,,326.0,16.0,1.34,126/93,Renal profile normal; no intervention needed.
+31,53,Male,166.5,100.6,18.3,82.0,136.0,216.0,129.0,66.0,299.0,15.1,,,Possible insulin resistance; follow-up in 6 weeks.
+32,33,Male,164.9,54.1,25.1,121.0,127.0,256.0,90.0,51.0,212.0,12.4,,121/73,BMI high; initiate weight management.
+33,51,Male,192.0,70.4,23.0,137.0,,,,,,16.0,2.19,137/86,Kidney markers stable.
+34,28,Male,169.1,53.9,32.1,119.0,127.0,,,,,12.0,1.06,119/80,Renal profile satisfactory.
+35,76,Male,,,32.4,118.0,110.0,179.0,,54.0,168.0,14.6,,118/96,Post-prandial glucose elevated; schedule HbA1c test next visit.
+36,20,Female,169.0,50.0,19.8,189.0,101.0,63.0,148.0,63.0,188.0,16.3,,113/81,No major issues detected.
+37,73,Female,187.4,48.8,22.5,128.0,127.0,,,,,12.5,1.89,128/86,
+38,64,Female,174.1,66.9,31.8,128.0,127.0,,,,,16.3,1.47,128/77,Kidney function stable at present.
+39,70,Female,183.8,62.4,23.3,122.0,127.0,,,,,10.3,1.97,122/79,Creatinine mildly elevated; ensure adequate hydration.
+40,84,Male,186.1,87.7,19.4,,124.0,273.0,98.0,70.0,262.0,12.6,,126/83,BMI elevated; initiate weight loss program.
+41,43,Male,,,28.4,180.0,81.0,63.0,,63.0,119.0,11.3,,149/95,BMI slightly high; advise weight management plan.
+42,27,Male,185.0,79.3,23.2,119.0,127.0,,,66.0,147.0,11.4,,119/83,Triglycerides high; avoid oily food.
+43,26,Female,176.0,91.5,24.4,,79.0,190.0,,72.0,217.0,14.9,,111/92,
+44,52,Female,,,29.9,132.0,116.0,56.0,180.0,56.0,194.0,11.1,,132/90,
+45,77,Male,181.9,66.6,29.8,79.0,127.0,,,,,10.7,1.66,,Kidney markers stable.
+46,24,Male,151.5,60.4,30.3,94.0,127.0,,124.0,48.0,211.0,,0.75,,Slight renal stress suspected; follow-up advised.
+47,30,Male,176.9,104.5,33.4,126.0,127.0,,192.0,63.0,203.0,14.8,,126/70,General health stable; yearly check-up advised.
+48,43,Male,152.6,77.5,23.7,134.0,127.0,182.0,88.0,53.0,178.0,,,134/89,Postnmeal sugar high; avoid sweets.
+49,75,Female,145.8,51.1,20.3,150.0,144.0,278.0,137.0,58.0,222.0,17.0,,150/86,No significant clinical concerns.
+50,66,Female,161.8,68.3,26.2,127.0,127.0,,,,,12.5,1.11,127/89,Kidney markers stable.
+51,66,Male,148.0,101.0,28.7,140.0,127.0,,,,,15.2,1.16,140/98,Kidney function stable at present.
+52,55,Male,192.3,91.7,21.1,97.0,127.0,,,,,15.3,1.85,,Creatinine mildly elevated; ensure adequate hydration.
+53,30,Female,185.9,60.0,34.0,127.0,127.0,271.0,151.0,38.0,209.0,15.3,1.64,141/96,
+54,27,Female,148.5,83.9,32.8,146.0,127.0,162.0,92.0,,311.0,16.2,,146/97,Vitals within acceptable range.
+55,44,Male,165.5,98.1,27.4,141.0,127.0,,,,,13.9,0.91,141/96,Borderline creatinine; monitor renal function.
+56,42,Female,162.1,97.8,19.6,127.0,,218.0,124.0,40.0,,,,,Slight sugar elevation; reduce refined carbs.
+57,57,Female,186.2,75.7,33.6,110.0,,,,,,16.4,2.02,110/70,
+58,43,Female,185.2,103.9,22.0,142.0,127.0,149.0,129.0,43.0,123.0,16.8,,142/78,CBC shows mild variation; recheck next month.
+59,28,Male,165.3,92.1,27.7,140.0,127.0,310.0,110.0,74.0,259.0,13.9,1.09,140/70,Overall renal function satisfactory.
+60,60,Female,155.3,76.9,30.4,115.0,127.0,,,,,14.0,1.73,115/92,
+61,22,Male,163.8,96.0,27.2,92.0,103.0,194.0,,56.0,264.0,11.5,,,Post-meal sugar high; limit refined carbs.
+62,61,Male,151.5,48.4,25.6,140.0,122.0,280.0,106.0,37.0,113.0,14.9,,,Monitor BP weekly for fluctuations.
+63,38,Male,189.5,66.8,32.8,149.0,99.0,243.0,88.0,58.0,233.0,13.4,,149/97,Hemoglobin borderline; add iron-rich foods.
+64,58,Male,164.5,63.2,32.3,110.0,127.0,,,,,17.1,2.08,110/80,Borderline creatinine; monitor renal function.
+65,65,Female,152.4,96.1,26.2,127.0,127.0,240.0,153.0,35.0,103.0,12.6,1.45,145/81,Overall renal function satisfactory.
+66,41,Female,164.4,49.3,18.2,127.0,127.0,267.0,193.0,52.0,,15.0,1.5,,Borderline creatinine; monitor kidney function.
+67,75,Female,191.2,100.0,23.9,135.0,143.0,210.0,82.0,34.0,123.0,13.6,,135/87,Vitals satisfactory; keep routine exercise.
+68,65,Male,177.0,85.0,33.3,140.0,119.0,300.0,111.0,40.0,195.0,15.7,,140/97,
+69,84,Male,176.6,62.8,29.6,189.0,112.0,,166.0,47.0,279.0,10.3,,,
+70,54,Male,188.0,101.8,22.8,122.0,143.0,250.0,,44.0,188.0,16.8,,122/86,Mild anemia; suggest iron supplements.
+71,45,Female,171.1,61.7,26.8,125.0,127.0,312.0,,,277.0,10.8,,125/76,
+72,43,Female,176.4,78.3,24.0,127.0,127.0,275.0,198.0,57.0,,17.0,0.65,121/93,Kidney markers stable.
+73,58,Female,152.2,81.1,28.8,162.0,92.0,231.0,122.0,47.0,177.0,13.0,,,
+74,55,Male,147.2,49.7,27.9,135.0,102.0,170.0,129.0,67.0,154.0,11.8,,111/95,Possible insulin resistance; follow-up in 6 weeks.
+75,47,Female,150.1,83.9,28.6,120.0,126.0,56.0,140.0,56.0,149.0,13.8,,138/74,Triglycerides elevated; avoid fried foods.
+76,47,Female,,,29.4,112.0,101.0,59.0,94.0,59.0,190.0,10.1,,112/87,Stable condition. No major concerns.
+77,32,Male,192.8,72.7,29.6,132.0,127.0,,,,,14.2,0.72,132/93,Mild renal stress suspected; follow-up recommended.
+78,59,Male,191.1,93.5,25.6,127.0,127.0,,161.0,55.0,133.0,,,142/83,Monitor BP regularly.
+79,42,Female,155.1,58.6,19.4,125.0,127.0,173.0,,,272.0,12.0,,125/93,Monitor BP weekly.
+80,37,Male,170.9,60.9,24.7,127.0,127.0,,,58.0,,10.1,,145/87,Slight sugar elevation; reduce refined carbs.
+81,38,Male,186.0,65.0,27.8,105.0,127.0,252.0,152.0,51.0,,16.8,1.29,,
+82,83,Male,146.7,70.9,27.4,127.0,127.0,,,57.0,221.0,,,118/96,Monitor BP regularly.
+83,32,Female,165.2,96.1,35.2,127.0,127.0,,,,,11.5,1.0,127/92,Creatinine mildly elevated; ensure adequate hydration.
+84,43,Female,160.6,106.0,24.9,127.0,127.0,259.0,,32.0,201.0,,,142/88,Kidney function normal.
+85,74,Female,157.3,67.5,21.0,137.0,127.0,261.0,151.0,35.0,183.0,13.2,,137/70,Cholesterol high; shift to lownfat diet.
+86,24,Male,178.1,84.0,34.4,142.0,127.0,211.0,138.0,,248.0,,,142/85,Healthy overall.
+87,27,Female,158.1,96.2,25.5,117.0,127.0,,,,,11.6,1.9,117/87,Renal profile satisfactory.
+88,69,Male,193.7,62.4,28.0,127.0,127.0,127.0,95.0,47.0,93.0,11.2,,,
+89,40,Male,181.3,91.2,32.7,116.0,127.0,267.0,153.0,65.0,261.0,14.5,,116/85,
+90,52,Female,145.5,76.1,33.4,74.0,127.0,,,,,13.3,1.25,,Creatinine normal; maintain hydration.
+91,55,Male,180.0,94.8,29.3,122.0,127.0,,,,,10.8,0.98,122/88,Creatinine mildly elevated; ensure adequate hydration.
+92,47,Female,,,23.2,94.0,127.0,284.0,,47.0,118.0,11.6,,,Stable condition. No major concerns.
+93,73,Male,159.5,56.4,27.6,133.0,143.0,280.0,108.0,30.0,99.0,11.7,,133/87,
+94,29,Female,150.1,98.1,33.7,143.0,127.0,,,,,,1.88,143/75,Kidney function stable at present.
+95,30,Female,147.7,81.5,20.8,127.0,127.0,,83.0,75.0,,11.1,,127/95,BMI above normal; initiate weight control.
+96,20,Female,162.9,61.9,27.4,132.0,127.0,,,,,15.9,1.02,132/75,Creatinine mildly elevated; ensure adequate hydration.
+97,41,Female,182.8,50.7,31.5,109.0,127.0,,,,,14.4,0.72,,Creatinine normal; maintain hydration.
+98,51,Female,165.5,61.2,22.2,158.0,70.0,166.0,117.0,61.0,234.0,13.1,,138/73,Slight cholesterol rise; advise diet changes.
+99,85,Male,179.1,76.7,34.7,150.0,127.0,,,,,16.3,1.27,150/78,Kidney markers stable.
+100,31,Male,146.3,104.3,23.6,,100.0,192.0,198.0,49.0,92.0,16.6,,,No major issues detected.
+101,83,Female,,,22.4,100.0,76.0,260.0,117.0,45.0,169.0,14.2,,,Post-prandial glucose elevated; schedule HbA1c test next visit.
+102,46,Female,173.8,104.6,29.7,189.0,96.0,,126.0,30.0,202.0,12.2,,138/96,Increase daily hydration.
+103,39,Female,186.7,67.3,19.3,135.0,127.0,,,38.0,290.0,16.9,,135/83,
+104,70,Male,153.1,55.5,25.3,127.0,127.0,,,65.0,278.0,,,128/83,
+105,30,Male,181.4,77.8,32.3,119.0,127.0,,,,,,1.56,119/97,Borderline creatinine; monitor renal function.
+106,59,Female,177.8,93.2,28.4,127.0,127.0,,,,,11.4,2.0,127/85,Slight rise in creatinine; repeat test advised.
+107,39,Male,183.5,102.8,27.5,150.0,111.0,68.0,,68.0,198.0,10.1,,150/89,Triglycerides elevated; avoid fried foods.
+108,44,Female,161.4,76.6,20.2,127.0,127.0,201.0,,,123.0,14.2,1.34,,
+109,34,Male,167.9,84.2,22.8,127.0,127.0,,208.0,32.0,,,,,CBC slightly off; retest in 1 month.
+110,55,Male,,,21.4,136.0,99.0,223.0,167.0,39.0,209.0,12.9,,136/82,
+111,80,Male,161.7,87.1,27.7,149.0,81.0,278.0,,57.0,223.0,17.0,,149/98,BMI high; adopt weight-loss plan.
+112,37,Male,188.6,64.8,18.2,127.0,127.0,278.0,105.0,61.0,160.0,12.7,1.76,135/92,Renal profile normal; no intervention needed.
+113,56,Male,,,32.8,124.0,122.0,52.0,81.0,52.0,113.0,13.0,,124/79,RBC count slightly low; follow-up CBC in 4 weeks.
+114,31,Female,176.9,59.3,19.3,110.0,99.0,270.0,164.0,61.0,97.0,15.5,,110/82,Thyroid testing recommended based on symptoms.
+115,33,Female,166.1,106.7,23.8,124.0,129.0,232.0,,70.0,135.0,11.0,,124/85,
+116,42,Male,169.9,57.3,30.6,125.0,127.0,,,,,11.0,1.95,125/96,Creatinine mildly elevated; ensure adequate hydration.
+117,68,Female,150.1,58.0,19.0,127.0,127.0,173.0,,69.0,278.0,,,135/80,
+118,38,Female,178.6,69.2,19.8,114.0,99.0,280.0,90.0,33.0,185.0,17.8,,114/90,Triglycerides high; avoid sugary and oily foods.
+119,81,Female,183.5,98.0,27.2,75.0,127.0,,,,,,1.95,,Kidney function stable at present.
+120,53,Female,181.0,92.2,25.5,129.0,131.0,172.0,188.0,40.0,294.0,15.9,,145/95,
+121,27,Female,168.9,72.9,18.3,74.0,111.0,234.0,138.0,66.0,201.0,16.0,,,
+122,56,Male,184.7,96.8,23.6,127.0,127.0,275.0,127.0,39.0,169.0,16.9,,,Postnmeal sugar high; avoid sweets.
+123,65,Female,166.4,71.4,32.0,132.0,92.0,,203.0,40.0,217.0,11.8,,132/94,
+124,68,Female,163.2,98.9,20.6,115.0,127.0,,186.0,63.0,141.0,13.2,,115/94,LDL borderline high; add fiber-rich foods.
+125,33,Female,155.4,97.4,28.1,130.0,127.0,190.0,180.0,75.0,,12.1,,130/72,Lipid profile improving.
+126,45,Female,167.5,52.5,18.7,120.0,127.0,,,,,16.4,1.5,120/96,Overall renal function acceptable.
+127,75,Male,193.3,80.4,34.6,147.0,127.0,179.0,91.0,55.0,289.0,17.2,,147/82,Stable condition; continue monitoring.
+128,41,Male,160.9,107.3,21.0,146.0,127.0,250.0,187.0,,140.0,14.3,,146/85,Overall healthy.
+129,65,Male,,,20.5,130.0,115.0,255.0,144.0,35.0,165.0,12.6,,130/72,Healthy report; continue routine checkups every 6 months.
+130,29,Female,194.1,74.3,34.1,,127.0,,,,,13.3,2.15,,Creatinine mildly elevated; ensure adequate hydration.
+131,28,Male,173.3,84.7,28.2,127.0,127.0,296.0,134.0,51.0,121.0,16.4,,,BP slightly elevated; control salt intake.
+132,18,Male,175.2,90.7,21.9,125.0,127.0,56.0,,56.0,228.0,14.9,,149/72,CBC shows mild variation; monitor next month.
+133,46,Male,180.6,106.2,27.6,115.0,93.0,226.0,105.0,34.0,139.0,16.8,,115/71,Good general health; annual review suggested.
+134,60,Male,164.2,56.8,28.7,136.0,127.0,,86.0,36.0,102.0,,1.22,136/85,Borderline creatinine; monitor kidney function.
+135,68,Female,164.9,80.2,25.8,127.0,127.0,274.0,127.0,31.0,311.0,10.2,,127/81,CBC shows mild variation; recheck next month.
+136,42,Male,182.5,102.7,31.4,120.0,127.0,,,,,15.1,0.9,120/89,
+137,75,Female,193.3,58.7,15.7,149.0,127.0,221.0,203.0,56.0,97.0,11.5,,149/94,
+138,50,Male,190.0,47.2,28.2,83.0,127.0,163.0,101.0,62.0,290.0,,,,CBC slightly off; retest in 1 month.
+139,62,Female,165.4,45.0,32.3,114.0,118.0,159.0,,54.0,90.0,14.3,,114/85,CBC indicates borderline RBC; recheck next month.
+140,63,Male,150.9,81.8,35.9,131.0,127.0,166.0,199.0,52.0,,12.8,,131/85,
+141,44,Female,161.4,92.5,21.1,130.0,127.0,157.0,127.0,66.0,195.0,10.2,,130/78,Cholesterol elevated; follow lownfat diet.
+142,75,Male,166.9,68.1,30.7,130.0,127.0,290.0,127.0,62.0,104.0,16.1,,130/88,
+143,79,Female,153.1,76.2,19.6,90.0,127.0,,,,,10.0,1.98,,Renal profile satisfactory.
+144,35,Female,176.2,67.4,33.3,111.0,127.0,,123.0,46.0,325.0,14.6,,111/76,Postnmeal sugar elevated; reduce sweets.
+145,82,Male,151.3,59.0,30.9,119.0,127.0,,,,,11.9,0.61,119/79,Kidney function stable at present.
+146,55,Male,169.9,80.1,27.7,146.0,127.0,,,,,,1.37,146/95,Overall renal function acceptable.
+147,53,Female,157.5,85.5,34.2,127.0,127.0,162.0,,55.0,,,,,Cholesterol high; shift to lownfat diet.
+148,55,Female,187.7,45.2,24.7,127.0,127.0,227.0,85.0,66.0,,10.3,,,General health stable; annual follownup advised.
+149,66,Female,159.5,56.3,19.6,122.0,127.0,,,,,13.2,2.05,122/98,Kidney function stable at present.
+150,73,Male,186.1,59.0,26.7,127.0,127.0,296.0,,,152.0,12.4,,147/97,
+151,30,Female,172.5,46.4,31.0,127.0,127.0,204.0,,48.0,139.0,16.2,,127/76,LDL borderline; add fiber-rich meals.
+152,26,Male,180.6,53.5,19.2,145.0,113.0,287.0,193.0,59.0,260.0,16.9,,145/90,Mild dehydration; increase fluid intake.
+153,23,Male,182.0,90.1,27.2,148.0,127.0,261.0,158.0,,108.0,11.4,1.76,148/86,Renal parameters within normal range.
+154,78,Male,157.9,84.7,32.1,135.0,127.0,,,,,,0.72,135/73,Creatinine mildly elevated; ensure adequate hydration.
+155,33,Male,183.0,53.7,33.9,127.0,,,,54.0,320.0,,,117/86,
+156,34,Male,163.3,58.5,23.0,,129.0,213.0,,42.0,292.0,13.8,,,
+157,21,Male,159.0,50.6,28.4,127.0,127.0,320.0,177.0,49.0,258.0,11.6,,127/94,General health stable; annual follownup advised.
+158,67,Male,154.8,87.0,23.3,144.0,144.0,,165.0,46.0,205.0,17.3,,148/94,Increase daily hydration.
+159,52,Male,192.3,54.9,27.8,147.0,75.0,69.0,118.0,69.0,196.0,11.3,,143/84,
+160,41,Female,147.8,79.6,24.5,127.0,127.0,272.0,88.0,30.0,,14.5,,118/81,Vitals within acceptable range.
+161,48,Female,163.7,45.7,21.2,94.0,127.0,,,,,11.4,1.95,,Mild renal stress suspected; follow-up recommended.
+162,22,Male,147.9,84.2,34.9,149.0,127.0,,,,,,1.85,149/84,Slight rise in creatinine; repeat test advised.
+163,33,Male,165.2,54.1,19.9,123.0,127.0,150.0,184.0,31.0,,14.7,,123/93,Triglycerides high; avoid oily food.
+164,79,Male,193.4,47.3,33.4,111.0,127.0,250.0,150.0,,276.0,16.7,0.85,111/88,Overall renal function satisfactory.
+165,38,Male,181.4,45.5,18.7,67.0,137.0,286.0,120.0,66.0,238.0,15.9,,,Overall stable; continue regular monitoring.
+166,31,Female,181.4,81.3,24.7,112.0,127.0,252.0,94.0,62.0,107.0,14.1,1.79,112/97,Borderline creatinine; monitor kidney function.
+167,33,Male,190.4,53.3,14.7,126.0,127.0,,,,,,1.94,126/72,Kidney function stable at present.
+168,28,Female,150.5,79.2,32.8,141.0,127.0,219.0,93.0,30.0,183.0,15.0,1.47,141/80,
+169,19,Female,160.4,91.1,33.4,127.0,127.0,177.0,206.0,56.0,209.0,17.5,1.23,,Slight renal stress suspected; follow-up advised.
+170,57,Male,,,32.5,132.0,110.0,222.0,155.0,35.0,195.0,12.3,,132/70,Post-prandial glucose elevated; schedule HbA1c test next visit.
+171,79,Male,191.2,83.4,33.3,93.0,94.0,242.0,210.0,57.0,310.0,10.4,,,Improvement seen since last report; continue same.
+172,83,Male,186.0,66.9,34.8,132.0,127.0,,,,,16.4,1.29,132/78,Kidney function stable at present.
+173,52,Female,154.7,46.1,19.5,115.0,127.0,,,,,13.1,2.2,115/95,Overall renal function acceptable.
+174,35,Male,151.9,98.9,30.4,127.0,127.0,,111.0,,140.0,15.4,,120/84,CBC mildly irregular; re-evaluate later.
+175,44,Female,170.8,71.6,24.7,139.0,127.0,246.0,210.0,,,12.6,,139/91,LDL borderline high; add fiber-rich foods.
+176,39,Female,151.8,98.5,30.5,134.0,127.0,,,,,,1.58,134/79,Kidney markers stable.
+177,29,Male,182.9,108.6,32.5,127.0,127.0,,,51.0,,,,123/80,Thyroid evaluation may be needed.
+178,81,Female,190.4,69.7,18.8,143.0,127.0,,,,,14.9,0.74,143/82,
+179,60,Male,190.7,60.7,24.1,126.0,127.0,250.0,139.0,,165.0,,,126/84,
+180,54,Female,149.2,56.5,25.4,148.0,127.0,,,,,13.6,0.84,148/82,Slight rise in creatinine; repeat test advised.
+181,36,Female,152.5,102.6,29.6,,142.0,64.0,197.0,64.0,122.0,12.2,,124/75,BMI elevated; initiate weight loss program.
+182,33,Male,187.6,71.0,20.2,127.0,127.0,250.0,135.0,53.0,181.0,,1.71,,Renal parameters within normal range.
+183,71,Female,168.4,90.0,23.7,136.0,127.0,,,,,10.7,1.73,136/85,
+184,56,Male,160.9,76.6,19.7,141.0,127.0,127.0,178.0,41.0,165.0,15.8,,141/90,
+185,46,Female,175.1,67.1,29.9,111.0,91.0,166.0,130.0,69.0,98.0,10.0,,111/86,
+186,28,Female,173.7,97.7,19.1,112.0,127.0,,201.0,61.0,304.0,13.1,,112/70,
+187,60,Male,179.0,64.8,30.2,124.0,127.0,,,,,,1.59,124/89,Creatinine normal; maintain hydration.
+188,36,Male,178.7,46.6,25.3,180.0,98.0,162.0,186.0,30.0,196.0,15.9,,150/81,Blood pressure fluctuating; reduce salt intake.
+189,81,Female,178.7,64.9,20.4,136.0,,143.0,112.0,39.0,,15.0,1.16,136/86,Borderline creatinine; monitor kidney function.
+190,29,Female,174.0,96.2,28.6,150.0,127.0,,,,,16.7,1.67,150/98,Borderline creatinine; monitor renal function.
+191,56,Female,178.3,64.7,18.9,128.0,127.0,,88.0,55.0,,12.0,,128/95,Good improvement noted.
+192,50,Male,182.8,49.1,14.7,127.0,127.0,215.0,,59.0,,,1.39,,Renal profile normal; no intervention needed.
+193,66,Male,,,30.0,123.0,111.0,170.0,158.0,64.0,229.0,12.8,,123/72,LDL high; start dietary counselling.
+194,37,Male,152.1,83.7,24.6,122.0,127.0,253.0,113.0,68.0,193.0,13.3,,122/86,
+195,30,Female,163.4,98.4,29.8,114.0,127.0,,,,,10.3,1.64,114/96,Renal parameters within normal limits.
+196,55,Male,191.4,71.9,18.6,110.0,127.0,246.0,133.0,66.0,,17.5,,110/93,Postnmeal sugar high; avoid sweets.
+197,36,Male,154.1,62.3,22.3,127.0,127.0,296.0,,,292.0,10.7,,132/98,Lipid profile improving.
+198,54,Female,173.6,87.5,24.3,166.0,87.0,173.0,102.0,51.0,230.0,11.7,,,
+199,33,Male,191.0,94.9,25.5,143.0,127.0,219.0,194.0,39.0,171.0,15.9,,143/97,Kidney function normal; maintain hydration.
+200,19,Female,170.3,86.8,30.0,139.0,127.0,151.0,102.0,52.0,,,,139/88,Hemoglobin mildly low; increase iron intake.
+201,77,Female,181.2,104.9,29.8,74.0,127.0,,,,,13.5,0.73,,Renal parameters within normal limits.
+202,45,Male,154.3,100.5,23.5,127.0,127.0,,108.0,38.0,,12.4,,114/93,Signs of dehydration; increase fluid intake.
+203,19,Female,190.8,105.6,26.2,132.0,127.0,,173.0,51.0,319.0,16.0,1.19,132/76,Renal parameters within normal range.
+204,32,Male,179.3,62.3,27.8,119.0,141.0,165.0,,34.0,281.0,13.1,,119/89,Kidney parameters stable; hydration recommended.
+205,34,Female,178.5,96.1,33.3,124.0,127.0,,,,,15.4,1.51,124/71,Borderline creatinine; monitor renal function.
+206,50,Male,178.6,53.0,25.5,78.0,127.0,,179.0,60.0,166.0,,,,Triglycerides high; avoid oily food.
+207,24,Female,186.6,87.8,25.2,145.0,127.0,185.0,116.0,57.0,247.0,11.1,,145/83,Vitals within normal range.
+208,68,Male,156.8,70.7,25.2,127.0,127.0,269.0,141.0,74.0,229.0,15.3,,122/91,BMI above normal; begin weight control.
+209,80,Female,,,27.9,114.0,97.0,54.0,171.0,54.0,125.0,15.8,,114/82,Overall stable. Slight elevation in lipids; recommend low-fat diet and regular exercise.
+210,80,Male,185.0,48.4,26.3,184.0,105.0,203.0,118.0,48.0,215.0,15.0,,148/95,Mild dehydration; increase fluid intake.
+211,26,Female,168.8,94.0,31.2,127.0,,172.0,88.0,68.0,146.0,,,119/80,
+212,73,Female,181.0,89.3,31.9,127.0,127.0,218.0,173.0,70.0,127.0,12.3,,138/72,Good improvement noted.
+213,20,Male,154.6,51.4,18.3,76.0,127.0,,138.0,,,15.4,,,Hemoglobin mildly low; take iron-rich foods.
+214,65,Male,,,25.7,150.0,140.0,228.0,,47.0,137.0,11.6,,150/75,Post-prandial glucose elevated; schedule HbA1c test next visit.
+215,65,Female,,,27.6,129.0,101.0,245.0,180.0,59.0,171.0,11.1,,129/91,Stable condition. No major concerns.
+216,30,Female,174.3,71.4,22.3,161.0,120.0,142.0,148.0,43.0,214.0,13.7,,146/85,"BP a little high, monitor weekly."
+217,79,Female,148.6,58.8,19.9,127.0,127.0,179.0,93.0,38.0,96.0,15.2,1.4,127/72,
+218,46,Female,161.7,103.4,24.5,115.0,70.0,304.0,208.0,63.0,121.0,16.6,,115/75,Lipid profile improving.
+219,29,Male,165.8,96.9,26.3,128.0,127.0,148.0,127.0,61.0,280.0,10.0,,128/87,Good health; annual review advised.
+220,27,Female,150.9,52.6,21.8,131.0,127.0,127.0,127.0,72.0,305.0,16.3,,131/96,Kidney function normal; maintain hydration.
+221,30,Female,194.6,48.5,20.0,149.0,127.0,,,,,10.3,0.69,149/95,Kidney function stable at present.
+222,27,Female,187.4,73.8,24.2,134.0,127.0,252.0,127.0,64.0,276.0,15.3,,134/78,Stable condition; continue monitoring.
+223,70,Female,174.9,53.9,17.6,147.0,127.0,,,,,17.8,1.69,147/88,
+224,68,Male,162.3,80.1,24.2,127.0,127.0,,205.0,,184.0,,1.5,116/84,Kidney function stable.
+225,76,Male,171.3,56.8,33.4,133.0,127.0,,,,,15.2,1.95,133/78,Renal profile satisfactory.
+226,65,Female,194.0,93.7,22.3,106.0,137.0,275.0,,30.0,304.0,12.7,,,Cholesterol on higher side; follow low-fat meals.
+227,78,Female,,,20.0,122.0,119.0,156.0,,32.0,149.0,11.5,,122/90,Early signs of insulin resistance; intervention recommended.
+228,65,Female,177.8,60.0,24.1,115.0,127.0,143.0,127.0,38.0,246.0,14.0,,115/95,Lipid profile improving; continue plan.
+229,41,Male,189.4,72.1,18.1,131.0,70.0,193.0,,63.0,278.0,16.3,,131/93,Thyroid test recommended.
+230,47,Male,167.5,80.1,22.9,127.0,127.0,218.0,,61.0,154.0,11.2,0.79,139/93,Renal profile normal; no intervention needed.
+231,52,Female,176.6,71.0,33.1,148.0,127.0,173.0,123.0,58.0,300.0,,,148/70,
+232,55,Female,167.7,47.4,19.5,119.0,127.0,,,39.0,157.0,16.8,,119/79,Stable condition; continue monitoring.
+233,71,Male,154.5,93.9,39.3,128.0,127.0,276.0,118.0,46.0,,11.0,,128/82,
+234,40,Male,180.3,89.8,31.3,90.0,137.0,158.0,120.0,31.0,193.0,12.5,,,No major issues detected.
+235,62,Female,167.5,58.1,20.7,116.0,127.0,,,,,10.3,0.77,116/79,Borderline creatinine; monitor renal function.
+236,52,Female,185.5,51.3,26.0,73.0,114.0,316.0,154.0,70.0,124.0,15.2,,,
+237,64,Male,145.3,109.4,32.1,129.0,104.0,255.0,156.0,52.0,272.0,15.5,,129/85,LDL elevated; increase dietary fibre.
+238,60,Female,171.8,102.5,25.9,129.0,127.0,269.0,127.0,43.0,168.0,14.0,,129/88,CBC shows mild variation; recheck next month.
+239,78,Female,145.3,46.6,24.2,119.0,127.0,,,,,15.0,2.01,119/78,Renal profile satisfactory.
+240,60,Male,173.5,106.1,21.6,141.0,127.0,127.0,80.0,67.0,254.0,16.4,,141/77,Sugar slightly high; reduce refined carbs.
+241,21,Male,188.9,66.3,19.4,127.0,127.0,186.0,203.0,71.0,292.0,10.1,,116/97,Cholesterol high; shift to lownfat diet.
+242,63,Female,147.3,47.4,23.3,122.0,127.0,164.0,93.0,59.0,323.0,,1.63,122/70,Overall renal function satisfactory.
+243,63,Male,180.9,66.8,28.4,112.0,127.0,153.0,127.0,38.0,111.0,14.6,,112/83,Thyroid testing recommended.
+244,81,Male,182.5,79.8,28.8,131.0,127.0,153.0,115.0,44.0,206.0,10.0,,131/89,Increase daily hydration.
+245,24,Male,151.2,102.7,26.3,147.0,127.0,,,,,13.1,1.91,147/98,Overall renal function acceptable.
+246,53,Female,163.4,79.4,34.2,,127.0,,,,,14.6,1.24,,Renal parameters within normal limits.
+247,32,Female,182.6,70.8,18.1,127.0,127.0,,,,,10.9,1.16,127/77,
+248,31,Male,167.0,104.3,37.4,138.0,127.0,,,,,,0.68,138/74,Creatinine mildly elevated; ensure adequate hydration.
+249,80,Male,148.5,71.9,33.8,137.0,118.0,279.0,134.0,41.0,157.0,12.9,,137/73,Blood sugar elevated; reduce carbohydrate intake.
+250,49,Female,167.8,95.9,19.4,198.0,119.0,159.0,,34.0,185.0,13.0,,135/92,
+251,83,Male,186.2,90.6,32.1,102.0,127.0,,,32.0,125.0,14.3,,,
+252,26,Female,,,23.4,62.0,98.0,249.0,151.0,30.0,113.0,15.4,,,Post-prandial glucose elevated; schedule HbA1c test next visit.
+253,32,Male,150.0,53.0,31.8,84.0,140.0,201.0,,32.0,198.0,13.2,,,
+254,55,Male,161.4,79.7,28.5,125.0,127.0,,,,,15.9,0.84,125/86,Renal profile satisfactory.
+255,48,Male,195.0,73.1,27.7,127.0,127.0,290.0,,70.0,195.0,14.0,0.9,147/86,Borderline creatinine; monitor kidney function.
+256,62,Female,186.8,93.8,24.0,127.0,127.0,173.0,80.0,42.0,169.0,15.4,,,No major concerns.
+257,35,Female,163.2,91.7,22.9,127.0,127.0,270.0,,46.0,109.0,16.9,1.29,,Renal parameters within normal range.
+258,43,Female,145.4,83.0,34.0,139.0,90.0,237.0,99.0,53.0,255.0,10.9,,139/90,Blood pressure a bit elevated; reduce salt intake.
+259,81,Male,154.8,84.2,29.0,107.0,,,,,,11.6,1.61,,Overall renal function acceptable.
+260,48,Female,194.9,58.9,24.1,,134.0,215.0,118.0,45.0,138.0,10.2,,,Signs of dehydration; increase water intake.
+261,45,Female,179.5,89.9,31.0,117.0,91.0,185.0,100.0,61.0,126.0,12.1,,117/91,
+262,40,Male,168.6,101.9,23.5,127.0,127.0,292.0,202.0,72.0,315.0,16.4,,,Possible insulin resistance; follow-up soon.
+263,63,Female,165.3,74.6,32.2,138.0,127.0,,,,,14.3,1.53,138/98,
+264,39,Male,186.1,81.6,19.5,127.0,127.0,310.0,85.0,58.0,147.0,,1.03,148/78,Renal parameters within normal range.
+265,23,Female,150.5,78.5,24.4,144.0,127.0,127.0,163.0,45.0,310.0,16.3,,144/72,Thyroid testing recommended.
+266,85,Male,167.0,53.3,31.0,127.0,124.0,218.0,129.0,70.0,254.0,15.6,,127/84,Overall healthy; maintain lifestyle habits.
+267,60,Male,146.5,94.4,26.7,137.0,73.0,170.0,158.0,57.0,171.0,12.8,,137/71,BMI elevated; initiate weight loss program.
+268,24,Male,182.5,84.8,25.3,121.0,127.0,,,,,14.1,1.62,121/96,Slight rise in creatinine; repeat test advised.
+269,28,Male,180.9,83.1,33.6,139.0,127.0,284.0,136.0,33.0,318.0,15.3,,139/71,CBC shows mild variation; recheck next month.
+270,26,Male,152.5,95.0,20.8,119.0,87.0,212.0,125.0,32.0,114.0,12.6,,119/89,LDL elevated; increase fibre intake.
+271,61,Male,158.3,80.3,34.5,142.0,138.0,157.0,80.0,30.0,144.0,11.7,,142/73,Blood pressure fluctuating; reduce salt intake.
+272,39,Female,188.4,61.1,21.1,115.0,73.0,222.0,,52.0,175.0,10.1,,115/94,Recommend thyroid panel if fatigue persists.
+273,23,Female,148.6,102.5,24.4,127.0,127.0,127.0,96.0,72.0,96.0,15.9,,,
+274,26,Male,147.5,75.1,25.3,142.0,94.0,259.0,108.0,37.0,109.0,13.3,,142/84,
+275,52,Female,170.0,94.6,26.7,,100.0,233.0,149.0,52.0,137.0,16.2,,,No major issues detected.
+276,62,Male,153.9,86.1,36.4,127.0,127.0,,162.0,,103.0,12.5,1.28,114/79,
+277,25,Male,147.7,91.3,22.2,143.0,127.0,318.0,88.0,,325.0,12.4,1.59,143/82,Renal profile normal; no intervention needed.
+278,53,Female,155.7,50.1,27.8,120.0,127.0,,,,,11.2,0.81,120/91,Creatinine normal; maintain hydration.
+279,43,Male,171.3,46.6,15.9,127.0,127.0,186.0,158.0,36.0,,,0.67,122/83,Renal parameters within normal range.
+280,52,Male,184.3,51.0,33.6,144.0,79.0,,175.0,33.0,190.0,10.0,,134/79,LDL high; start dietary fiber increase.
+281,67,Female,161.1,78.9,30.7,138.0,113.0,156.0,154.0,64.0,106.0,11.9,,138/71,
+282,63,Male,154.6,102.1,32.6,148.0,99.0,244.0,165.0,45.0,192.0,10.1,,148/70,Lipid profile improving.
+283,40,Female,183.3,70.5,21.5,128.0,127.0,234.0,164.0,35.0,330.0,13.1,,128/80,Monitor BP weekly.
+284,72,Female,,,19.8,123.0,86.0,222.0,114.0,50.0,126.0,12.8,,,Post-prandial glucose elevated; schedule HbA1c test next visit.
+285,23,Female,164.0,50.5,21.4,71.0,127.0,,,,,16.6,1.2,,Creatinine normal; maintain hydration.
+286,26,Female,166.1,58.1,19.5,144.0,127.0,319.0,96.0,,94.0,,1.74,144/71,Creatinine normal; maintain fluid intake.
+287,74,Female,153.9,58.9,34.6,127.0,127.0,182.0,,58.0,,,,120/98,Good improvement noted.
+288,69,Female,177.8,59.0,29.0,127.0,127.0,254.0,170.0,73.0,185.0,17.4,,,
+289,76,Female,166.9,54.3,19.5,137.0,127.0,,,,,12.8,1.05,137/82,
+290,45,Male,149.0,87.1,34.4,98.0,127.0,317.0,141.0,50.0,292.0,,,,Vitals within normal range.
+291,65,Female,154.7,105.8,22.8,135.0,127.0,,,,,15.3,0.61,135/97,Creatinine normal; maintain hydration.
+292,18,Female,194.9,88.9,28.5,126.0,127.0,,,,,12.7,1.7,126/89,Creatinine mildly elevated; ensure adequate hydration.
+293,20,Female,178.9,67.3,21.0,117.0,127.0,,,,,15.9,1.75,117/97,Mild renal stress suspected; follow-up recommended.
+294,46,Male,146.7,71.5,30.3,82.0,127.0,273.0,164.0,,,,1.12,,Kidney function stable.
+295,81,Male,189.1,67.1,29.1,122.0,138.0,273.0,89.0,61.0,192.0,16.1,,122/90,
+296,65,Female,155.3,63.0,30.8,135.0,121.0,63.0,83.0,63.0,323.0,11.7,,135/85,Cholesterol elevated; follow lownfat diet.
+297,82,Male,155.4,52.7,22.2,141.0,127.0,,,,,12.5,1.42,141/93,Borderline creatinine; monitor renal function.
+298,39,Female,175.9,70.6,22.8,127.0,127.0,,113.0,,258.0,,,140/72,Postnmeal sugar high; avoid sweets.
+299,28,Female,,,24.9,134.0,125.0,251.0,,31.0,278.0,14.6,,111/77,
+300,19,Male,167.7,88.0,22.4,127.0,127.0,289.0,114.0,54.0,174.0,12.2,,,
+301,69,Male,165.9,91.6,25.5,127.0,127.0,213.0,166.0,54.0,242.0,11.2,,,Possible early insulin resistance; recheck soon.
+302,46,Female,152.6,69.9,33.2,136.0,127.0,,,,,10.8,0.99,136/97,
+303,50,Female,151.6,109.7,28.8,,120.0,62.0,,62.0,320.0,12.0,,150/97,Cholesterol on higher side; follow low-fat meals.
+304,74,Female,194.0,58.1,23.5,127.0,127.0,,,41.0,265.0,14.7,,,Postnmeal sugar high; avoid sweets.
+305,25,Male,188.6,67.7,27.5,131.0,127.0,,170.0,49.0,207.0,10.6,,131/70,Vitals within acceptable range.
+306,38,Male,186.6,64.4,21.3,148.0,127.0,,,,,17.7,1.36,148/76,Renal profile satisfactory.
+307,71,Female,191.2,51.6,18.3,137.0,93.0,195.0,155.0,57.0,189.0,15.8,,137/98,"BP a little high, monitor weekly."
+308,24,Male,151.8,78.0,20.7,141.0,127.0,,,,,17.3,1.86,141/70,Renal parameters within normal limits.
+309,82,Female,161.2,67.9,30.9,147.0,127.0,,,,,10.5,1.28,147/85,Overall renal function acceptable.
+310,46,Female,183.0,75.6,22.6,127.0,127.0,252.0,,75.0,135.0,16.8,,139/83,Slight sugar elevation; reduce refined carbs.
+311,43,Male,191.1,58.8,32.1,109.0,127.0,,,,,13.3,2.07,,Renal parameters within normal limits.
+312,52,Female,156.9,46.6,23.0,124.0,127.0,,,,,,0.76,124/81,Borderline creatinine; monitor renal function.
+313,40,Male,177.9,73.9,21.2,127.0,,179.0,195.0,44.0,267.0,13.3,1.69,143/74,
+314,49,Female,165.9,105.9,29.4,127.0,127.0,311.0,178.0,71.0,,13.3,,147/84,Triglycerides high; avoid oily food.
+315,22,Female,171.4,57.4,25.5,146.0,127.0,,,,,10.9,1.84,146/87,Borderline creatinine; monitor renal function.
+316,55,Female,173.7,102.0,20.7,127.0,127.0,231.0,,70.0,218.0,16.0,,150/80,
+317,80,Male,185.6,59.8,17.4,150.0,127.0,,,,,16.8,1.82,150/89,Creatinine mildly elevated; ensure adequate hydration.
+318,56,Male,194.9,45.3,24.3,132.0,141.0,228.0,116.0,57.0,213.0,16.8,,132/70,Signs of dehydration; increase water intake.
+319,69,Male,184.5,97.8,19.8,135.0,127.0,,,39.0,,11.6,1.48,135/87,Overall renal function satisfactory.
+320,60,Female,145.2,102.6,30.2,113.0,127.0,,,,,14.2,1.15,113/95,Slight rise in creatinine; repeat test advised.
+321,82,Male,148.4,83.1,31.1,60.0,127.0,179.0,95.0,61.0,122.0,11.5,,,Cholesterol high; shift to lownfat diet.
+322,18,Male,156.5,106.8,25.5,127.0,127.0,290.0,91.0,67.0,,15.5,1.55,134/95,Creatinine normal; maintain fluid intake.
+323,29,Female,153.5,70.3,32.7,127.0,141.0,160.0,109.0,75.0,162.0,12.8,,127/86,Blood pressure fluctuating; reduce salt intake.
+324,77,Male,165.2,97.5,34.5,127.0,127.0,226.0,182.0,52.0,304.0,12.1,,,
+325,79,Male,159.2,101.3,20.3,148.0,93.0,,89.0,47.0,169.0,13.2,,148/92,Recommend thyroid panel if fatigue continues.
+326,46,Male,152.6,52.4,22.5,76.0,127.0,193.0,,50.0,322.0,14.9,,,Improvement compared to last reports.
+327,59,Female,152.8,59.0,33.1,189.0,112.0,185.0,115.0,35.0,230.0,15.6,,144/81,General health good; annual review advised.
+328,64,Female,154.1,70.3,26.4,127.0,127.0,293.0,,64.0,250.0,12.6,,,Triglycerides high; avoid oily food.
+329,81,Male,174.9,107.6,31.4,117.0,,,,,,14.0,1.4,117/93,Overall renal function acceptable.
+330,57,Male,,,22.5,71.0,87.0,,111.0,37.0,117.0,13.6,,,
+331,59,Male,161.6,59.5,30.5,160.0,113.0,256.0,147.0,53.0,156.0,15.5,,149/92,Triglycerides high; avoid sugary and oily foods.
+332,48,Female,175.1,76.4,34.7,127.0,127.0,,100.0,,255.0,17.7,1.08,,Mild rise in creatinine; recheck after 2 weeks.
+333,44,Female,157.8,101.5,21.3,147.0,127.0,238.0,192.0,57.0,,,,147/81,
+334,29,Female,186.8,91.3,26.2,121.0,127.0,,131.0,,281.0,11.3,1.69,121/72,Mild rise in creatinine; recheck after 2 weeks.
+335,55,Female,176.6,109.0,27.0,127.0,127.0,152.0,187.0,49.0,155.0,17.4,,119/96,Vitals normal; maintain fitness routine.
+336,73,Female,170.3,69.5,18.4,114.0,127.0,150.0,162.0,,135.0,12.7,,114/80,LDL borderline; add fiber-rich meals.
+337,20,Female,156.7,55.0,22.4,105.0,127.0,314.0,126.0,47.0,,10.4,,,Kidney function normal.
+338,22,Female,155.8,106.8,29.7,127.0,127.0,254.0,174.0,61.0,183.0,14.5,,127/71,Possible insulin resistance; follow-up soon.
+339,57,Male,188.2,54.0,19.0,132.0,92.0,50.0,,50.0,125.0,16.1,,132/85,
+340,36,Female,,,30.8,63.0,125.0,224.0,131.0,56.0,254.0,13.6,,,Platelet count borderline; re-evaluate if symptoms persist.
+341,60,Female,178.2,76.2,21.9,144.0,98.0,254.0,,46.0,300.0,16.9,,116/72,Sugar slightly high; reduce refined carbs.
+342,36,Male,193.2,96.9,20.0,134.0,139.0,153.0,,34.0,197.0,15.1,,134/75,LDL elevated; increase fibre intake.
+343,19,Female,177.9,89.9,30.3,124.0,127.0,,,,,12.5,0.64,124/84,Overall renal function acceptable.
+344,77,Female,185.1,58.5,25.0,139.0,127.0,181.0,107.0,,,15.8,1.05,139/79,Creatinine slightly elevated; advise hydration.
+345,21,Female,158.3,47.7,19.4,127.0,127.0,,,58.0,263.0,10.8,1.58,,Creatinine slightly elevated; advise hydration.
+346,70,Male,182.8,77.0,31.6,119.0,127.0,,,,,,1.01,119/83,Kidney function stable at present.
+347,79,Female,186.1,73.3,23.4,121.0,127.0,,,,,17.4,1.85,121/93,
+348,62,Female,177.3,54.0,18.3,125.0,127.0,212.0,145.0,,176.0,12.0,,125/75,Slight sugar elevation; reduce refined carbs.
+349,33,Male,167.4,85.6,30.5,125.0,127.0,229.0,,,157.0,14.8,1.41,125/71,Mild rise in creatinine; recheck after 2 weeks.
+350,43,Female,188.0,105.5,28.1,168.0,83.0,185.0,127.0,32.0,132.0,10.3,,145/87,No significant clinical concerns.
+351,47,Female,193.8,102.0,24.7,74.0,101.0,141.0,122.0,53.0,288.0,10.1,,,
+352,80,Female,169.6,87.0,24.6,129.0,,,,31.0,287.0,16.2,,129/86,CBC slightly off; retest in 1 month.
+353,26,Female,187.5,70.1,23.2,108.0,125.0,309.0,149.0,53.0,113.0,12.8,,,Signs of dehydration; increase water intake.
+354,28,Male,161.7,53.1,24.7,118.0,127.0,,,,,,0.69,118/95,Overall renal function acceptable.
+355,45,Female,187.7,88.9,26.9,145.0,135.0,140.0,114.0,32.0,277.0,11.2,,145/85,Signs of insulin resistance; recheck in 8 weeks.
+356,43,Female,182.1,85.5,28.0,120.0,70.0,55.0,160.0,55.0,217.0,13.2,,,No significant clinical concerns.
+357,44,Male,153.0,65.7,32.5,136.0,134.0,167.0,173.0,44.0,258.0,17.2,,136/83,Good general health; annual review suggested.
+358,84,Female,145.8,53.6,21.6,133.0,90.0,50.0,,50.0,150.0,11.8,,133/89,Triglycerides high; avoid fried foods.
+359,39,Male,164.2,97.1,23.6,,132.0,143.0,,58.0,163.0,16.2,,111/89,No major issues detected.
+360,40,Female,175.4,79.0,25.2,127.0,127.0,205.0,152.0,56.0,151.0,12.2,,,No major concerns.
+361,59,Male,162.4,69.3,21.7,197.0,139.0,169.0,117.0,42.0,183.0,10.5,,135/91,Recommend thyroid panel if fatigue continues.
+362,62,Female,184.2,52.4,33.5,127.0,127.0,,117.0,48.0,176.0,,,,Good improvement noted.
+363,43,Female,183.5,103.6,21.9,120.0,127.0,147.0,127.0,,222.0,10.7,,120/73,Postnmeal sugar high; avoid sweets.
+364,26,Female,160.0,106.3,25.1,126.0,127.0,,,,,13.6,1.0,126/85,Creatinine mildly elevated; ensure adequate hydration.
+365,26,Female,156.2,76.6,18.1,127.0,127.0,171.0,105.0,56.0,294.0,15.9,,,Stable condition; continue monitoring.
+366,63,Female,158.2,61.8,20.5,135.0,76.0,306.0,186.0,66.0,174.0,12.5,,135/90,
+367,32,Female,192.6,61.3,20.6,122.0,75.0,,186.0,36.0,134.0,10.0,,118/92,LDL high; start dietary fiber increase.
+368,39,Male,149.0,88.6,24.4,150.0,96.0,220.0,,33.0,190.0,12.4,,150/85,Post-meal sugar high; limit refined carbs.
+369,63,Male,,,31.0,87.0,87.0,,,39.0,188.0,13.1,,,RBC count slightly low; follow-up CBC in 4 weeks.
+370,18,Female,163.4,79.9,25.4,170.0,81.0,313.0,181.0,74.0,278.0,17.3,,,Possible insulin resistance; follow-up in 6 weeks.
+371,28,Female,187.9,59.7,24.9,136.0,127.0,,,,,15.0,0.98,136/87,Kidney function stable at present.
+372,44,Female,158.1,77.5,32.1,134.0,127.0,,,,,,1.37,134/88,Borderline creatinine; monitor renal function.
+373,28,Female,173.3,108.2,23.6,127.0,127.0,233.0,208.0,74.0,222.0,12.2,,,Good health; annual review advised.
+374,56,Male,,,27.1,127.0,77.0,194.0,181.0,38.0,139.0,11.9,,127/83,
+375,36,Female,153.5,86.3,32.6,144.0,127.0,,,,,14.4,1.63,144/83,Kidney markers stable.
+376,81,Female,191.8,79.5,21.6,127.0,127.0,191.0,170.0,43.0,274.0,12.2,,,
+377,52,Male,156.8,46.0,27.4,127.0,127.0,190.0,108.0,41.0,111.0,11.9,1.02,149/95,Mild rise in creatinine; recheck after 2 weeks.
+378,75,Male,166.0,67.7,29.3,116.0,,,,,,,1.62,116/85,Creatinine normal; maintain hydration.
+379,82,Female,162.8,48.9,24.0,127.0,127.0,212.0,197.0,65.0,123.0,15.5,,128/81,Kidney function normal.
+380,70,Female,147.9,52.7,28.9,144.0,127.0,,,,,17.6,0.95,144/72,Mild renal stress suspected; follow-up recommended.
+381,66,Female,149.7,98.7,44.0,150.0,127.0,172.0,199.0,56.0,96.0,,0.6,150/86,Renal parameters within normal range.
+382,62,Female,158.8,54.9,28.4,127.0,127.0,274.0,119.0,48.0,,13.7,,112/82,Kidney function normal.
+383,21,Male,146.5,89.4,20.6,116.0,82.0,254.0,,34.0,90.0,11.3,,116/83,
+384,61,Male,,,19.2,175.0,79.0,257.0,123.0,57.0,116.0,13.7,,112/93,Signs suggestive of mild metabolic concerns; follow-up in 6 weeks.
+385,58,Male,177.0,97.9,30.5,132.0,133.0,140.0,106.0,35.0,192.0,11.3,,132/83,
+386,47,Female,160.8,77.4,33.3,133.0,127.0,,,,,11.9,1.72,133/72,Overall renal function acceptable.
+387,81,Male,171.2,80.3,24.1,85.0,127.0,,,,,17.5,1.58,,Slight rise in creatinine; repeat test advised.
+388,26,Male,160.7,62.4,19.7,121.0,127.0,,,50.0,161.0,15.8,0.82,121/80,Borderline creatinine; monitor kidney function.
+389,63,Male,178.3,68.2,26.2,127.0,127.0,177.0,197.0,52.0,293.0,16.5,,132/83,Vitals within normal range.
+390,59,Male,192.4,98.9,30.0,134.0,88.0,197.0,188.0,61.0,267.0,16.7,,116/90,Mild anemia; suggest iron supplements.
+391,70,Male,,,21.4,128.0,138.0,290.0,185.0,57.0,243.0,14.3,,128/85,Blood sugar mildly raised post meal; advise carbohydrate moderation.
+392,26,Male,165.4,58.8,32.4,107.0,124.0,69.0,195.0,69.0,129.0,12.3,,,Overall good values; yearly checkup advised.
+393,24,Female,169.0,104.6,36.6,141.0,127.0,,,,,,1.12,141/91,Renal parameters within normal limits.
+394,19,Female,194.0,86.6,26.3,124.0,127.0,,,,,,1.34,124/72,Borderline creatinine; monitor renal function.
+395,26,Male,171.3,106.6,33.9,133.0,127.0,,,,,15.0,1.32,133/97,Creatinine normal; maintain hydration.
+396,58,Female,184.8,77.2,28.6,133.0,133.0,70.0,,70.0,129.0,17.1,,133/89,Signs of dehydration; increase water intake.
+397,79,Male,,,20.6,124.0,84.0,181.0,,54.0,162.0,11.0,,124/91,Signs suggestive of mild metabolic concerns; follow-up in 6 weeks.
+398,24,Male,172.5,108.2,27.5,127.0,127.0,,102.0,74.0,306.0,,,132/88,BMI above normal; begin weight control.
+399,31,Female,172.3,84.4,28.4,115.0,127.0,,135.0,,161.0,13.7,,115/73,Hemoglobin mildly low; increase iron intake.
+400,60,Male,162.9,102.3,29.0,127.0,127.0,225.0,,56.0,221.0,17.4,0.8,132/92,Creatinine slightly elevated; advise hydration.
+401,78,Male,166.8,70.1,22.4,118.0,127.0,232.0,130.0,65.0,150.0,17.6,,118/89,Stable condition; continue monitoring.
+402,55,Female,190.6,79.8,34.3,128.0,127.0,237.0,,34.0,146.0,15.0,,128/75,Slight sugar elevation; reduce refined carbs.
+403,45,Female,,,28.4,179.0,88.0,287.0,96.0,48.0,194.0,16.0,,113/79,BMI slightly high; advise weight management plan.
+404,27,Male,193.3,70.2,33.2,130.0,,,133.0,51.0,237.0,,,130/95,Signs of dehydration; increase fluid intake.
+405,64,Male,172.9,50.1,25.1,127.0,127.0,142.0,139.0,60.0,207.0,12.7,,123/75,Kidney function normal.
+406,61,Male,186.0,78.8,22.0,144.0,72.0,258.0,170.0,31.0,166.0,10.6,,144/86,
+407,47,Female,164.3,46.6,34.0,129.0,73.0,190.0,80.0,75.0,214.0,16.3,,129/78,Kidney function normal.
+408,18,Female,153.2,66.7,30.4,133.0,109.0,247.0,114.0,63.0,181.0,12.4,,133/80,
+409,21,Female,171.1,105.6,27.2,138.0,127.0,305.0,173.0,51.0,136.0,,1.11,138/70,Slight renal stress suspected; follow-up advised.
+410,28,Male,,,19.2,191.0,108.0,179.0,172.0,42.0,212.0,12.9,,,Signs suggestive of mild metabolic concerns; follow-up in 6 weeks.
+411,74,Female,186.8,45.9,19.5,153.0,122.0,204.0,,31.0,92.0,10.8,,145/98,Mild dehydration; increase fluid intake.
+412,74,Male,153.0,67.8,33.6,142.0,127.0,266.0,114.0,62.0,306.0,15.9,1.18,142/79,Borderline creatinine; monitor kidney function.
+413,33,Male,,,32.1,81.0,99.0,,181.0,47.0,152.0,12.3,,,Overall stable. Slight elevation in lipids; recommend low-fat diet and regular exercise.
+414,32,Male,191.7,93.7,25.5,127.0,127.0,220.0,,63.0,192.0,12.0,,136/75,Thyroid evaluation may be needed.
+415,19,Female,158.5,77.1,19.0,121.0,127.0,287.0,127.0,61.0,232.0,13.7,,121/71,Sugar slightly high; reduce refined carbs.
+416,67,Female,150.5,59.1,28.9,149.0,117.0,156.0,87.0,70.0,209.0,10.0,,149/75,
+417,20,Male,172.5,63.3,24.1,,127.0,,,,,17.1,1.19,,Overall renal function acceptable.
+418,45,Female,147.0,106.0,28.8,127.0,132.0,226.0,94.0,50.0,295.0,17.2,,119/73,
+419,26,Male,,,20.7,125.0,118.0,248.0,,48.0,220.0,15.1,,125/71,Platelet count borderline; re-evaluate if symptoms persist.
+420,63,Female,,,24.1,113.0,135.0,50.0,149.0,50.0,107.0,14.5,,113/83,Overall stable. Slight elevation in lipids; recommend low-fat diet and regular exercise.
+421,61,Male,186.0,104.8,33.3,122.0,127.0,,,,,,1.77,122/80,Creatinine mildly elevated; ensure adequate hydration.
+422,65,Female,153.8,74.8,18.2,186.0,83.0,,,35.0,141.0,11.5,,136/78,
+423,21,Female,152.8,81.3,27.3,120.0,127.0,,,,,12.2,1.66,120/79,
+424,50,Female,153.8,102.7,29.9,161.0,111.0,250.0,194.0,39.0,279.0,13.9,,119/84,
+425,39,Female,146.4,76.3,35.6,132.0,127.0,,,,,13.6,1.95,132/80,Overall renal function acceptable.
+426,60,Male,185.3,82.7,18.2,79.0,127.0,,,,,16.4,0.82,,Slight rise in creatinine; repeat test advised.
+427,80,Male,165.0,70.7,27.9,145.0,127.0,,,,,,1.72,145/76,Overall renal function acceptable.
+428,67,Female,160.9,98.9,26.1,126.0,127.0,,,,,10.1,0.98,126/90,Kidney markers stable.
+429,47,Male,170.1,62.0,33.0,147.0,127.0,,,,,11.7,1.62,147/90,Creatinine mildly elevated; ensure adequate hydration.
+430,45,Female,191.8,93.8,18.5,127.0,127.0,145.0,210.0,46.0,,,,149/92,
+431,27,Female,157.9,71.7,28.8,124.0,127.0,,,,,16.3,1.37,124/95,
+432,75,Female,163.9,49.5,22.3,133.0,138.0,71.0,120.0,71.0,184.0,15.8,,133/88,Improvement seen since last report; continue same.
+433,31,Female,183.1,68.2,30.7,128.0,127.0,282.0,115.0,75.0,232.0,17.3,,128/96,
+434,54,Male,171.8,94.6,26.2,111.0,127.0,272.0,153.0,,245.0,17.7,,111/82,Triglycerides high; avoid oily food.
+435,30,Male,179.6,45.3,34.1,87.0,127.0,188.0,,,,10.4,1.15,,Kidney markers stable.
+436,46,Female,174.3,71.4,18.3,138.0,127.0,,,,,12.7,1.15,138/90,Creatinine normal; maintain hydration.
+437,37,Male,161.1,63.8,29.7,122.0,127.0,259.0,,51.0,197.0,11.3,,122/80,Triglycerides high; avoid oily food.
+438,39,Female,149.4,70.4,20.6,119.0,76.0,52.0,80.0,52.0,121.0,13.1,,119/74,Good general health; annual review suggested.
+439,20,Female,,,26.3,90.0,84.0,181.0,171.0,56.0,252.0,12.6,,,
+440,38,Male,164.1,83.3,18.7,166.0,87.0,273.0,,67.0,116.0,14.6,,143/74,Good vitals; regular exercise recommended.
+441,57,Female,171.6,80.2,34.6,114.0,127.0,,,,,,1.48,114/95,Kidney function stable at present.
+442,41,Female,167.6,70.1,25.0,145.0,127.0,239.0,178.0,56.0,,10.2,,145/94,
+443,37,Female,173.8,75.4,20.6,115.0,87.0,,,43.0,158.0,13.0,,115/97,
+444,77,Female,149.3,47.6,28.8,189.0,120.0,293.0,132.0,51.0,114.0,11.0,,129/81,Blood sugar elevated; reduce carbohydrate intake.
+445,61,Female,181.8,50.3,20.5,149.0,127.0,,,,,16.4,1.81,149/98,Slight rise in creatinine; repeat test advised.
+446,42,Female,175.8,50.9,16.5,97.0,127.0,,,,,15.2,1.51,,Borderline creatinine; monitor renal function.
+447,45,Female,179.6,76.8,23.8,118.0,127.0,,,,,16.7,1.99,118/88,Creatinine normal; maintain hydration.
+448,47,Female,176.4,56.3,18.1,127.0,127.0,188.0,95.0,64.0,280.0,16.6,1.6,,Renal parameters within normal range.
+449,72,Female,149.9,91.1,24.1,127.0,127.0,,181.0,68.0,,16.2,,111/82,Slight sugar elevation; reduce refined carbs.
+450,25,Female,186.0,105.3,33.3,88.0,127.0,,157.0,61.0,124.0,,1.8,,Kidney markers stable.
+451,36,Male,151.5,76.8,23.3,115.0,127.0,,,,,17.1,0.93,115/94,Creatinine mildly elevated; ensure adequate hydration.
+452,68,Female,173.8,72.5,21.4,132.0,119.0,276.0,109.0,31.0,154.0,10.6,,132/72,No significant clinical concerns.
+453,32,Male,,,22.4,116.0,103.0,245.0,104.0,51.0,91.0,15.9,,116/71,
+454,71,Female,177.0,82.6,28.0,116.0,73.0,147.0,,71.0,210.0,15.2,,116/95,CBC shows mild variation; follow-up recommended.
+455,23,Female,168.8,68.2,27.7,127.0,127.0,243.0,96.0,,287.0,15.2,1.67,128/92,Renal parameters within normal range.
+456,36,Female,156.2,68.6,28.1,112.0,127.0,240.0,175.0,50.0,217.0,,1.23,112/93,Borderline creatinine; monitor kidney function.
+457,50,Female,191.8,56.7,21.5,127.0,127.0,,,,,15.3,0.74,127/95,Kidney function stable at present.
+458,34,Male,156.1,52.8,25.3,99.0,123.0,254.0,142.0,51.0,184.0,16.2,,,LDL borderline high; add high-fiber diet.
+459,20,Male,174.0,89.9,26.8,133.0,127.0,,,,,17.0,0.75,133/79,Kidney function stable at present.
+460,81,Male,146.9,108.3,24.1,137.0,127.0,213.0,134.0,50.0,271.0,13.4,,137/70,
+461,41,Male,194.9,55.2,23.0,112.0,127.0,,,,,14.3,1.79,112/79,
+462,78,Female,194.2,86.4,22.9,143.0,127.0,,,,,12.7,0.76,143/79,Kidney function stable at present.
+463,52,Male,159.8,87.7,34.3,138.0,127.0,,,,,11.0,0.6,138/98,Borderline creatinine; monitor renal function.
+464,67,Male,149.7,107.0,20.5,110.0,89.0,67.0,170.0,67.0,260.0,15.8,,,
+465,51,Female,147.1,85.2,30.1,135.0,127.0,,,,,,1.89,135/71,Creatinine mildly elevated; ensure adequate hydration.
+466,47,Male,,,31.6,145.0,79.0,,139.0,41.0,148.0,12.3,,145/78,Blood sugar mildly raised post meal; advise carbohydrate moderation.
+467,59,Male,148.2,75.3,26.9,127.0,127.0,279.0,,63.0,293.0,15.4,,,BMI above normal; begin weight control.
+468,52,Male,166.9,94.1,24.0,113.0,87.0,147.0,166.0,45.0,112.0,17.3,,113/83,Healthy profile; maintain current routine.
+469,66,Male,151.3,80.6,33.4,127.0,127.0,251.0,115.0,31.0,287.0,12.7,,,Cholesterol high; shift to lownfat diet.
+470,65,Female,163.0,89.4,31.5,71.0,113.0,59.0,209.0,59.0,173.0,15.1,,,
+471,53,Male,149.9,103.3,46.0,84.0,127.0,,,,,16.1,1.33,,Slight rise in creatinine; repeat test advised.
+472,26,Female,182.2,82.4,24.8,124.0,127.0,,174.0,37.0,135.0,,,124/75,Kidney markers normal.
+473,28,Female,182.4,89.4,25.0,122.0,127.0,,,,,10.6,1.13,122/80,Kidney function stable at present.
+474,38,Female,165.6,67.1,23.2,103.0,127.0,,,,,15.1,1.88,,Borderline creatinine; monitor renal function.
+475,23,Male,177.2,109.0,27.0,145.0,,,,,,11.0,0.76,145/72,Creatinine normal; maintain hydration.
+476,41,Female,183.3,94.8,24.4,111.0,127.0,281.0,86.0,49.0,153.0,17.0,,111/93,Lipid profile improving.
+477,58,Male,156.4,54.2,23.2,179.0,125.0,201.0,,53.0,170.0,14.0,,122/74,Overall good values; yearly checkup advised.
+478,77,Female,152.1,109.2,34.4,124.0,87.0,201.0,118.0,32.0,133.0,11.1,,124/82,
+479,71,Male,146.5,60.4,18.5,112.0,119.0,,131.0,47.0,152.0,16.8,,112/75,CBC shows mild variation; monitor next month.
+480,74,Female,156.7,60.8,24.5,102.0,101.0,286.0,,62.0,169.0,14.9,,,CBC suggests borderline values; follow-up advised.
+481,41,Female,163.6,67.5,34.7,148.0,127.0,,113.0,38.0,263.0,14.5,,148/93,Overall healthy.
+482,54,Female,174.1,54.1,17.8,138.0,127.0,235.0,,35.0,,,,138/74,Stable condition; continue monitoring.
+483,84,Female,,,21.3,101.0,98.0,288.0,102.0,43.0,261.0,15.7,,,
+484,64,Female,193.8,45.6,34.3,127.0,127.0,255.0,96.0,52.0,275.0,,,,Cholesterol high; shift to lownfat diet.
+485,51,Male,187.3,72.4,22.3,135.0,103.0,190.0,209.0,47.0,307.0,15.5,,135/70,Vitals normal; maintain physical activity.
+486,49,Female,168.8,65.6,25.2,104.0,112.0,164.0,,32.0,193.0,10.9,,,Kidney markers normal; maintain hydration.
+487,68,Male,171.6,97.2,30.7,127.0,127.0,275.0,143.0,33.0,287.0,15.0,1.66,116/75,Renal parameters within normal range.
+488,18,Female,152.5,109.1,29.6,170.0,97.0,,152.0,46.0,246.0,13.9,,117/74,Stable condition; continue monitoring regularly.
+489,44,Female,172.6,65.9,22.1,81.0,127.0,318.0,191.0,46.0,328.0,10.8,,,
+490,28,Female,152.5,51.1,28.4,118.0,127.0,,,,,15.5,0.74,118/89,Kidney function stable at present.
+491,22,Female,161.7,94.1,31.2,127.0,127.0,157.0,94.0,60.0,,12.9,,117/72,BP slightly elevated; control salt intake.
+492,60,Female,171.0,55.0,23.6,143.0,77.0,230.0,170.0,69.0,122.0,16.5,,143/71,Sugar mildly raised; reduce carbohydrate portions.
+493,50,Female,176.9,102.8,28.2,194.0,94.0,273.0,,54.0,137.0,15.3,,,Good vitals; regular exercise recommended.
+494,25,Male,191.0,92.3,23.4,126.0,127.0,255.0,,56.0,94.0,16.3,0.99,126/92,Kidney function stable.
+495,38,Male,169.0,90.7,31.6,75.0,127.0,,,,,,2.19,,Borderline creatinine; monitor renal function.
+496,61,Female,183.8,100.7,25.1,94.0,127.0,,,,,11.6,1.85,,Kidney markers stable.
+497,65,Female,146.7,74.5,34.6,123.0,127.0,268.0,111.0,74.0,218.0,,0.64,123/86,Overall renal function satisfactory.
+498,67,Male,150.3,62.8,28.3,149.0,127.0,,,,,15.1,1.06,149/82,Overall renal function acceptable.
+499,55,Male,175.8,108.3,22.7,127.0,127.0,154.0,155.0,,218.0,14.9,0.83,115/82,Creatinine normal; maintain fluid intake.
+500,34,Male,159.1,65.1,28.2,116.0,127.0,127.0,154.0,56.0,93.0,10.3,,116/71,Hemoglobin borderline; add iron-rich foods.
+501,43,Female,153.6,76.4,23.9,138.0,116.0,,190.0,46.0,172.0,12.7,,138/87,BMI elevated; initiate weight loss program.
+502,22,Male,171.3,92.6,31.6,138.0,127.0,281.0,154.0,67.0,125.0,,,138/85,Monitor BP regularly.
+503,70,Female,152.7,100.2,19.7,,114.0,168.0,88.0,61.0,204.0,13.3,,115/82,Overall stable; continue regular monitoring.
+504,55,Female,180.1,83.5,33.8,133.0,127.0,,,,,11.2,1.86,133/70,
+505,76,Male,191.3,102.7,28.1,117.0,127.0,159.0,153.0,41.0,194.0,10.6,0.94,117/76,Creatinine slightly elevated; advise hydration.
+506,49,Female,170.0,66.3,22.9,127.0,127.0,,148.0,,201.0,14.7,,137/72,Postnmeal sugar elevated; reduce sweets.
+507,76,Female,185.4,74.6,33.6,127.0,127.0,241.0,,59.0,97.0,,,,Slight sugar elevation; reduce refined carbs.
+508,80,Female,180.9,88.7,22.6,147.0,86.0,67.0,169.0,67.0,233.0,11.6,,147/73,LDL high; start dietary fiber increase.
+509,20,Female,179.0,74.9,25.1,133.0,127.0,,,,,16.7,1.25,133/76,Renal profile satisfactory.
+510,48,Female,157.5,83.8,33.9,127.0,87.0,218.0,,32.0,287.0,15.4,,127/80,No significant clinical concerns.
+511,23,Female,158.2,45.8,31.9,111.0,127.0,,,,,,1.97,111/72,Renal parameters within normal limits.
+512,31,Female,148.2,97.7,30.6,148.0,83.0,249.0,120.0,51.0,260.0,15.2,,148/85,Triglycerides elevated; avoid fried foods.
+513,23,Female,149.0,85.1,20.2,148.0,106.0,205.0,161.0,68.0,267.0,16.2,,125/76,
+514,36,Male,166.1,56.5,24.6,100.0,127.0,300.0,113.0,51.0,,14.1,0.64,,Mild rise in creatinine; recheck after 2 weeks.
+515,25,Female,190.3,57.7,28.0,115.0,127.0,,,,,16.9,1.4,115/86,
+516,77,Female,193.5,109.1,23.0,119.0,127.0,,,,,11.4,0.78,119/91,Borderline creatinine; monitor renal function.
+517,54,Male,173.8,76.5,25.3,127.0,127.0,231.0,93.0,36.0,257.0,,1.75,143/90,Borderline creatinine; monitor kidney function.
+518,55,Male,160.1,71.8,31.9,127.0,127.0,,182.0,58.0,115.0,,,145/73,Monitor BP regularly.
+519,24,Male,,,25.5,,131.0,228.0,111.0,38.0,137.0,15.0,,126/90,Overall stable. Slight elevation in lipids; recommend low-fat diet and regular exercise.
+520,33,Male,184.8,83.8,24.5,112.0,127.0,,,,,10.8,1.28,112/94,Creatinine mildly elevated; ensure adequate hydration.
+521,32,Female,188.0,53.1,15.0,127.0,127.0,155.0,91.0,37.0,,,1.26,150/72,Overall renal function satisfactory.
+522,52,Female,171.7,74.6,32.4,127.0,127.0,288.0,86.0,72.0,314.0,11.8,1.5,,
+523,81,Female,172.7,87.5,26.7,128.0,132.0,72.0,205.0,72.0,295.0,16.6,,128/82,Hemoglobin borderline; consider iron supplementation.
+524,77,Female,145.1,54.1,32.6,110.0,127.0,,,,,,1.6,110/91,Kidney function stable at present.
+525,33,Male,164.0,46.4,20.3,127.0,127.0,213.0,,70.0,245.0,10.9,0.87,112/74,Borderline creatinine; monitor kidney function.
+526,51,Male,174.7,60.2,30.4,115.0,127.0,246.0,,37.0,195.0,14.7,,115/89,BMI above normal; begin weight control.
+527,70,Female,172.6,100.8,22.5,148.0,127.0,,,,,12.2,1.4,148/94,Creatinine mildly elevated; ensure adequate hydration.
+528,30,Male,156.6,94.0,38.3,,127.0,,,,,16.2,2.19,,Slight rise in creatinine; repeat test advised.
+529,48,Female,176.4,86.8,22.7,125.0,113.0,232.0,,52.0,204.0,16.3,,132/70,Signs of dehydration; increase water intake.
+530,63,Male,191.1,60.9,16.7,127.0,127.0,249.0,152.0,,197.0,,,127/71,
+531,65,Male,158.7,107.2,23.1,140.0,127.0,191.0,123.0,,,10.9,,140/81,
+532,53,Female,155.3,107.4,31.3,,143.0,272.0,,39.0,105.0,16.8,,122/72,BMI high; adopt weight-loss plan.
+533,33,Male,189.8,61.5,17.1,128.0,127.0,,,,,10.3,1.18,128/93,Kidney markers stable.
+534,24,Female,154.5,60.4,25.3,75.0,127.0,280.0,,73.0,141.0,10.1,,,Improvement compared to last reports.
+535,61,Female,171.2,105.4,31.8,139.0,,,121.0,30.0,,,,139/75,Early insulin resistance suspected.
+536,79,Female,190.5,77.0,23.1,69.0,89.0,208.0,,43.0,214.0,10.4,,,
+537,57,Female,150.6,68.8,21.9,133.0,127.0,,191.0,71.0,197.0,10.4,,133/81,CBC slightly off; retest in 1 month.
+538,19,Female,147.6,100.2,34.6,127.0,127.0,210.0,,58.0,230.0,15.7,,,
+539,26,Male,184.9,107.8,26.5,113.0,127.0,141.0,210.0,48.0,134.0,,,113/81,Stable condition; continue monitoring.
+540,45,Female,174.0,58.2,27.4,146.0,127.0,,,,,,1.28,146/97,
+541,24,Female,155.3,83.5,20.2,130.0,117.0,293.0,142.0,54.0,211.0,14.5,,130/85,
+542,54,Male,165.0,88.9,30.6,127.0,127.0,260.0,194.0,,133.0,11.8,,138/88,
+543,21,Female,180.5,72.6,21.0,149.0,78.0,141.0,,52.0,163.0,16.9,,149/93,LDL high; start dietary fiber increase.
+544,56,Male,173.2,89.4,19.3,102.0,82.0,56.0,93.0,56.0,148.0,14.2,,,
+545,58,Male,,,20.0,189.0,122.0,219.0,156.0,42.0,168.0,13.7,,127/88,Signs suggestive of mild metabolic concerns; follow-up in 6 weeks.
+546,61,Female,182.3,67.7,31.3,,70.0,,,40.0,133.0,14.2,,130/73,
+547,75,Female,181.0,54.9,22.3,108.0,144.0,219.0,,68.0,278.0,15.7,,,Post-meal sugar high; avoid refined carbs.
+548,23,Female,154.7,50.5,27.2,150.0,112.0,226.0,133.0,63.0,200.0,10.8,,150/76,Improvement noted in lipid values; continue habits.
+549,46,Male,156.2,103.9,22.0,127.0,127.0,309.0,133.0,58.0,138.0,12.0,1.44,118/84,Renal parameters within normal range.
+550,62,Female,171.3,96.7,34.5,127.0,127.0,289.0,81.0,,,,,110/87,
+551,74,Female,147.8,96.7,44.3,125.0,127.0,,,,,17.0,1.25,125/96,Kidney function stable at present.
+552,47,Male,179.0,109.9,19.4,127.0,127.0,,,75.0,285.0,10.3,,115/86,Triglycerides high; avoid oily food.
+553,75,Male,155.2,56.9,33.1,140.0,127.0,296.0,112.0,58.0,205.0,13.9,,140/96,Triglycerides high; avoid fried foods.
+554,61,Male,157.0,91.5,21.8,145.0,127.0,127.0,175.0,37.0,93.0,11.1,,145/92,Kidney function normal; maintain hydration.
+555,56,Male,175.9,101.3,30.4,145.0,127.0,197.0,82.0,49.0,137.0,17.2,1.78,145/97,Overall renal function satisfactory.
+556,59,Male,145.2,46.4,31.0,142.0,127.0,,162.0,62.0,269.0,14.3,,142/94,
+557,43,Female,185.1,63.0,18.4,127.0,127.0,184.0,200.0,70.0,298.0,14.0,,146/91,
+558,39,Male,193.6,47.1,25.2,145.0,127.0,,,,,15.5,1.75,145/73,Slight rise in creatinine; repeat test advised.
+559,61,Female,164.9,58.4,28.0,75.0,127.0,225.0,104.0,71.0,242.0,12.7,,,Triglycerides high; avoid oily food.
+560,63,Female,172.0,52.4,19.7,131.0,127.0,,,,,,1.48,131/77,Kidney function stable at present.
+561,64,Female,174.2,64.6,33.9,135.0,127.0,,,,,16.6,1.89,135/88,Renal parameters within normal limits.
+562,82,Female,192.7,96.5,28.1,113.0,,224.0,,,188.0,13.9,,113/98,Postnmeal sugar high; avoid sweets.
+563,59,Male,180.0,56.2,23.3,127.0,127.0,280.0,113.0,44.0,270.0,17.3,0.74,122/98,Kidney markers stable.
+564,73,Female,163.2,48.6,32.4,127.0,127.0,284.0,143.0,49.0,196.0,17.6,,125/87,Postnmeal sugar high; avoid sweets.
+565,45,Female,160.1,63.3,31.0,123.0,127.0,127.0,125.0,46.0,236.0,11.8,,123/82,Sugar slightly high; reduce refined carbs.
+566,30,Female,151.1,51.0,31.9,127.0,127.0,222.0,189.0,45.0,269.0,12.9,,126/76,Hemoglobin mildly low; take iron-rich foods.
+567,32,Male,148.7,92.5,23.4,137.0,127.0,,,,,16.7,2.08,137/93,
+568,23,Female,166.0,57.2,22.8,128.0,136.0,220.0,187.0,39.0,277.0,16.2,,128/77,Signs of dehydration; increase water intake.
+569,60,Male,162.9,88.9,26.8,127.0,127.0,209.0,,49.0,,16.4,,,Healthy overall.
+570,37,Male,146.7,95.0,24.5,117.0,116.0,75.0,128.0,75.0,160.0,16.8,,117/80,Vitals satisfactory; keep routine exercise.
+571,19,Male,175.0,60.1,23.7,140.0,127.0,,,,,13.0,1.66,140/71,Borderline creatinine; monitor renal function.
+572,37,Female,165.1,68.8,30.1,126.0,86.0,178.0,199.0,32.0,286.0,14.7,,,
+573,22,Male,155.3,51.4,23.2,102.0,86.0,59.0,198.0,59.0,142.0,17.1,,,
+574,79,Female,175.4,64.2,29.5,127.0,127.0,140.0,156.0,37.0,,12.0,,131/76,Stable condition; continue monitoring.
+575,66,Female,175.6,56.5,18.3,112.0,127.0,292.0,200.0,73.0,,14.2,,112/91,CBC slightly off; retest next month.
+576,75,Male,183.7,84.6,26.8,,112.0,210.0,122.0,36.0,314.0,17.3,,,BMI high; adopt weight-loss plan.
+577,51,Female,159.2,55.3,21.8,130.0,127.0,,,,,16.1,0.93,130/96,Borderline creatinine; monitor renal function.
+578,74,Female,167.4,67.2,24.0,142.0,127.0,,,,,17.0,1.33,142/93,
+579,49,Male,179.6,88.2,34.5,76.0,127.0,265.0,182.0,47.0,177.0,17.7,,,Improvement compared to last reports.
+580,39,Male,173.7,103.1,26.1,127.0,127.0,234.0,165.0,,159.0,15.1,,149/97,Thyroid evaluation may be needed.
+581,76,Female,160.9,100.9,22.6,130.0,127.0,,,,,14.5,1.65,130/75,Kidney markers stable.
+582,83,Male,146.1,92.3,33.8,111.0,127.0,151.0,118.0,,255.0,11.4,0.93,111/91,
+583,49,Male,182.9,54.4,32.1,127.0,127.0,217.0,106.0,60.0,168.0,16.4,1.66,,Creatinine normal; maintain fluid intake.
+584,73,Male,182.4,54.1,18.9,123.0,127.0,,,45.0,222.0,,0.77,123/78,Kidney markers stable.
+585,31,Male,146.1,85.5,25.8,78.0,127.0,,,,,15.9,1.07,,Kidney function stable at present.
+586,69,Male,168.9,46.6,16.3,127.0,127.0,,149.0,,311.0,,,,Hemoglobin mildly low; increase iron intake.
+587,77,Female,169.8,80.2,32.2,85.0,127.0,225.0,80.0,49.0,,15.2,1.55,,Kidney markers stable.
+588,72,Female,172.8,51.5,28.9,,86.0,182.0,110.0,47.0,256.0,11.1,,124/80,LDL elevated; increase dietary fibre.
+589,21,Female,169.5,76.5,22.9,67.0,127.0,170.0,133.0,52.0,130.0,,0.78,,Creatinine normal; maintain fluid intake.
+590,77,Female,154.2,48.6,20.1,77.0,127.0,,,,,,0.72,,Slight rise in creatinine; repeat test advised.
+591,54,Female,186.1,82.3,20.9,127.0,127.0,154.0,,71.0,,,,125/91,Slight sugar elevation; reduce refined carbs.
+592,47,Female,162.1,80.5,30.0,127.0,,203.0,95.0,,248.0,,,118/70,Signs of dehydration; increase fluid intake.
+593,23,Male,168.0,88.3,20.9,127.0,127.0,295.0,181.0,33.0,120.0,16.4,,128/91,
+594,76,Male,189.6,91.3,25.4,115.0,127.0,,,,,,1.24,115/73,Kidney function stable at present.
+595,34,Male,185.6,76.0,32.5,127.0,127.0,149.0,100.0,37.0,280.0,14.9,0.87,141/80,Renal profile normal; no intervention needed.
+596,60,Male,150.2,78.2,24.1,148.0,127.0,,,,,14.3,1.49,148/88,
+597,43,Male,176.6,85.9,33.8,127.0,127.0,,,,,,1.71,127/82,Overall renal function acceptable.
+598,71,Male,170.3,48.5,18.4,150.0,127.0,,,,,10.1,1.4,150/78,
+599,76,Female,177.5,66.0,25.0,116.0,78.0,198.0,87.0,37.0,271.0,16.6,,116/97,Kidney parameters stable; hydration recommended.
+600,22,Female,156.9,72.1,30.5,136.0,127.0,196.0,176.0,32.0,133.0,10.9,,136/76,
+601,61,Female,163.7,78.2,33.0,127.0,,222.0,127.0,,,14.9,,115/94,BMI above normal; initiate weight control.
+602,44,Male,166.5,80.4,29.1,101.0,142.0,195.0,91.0,56.0,261.0,17.5,,,Vitals normal; maintain lifestyle.
+603,36,Male,155.2,52.5,35.0,113.0,127.0,,,,,16.8,0.75,113/88,Slight rise in creatinine; repeat test advised.
+604,66,Female,185.4,80.0,18.8,188.0,117.0,168.0,132.0,50.0,173.0,16.4,,112/92,
+605,43,Female,186.9,103.7,32.9,127.0,127.0,220.0,142.0,52.0,,14.5,,,Thyroid evaluation advised.
+606,68,Male,,,29.5,128.0,135.0,220.0,,59.0,105.0,14.5,,128/82,
+607,21,Female,186.1,55.0,26.4,,115.0,74.0,,74.0,215.0,16.0,,133/96,Hemoglobin borderline; consider iron supplementation.
+608,74,Male,164.0,69.3,31.5,127.0,127.0,,146.0,,211.0,11.5,,121/72,Postnmeal sugar elevated; reduce sweets.
+609,84,Female,155.8,58.1,23.9,142.0,127.0,,,,,11.6,0.62,142/80,Renal profile satisfactory.
+610,52,Female,150.1,101.6,19.4,136.0,127.0,151.0,178.0,36.0,310.0,,1.17,136/70,Borderline creatinine; monitor kidney function.
+611,31,Female,182.9,56.4,20.5,113.0,127.0,146.0,164.0,66.0,,10.0,0.7,113/98,
+612,20,Male,165.0,71.7,30.7,127.0,127.0,223.0,119.0,,139.0,13.0,,120/93,Possible early insulin resistance.
+613,59,Female,194.0,86.4,20.8,131.0,127.0,,,,,10.6,0.69,131/70,Mild renal stress suspected; follow-up recommended.
+614,40,Male,185.5,93.7,29.8,127.0,127.0,216.0,137.0,66.0,319.0,14.0,1.57,112/86,Kidney markers stable.
+615,19,Male,154.2,77.3,32.5,118.0,127.0,271.0,150.0,75.0,98.0,10.3,1.27,118/81,Kidney markers stable.
+616,31,Male,,,27.2,141.0,112.0,152.0,120.0,41.0,137.0,15.2,,,
+617,55,Male,175.6,55.7,18.1,118.0,127.0,,,,,10.1,0.79,118/97,Borderline creatinine; monitor renal function.
+618,52,Male,179.0,80.2,21.4,132.0,72.0,147.0,89.0,33.0,299.0,10.3,,132/73,Hemoglobin borderline; consider iron supplementation.
+619,58,Male,156.9,60.1,30.6,118.0,127.0,127.0,117.0,31.0,276.0,10.9,,118/72,
+620,73,Male,145.0,79.6,30.9,116.0,97.0,141.0,176.0,30.0,297.0,17.8,,116/98,CBC shows mild variation; monitor next month.
+621,67,Female,193.9,52.6,14.0,149.0,127.0,,,,,16.4,1.11,149/97,Kidney markers stable.
+622,68,Female,192.4,89.3,31.5,117.0,77.0,181.0,179.0,66.0,183.0,14.5,,117/79,Thyroid test recommended.
+623,20,Male,184.7,64.4,20.0,127.0,127.0,259.0,104.0,30.0,235.0,15.5,1.12,146/76,Kidney function stable.
+624,61,Female,193.8,66.4,26.4,139.0,127.0,287.0,157.0,58.0,168.0,13.3,1.27,139/71,Overall renal function satisfactory.
+625,39,Female,180.1,48.1,30.0,127.0,127.0,253.0,171.0,59.0,319.0,13.9,0.74,145/91,Slight renal stress suspected; follow-up advised.
+626,81,Male,168.7,57.8,25.6,138.0,134.0,288.0,194.0,33.0,216.0,16.2,,138/84,"BP a little high, monitor weekly."
+627,18,Male,190.2,100.6,18.1,76.0,127.0,146.0,176.0,49.0,292.0,,,,
+628,77,Female,151.5,82.2,20.3,127.0,127.0,,86.0,49.0,144.0,,,127/88,Slight sugar elevation; reduce refined carbs.
+629,70,Female,157.8,63.2,24.6,140.0,,,,,,12.4,1.35,140/86,Kidney function stable at present.
+630,33,Female,151.3,96.0,30.6,122.0,127.0,,,,,12.0,1.11,122/72,Creatinine normal; maintain hydration.
+631,59,Female,146.3,81.9,38.3,149.0,127.0,,115.0,50.0,290.0,,,149/90,
+632,43,Male,192.5,92.8,29.1,111.0,127.0,284.0,173.0,44.0,150.0,11.3,,111/71,Stable condition; continue monitoring.
+633,33,Male,183.1,71.2,24.0,69.0,127.0,,,,,14.0,1.72,,
+634,67,Female,158.5,107.5,33.6,,91.0,68.0,114.0,68.0,288.0,13.6,,133/96,Healthy profile; maintain lifestyle.
+635,31,Male,185.3,101.1,29.6,133.0,128.0,280.0,196.0,67.0,130.0,16.5,,133/82,Kidney parameters stable; hydration recommended.
+636,37,Female,194.1,109.5,29.1,,127.0,,,,,11.0,2.12,,Renal profile satisfactory.
+637,51,Female,187.2,104.9,28.1,,127.0,,,,,16.5,0.81,,Creatinine mildly elevated; ensure adequate hydration.
+638,63,Male,194.4,65.8,34.1,127.0,127.0,248.0,127.0,57.0,,12.3,0.83,133/88,Renal profile normal; no intervention needed.
+639,70,Male,153.7,64.8,32.9,127.0,127.0,319.0,,75.0,156.0,16.7,,,Lipid profile improving.
+640,19,Male,169.1,106.9,30.9,86.0,128.0,,,44.0,143.0,16.3,,,
+641,42,Male,182.4,71.2,26.3,127.0,127.0,155.0,177.0,54.0,140.0,13.1,,146/74,Good improvement from last visit.
+642,28,Female,171.4,106.5,22.7,139.0,127.0,127.0,127.0,67.0,299.0,16.3,,139/81,Increase daily hydration.
+643,77,Female,154.2,57.2,31.0,127.0,127.0,146.0,,55.0,186.0,10.9,,150/73,Stable condition; continue monitoring.
+644,46,Female,188.4,62.5,33.8,,74.0,,130.0,49.0,187.0,10.6,,116/79,Triglycerides high; limit oily foods.
+645,76,Male,161.9,68.2,21.3,100.0,89.0,204.0,160.0,47.0,153.0,14.3,,,General health good; annual review advised.
+646,21,Male,185.1,54.4,24.3,154.0,93.0,236.0,,59.0,143.0,16.1,,138/94,CBC shows mild variation; monitor next month.
+647,63,Female,184.0,105.3,21.5,113.0,107.0,,92.0,48.0,254.0,11.5,,113/71,Lipid profile improving.
+648,31,Male,172.7,107.9,21.2,127.0,127.0,,,46.0,217.0,,1.44,110/74,Creatinine normal; maintain fluid intake.
+649,85,Female,192.9,61.8,32.4,147.0,127.0,285.0,85.0,52.0,210.0,15.5,,147/77,Lipid profile improving; continue plan.
+650,82,Female,157.0,46.4,19.7,108.0,127.0,,,,,10.0,1.53,,Kidney markers stable.
+651,24,Male,183.0,72.5,19.6,143.0,127.0,188.0,195.0,,147.0,,1.41,143/96,Borderline creatinine; monitor kidney function.
+652,50,Male,156.1,49.2,29.6,120.0,87.0,174.0,93.0,35.0,273.0,16.9,,120/72,Hemoglobin borderline; consider iron supplementation.
+653,30,Female,194.8,68.3,19.9,127.0,127.0,300.0,126.0,36.0,321.0,12.5,,136/96,Postnmeal sugar high; avoid sweets.
+654,43,Female,,,30.7,125.0,130.0,217.0,157.0,61.0,242.0,11.8,,125/83,Good overall health profile. Maintain current lifestyle habits.
+655,33,Female,,,29.2,159.0,79.0,172.0,114.0,52.0,109.0,12.1,,,LDL high; start dietary counselling.
+656,56,Male,178.0,66.7,35.0,121.0,127.0,,,,,12.7,1.09,121/78,
+657,56,Female,181.9,100.2,25.5,117.0,127.0,288.0,182.0,43.0,328.0,15.9,,117/76,Early insulin resistance suspected.
+658,39,Female,159.2,80.8,31.9,147.0,127.0,,,,,,1.62,147/98,Mild renal stress suspected; follow-up recommended.
+659,45,Male,180.7,61.8,21.5,148.0,136.0,,,41.0,197.0,15.1,,,BMI high; begin weight management.
+660,55,Female,189.5,56.4,27.2,150.0,127.0,,,,,,1.53,150/96,Creatinine mildly elevated; ensure adequate hydration.
+661,35,Female,167.5,66.4,27.5,132.0,127.0,,146.0,,110.0,17.1,1.37,132/76,Renal parameters within normal range.
+662,41,Female,188.7,97.4,25.0,137.0,127.0,164.0,178.0,73.0,233.0,14.9,,137/91,No major concerns.
+663,35,Male,172.7,67.6,29.8,147.0,127.0,,,,,,1.57,147/93,Kidney markers stable.
+664,26,Male,161.7,96.5,32.0,127.0,127.0,275.0,,49.0,217.0,,,143/93,
+665,81,Female,162.9,56.0,34.2,127.0,127.0,217.0,196.0,71.0,255.0,11.6,1.52,,Kidney markers stable.
+666,79,Female,187.3,106.2,25.3,138.0,127.0,,,,,,1.05,138/97,Overall renal function acceptable.
+667,78,Male,,,27.6,116.0,101.0,261.0,161.0,49.0,243.0,16.0,,116/89,Platelet count borderline; re-evaluate if symptoms persist.
+668,46,Male,154.6,86.0,26.3,140.0,127.0,156.0,205.0,56.0,108.0,13.5,1.66,140/70,Mild rise in creatinine; recheck after 2 weeks.
+669,64,Male,148.5,63.4,28.7,132.0,127.0,284.0,101.0,61.0,244.0,10.4,,132/98,BP slightly elevated; control salt intake.
+670,42,Female,185.0,47.2,13.8,146.0,127.0,188.0,110.0,41.0,329.0,12.1,,146/86,Monitor BP weekly.
+671,34,Male,180.8,92.5,32.4,132.0,93.0,156.0,119.0,46.0,175.0,13.0,,132/87,Healthy profile; maintain current routine.
+672,44,Male,183.3,70.0,20.8,142.0,,,,,,12.1,1.22,142/87,Borderline creatinine; monitor renal function.
+673,39,Male,153.5,49.9,22.2,136.0,,,,,,10.1,,136/92,Triglycerides high; avoid oily food.
+674,69,Female,146.4,47.6,24.3,127.0,127.0,305.0,,49.0,240.0,16.4,1.58,128/81,Overall renal function satisfactory.
+675,26,Male,179.4,76.3,31.5,128.0,127.0,,,,,16.0,1.34,128/87,Slight rise in creatinine; repeat test advised.
+676,63,Male,176.7,77.2,27.4,94.0,131.0,197.0,,43.0,327.0,12.8,,,No significant clinical concerns.
+677,36,Male,168.1,104.0,36.8,117.0,127.0,232.0,156.0,66.0,135.0,16.5,1.47,117/88,Slight renal stress suspected; follow-up advised.
+678,66,Male,162.4,88.6,24.8,149.0,123.0,,135.0,45.0,149.0,15.9,,149/96,
+679,53,Male,164.1,71.7,21.4,111.0,124.0,205.0,,33.0,168.0,10.3,,111/83,Thyroid test recommended.
+680,78,Male,158.5,94.3,37.5,127.0,127.0,208.0,,35.0,170.0,16.7,,,Thyroid evaluation may be needed.
+681,44,Male,145.0,100.2,31.5,96.0,76.0,65.0,186.0,65.0,101.0,10.9,,,General health good; annual review advised.
+682,22,Female,,,23.1,65.0,75.0,,,36.0,90.0,11.4,,,Stable condition. No major concerns.
+683,77,Female,192.7,63.2,34.6,127.0,127.0,270.0,127.0,49.0,191.0,10.3,,,
+684,68,Female,186.5,54.6,18.5,186.0,84.0,263.0,181.0,65.0,275.0,14.5,,141/98,No medical concerns at this moment.
+685,27,Female,146.7,106.5,49.5,115.0,127.0,178.0,155.0,63.0,210.0,16.4,1.7,115/98,Renal parameters within normal range.
+686,65,Female,190.6,96.9,18.1,110.0,127.0,,,,,13.0,0.61,,Mild renal stress suspected; follow-up recommended.
+687,71,Male,165.0,100.2,26.8,81.0,127.0,,,,,13.0,1.93,,Kidney function stable at present.
+688,34,Male,167.6,59.4,33.7,123.0,127.0,236.0,177.0,32.0,310.0,16.7,,123/76,BP slightly elevated; reduce salt.
+689,68,Female,194.2,105.3,34.9,139.0,127.0,,,,,,1.83,139/92,Kidney markers stable.
+690,55,Female,164.5,73.7,30.9,127.0,127.0,205.0,116.0,63.0,,10.2,1.05,121/75,Renal profile normal; no intervention needed.
+691,69,Female,147.5,90.8,24.2,115.0,127.0,,,,,10.0,0.87,115/79,Kidney markers stable.
+692,57,Male,153.1,105.8,29.6,127.0,127.0,293.0,136.0,74.0,116.0,10.0,,,Lipid profile improving; continue plan.
+693,25,Male,185.5,77.0,22.6,128.0,135.0,290.0,138.0,48.0,119.0,10.4,,128/71,Slight cholesterol rise; advise diet changes.
+694,79,Male,179.8,96.2,32.3,128.0,127.0,,,,,16.4,0.89,128/75,Borderline creatinine; monitor renal function.
+695,83,Male,175.5,56.8,20.9,135.0,,253.0,,60.0,149.0,14.7,,135/85,Triglycerides high; avoid oily food.
+696,55,Male,179.6,63.6,19.4,136.0,127.0,191.0,176.0,45.0,295.0,17.6,,136/94,Stable condition; continue monitoring.
+697,80,Female,172.0,66.8,31.2,112.0,128.0,236.0,141.0,68.0,305.0,16.0,,112/98,Triglycerides high; avoid fried foods.
+698,36,Male,193.1,47.3,22.1,127.0,127.0,284.0,125.0,30.0,,15.0,,,
+699,60,Male,176.2,82.2,25.3,114.0,127.0,,,,,,0.94,114/80,Borderline creatinine; monitor renal function.
+700,47,Female,156.0,105.1,43.2,133.0,127.0,293.0,,31.0,150.0,11.6,0.81,133/79,Creatinine normal; maintain fluid intake.
+701,23,Female,195.0,94.5,21.0,120.0,127.0,,,,,15.2,0.61,120/79,Slight rise in creatinine; repeat test advised.
+702,48,Male,170.1,51.9,26.6,127.0,127.0,156.0,158.0,42.0,116.0,17.6,,127/74,General health stable; yearly check-up advised.
+703,70,Male,178.1,63.6,31.9,138.0,94.0,293.0,137.0,43.0,134.0,16.3,,137/83,Cholesterol elevated; follow lownfat diet.
+704,63,Male,163.0,93.2,30.5,127.0,127.0,307.0,95.0,33.0,194.0,11.5,,134/81,Signs of dehydration; increase water intake.
+705,36,Female,179.0,58.9,19.3,141.0,127.0,,,,,15.7,1.94,141/86,Slight rise in creatinine; repeat test advised.
+706,34,Female,148.9,74.0,27.0,153.0,75.0,265.0,196.0,51.0,183.0,12.1,,145/95,
+707,35,Female,159.1,98.4,29.2,184.0,85.0,192.0,,30.0,294.0,10.8,,143/85,Mild dehydration; increase fluid intake.
+708,82,Female,194.0,46.4,33.7,150.0,127.0,245.0,,52.0,263.0,12.9,,150/94,Cholesterol high; shift to lownfat diet.
+709,72,Male,191.8,86.7,29.4,150.0,127.0,317.0,177.0,60.0,223.0,13.0,,150/74,Thyroid evaluation may be needed.
+710,43,Male,148.0,96.5,20.1,120.0,78.0,,99.0,36.0,123.0,12.6,,120/72,"BP a little high, monitor weekly."
+711,53,Male,,,25.2,138.0,106.0,202.0,168.0,42.0,227.0,13.3,,138/87,Early signs of insulin resistance; intervention recommended.
+712,29,Male,167.6,103.4,22.2,168.0,85.0,55.0,177.0,55.0,210.0,11.9,,129/74,Mild dehydration; increase fluid intake.
+713,45,Male,155.8,94.7,31.4,182.0,112.0,175.0,134.0,36.0,263.0,10.9,,126/93,Blood sugar elevated; reduce carbohydrate intake.
+714,52,Male,152.5,83.2,35.8,127.0,127.0,307.0,114.0,70.0,293.0,12.1,,139/73,
+715,22,Female,149.7,89.1,28.4,113.0,127.0,,,,,14.3,1.8,113/75,Slight rise in creatinine; repeat test advised.
+716,22,Female,150.3,69.5,31.5,149.0,143.0,61.0,207.0,61.0,260.0,17.0,,149/88,Kidney function normal.
+717,62,Female,190.8,106.5,34.7,119.0,127.0,,,,,13.4,1.23,119/90,
+718,60,Female,187.7,45.5,28.8,112.0,97.0,242.0,101.0,30.0,121.0,14.5,,112/94,
+719,21,Female,158.8,89.7,21.0,65.0,127.0,,110.0,72.0,232.0,13.8,,,Lipid profile improving.
+720,46,Female,182.2,65.4,28.7,123.0,127.0,,,,,12.8,0.63,123/96,Overall renal function acceptable.
+721,29,Male,147.6,48.5,25.0,118.0,127.0,,133.0,32.0,136.0,11.7,,118/75,Triglycerides high; avoid oily food.
+722,70,Female,152.4,88.2,31.1,133.0,127.0,,,,,10.8,1.48,133/97,Overall renal function acceptable.
+723,53,Female,,,22.0,139.0,87.0,268.0,98.0,55.0,155.0,10.3,,139/87,Blood sugar mildly raised post meal; advise carbohydrate moderation.
+724,80,Female,161.4,82.3,22.5,90.0,127.0,161.0,,,162.0,,1.73,,Creatinine slightly elevated; advise hydration.
+725,51,Male,184.3,53.2,19.9,127.0,127.0,255.0,129.0,42.0,286.0,13.9,,149/70,Monitor BP regularly.
+726,29,Male,190.4,98.7,20.4,125.0,127.0,,,,,,1.46,125/85,Slight rise in creatinine; repeat test advised.
+727,23,Female,181.3,80.5,23.0,147.0,140.0,235.0,,46.0,102.0,12.5,,147/84,Healthy profile; maintain lifestyle.
+728,40,Male,145.8,97.5,27.0,116.0,93.0,,171.0,36.0,258.0,12.0,,116/90,Hemoglobin borderline; consider iron supplementation.
+729,83,Male,194.4,50.8,30.5,123.0,127.0,,,,193.0,10.7,1.56,123/86,Creatinine slightly elevated; advise hydration.
+730,24,Male,151.6,108.5,30.4,118.0,100.0,51.0,117.0,51.0,184.0,13.9,,118/79,Good progress; continue routine exercise.
+731,77,Male,181.8,49.0,23.1,88.0,127.0,,,,,11.6,0.87,,Renal profile satisfactory.
+732,24,Male,187.4,93.4,26.6,110.0,127.0,315.0,177.0,74.0,123.0,14.3,0.88,110/71,Creatinine slightly elevated; advise hydration.
+733,54,Male,163.1,65.4,31.9,,142.0,216.0,,39.0,322.0,12.7,,135/77,BMI high; adopt weight-loss plan.
+734,64,Female,190.7,94.9,25.0,112.0,71.0,212.0,171.0,33.0,93.0,10.3,,112/71,No major issues detected.
+735,27,Male,184.2,65.1,26.4,103.0,127.0,145.0,132.0,73.0,,10.5,,,Cholesterol high; shift to lownfat diet.
+736,24,Male,152.6,55.3,33.8,,72.0,296.0,,48.0,92.0,10.9,,,Kidney parameters stable; hydration recommended.
+737,27,Female,179.6,79.7,32.7,124.0,127.0,196.0,153.0,51.0,238.0,17.4,,124/77,
+738,45,Female,156.5,106.2,19.6,,85.0,,133.0,49.0,296.0,16.5,,134/96,Sugar mildly raised; reduce carbohydrate portions.
+739,83,Male,181.9,71.8,22.5,123.0,127.0,,,,,13.4,1.92,123/91,Mild renal stress suspected; follow-up recommended.
+740,50,Male,192.2,93.3,26.8,127.0,127.0,310.0,196.0,,310.0,,0.65,115/73,Borderline creatinine; monitor kidney function.
+741,21,Female,163.8,79.5,20.0,127.0,127.0,208.0,206.0,,130.0,,1.54,140/83,Overall renal function satisfactory.
+742,83,Female,153.5,97.9,19.0,125.0,127.0,280.0,133.0,36.0,216.0,15.0,,125/82,
+743,65,Male,161.9,86.4,33.0,127.0,,,112.0,,,,,,
+744,48,Female,,,18.8,146.0,71.0,151.0,188.0,38.0,270.0,11.5,,146/72,Good overall health profile. Maintain current lifestyle habits.
+745,64,Male,161.7,106.6,40.8,119.0,127.0,,,,,17.1,1.2,119/71,Creatinine normal; maintain hydration.
+746,22,Female,165.9,93.6,24.8,126.0,127.0,198.0,135.0,,,13.5,,126/70,Good improvement noted.
+747,23,Female,181.7,94.7,28.7,125.0,127.0,,,,,,1.18,125/92,Creatinine normal; maintain hydration.
+748,70,Male,157.2,74.1,30.0,122.0,127.0,239.0,177.0,,238.0,,,122/79,Overall normal findings.
+749,64,Female,169.1,103.8,22.5,132.0,141.0,212.0,94.0,38.0,169.0,14.2,,132/88,Triglycerides high; avoid sugary and oily foods.
+750,66,Male,161.3,72.2,20.6,146.0,127.0,,,,,13.5,1.88,146/93,Slight rise in creatinine; repeat test advised.
+751,20,Female,160.6,65.1,24.5,142.0,83.0,230.0,153.0,32.0,224.0,12.8,,142/80,
+752,20,Female,154.1,92.0,24.0,127.0,127.0,265.0,103.0,37.0,129.0,,,132/89,BP slightly elevated; control salt intake.
+753,30,Male,158.1,80.8,19.6,122.0,127.0,,,,,12.6,0.72,122/96,Creatinine normal; maintain hydration.
+754,23,Male,,,25.7,83.0,87.0,284.0,80.0,51.0,208.0,15.6,,,BMI slightly high; advise weight management plan.
+755,78,Male,192.3,70.7,22.4,129.0,119.0,304.0,96.0,43.0,297.0,11.3,,129/78,Recommend thyroid panel if fatigue persists.
+756,57,Female,149.3,86.7,22.2,120.0,127.0,,,,,13.7,1.7,120/95,Creatinine normal; maintain hydration.
+757,31,Male,192.5,100.9,24.6,,142.0,257.0,123.0,41.0,110.0,11.8,,150/88,Triglycerides high; avoid fried foods.
+758,25,Female,,,32.5,162.0,90.0,236.0,178.0,44.0,118.0,14.5,,122/75,Continue existing medications; no changes required.
+759,26,Male,148.7,73.9,33.4,148.0,127.0,,,,,11.0,1.23,148/96,Mild renal stress suspected; follow-up recommended.
+760,76,Male,188.3,47.6,27.8,143.0,127.0,164.0,175.0,,262.0,12.2,1.31,143/90,Mild rise in creatinine; recheck after 2 weeks.
+761,54,Male,179.7,80.9,18.0,142.0,127.0,269.0,102.0,,194.0,16.9,,142/82,BMI above normal; begin weight control.
+762,78,Male,186.4,109.1,18.9,115.0,113.0,297.0,,54.0,261.0,12.4,,115/73,Blood pressure elevated; reduce salt.
+763,27,Male,175.7,49.2,15.9,119.0,127.0,231.0,128.0,,,11.1,0.66,119/90,Creatinine normal; maintain fluid intake.
+764,22,Male,151.8,46.8,22.8,136.0,127.0,202.0,82.0,73.0,191.0,,,136/97,LDL borderline high; add fiber-rich foods.
+765,45,Male,181.9,93.0,19.4,133.0,127.0,298.0,207.0,56.0,125.0,13.6,,133/72,Blood pressure elevated; reduce salt.
+766,49,Male,160.0,108.2,27.6,116.0,117.0,,210.0,35.0,203.0,10.2,,116/94,
+767,24,Male,184.4,69.5,18.2,80.0,84.0,309.0,160.0,48.0,196.0,13.2,,,Overall stable; continue regular monitoring.
+768,49,Female,191.6,62.6,29.7,110.0,127.0,,,,,14.6,1.92,,Kidney markers stable.
+769,73,Female,170.4,47.1,28.1,150.0,127.0,221.0,187.0,57.0,162.0,,1.35,150/76,Creatinine normal; maintain fluid intake.
+770,43,Male,181.6,53.4,16.2,118.0,127.0,,,,,12.2,0.83,118/93,Overall renal function acceptable.
+771,78,Female,162.1,105.6,40.2,127.0,127.0,,,39.0,,12.0,,127/92,Thyroid evaluation may be needed.
+772,78,Female,170.6,87.5,21.8,125.0,127.0,317.0,177.0,51.0,114.0,16.8,,125/93,LDL borderline high; add fiber-rich foods.
+773,51,Male,145.1,52.6,21.7,123.0,71.0,261.0,,62.0,163.0,16.2,,123/90,
+774,18,Male,162.4,100.3,27.5,133.0,127.0,,130.0,59.0,283.0,15.3,,133/86,Monitor BP regularly.
+775,79,Male,171.8,88.1,34.1,126.0,127.0,297.0,164.0,63.0,,12.2,,126/76,Lipid profile improving.
+776,19,Male,173.9,105.1,21.7,127.0,127.0,281.0,143.0,,249.0,11.4,1.57,114/85,Creatinine normal; maintain fluid intake.
+777,57,Female,163.4,92.0,33.3,123.0,127.0,,,,,13.0,0.61,123/78,Renal profile satisfactory.
+778,42,Male,153.2,47.3,18.9,127.0,127.0,,80.0,,136.0,15.4,,,Kidney function normal.
+779,39,Female,145.3,81.0,29.6,127.0,127.0,,199.0,31.0,122.0,16.6,,134/94,
+780,38,Female,,,29.4,150.0,132.0,172.0,,38.0,264.0,10.0,,141/71,Good overall health profile. Maintain current lifestyle habits.
+781,27,Male,167.4,102.8,30.3,125.0,127.0,165.0,188.0,36.0,,16.5,1.23,125/98,Kidney function stable.
+782,45,Female,183.0,70.5,32.3,146.0,127.0,,,,,14.0,1.32,146/78,Renal parameters within normal limits.
+783,84,Male,149.8,79.4,35.4,127.0,127.0,176.0,136.0,,155.0,,0.76,150/96,Renal profile normal; no intervention needed.
+784,37,Male,182.6,104.1,24.4,127.0,127.0,297.0,169.0,45.0,130.0,16.4,0.7,144/95,Creatinine slightly elevated; advise hydration.

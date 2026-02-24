@@ -1,0 +1,39 @@
+
+PrimeCare Diagnostics
+Address: 46 Evergreen Lane, Silverpoint - 445426
+Phone: +91-75738-11396
+Email: info@primecare11.org
+Website: www.primecare631.org
+Accreditation Code: PR-28824
+
+Report ID: RPT-DFD6E121
+Sample ID: SMP-34441
+Collection Time: 11/12/2025 05:00
+Reporting Time: 11/12/2025 09:00
+Referring Doctor: Dr. Banerjee
+OPD No.: OPD-7607
+
+Patient Name: X***
+Patient ID: UH-001555
+Age: 18
+Gender: Female
+
+Blood Pressure: 164/100 mmHg
+Pulse Rate: 70 bpm
+Blood Glucose: 109 mg/dL
+Height: 166.2 cm
+Weight: 93.3 kg
+Cholesterol Total: 187 mg/dL
+LDL: 84 mg/dL
+HDL: 43 mg/dL
+Triglycerides: 220 mg/dL
+Hemoglobin: 14.4 g/dL
+Creatinine: 1.07 mg/dL
+BMI: 18.8
+
+KFT:
+  Urea: 14 mg/dL
+  eGFR: 105 mL/min
+
+Recommendations:
+Continue medications.

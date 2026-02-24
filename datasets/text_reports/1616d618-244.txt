@@ -1,0 +1,45 @@
+
+Silver Oak Medical Center
+Address: 6 Riverbend Ave, Westlake - 424490
+Phone: +91-98402-97560
+Email: info@silver oak26.org
+Website: www.silver oak595.org
+Accreditation Code: SI-93006
+
+Report ID: RPT-4D4FA19D
+Sample ID: SMP-37320
+Collection Time: 11/12/2025 04:42
+Reporting Time: 11/12/2025 06:42
+Referring Doctor: Dr. Iyer
+OPD No.: OPD-6507
+
+Patient Name: S***
+Patient ID: UH-000687
+Age: 19 years
+Gender: Male
+
+Height: 182.5 cm
+Weight: 57.8 kg
+
+Blood Pressure: 169/64 mmHg
+Pulse (bpm): 81 bpm
+Glucose: 87 mg/dL
+
+Cholesterol Panel:
+  Total: 218 mg/dL
+  LDL: 80 mg/dL
+  HDL: 49 mg/dL
+  Triglycerides: 178 mg/dL
+
+Hemoglobin: 11.7 g/dL
+Creatinine: 1.06 mg/dL
+BMI: 22.5
+
+LFT:
+  AST/SGOT: 32 U/L
+  ALT/SGPT: 15 U/L
+  Bilirubin Total: 1.2 mg/dL
+
+
+Remarks:
+Continue present medications.

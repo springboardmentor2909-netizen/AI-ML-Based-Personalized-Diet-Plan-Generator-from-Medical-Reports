@@ -1,0 +1,40 @@
+
+SolacePoint Diagnostics
+Address: 75 Maple Drive, Westlake - 497563
+Phone: +91-91006-49139
+Email: info@solacepoint51.org
+Website: www.solacepoint275.org
+Accreditation Code: SO-83462
+
+Report ID: RPT-4157F23C
+Sample ID: SMP-24114
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 05:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-5967
+
+Patient Name: A***
+Patient ID: UH-000496
+Age: 34 years
+Gender: Other
+
+Blood Pressure: 123/80 mmHg
+Blood Glucose: 120 mg/dL
+
+Cholesterol Panel:
+  Total: 259 mg/dL
+  LDL: 111 mg/dL
+  HDL: 40 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 15.1 g/dL
+Creatinine: 0.97 mg/dL
+BMI: 24.8
+
+KFT:
+  Urea: -
+  eGFR: -
+
+
+Impression:
+Continue present medications.

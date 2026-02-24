@@ -1,0 +1,40 @@
+
+ClearRiver Diagnostics
+Address: 82 Maple Drive, Clearwater - 443015
+Phone: +91-94668-23078
+Email: info@clearriver12.org
+Website: www.clearriver506.org
+Accreditation Code: CL-97180
+
+Report ID: RPT-78FB7A6C
+Sample ID: SMP-47311
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 09:50
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7462
+
+Patient Name: V***
+Patient ID: UH-001082
+Age: 38 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: -
+Pulse (bpm): 100 bpm
+Blood Glucose: 107 mg/dL
+
+Cholesterol Panel:
+  Total: -
+  LDL: 142 mg/dL
+  HDL: 50 mg/dL
+  Triglycerides: -
+
+Hemoglobin: 11.4 g/dL
+Creatinine: 1.2 mg/dL
+BMI: -
+
+
+Remarks:
+Glucose slightly elevated; review diet and exercise.

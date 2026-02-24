@@ -1,0 +1,40 @@
+
+Greencrest Medical Center
+Address: 95 Sunrise Boulevard, Hillcrest - 489685
+Phone: +91-80831-76916
+Email: info@greencrest97.org
+Website: www.greencrest796.org
+Accreditation Code: GR-66752
+
+Report ID: RPT-EDD833C3
+Sample ID: SMP-12269
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 07:37
+Referring Doctor: Dr. Rao
+OPD No.: OPD-3592
+
+Patient Name: V***
+Patient ID: UH-000422
+Age: 48 years
+Gender: Female
+
+Blood Pressure: 106/90 mmHg
+Glucose: 159 mg/dL
+
+Cholesterol Panel:
+  Total: 254 mg/dL
+  LDL: -
+  HDL: 39 mg/dL
+  Triglycerides: 177 mg/dL
+
+Hemoglobin: 13.8 g/dL
+Creatinine: 1.36 mg/dL
+BMI: 30.5
+
+KFT:
+  Urea: 38 mg/dL
+  eGFR: 77 mL/min
+
+
+Recommendation:
+Lipid levels require monitoring.

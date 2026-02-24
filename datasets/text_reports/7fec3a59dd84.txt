@@ -1,0 +1,34 @@
+
+Medisphere Pathology Lab
+Address: 2 Maple Drive, Northbay - 440946
+Phone: +91-81244-37189
+Email: info@medisphere58.org
+Website: www.medisphere741.org
+Accreditation Code: ME-83006
+
+Report ID: RPT-C2A9463B
+Sample ID: SMP-73284
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 07:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-8415
+
+Patient Name: J***
+Patient ID: UH-001445
+Age: 45
+Gender: Other
+
+Blood Pressure: 166/71 mmHg
+Pulse (bpm): 98 bpm
+Glucose: 110 mg/dL
+Height: 181.5 cm
+Cholesterol Total: 216 mg/dL
+HDL: 63 mg/dL
+Hemoglobin: 11.1 g/dL
+
+LFT:
+  AST/SGOT: 35 U/L
+  Bilirubin Total: 1.1 mg/dL
+
+Recommendation:
+Hydration recommended.

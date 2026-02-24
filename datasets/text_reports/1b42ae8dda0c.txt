@@ -1,0 +1,40 @@
+
+Everlight Pathology Lab
+Address: 69 Riverbend Ave, Clearwater - 429448
+Phone: +91-87830-73629
+Email: info@everlight33.org
+Website: www.everlight485.org
+Accreditation Code: EV-35249
+
+Report ID: RPT-96E1C9F3
+Sample ID: SMP-63655
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Khan
+OPD No.: OPD-7207
+
+Patient Name: C***
+Patient ID: UH-001292
+Age: 40 years
+Gender: Other
+
+Height: 154.1 cm
+Weight: 84.3 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 183 mg/dL
+  LDL: -
+  HDL: 37 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: 0.7 mg/dL
+BMI: -
+
+
+Recommendation:
+Follow-up recommended in 2 weeks.

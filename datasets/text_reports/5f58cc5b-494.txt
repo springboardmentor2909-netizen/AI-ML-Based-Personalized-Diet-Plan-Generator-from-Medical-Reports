@@ -1,0 +1,45 @@
+
+NovaPath Medical Center
+Address: 42 Sunrise Boulevard, Silverpoint - 430381
+Phone: +91-99980-51743
+Email: info@novapath74.org
+Website: www.novapath361.org
+Accreditation Code: NO-70763
+
+Report ID: RPT-E63C46EA
+Sample ID: SMP-11294
+Collection Time: 11/12/2025 04:50
+Reporting Time: 11/12/2025 07:50
+Referring Doctor: Dr. Patel
+OPD No.: OPD-4049
+
+Patient Name: L***
+Patient ID: UH-001107
+Age: 27 years
+Gender: Other
+
+Height: -
+Weight: -
+
+Blood Pressure: 101/69 mmHg
+Pulse: -
+Blood Sugar: -
+
+Cholesterol Panel:
+  Total: 260 mg/dL
+  LDL: -
+  HDL: 60 mg/dL
+  Triglycerides: 206 mg/dL
+
+Hemoglobin: -
+Creatinine: 0.92 mg/dL
+BMI: -
+
+LFT:
+  AST/SGOT: -
+  ALT/SGPT: 11 U/L
+  Bilirubin Total: 0.7 mg/dL
+
+
+Clinical Notes:
+Possible dehydration; take more fluids.

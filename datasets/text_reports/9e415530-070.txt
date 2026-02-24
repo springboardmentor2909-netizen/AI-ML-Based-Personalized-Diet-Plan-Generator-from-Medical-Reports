@@ -1,0 +1,40 @@
+
+Northlake Clinical Institute
+Address: 58 Evergreen Lane, Clearwater - 414543
+Phone: +91-88233-59178
+Email: info@northlake95.org
+Website: www.northlake447.org
+Accreditation Code: NO-86211
+
+Report ID: RPT-7BD6DF44
+Sample ID: SMP-62166
+Collection Time: 11/12/2025 04:37
+Reporting Time: 11/12/2025 10:37
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-6803
+
+Patient Name: B***
+Patient ID: UH-000449
+Age: 74 years
+Gender: Female
+
+Blood Pressure: -
+Blood Glucose: -
+
+Cholesterol Panel:
+  Total: 169 mg/dL
+  LDL: 83 mg/dL
+  HDL: -
+  Triglycerides: 170 mg/dL
+
+Hemoglobin: 13.7 g/dL
+Creatinine: 1.14 mg/dL
+BMI: 23.4
+
+KFT:
+  Urea: 26 mg/dL
+  eGFR: 113 mL/min
+
+
+Summary:
+Continue present medications.

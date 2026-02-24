@@ -1,0 +1,40 @@
+
+NovaPath Diagnostics
+Address: 89 Alpine Street, Meadowridge - 419245
+Phone: +91-91432-84023
+Email: info@novapath55.org
+Website: www.novapath979.org
+Accreditation Code: NO-29034
+
+Report ID: RPT-492FC409
+Sample ID: SMP-13953
+Collection Time: 11/12/2025 04:52
+Reporting Time: 11/12/2025 09:52
+Referring Doctor: Dr. Rao
+OPD No.: OPD-5957
+
+Patient Name: B***
+Patient ID: UH-001256
+Age: 22 years
+Gender: Male
+
+Height: -
+Weight: 45.2 kg
+
+Blood Pressure: -
+Pulse Rate: -
+Blood Sugar (Random): 112 mg/dL
+
+Cholesterol Panel:
+  Total: 205 mg/dL
+  LDL: 128 mg/dL
+  HDL: 41 mg/dL
+  Triglycerides: -
+
+Hemoglobin: -
+Creatinine: -
+BMI: -
+
+
+Remark:
+Vitals stable. Continue medications.

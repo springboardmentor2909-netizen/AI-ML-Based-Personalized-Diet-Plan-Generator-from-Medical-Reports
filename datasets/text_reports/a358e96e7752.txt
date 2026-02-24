@@ -1,0 +1,30 @@
+
+SolacePoint Medical Center
+Address: 40 Evergreen Lane, Marigold City - 446645
+Phone: +91-76793-47754
+Email: info@solacepoint35.org
+Website: www.solacepoint740.org
+Accreditation Code: SO-81032
+
+Report ID: RPT-D6F14A91
+Sample ID: SMP-65534
+Collection Time: 11/12/2025 04:58
+Reporting Time: 11/12/2025 05:58
+Referring Doctor: Dr. Mehta
+OPD No.: OPD-7392
+
+Patient Name: Y***
+Patient ID: UH-001428
+Age: 74
+Gender: Female
+
+Blood Pressure: 136/62 mmHg
+Pulse Rate: 76 bpm
+Height: 164.5 cm
+Weight: 76.6 kg
+Hemoglobin: 10.7 g/dL
+Creatinine: 1.04 mg/dL
+BMI: 31.5
+
+Recommendation:
+Condition stable.
