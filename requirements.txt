@@ -1,3 +1,9 @@
 streamlit
-fpdf
-google-generativeai
+pandas
+joblib
+lightgbm
+pdfplumber
+pytesseract
+Pillow
+spacy
+requests
