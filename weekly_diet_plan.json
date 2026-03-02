@@ -1,0 +1,61 @@
+{
+    "risk_level": "normal",
+    "condition": "diabetes",
+    "preference": "nonveg",
+    "weekly_diet_plan": {
+        "Day 1": {
+            "Breakfast": "Boiled eggs",
+            "Lunch": "Grilled chicken",
+            "Snack": "Roasted peanuts",
+            "Dinner": "Chicken soup"
+        },
+        "Day 2": {
+            "Breakfast": "Vegetable omelette",
+            "Lunch": "Fish curry",
+            "Snack": "Roasted peanuts",
+            "Dinner": "Egg curry"
+        },
+        "Day 3": {
+            "Breakfast": "Boiled eggs",
+            "Lunch": "Grilled chicken",
+            "Snack": "Roasted peanuts",
+            "Dinner": "Chicken soup"
+        },
+        "Day 4": {
+            "Breakfast": "Vegetable omelette",
+            "Lunch": "Fish curry",
+            "Snack": "Roasted peanuts",
+            "Dinner": "Egg curry"
+        },
+        "Day 5": {
+            "Breakfast": "Boiled eggs",
+            "Lunch": "Grilled chicken",
+            "Snack": "Roasted peanuts",
+            "Dinner": "Chicken soup"
+        },
+        "Day 6": {
+            "Breakfast": "Vegetable omelette",
+            "Lunch": "Fish curry",
+            "Snack": "Roasted peanuts",
+            "Dinner": "Egg curry"
+        },
+        "Day 7": {
+            "Breakfast": "Boiled eggs",
+            "Lunch": "Grilled chicken",
+            "Snack": "Roasted peanuts",
+            "Dinner": "Chicken soup"
+        }
+    },
+    "foods_to_avoid": [
+        "sweets",
+        "refined carbs",
+        "sugary drinks"
+    ],
+    "limits": {
+        "sugar": "minimal"
+    },
+    "notes": [
+        "low glycemic diet",
+        "monitor glucose levels"
+    ]
+}
